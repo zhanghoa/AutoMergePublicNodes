@@ -1,7 +1,17 @@
 proxies:
+- name: 9|🇬🇧 - GB - @freeOnlineVPN
+  obfs: salamander
+  obfs-password: khameniiko@smad@ret
+  password: YwuvGJk36B
+  port: 2083
+  server: 81.168.83.89
+  skip-cert-verify: true
+  sni: kotlet.arshiacomplus.dpdns.org
+  tls: false
+  type: hysteria2
 - client-fingerprint: qq
   flow: xtls-rprx-vision
-  name: 14|GB_speednode_0010
+  name: 13|GB_speednode_0010
   port: 33333
   reality-opts:
     public-key: 46NdCm_LhhtVYBQyHrz5ZQ8Db7dKTxXd_d4H5NjxVlo
