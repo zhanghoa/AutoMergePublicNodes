@@ -34,9 +34,6 @@ hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@135.125.204.154:35000?insecure=
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.40:35000?insecure=1&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#9%2C10%7C%F0%9F%87%B3%F0%9F%87%B1%20-%20NL%20-%20%40freeOnlineVPN%20%238
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.41:35000?insecure=1&sni=jnir.pichondan.com&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#9%2C10%7C%F0%9F%87%B3%F0%9F%87%B1%20-%20NL%20-%20%40freeOnlineVPN%20%2311
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@updates.kermanshahi.org:33500?insecure=1&sni=updates.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#9%7C%F0%9F%9A%A953%40oneclickvpnkeys
-hysteria2://d9812081-7f61-456d-9340-a1fb8dfd603b@141.148.246.181:443?insecure=1&sni=amsterdam.nezhasu.com#9%7C%EF%B8%8F22%40oneclickvpnkeys
-hysteria2://d9812081-7f61-456d-9340-a1fb8dfd603b@89.168.80.242:443?insecure=1&sni=gydeguo-4.nezhasu.com#9%2C10%7C%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40Daily_Configs%20%F0%9F%AB%86
-hysteria2://d9812081-7f61-456d-9340-a1fb8dfd603b@falankefu1.nezhasu.com:443?insecure=1&sni=falankefu1.nezhasu.com#9%7C1%40oneclickvpnkeys
 hysteria2://de8854c7-fa17-4266-ae18-50a9732a0c4e@hk1.1010991.xyz:3001?insecure=1&sni=hk1.1010991.xyz#9%7C%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF
 hysteria2://e343471a-aad3-40da-9dea-72cc8c7dce5f@152.67.95.183:443?insecure=1&sni=www.apple.com#9%2C10%7C41%40ConfigV2RayNG
 hysteria2://e7965e64-e001-4e8c-8273-39c61ff4a094@sg3.oomz.ru:30000?insecure=1&sni=bing.com#9%7CSG%20%237
@@ -104,6 +101,7 @@ hysteria2://d9812081-7f61-456d-9340-a1fb8dfd603b@145.241.187.70:443?insecure=1&s
 hysteria2://d9812081-7f61-456d-9340-a1fb8dfd603b@152.67.50.33:443?insecure=1&sni=gysbl-2.nezhasu.com#10%7CAll--%40V2rayAlpha-17
 hysteria2://d9812081-7f61-456d-9340-a1fb8dfd603b@84.8.134.187:443?insecure=1&sni=johannesburg-3.nezhasu.com#10%7CAll--%40V2rayAlpha-16
 hysteria2://d9812081-7f61-456d-9340-a1fb8dfd603b@84.8.134.242:443?insecure=1&sni=johannesburg-4.nezhasu.com#10%7CAll--%40V2rayAlpha-14
+hysteria2://d9812081-7f61-456d-9340-a1fb8dfd603b@89.168.80.242:443?insecure=1&sni=gydeguo-4.nezhasu.com#10%7C%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40Daily_Configs%20%F0%9F%AB%86
 hysteria2://da9adc6f-03ca-4d32-9e93-7b2bdbc9b00d@hk.xn--gmq00sc0nuve.shop:21268?insecure=0#10%7C%F0%9F%94%B8%40IRAN_V2RAY1%F0%9F%92%98%20%2311
 hysteria2://da9adc6f-03ca-4d32-9e93-7b2bdbc9b00d@my.xn--gmq00sc0nuve.shop:21812?insecure=0#10%7C%F0%9F%94%B8%40IRAN_V2RAY1%F0%9F%92%98%20%2312
 hysteria2://da9adc6f-03ca-4d32-9e93-7b2bdbc9b00d@tr.xn--gmq00sc0nuve.shop:21105?insecure=1#10%7C%40IRAN_V2RAY1%20%236
