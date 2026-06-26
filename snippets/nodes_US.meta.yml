@@ -1,5 +1,5 @@
 proxies:
-- name: 10,11|美国2|@ripaojiedian
+- name: 11,12|美国2|@ripaojiedian
   network: tcp
   password: 333967de4411e1e833244ba4becc20bf
   port: 49277
@@ -7,7 +7,7 @@ proxies:
   skip-cert-verify: true
   sni: www.nintendogames.net
   type: trojan
-- name: 10,11|美国3|@ripaojiedian
+- name: 11,12|美国3|@ripaojiedian
   network: tcp
   password: BxceQaOe
   port: 22657
@@ -16,7 +16,7 @@ proxies:
   sni: t.me%2Fripaojiedian
   type: trojan
 - client-fingerprint: randomized
-  name: 12|US_speednode_0025
+  name: 13|US_speednode_0025
   network: ws
   port: 2095
   server: blog.cloudflare.com
@@ -31,7 +31,7 @@ proxies:
       Host: cnmfangbinxing.cnmfangbinxing-i.workers.dev
     path: /
 - client-fingerprint: randomized
-  name: 12|US_speednode_0026
+  name: 13|US_speednode_0026
   network: ws
   port: 2095
   server: www.fbi.gov
@@ -46,7 +46,7 @@ proxies:
       Host: cnmfangbinxing.cnmfangbinxing-i.workers.dev
     path: /
 - client-fingerprint: randomized
-  name: 12|US_speednode_0027
+  name: 13|US_speednode_0027
   network: ws
   port: 2095
   server: www.shopify.com
@@ -61,7 +61,7 @@ proxies:
       Host: cnmfangbinxing.cnmfangbinxing-i.workers.dev
     path: /
 - client-fingerprint: randomized
-  name: 12|US_speednode_0028
+  name: 13|US_speednode_0028
   network: ws
   port: 2095
   server: www.epicgames.com
@@ -76,7 +76,7 @@ proxies:
       Host: cnmfangbinxing.cnmfangbinxing-i.workers.dev
     path: /
 - client-fingerprint: randomized
-  name: 12|US_speednode_0029
+  name: 13|US_speednode_0029
   network: ws
   port: 2095
   server: ns.cloudflare.com
@@ -91,7 +91,7 @@ proxies:
       Host: cnmfangbinxing.cnmfangbinxing-i.workers.dev
     path: /
 - client-fingerprint: randomized
-  name: 12|US_speednode_0030
+  name: 13|US_speednode_0030
   network: ws
   port: 2095
   server: cf.090227.xyz
@@ -106,7 +106,7 @@ proxies:
       Host: cnmfangbinxing.cnmfangbinxing-i.workers.dev
     path: /
 - client-fingerprint: randomized
-  name: 12|US_speednode_0031
+  name: 13|US_speednode_0031
   network: ws
   port: 2095
   server: cloudflare-dns.com
@@ -121,7 +121,7 @@ proxies:
       Host: cnmfangbinxing.cnmfangbinxing-i.workers.dev
     path: /
 - client-fingerprint: randomized
-  name: 12|US_speednode_0032
+  name: 13|US_speednode_0032
   network: ws
   port: 2095
   server: docs.cloudflare.com
@@ -136,7 +136,7 @@ proxies:
       Host: cnmfangbinxing.cnmfangbinxing-i.workers.dev
     path: /
 - client-fingerprint: randomized
-  name: 12|US_speednode_0033
+  name: 13|US_speednode_0033
   network: ws
   port: 2095
   server: www.wto.org
@@ -151,7 +151,7 @@ proxies:
       Host: cnmfangbinxing.cnmfangbinxing-i.workers.dev
     path: /
 - client-fingerprint: randomized
-  name: 12|US_speednode_0034
+  name: 13|US_speednode_0034
   network: ws
   port: 2095
   server: developers.cloudflare.com
@@ -166,7 +166,7 @@ proxies:
       Host: cnmfangbinxing.cnmfangbinxing-i.workers.dev
     path: /
 - client-fingerprint: randomized
-  name: 12|US_speednode_0035
+  name: 13|US_speednode_0035
   network: ws
   port: 2095
   server: support.cloudflare.com
@@ -181,7 +181,7 @@ proxies:
       Host: cnmfangbinxing.cnmfangbinxing-i.workers.dev
     path: /
 - client-fingerprint: randomized
-  name: 12|US_speednode_0036
+  name: 13|US_speednode_0036
   network: ws
   port: 2095
   server: cdnjs.com
@@ -196,7 +196,7 @@ proxies:
       Host: cnmfangbinxing.cnmfangbinxing-i.workers.dev
     path: /
 - client-fingerprint: randomized
-  name: 12|US_speednode_0037
+  name: 13|US_speednode_0037
   network: ws
   port: 2095
   server: www.npmjs.com
@@ -211,7 +211,7 @@ proxies:
       Host: cnmfangbinxing.cnmfangbinxing-i.workers.dev
     path: /
 - client-fingerprint: randomized
-  name: 12|US_speednode_0038
+  name: 13|US_speednode_0038
   network: ws
   port: 2095
   server: www.udemy.com
@@ -226,7 +226,7 @@ proxies:
       Host: cnmfangbinxing.cnmfangbinxing-i.workers.dev
     path: /
 - client-fingerprint: randomized
-  name: 12|US_speednode_0039
+  name: 13|US_speednode_0039
   network: ws
   port: 2095
   server: www.whatismyip.net
