@@ -44,26 +44,6 @@ proxies:
   sni: apic.dnso.ccwu.cc
   tls: false
   type: hysteria2
-- name: 8|126729 | Telegram = t.me/SOSke...
-  obfs: salamander
-  obfs-password: kpiog9jmokyqz1oe
-  password: 1fyl1qfxhpq6nlqo
-  port: 8443
-  server: shopcar.rafeaftabsokhtegi.com
-  skip-cert-verify: false
-  sni: shopcar.rafeaftabsokhtegi.com
-  tls: false
-  type: hysteria2
-- name: 8|🇹🇷126729 | ⚡️Telegram = t.me/S...
-  obfs: salamander
-  obfs-password: kpiog9jmokyqz1oe
-  password: 1fyl1qfxhpq6nlqo
-  port: 8443
-  server: soskeynets.rafeaftabsokhtegi.com
-  skip-cert-verify: false
-  sni: shopcar.rafeaftabsokhtegi.com
-  tls: false
-  type: hysteria2
 - name: 8|🇩🇪 Telegram= V2RayyNGvpn 🇩🇪4
   obfs: salamander
   obfs-password: RedmEthIS-Join-V2RayyNGvpn-oBsPaHard183hgak
@@ -84,7 +64,7 @@ proxies:
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
-- name: 8|️️@ATLAS_V2VPN️️491️
+- name: 8|️@ATLAS_V2VPN️️491️
   obfs: salamander
   obfs-password: l960g2kn19nphlra
   password: 4z2oldt85p494bgb
@@ -118,7 +98,7 @@ proxies:
   sni: usa1.spectrumproxy.shop
   tls: false
   type: hysteria2
-- name: '8|𝗲𝗶⚡️@prrofile_purple '
+- name: '8|𝗲𝗶️@prrofile_purple '
   obfs: salamander
   obfs-password: l960g2kn19nphlra
   password: 84eyebdtl3tcbssn
@@ -189,7 +169,15 @@ proxies:
   sni: 179.61.132.96
   tls: false
   type: hysteria2
-- name: 8| - NL - @FreeOnlineVPN
+- name: 8|🇳🇱126851 | ⚡️Telegram = t.me/S...
+  password: LzMWgm6LaNWCm11bFTbynDPq2TqQj03t
+  port: 443
+  server: 5.255.102.165
+  skip-cert-verify: true
+  sni: 5.255.102.165
+  tls: false
+  type: hysteria2
+- name: 8|🇳🇱 - NL - @FreeOnlineVPN
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -287,16 +275,6 @@ proxies:
   sni: azer-tea-grape.bumbleshrimp.com
   tls: false
   type: hysteria2
-- name: 8|@bored_vpn
-  obfs: salamander
-  obfs-password: lvy1Hw_j4Hwx8oIL2tEa315Sb4t7QrjF
-  password: hy2_czaawdhc
-  port: 443
-  server: 2.26.92.136
-  skip-cert-verify: false
-  sni: nl2.cleanersaz.help
-  tls: false
-  type: hysteria2
 - name: 8|🐰49@oneclickvpnkeys
   password: mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj
   port: 443
@@ -335,21 +313,6 @@ proxies:
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
-- name: 8|🇷126668 | ⚡️Telegram = t.me/SO...
-  password: qIg7TMxfJvx6t27er0c9P0osebAAPu2PYlB_aoWelV5kVVQ2
-  port: 443
-  server: fr2.h2corp.org
-  sni: fr2.h2corp.org
-  tls: false
-  type: hysteria2
-- name: 8|126669 | ⚡️Telegram = t.me/SOS...
-  password: qQe1z5kU8kN6SlKnDt9Ru3Qp
-  port: 443
-  server: 13.229.110.73
-  skip-cert-verify: true
-  sni: 13.229.110.73
-  tls: false
-  type: hysteria2
 - alpn:
   - h3
   fingerprint: chrome
@@ -362,7 +325,7 @@ proxies:
   sni: pro2.riziro.ir
   tls: false
   type: hysteria2
-- name: 8|51@oneclickvpnkeys
+- name: 8|🐰51@oneclickvpnkeys
   password: uj7XGZGUqRlmdpk6rysyZMN333RWsxTFj0hBIMaFV-NUCd5r
   port: 443
   server: 185.225.19.39
