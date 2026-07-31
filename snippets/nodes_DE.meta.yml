@@ -9,7 +9,7 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: 8| Telegram= V2RayyNGvpn 🇩🇪3
+- name: 8|🇪 Telegram= V2RayyNGvpn 🇩🇪3
   obfs: salamander
   obfs-password: RedmEthIS-Join-V2RayyNGvpn-oBsPaHard183hgak
   password: 1Tm8undefinedEG5fl
@@ -59,6 +59,16 @@ proxies:
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
+- name: 8|🇩🇪 Telegram= V2RayyNGvpn 🇩🇪6
+  obfs: salamander
+  obfs-password: RedmEthIS-Join-V2RayyNGvpn-oBsPaHard183hgak
+  password: mY0pSnWDFk
+  port: 443
+  server: 91.107.178.22
+  skip-cert-verify: true
+  sni: www.refersion.com
+  tls: false
+  type: hysteria2
 - name: 8|🇩🇪 Telegram= V2RayyNGvpn 🇩🇪2
   obfs: salamander
   obfs-password: V2RayyNGvpn
@@ -69,3 +79,17 @@ proxies:
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
+- name: 12|DE_speednode_0004
+  network: ws
+  port: 8880
+  server: 45.80.111.175
+  servername: cnd.poland.myfilecdn.com
+  skip-cert-verify: false
+  tls: false
+  type: vless
+  udp: true
+  uuid: 6ed59a5b-efef-4ddf-99f2-57d200caed47
+  ws-opts:
+    headers:
+      Host: cnd.poland.myfilecdn.com
+    path: /cdn/assets/stream
