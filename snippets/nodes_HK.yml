@@ -20,16 +20,14 @@ proxies:
   port: 10006
   server: 112.28.141.77
   type: ss
-- name: 11,12|香港4|@ripaojiedian
-  network: tcp
+- name: 11|🇭🇰 香港4|@ripaojiedian
   password: BxceQaOe
   port: 2716
   server: 43.199.146.46
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
-- name: 11,12|香港5|@ripaojiedian
-  network: tcp
+- name: 11|🇭🇰 香港5|@ripaojiedian
   password: BxceQaOe
   port: 51391
   server: 13.215.162.132
