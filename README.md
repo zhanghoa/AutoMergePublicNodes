@@ -1,63 +1,12 @@
-# NoMoreWalls
+# AutoMergePublicNodes (NoMoreWalls)
 
-[![Fetch Status](https://github.com/chengaopan/AutoMergePublicNodes/actions/workflows/fetch.yml/badge.svg)](https://github.com/chengaopan/AutoMergePublicNodes/actions/workflows/fetch.yml) [![Stars](https://img.shields.io/github/stars/chengaopan/AutoMergePublicNodes?style=flat)](https://github.com/chengaopan/AutoMergePublicNodes/stargazers) [![Watchers](https://img.shields.io/github/watchers/chengaopan/AutoMergePublicNodes?style=flat)](https://github.com/chengaopan/AutoMergePublicNodes/watchers) [![Forks](https://img.shields.io/github/forks/chengaopan/AutoMergePublicNodes?style=flat)](https://github.com/chengaopan/AutoMergePublicNodes/forks) [![Repo size](https://img.shields.io/github/repo-size/chengaopan/AutoMergePublicNodes)](https://github.com/chengaopan/AutoMergePublicNodes/commits) ![Vistors](https://visitor-badge.laobi.icu/badge?page_id=peasoft.NoMoreWalls) [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu) [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/chengaopan/AutoMergePublicNodes/blob/master/LICENSE.md) [![暮光计划](https://img.shields.io/badge/link-暮光计划--向戒网瘾学校宣战-red.svg)](https://proj3ctaurora.tilda.ws/)
+[![Fetch Status](https://github.com/zhanghoa/AutoMergePublicNodes/actions/workflows/fetch.yml/badge.svg)](https://github.com/zhanghoa/AutoMergePublicNodes/actions/workflows/fetch.yml) [![Stars](https://img.shields.io/github/stars/zhanghoa/AutoMergePublicNodes?style=flat)](https://github.com/zhanghoa/AutoMergePublicNodes/stargazers) [![Watchers](https://img.shields.io/github/watchers/zhanghoa/AutoMergePublicNodes?style=flat)](https://github.com/zhanghoa/AutoMergePublicNodes/watchers) [![Forks](https://img.shields.io/github/forks/zhanghoa/AutoMergePublicNodes?style=flat)](https://github.com/zhanghoa/AutoMergePublicNodes/forks) [![Repo size](https://img.shields.io/github/repo-size/zhanghoa/AutoMergePublicNodes)](https://github.com/zhanghoa/AutoMergePublicNodes/commits) [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/zhanghoa/AutoMergePublicNodes/blob/master/LICENSE.md)
 
 自动抓取合并互联网上的公开节点。
-🚀 免费节点,🚀免费节点订阅,🚀v2ray免费节点,ssr免费节点订阅,clash免费节点订阅,免费梯子,免费翻墙,免费科学上网,免费ss/v2ray/trojan/clash节点,谷歌商店,翻墙梯子
-## 自用付费机场推荐
-## 一、BoostNet(39/月200G) 
-
-移动联通电信三网深港IEPL内网专线ss协议机场，小众精品机场。三网IEPL,可以解决目前跨网限速的问题。对于各个运营商的网络都比较友好。如果是单网特别是移动IEPL其它运营商可能体验不佳，相对低调。人少，体验还不错,速度很快，延迟较低，稳定性不错，流媒体还可以。老板说是一线机场发展的。有118一年200G的可以做备用。
-### 新人8折优惠券：boost
-
-[BoostNet机场官网地址1](https://boostqz.com?path=register&code=HUvJbTaF)  
-
-[BoostNet机场官网地址2](https://boostnet1.com/#/register?code=HUvJbTaF)  
-
-[BoostNet机场官网地址2](https://boostnet2.com/#/register?code=HUvJbTaF)  
-
-**套餐(所有套餐节点一样):**
-**价格可能有所变动,以官方公布为准**
-
-流量 | 价格 
-:-: | :-: 
-20G/月 |118/年  
-200G/月 |39/月;100/季;220/半年;350/年
-400G/月 |58/月;150/季;310/半年;500/年
-1000G/月|108/月;280/季;600/半年;1000/年
-3000G/月|500/月;1500/季;2888/半年;5688/年
-
->开业时间：2024  
-老板肉身：墙外  
-入口与过境线路：广东入口，过境IEPL专线    
-节点数目： 30+      
-协议：Shadowsocks（不支持shadowsocksR软件）    
-UDP：支持    
-限制同时登录ip客户端数目：软性限制5个ip    
-ChatGPT/OpenAI解锁: 基本全解锁    
-流媒体：基本支持奈飞和迪士尼    
-墙外新闻网站屏蔽情况：屏蔽轮媒、rfa、pincong    
-SSH端口屏蔽：22端口已屏蔽    
-邮件传统协议smtp/pop3/imap：禁止(用各家邮箱官方APP和网页不影响)    
-地区：香港、台湾、新加坡、日本、美国、英国、马来西亚、土耳其、阿根廷      
-落地：Akari、Tanaka、PoloCloud、DigitalOcean、nexeon、Eons、Ipxo LLC、香港HGC    
-付款方式：支付宝、微信    
-TG频道：无    
-套餐是否包含手续费：否（手续费6-9%）    
-只能中国内地使用：是，新疆无法使用
-小白一键客户端：win+mac       
-家宽：无    
-面板:v2board，节点订阅在首页仪表盘【一键订阅】按钮中    
-客服：有       
-
-<details>
- <summary>测速图和流媒体，点击展开</summary>
-<img src="https://jichangcesu.com/uploads/vpn/boostnet.webp"  width = "90%"   align=center  alt="机场推荐之BoostNet机场测速" />
-</details>
 
 ## 公告
-* 本项目fork [NoMoreWalls](https://github.com/peasoft/NoMoreWalls) 请优先为该项目 点亮☆
-* 为防止失联，[peasoft](https://github.com/peasoft)建立了镜像：<https://peasoft.github.io/NWalls.html>
+* 本项目 fork 自 [peasoft/NoMoreWalls](https://github.com/peasoft/NoMoreWalls)（上游仓库 [chengaopan/AutoMergePublicNodes](https://github.com/chengaopan/AutoMergePublicNodes)），请优先为上游项目 点亮☆
+* 为防止失联，上游建立了镜像：<https://peasoft.github.io/NWalls.html>
 
 **本项目提供的 Clash 订阅包含我们精心设计的分流规则，Google Play 软件秒下，自动识别被墙域名，只需将 `🐟 漏网之鱼` 维持在 `DIRECT` 即可！**
 
@@ -88,29 +37,29 @@ TG频道：无
 注意：加速链接可能会失效，如果无法更新订阅，请把所有链接从上到下每个试一遍！你可以在电脑浏览器上安装油猴脚本 [Github 增强 - 高速下载](https://greasyfork.org/zh-CN/scripts/412245)，在目录浏览点开 `list.txt`，然后在 `Raw` 按钮边上找到最新的加速链接。
 
 添加 Base64 订阅：
-- [原始链接](https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/list.txt)
-- [GhProxy.cn](https://ghproxy.cn/https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/list.txt)
+- [原始链接](https://raw.githubusercontent.com/zhanghoa/AutoMergePublicNodes/master/list.txt)
+- [GhProxy.cn](https://ghproxy.cn/https://raw.githubusercontent.com/zhanghoa/AutoMergePublicNodes/master/list.txt)
 - 此处不公开部分私有镜像站
 
 以下链接可能不是最新，但绝对不会被封：
-- [JsDelivr 默认 (当前 Fastly)](https://cdn.jsdelivr.net/gh/chengaopan/AutoMergePublicNodes@master/list.txt)
-- [JsDelivr Fastly CDN](https://fastly.jsdelivr.net/gh/chengaopan/AutoMergePublicNodes@master/list.txt)
-- [JsDelivr Cloudflare CDN](https://testingcf.jsdelivr.net/gh/chengaopan/AutoMergePublicNodes@master/list.txt)
-- [JsDelivr GCore CDN](https://gcore.jsdelivr.net/gh/chengaopan/AutoMergePublicNodes@master/list.txt)
+- [JsDelivr 默认 (当前 Fastly)](https://cdn.jsdelivr.net/gh/zhanghoa/AutoMergePublicNodes@master/list.txt)
+- [JsDelivr Fastly CDN](https://fastly.jsdelivr.net/gh/zhanghoa/AutoMergePublicNodes@master/list.txt)
+- [JsDelivr Cloudflare CDN](https://testingcf.jsdelivr.net/gh/zhanghoa/AutoMergePublicNodes@master/list.txt)
+- [JsDelivr GCore CDN](https://gcore.jsdelivr.net/gh/zhanghoa/AutoMergePublicNodes@master/list.txt)
 
 或添加 Clash Meta 订阅：（如果使用的是原版 Clash，请将链接最后的 `.meta.yml` 替换成 `.yml`。如果 Meta 提示解析错误，请**更新 Meta 至最新版本**！）
-- [原始链接](https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/list.meta.yml)
-- [GhProxy.cn](https://ghproxy.cn/https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/list.meta.yml)
+- [原始链接](https://raw.githubusercontent.com/zhanghoa/AutoMergePublicNodes/master/list.meta.yml)
+- [GhProxy.cn](https://ghproxy.cn/https://raw.githubusercontent.com/zhanghoa/AutoMergePublicNodes/master/list.meta.yml)
 - 此处不公开部分私有镜像站
 
 以下链接可能不是最新，但绝对不会被封：
-- [JsDelivr 默认 (当前 Fastly)](https://cdn.jsdelivr.net/gh/chengaopan/AutoMergePublicNodes@master/list.meta.yml)
-- [JsDelivr Fastly CDN](https://fastly.jsdelivr.net/gh/chengaopan/AutoMergePublicNodes@master/list.meta.yml)
-- [JsDelivr Cloudflare CDN](https://testingcf.jsdelivr.net/gh/chengaopan/AutoMergePublicNodes@master/list.meta.yml)
-- [JsDelivr GCore CDN](https://gcore.jsdelivr.net/gh/chengaopan/AutoMergePublicNodes@master/list.meta.yml)
+- [JsDelivr 默认 (当前 Fastly)](https://cdn.jsdelivr.net/gh/zhanghoa/AutoMergePublicNodes@master/list.meta.yml)
+- [JsDelivr Fastly CDN](https://fastly.jsdelivr.net/gh/zhanghoa/AutoMergePublicNodes@master/list.meta.yml)
+- [JsDelivr Cloudflare CDN](https://testingcf.jsdelivr.net/gh/zhanghoa/AutoMergePublicNodes@master/list.meta.yml)
+- [JsDelivr GCore CDN](https://gcore.jsdelivr.net/gh/zhanghoa/AutoMergePublicNodes@master/list.meta.yml)
 
 或添加 Sing-Box 订阅：（第三方提供转换，不支持本项目的节点选择和分流规则）
-- [转换链接（第三方）](https://subapi.fxxk.dedyn.io/sub?target=singbox&url=https%3A%2F%2Fraw.githubusercontent.com%2Fpeasoft%2FNoMoreWalls%2Fmaster%2Fsnippets%2Fnodes.meta.yml&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR_Online_Full_NoAuto.ini&tls13=true&emoji=true&list=false&xudp=true&udp=true&tfo=false&expand=true&scv=false&fdn=false&singbox.ipv6=1)
+- [转换链接（第三方）](https://subapi.fxxk.dedyn.io/sub?target=singbox&url=https%3A%2F%2Fraw.githubusercontent.com%2Fzhanghoa%2FAutoMergePublicNodes%2Fmaster%2Fsnippets%2Fnodes.meta.yml&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR_Online_Full_NoAuto.ini&tls13=true&emoji=true&list=false&xudp=true&udp=true&tfo=false&expand=true&scv=false&fdn=false&singbox.ipv6=1)
 
 ## 免责声明
 
@@ -124,7 +73,7 @@ TG频道：无
 
 1. 克隆本仓库，由于本仓库的完整 Commit 历史极大，请务必指定 `--depth=1`：
     ```bash
-    git clone https://github.com/chengaopan/AutoMergePublicNodes.git --depth=1
+    git clone https://github.com/zhanghoa/AutoMergePublicNodes.git --depth=1
     ```
 2. 安装依赖库（此步骤需要 Git）
     ```bash
@@ -143,6 +92,17 @@ TG频道：无
 10. 你已获得完整订阅
 
 如果本地仓库长期未更新，请删除仓库并重新克隆来同步最新更改，不要使用 `git pull`。
+
+## 本地运行选项
+
+- 默认会抓取全部公开节点并生成订阅；
+- 创建空文件 `local_NO_NODES` / `local_NO_DYNAMIC` / `local_NO_ADBLOCK` 可分别关闭节点抓取 / 动态源 / Adblock 规则抓取（仅调试用）；
+- 创建空文件 `local_healthcheck` 可在写出前对每个节点做 TCP 连通性检测（见下文「节点存活检测」）；
+- 设置环境变量 `NO_GHPROXY=1` 可跳过 ghproxy.cn 加速直连 GitHub（GitHub Actions 中已默认启用）。
+
+## 节点存活检测
+
+创建空文件 `local_healthcheck` 后，程序会在合并完成、写出订阅之前对每个节点的 `server:port` 做 TCP 连通性检测（并发执行，超时 5 秒）。未通过检测的节点仍会保留在订阅中（公开节点时常间歇不可达），但会在 `list_result.csv` 中标记 `alive=no`，便于自行筛选。
 
 ## 一些题外话
 
@@ -166,10 +126,10 @@ TG频道：无
 
 ## Star History
 
-<a href="https://star-history.com/#chengaopan/AutoMergePublicNodes">
+<a href="https://star-history.com/#zhanghoa/AutoMergePublicNodes">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=chengaopan/AutoMergePublicNodes&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=chengaopan/AutoMergePublicNodes" />
-    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=chengaopan/AutoMergePublicNodes" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=zhanghoa/AutoMergePublicNodes&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=zhanghoa/AutoMergePublicNodes" />
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=zhanghoa/AutoMergePublicNodes" />
   </picture>
 </a>

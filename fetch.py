@@ -94,7 +94,7 @@ ABFWHITE = (
     "file:///abpwhite.txt",
 )
 
-FAKE_IPS = "8.8.8.8; 8.8.4.4; 4.2.2.2; 4.2.2.1; 114.114.114.114; 127.0.0.1; 0.0.0.0".split('; ')
+FAKE_IPS = "8.8.8.8; 8.8.4.4; 4.2.2.2; 4.2.2.1; 1.1.1.1; 1.0.0.1; 9.9.9.9; 114.114.114.114; 223.5.5.5; 119.29.29.29; 127.0.0.1; 0.0.0.0".split('; ')
 FAKE_DOMAINS = ".google.com .github.com".split()
 
 FETCH_TIMEOUT = (6, 5)
@@ -123,7 +123,8 @@ session.mount('file://', FileAdapter())
     
 exc_queue: List[str] = []
 
-d = datetime.datetime.now()
+d = datetime.datetime.now().astimezone()
+# 敏感日期以本地时区（而非 runner 的 UTC）判断，避免时区差导致日期误判
 if STOP or (d.month, d.day) in ((6, 4), (7, 1), (10, 1)):
     DEBUG_NO_NODES = DEBUG_NO_DYNAMIC = STOP = True
 
@@ -195,6 +196,9 @@ class Node:
             elif self.type == 'hysteria2':
                 path = data.get('sni', '')+':'
                 path += data.get('obfs-password', '')+':'
+            elif self.type in ('tuic', 'anytls'):
+                path = data.get('sni', '')+':'
+                path += data.get('uuid', '')+':'
                 # print(self.url)
                 # return hash(self.url)
             path += '@'+','.join(data.get('alpn', []))+'@'+data.get('password', '')+data.get('uuid', '')
@@ -220,6 +224,16 @@ class Node:
             url = self.type+'://'+url.split("://")[1]
         if self.type == 'hy2': self.type = 'hysteria2'
         # === Fix end ===
+        if self.type == 'ss' and '@' not in dt.split('#')[0]:
+            # ss://base64(...) 整段编码格式：先解出完整 ss:// 再走常规解析
+            try:
+                decoded = b64decodes_safe(dt.split('#')[0])
+                if decoded.startswith('ss://'):
+                    frag = '#'+dt.split('#', 1)[1] if '#' in dt else ''
+                    self.load_url(decoded+frag)
+                    self.type = 'ss'
+                    return
+            except Exception: pass
         if self.type == 'vmess':
             v = VMESS_EXAMPLE.copy()
             try: v.update(json.loads(b64decodes(dt)))
@@ -229,6 +243,8 @@ class Node:
             for key, val in v.items():
                 if key in VMESS2CLASH:
                     self.data[VMESS2CLASH[key]] = val
+            try: self.data['port'] = int(self.data.get('port', 0))
+            except (TypeError, ValueError): self.data['port'] = 0
             self.data['tls'] = (v['tls'] == 'tls')
             self.data['alterId'] = int(self.data['alterId'])
             if v['net'] == 'ws':
@@ -252,20 +268,25 @@ class Node:
             info = url.split('@')
             srvname = info.pop()
             if '#' in srvname:
-                srv, name = srvname.split('#')
+                srv, name = srvname.split('#', 1)
             else:
                 srv = srvname
                 name = ''
-            server, port = srv.split(':')
+            # server 可能是 IPv6 地址（含多个冒号），必须从右往左按最后一个冒号拆分
+            server, port = srv.rsplit(':', 1)
+            server = server.strip('[]')
+            port = port.split('/', 1)[0]  # 去掉可能的路径残留
             try:
                 port = int(port)
             except ValueError:
                 raise UnsupportedType('ss', 'SP')
             info = '@'.join(info)
+            if info.startswith('ss://'):  # 去掉递归解析中残留的 scheme 前缀
+                info = info[5:]
             if not ':' in info:
                 info = b64decodes_safe(info)
             if ':' in info:
-                cipher, passwd = info.split(':')
+                cipher, passwd = info.split(':', 1)  # 密码本身可能含 ':'
             else:
                 cipher = info
                 passwd = ''
@@ -278,26 +299,36 @@ class Node:
             else:
                 parts = b64decodes_safe(dt).split(':')
             try:
-                passwd, info = parts[-1].split('/?')
-            except: raise
+                # ssr 分享链接解码后参数前可能是 '/?' 也可能是 '?'
+                tail = parts[-1]
+                for sep in ('/?', '?'):
+                    if sep in tail:
+                        passwd, info = tail.split(sep, 1)
+                        break
+                else:
+                    passwd, info = tail, ''
+            except ValueError:
+                raise UnsupportedType('ssr', 'SP')
             passwd = b64decodes_safe(passwd)
+            try: parts[1] = int(parts[1])
+            except ValueError: pass
             self.data = {'type': 'ssr', 'server': parts[0], 'port': parts[1],
                     'protocol': parts[2], 'cipher': parts[3], 'obfs': parts[4],
-                    'password': passwd, 'name': ''}
+                    'password': passwd, 'name': unquote('')}
             for kv in info.split('&'):
-                k_v = kv.split('=')
+                k_v = kv.split('=', 1)
                 if len(k_v) != 2:
                     k = k_v[0]
                     v = ''
                 else: k,v = k_v
                 if k == 'remarks':
-                    self.data['name'] = v
+                    self.data['name'] = b64decodes_safe(v)
                 elif k == 'group':
-                    self.data['group'] = v
+                    self.data['group'] = b64decodes_safe(v)
                 elif k == 'obfsparam':
-                    self.data['obfs-param'] = v
+                    self.data['obfs-param'] = b64decodes_safe(v)
                 elif k == 'protoparam':
-                    self.data['protocol-param'] = v
+                    self.data['protocol-param'] = b64decodes_safe(v)
 
         elif self.type == 'trojan':
             parsed = urlparse(url)
@@ -305,7 +336,7 @@ class Node:
                     'port': parsed.port, 'type': 'trojan', 'password': unquote(parsed.username)} # type: ignore
             if parsed.query:
                 for kv in parsed.query.split('&'):
-                    k,v = kv.split('=')
+                    k,v = kv.split('=', 1)
                     if k in ('allowInsecure', 'insecure'):
                         self.data['skip-cert-verify'] = (v != '0')
                     elif k == 'sni': self.data['sni'] = v
@@ -335,7 +366,7 @@ class Node:
             self.data['tls'] = False
             if parsed.query:
                 for kv in parsed.query.split('&'):
-                    k,v = kv.split('=')
+                    k,v = kv.split('=', 1)
                     if k in ('allowInsecure', 'insecure'):
                         self.data['skip-cert-verify'] = (v != '0')
                     elif k == 'sni': self.data['servername'] = v
@@ -381,7 +412,10 @@ class Node:
             if ':' in parsed.netloc:
                 ports = parsed.netloc.split(':')[1]
                 if ',' in ports:
-                    self.data['port'], self.data['ports'] = ports.split(',',1)
+                    p0, p1 = ports.split(',', 1)
+                    try: p0 = int(p0)
+                    except ValueError: p0 = 443
+                    self.data['port'], self.data['ports'] = p0, p1
                 else:
                     self.data['port'] = ports
                 try: self.data['port'] = int(self.data['port'])
@@ -393,7 +427,7 @@ class Node:
                 k = v = ''
                 for kv in parsed.query.split('&'):
                     if '=' in kv:
-                        k,v = kv.split('=')
+                        k,v = kv.split('=', 1)
                     else:
                         v += '&' + kv
                     if k == 'insecure':
@@ -403,7 +437,39 @@ class Node:
                     elif k in ('sni', 'obfs', 'obfs-password'):
                         self.data[k] = v
                     elif k == 'fp': self.data['fingerprint'] = v
-        
+
+        elif self.type == 'tuic':
+            parsed = urlparse(url)
+            self.data = {'name': unquote(parsed.fragment), 'server': parsed.hostname,
+                    'type': 'tuic', 'uuid': unquote(parsed.username),
+                    'password': unquote(parsed.password or '')} # type: ignore
+            if parsed.port: self.data['port'] = parsed.port
+            else: self.data['port'] = 443
+            self.data['congestion-controller'] = 'bbr'
+            if parsed.query:
+                for kv in parsed.query.split('&'):
+                    if '=' not in kv: continue
+                    k,v = kv.split('=', 1)
+                    if k in ('sni', 'congestion_controller'): self.data['sni' if k=='sni' else 'congestion-controller'] = v
+                    elif k in ('allow_insecure', 'insecure', 'allowInsecure'):
+                        self.data['skip-cert-verify'] = (v != '0')
+                    elif k == 'alpn': self.data['alpn'] = unquote(v).split(',')
+                    elif k == 'udp_relay_mode': self.data['udp-relay-mode'] = v
+
+        elif self.type == 'anytls':
+            parsed = urlparse(url)
+            self.data = {'name': unquote(parsed.fragment), 'server': parsed.hostname,
+                    'type': 'anytls', 'password': unquote(parsed.username)} # type: ignore
+            if parsed.port: self.data['port'] = parsed.port
+            else: self.data['port'] = 443
+            if parsed.query:
+                for kv in parsed.query.split('&'):
+                    if '=' not in kv: continue
+                    k,v = kv.split('=', 1)
+                    if k == 'sni': self.data['sni'] = v
+                    elif k in ('allow_insecure', 'insecure', 'allowInsecure'):
+                        self.data['skip-cert-verify'] = (v != '0')
+
         else: raise UnsupportedType(self.type)
 
     def format_name(self, max_len=30) -> None:
@@ -475,8 +541,8 @@ class Node:
             return f"ss://{passwd}@{data['server']}:{data['port']}#{quote(data['name'])}"
         if self.type == 'ssr':
             ret = (':'.join([str(self.data[_]) for _ in ('server','port',
-                                        'protocol','cipher','obfs')]) +
-                    b64encodes_safe(self.data['password']) +
+                                        'protocol','cipher','obfs')]) + ':' +
+                    b64encodes_safe(self.data['password']) + '/?' +
                     f"remarks={b64encodes_safe(self.data['name'])}")
             for k, urlk in (('obfs-param','obfsparam'), ('protocol-param','protoparam'), ('group','group')):
                 if k in self.data:
@@ -497,7 +563,7 @@ class Node:
                 if data['network'] == 'grpc':
                     ret += f"type=grpc&serviceName={data['grpc-opts']['grpc-service-name']}"
                 elif data['network'] == 'ws':
-                    ret += f"type=ws&"
+                    ret += "type=ws&"
                     if 'ws-opts' in data:
                         try:
                             ret += f"host={data['ws-opts']['headers']['Host']}&"
@@ -521,7 +587,7 @@ class Node:
                 if data['network'] == 'grpc':
                     ret += f"type=grpc&serviceName={data['grpc-opts']['grpc-service-name']}"
                 elif data['network'] == 'ws':
-                    ret += f"type=ws&"
+                    ret += "type=ws&"
                     if 'ws-opts' in data:
                         try:
                             ret += f"host={data['ws-opts']['headers']['Host']}&"
@@ -536,7 +602,7 @@ class Node:
             if 'client-fingerprint' in data:
                 ret += f"fp={data['client-fingerprint']}&"
             if 'tls' in data and data['tls']:
-                ret += f"security=tls&"
+                ret += "security=tls&"
             elif 'reality-opts' in data:
                 opts: Dict[str, str] = data['reality-opts']
                 ret += f"security=reality&pbk={opts.get('public-key','')}&sid={opts.get('short-id','')}&"
@@ -562,10 +628,33 @@ class Node:
             ret = ret.rstrip('&')+'#'+name
             return ret
 
-        raise UnsupportedType(self.type)
+        if self.type == 'anytls':
+            passwd = quote(data['password'])
+            name = quote(data['name'])
+            ret = f"anytls://{passwd}@{data['server']}:{data['port']}?"
+            if 'skip-cert-verify' in data:
+                ret += f"allowInsecure={int(data['skip-cert-verify'])}&"
+            if 'sni' in data:
+                ret += f"sni={data['sni']}&"
+            return ret.rstrip('&')+'#'+name
 
-    @property
-    def clash_data(self) -> DATA_TYPE:
+        if self.type == 'tuic':
+            passwd = quote(data['uuid'])+':'+quote(data['password'])
+            name = quote(data['name'])
+            ret = f"tuic://{passwd}@{data['server']}:{data['port']}?"
+            if 'skip-cert-verify' in data:
+                ret += f"allowInsecure={int(data['skip-cert-verify'])}&"
+            if 'sni' in data:
+                ret += f"sni={data['sni']}&"
+            if 'alpn' in data:
+                ret += f"alpn={quote(','.join(data['alpn']))}&"
+            if 'congestion-controller' in data:
+                ret += f"congestion_controller={data['congestion-controller']}&"
+            if 'udp-relay-mode' in data:
+                ret += f"udp_relay_mode={data['udp-relay-mode']}&"
+            return ret.rstrip('&')+'#'+name
+
+        raise UnsupportedType(self.type)
         ret = self.data.copy()
         if 'password' in ret and ret['password'].isdigit():
             ret['password'] = '!!str '+ret['password']
@@ -591,6 +680,10 @@ class Node:
         elif self.type == 'ss' or self.type == 'ssr':
             supported = CLASH_CIPHER_SS
         elif self.type == 'trojan': return True
+        elif self.type == 'tuic':
+            return not noMeta
+        elif self.type == 'anytls':
+            return not noMeta
         elif noMeta: return False
         else: return True
         if 'network' in self.data and self.data['network'] in ('h2','grpc'):
@@ -692,7 +785,7 @@ class Source():
         except KeyboardInterrupt: raise
         except requests.exceptions.RequestException:
             self.content = -1
-        except:
+        except Exception:
             self.content = -2
             exc = "在抓取 '"+self.url+"' 时发生错误：\n"+traceback.format_exc()
             exc_queue.append(exc)
@@ -766,7 +859,7 @@ class Source():
                 else: self.sub = sub
             else: self.sub = sub
         except KeyboardInterrupt: raise
-        except: exc_queue.append(
+        except Exception: exc_queue.append(
                 "在解析 '"+self.url+"' 时发生错误：\n"+traceback.format_exc())
 
 class DomainTree:
@@ -826,8 +919,16 @@ def extract(url: str) -> Union[Set[str], int]:
     return urls
 
 merged: Dict[int, Node] = {}
+merged_keys: Dict[int, Tuple] = {}  # hash -> 完整去重元组，避免不同节点哈希碰撞时互相覆盖
 unknown: Set[str] = set()
 used: Dict[int, Dict[int, str]] = {}
+
+def dedup_key(n: Node) -> Tuple:
+    d = n.data
+    return (n.type, d.get('server'), str(d.get('port')), d.get('uuid', ''),
+            d.get('password', ''), d.get('cipher', ''), d.get('sni', ''),
+            d.get('servername', ''))
+
 def merge(source_obj: Source, sourceId=-1) -> None:
     global merged, unknown
     sub = source_obj.sub
@@ -840,30 +941,52 @@ def merge(source_obj: Source, sourceId=-1) -> None:
             if len(e.args) == 1:
                 print(f"不支持的类型：{e}")
             unknown.add(p) # type: ignore
-        except: traceback.print_exc()
+        except Exception: traceback.print_exc()
         else:
             n.format_name()
             Node.names.add(n.data['name'])
             hashn = hash(n)
             if hashn not in merged:
                 merged[hashn] = n
-            else:
+                merged_keys[hashn] = dedup_key(n)
+            elif merged_keys.get(hashn) == dedup_key(n):
+                # 仅当完整字段一致（哈希碰撞之外的真重复）才合并元数据
                 merged[hashn].data.update(n.data)
             if hashn not in used:
                 used[hashn] = {}
             used[hashn][sourceId] = n.name
 
 def raw2fastly(url: str) -> str:
-    if not LOCAL: return url
+    # CI（GitHub Actions）可以直连 raw.githubusercontent.com，
+    # 设置环境变量 NO_GHPROXY=1 可跳过 ghproxy.cn 加速，减少一跳延迟
+    if not LOCAL or os.environ.get("NO_GHPROXY"): return url
     url: Union[str, List[str]]
     if url.startswith("https://raw.githubusercontent.com/"):
-        # url = url[34:].split('/')
-        # url[1] += '@'+url[2]
-        # del url[2]
-        # url = "https://fastly.jsdelivr.net/gh/"+('/'.join(url))
-        # return url
         return "https://ghproxy.cn/"+url
     return url
+
+def healthcheck(nodes: List[Node], timeout: float = 5.0) -> Dict[int, bool]:
+    """对所有节点做 TCP 连通性检测，返回 {id: alive}。由空文件 local_healthcheck 启用。"""
+    import socket
+    from concurrent.futures import ThreadPoolExecutor
+    items = list(nodes)
+    def check(n: Node) -> bool:
+        server = n.data.get('server')
+        try: port = int(n.data.get('port', 0))
+        except (TypeError, ValueError): port = 0
+        if not server or not port: return False
+        try:
+            with socket.create_connection((server, port), timeout=timeout):
+                return True
+        except OSError: return False
+    result: Dict[int, bool] = {}
+    print(f"正在进行节点存活检测（{len(items)} 个节点，超时 {timeout}s）...")
+    with ThreadPoolExecutor(max_workers=100) as pool:
+        for i, ok in zip(range(len(items)), pool.map(check, items)):
+            result[i] = ok
+    alive = sum(1 for v in result.values() if v)
+    print(f"存活检测完成：{alive}/{len(items)} 个节点可达。")
+    return result
 
 def merge_adblock(adblock_name: str, rules: Dict[str, str]) -> None:
     print("正在解析 Adblock 列表... ", end='', flush=True)
@@ -958,7 +1081,7 @@ def main():
         print("正在生成 '"+auto_fun.__name__+"'... ", end='', flush=True)
         try: url = auto_fun()
         except requests.exceptions.RequestException: print("失败！")
-        except: print("错误：");traceback.print_exc()
+        except Exception: print("错误：");traceback.print_exc()
         else:
             if url:
                 if isinstance(url, str):
@@ -1002,7 +1125,7 @@ def main():
                 break
             except requests.exceptions.RequestException:
                 print("合并失败！")
-            except: traceback.print_exc()
+            except Exception: traceback.print_exc()
             else:
                 if isinstance(res, int):
                     print(res)
@@ -1044,7 +1167,7 @@ def main():
                 except KeyboardInterrupt:
                     print("正在退出...")
                     break
-                except:
+                except Exception:
                     print("失败！")
                     traceback.print_exc()
                 else: print("完成！")
@@ -1073,7 +1196,7 @@ def main():
                 except UnsupportedType as e:
                     print(f"不支持的类型：{e}")
             else: unsupports += 1
-        except: traceback.print_exc()
+        except Exception: traceback.print_exc()
     for p in unknown:
         txt += p+'\n'
     print(f"共有 {len(merged)-unsupports} 个正常节点，{len(unknown)} 个无法解析的节点，共",
@@ -1084,6 +1207,14 @@ def main():
     with open("list.txt", 'w', encoding="utf-8") as f:
         f.write(b64encodes(txt))
     print("写出完成！")
+
+    health_results: Optional[Dict[int, bool]] = None
+    if os.path.exists("local_healthcheck") and merged:
+        try:
+            health_results = healthcheck(list(merged.values()))
+        except Exception:
+            print("存活检测失败：")
+            traceback.print_exc()
 
     with open("config.yml", encoding="utf-8") as f:
         conf: Dict[str, Any] = yaml.full_load(f)
@@ -1207,7 +1338,7 @@ def main():
                 ctg_selects.append(disp['name'])
     try:
         dns_mode: Optional[str] = conf['dns']['enhanced-mode']
-    except:
+    except (KeyError, TypeError):
         dns_mode: Optional[str] = None
     else:
         conf['dns']['enhanced-mode'] = 'fake-ip'
@@ -1257,20 +1388,23 @@ def main():
                 yaml.dump({'payload': payload}, f, allow_unicode=True)
 
     print("正在写出统计信息...")
-    out = "序号,链接,节点数\n"
-    for i, source in enumerate(sources_obj):
-        out += f"{i},{source.url},"
-        try: out += f"{len(source.sub)}"
-        except: out += '0'
-        out += '\n'
-    out += f"\n总计,,{len(merged)}\n"
-    open("list_result.csv",'w').write(out)
+    import csv as _csv
+    with open("list_result.csv", 'w', encoding="utf-8", newline='') as f:
+        w = _csv.writer(f)
+        w.writerow(["序号", "链接", "节点数"])
+        for i, source in enumerate(sources_obj):
+            try: cnt = len(source.sub)
+            except Exception: cnt = 0
+            w.writerow([i, source.url, cnt])
+        w.writerow([])
+        w.writerow(["总计", "", len(merged)])
+        if health_results is not None:
+            alive = sum(1 for v in health_results.values() if v)
+            w.writerow(["存活节点", "", f"{alive}/{len(health_results)}"])
 
     print("写出完成！")
 
 if __name__ == '__main__':
-    from dynamic import AUTOURLS, AUTOFETCH # type: ignore
+    from dynamic import AUTOURLS, AUTOFETCH # type: ignore # noqa: F401 (注入 main() 使用的全局)
     AUTOFUNTYPE = Callable[[], Union[str, List[str], Tuple[str], Set[str], None]]
-    AUTOURL: List[AUTOFUNTYPE]
-    AUTOFETCH: List[AUTOFUNTYPE]
     main()
