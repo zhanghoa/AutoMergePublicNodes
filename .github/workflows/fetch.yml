@@ -44,6 +44,9 @@ jobs:
       env:
         # Actions 的 runner 可直连 raw.githubusercontent.com，跳过 ghproxy.cn 加速
         NO_GHPROXY: '1'
+        # 在 CI 中对节点做 TCP 存活粗筛（并发 50、超时 3s，约 10 秒），
+        # 结果以 ✅/❌ 前缀写入 nodes.check.yml 的节点名，不删除节点
+        RUN_HEALTHCHECK: '1'
 
     - name: 提交更改
       run: |

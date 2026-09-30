@@ -968,8 +968,14 @@ def raw2fastly(url: str) -> str:
         return "https://ghproxy.cn/"+url
     return url
 
-def healthcheck(nodes: List[Node], timeout: float = 5.0) -> Dict[int, bool]:
-    """对所有节点做 TCP 连通性检测，返回 {id: alive}。由空文件 local_healthcheck 启用。"""
+def healthcheck(nodes: List[Node], timeout: float = 3.0, max_workers: int = 50) -> Dict[int, bool]:
+    """对所有节点做 TCP 连通性检测，返回 {id: alive}。
+
+    触发方式（任选其一）：
+      - 空文件 local_healthcheck（本地调试用）
+      - 环境变量 RUN_HEALTHCHECK=1（CI 用，避免在仓库中提交标记文件）
+    定位是"粗筛"：TCP 可达只代表服务器存活，不代表代理可用。
+    """
     import socket
     from concurrent.futures import ThreadPoolExecutor
     items = list(nodes)
@@ -983,8 +989,8 @@ def healthcheck(nodes: List[Node], timeout: float = 5.0) -> Dict[int, bool]:
                 return True
         except OSError: return False
     result: Dict[int, bool] = {}
-    print(f"正在进行节点存活检测（{len(items)} 个节点，超时 {timeout}s）...")
-    with ThreadPoolExecutor(max_workers=100) as pool:
+    print(f"正在进行节点存活检测（{len(items)} 个节点，并发 {max_workers}，超时 {timeout}s）...")
+    with ThreadPoolExecutor(max_workers=max_workers) as pool:
         for i, ok in zip(range(len(items)), pool.map(check, items)):
             result[i] = ok
     alive = sum(1 for v in result.values() if v)
@@ -1212,7 +1218,7 @@ def main():
     print("写出完成！")
 
     health_results: Optional[Dict[int, bool]] = None
-    if os.path.exists("local_healthcheck") and merged:
+    if (os.path.exists("local_healthcheck") or os.environ.get("RUN_HEALTHCHECK") == '1') and merged:
         try:
             health_results = healthcheck(list(merged.values()))
         except Exception:
@@ -1381,6 +1387,20 @@ def main():
     # 供 SubsCheck 等节点测试工具直接使用
     HEALTHY_TYPES = ('ss', 'ssr', 'vmess', 'trojan', 'vless', 'hysteria', 'hysteria2', 'tuic', 'anytls')
     proxies_check = [_ for _ in proxies_meta if _['type'] in HEALTHY_TYPES]
+    if health_results is not None:
+        # TCP 粗筛结果写进节点名标记（✅ 可达 / ❌ 不可达），不删除节点——
+        # 精确的可用性结论交给 SubsCheck 等工具的协议级测试
+        merged_list = list(merged.values())
+        check_by_name = {n.data['name']: n for n in merged_list}
+        for p in proxies_check:
+            n = check_by_name.get(p['name'])
+            if n is None: continue
+            idx = merged_list.index(n)
+            alive = health_results.get(idx)
+            if alive is True: p['name'] = '✅ ' + p['name']
+            elif alive is False: p['name'] = '❌ ' + p['name']
+        alive_cnt = sum(1 for v in health_results.values() if v)
+        print(f"节点名标记完成：✅ {alive_cnt} / ❌ {len(health_results)-alive_cnt}")
     with open("snippets/nodes.check.yml", 'w', encoding="utf-8") as f:
         f.write(datetime.datetime.now().strftime('# Update: %Y-%m-%d %H:%M\n'))
         f.write(yaml.dump({'proxies': proxies_check}, allow_unicode=True).replace('!!str ',''))

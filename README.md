@@ -104,12 +104,18 @@
 
 - 默认会抓取全部公开节点并生成订阅；
 - 创建空文件 `local_NO_NODES` / `local_NO_DYNAMIC` / `local_NO_ADBLOCK` 可分别关闭节点抓取 / 动态源 / Adblock 规则抓取（仅调试用）；
-- 创建空文件 `local_healthcheck` 可在写出前对每个节点做 TCP 连通性检测（见下文「节点存活检测」）；
+- 创建空文件 `local_healthcheck`（或设置环境变量 `RUN_HEALTHCHECK=1`，GitHub Actions 中已默认启用）可在写出前对每个节点做 TCP 连通性检测（见下文「节点存活检测」）；
 - 设置环境变量 `NO_GHPROXY=1` 可跳过 ghproxy.cn 加速直连 GitHub（GitHub Actions 中已默认启用）。
 
 ## 节点存活检测
 
-创建空文件 `local_healthcheck` 后，程序会在合并完成、写出订阅之前对每个节点的 `server:port` 做 TCP 连通性检测（并发执行，超时 5 秒）。未通过检测的节点仍会保留在订阅中（公开节点时常间歇不可达），但会在 `list_result.csv` 中标记 `alive=no`，便于自行筛选。
+启用后，程序会在合并完成、写出订阅之前对每个节点的 `server:port` 做 TCP 连通性检测（并发 50，超时 3 秒）。结果：
+
+- **不删除任何节点**——TCP 可达只代表服务器存活，不代表代理可用，最终结论请以 SubsCheck 等工具的协议级测试为准；
+- `snippets/nodes.check.yml` 中每个节点名会加上 **✅**（TCP 可达）或 **❌**（不可达）前缀，方便排序筛选；
+- `list_result.csv` 中会增加存活统计行。
+
+注意：这是"粗筛"，用于快速剔除确认已死的服务器并观察各源质量，不能替代真实的代理协议测试。
 
 ## 一些题外话
 
