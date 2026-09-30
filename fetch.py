@@ -655,6 +655,9 @@ class Node:
             return ret.rstrip('&')+'#'+name
 
         raise UnsupportedType(self.type)
+
+    @property
+    def clash_data(self) -> DATA_TYPE:
         ret = self.data.copy()
         if 'password' in ret and ret['password'].isdigit():
             ret['password'] = '!!str '+ret['password']

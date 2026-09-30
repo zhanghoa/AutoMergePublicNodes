@@ -78,6 +78,15 @@ def test_fake_node_detected():
     assert n.isfake is True
 
 
+def test_clash_data_property():
+    """clash_data 属性对所有协议可用（回归：曾因误删函数头导致 CI 崩溃）。"""
+    for raw, _, _ in CASES:
+        n = Node(raw)
+        cd = n.clash_data
+        assert cd['type'] == n.type
+        assert cd['name'] == n.data['name']
+
+
 def test_unsupported_type():
     with pytest.raises(UnsupportedType):
         Node("wireguard://whatever")
