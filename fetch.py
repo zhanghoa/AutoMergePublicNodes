@@ -1377,6 +1377,15 @@ def main():
     with open("snippets/nodes.meta.yml", 'w', encoding="utf-8") as f:
         f.write(yaml.dump({'proxies': proxies_meta}, allow_unicode=True).replace('!!str ',''))
 
+    # 测活专用片段：剔除 http/socks5 等非加密代理协议，只保留 ss/vmess/trojan/vless/hysteria2/tuic/anytls
+    # 供 SubsCheck 等节点测试工具直接使用
+    HEALTHY_TYPES = ('ss', 'ssr', 'vmess', 'trojan', 'vless', 'hysteria', 'hysteria2', 'tuic', 'anytls')
+    proxies_check = [_ for _ in proxies_meta if _['type'] in HEALTHY_TYPES]
+    with open("snippets/nodes.check.yml", 'w', encoding="utf-8") as f:
+        f.write(datetime.datetime.now().strftime('# Update: %Y-%m-%d %H:%M\n'))
+        f.write(yaml.dump({'proxies': proxies_check}, allow_unicode=True).replace('!!str ',''))
+    print(f"写出测活专用片段 nodes.check.yml：{len(proxies_check)}/{len(proxies_meta)} 个节点（已剔除 http/socks5）。")
+
     if snip_conf:
         print("正在写出配置片段...")
         name_map: Dict[str, str] = snip_conf['name-map']

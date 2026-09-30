@@ -52,6 +52,13 @@
 - [GhProxy.cn](https://ghproxy.cn/https://raw.githubusercontent.com/zhanghoa/AutoMergePublicNodes/master/list.meta.yml)
 - 此处不公开部分私有镜像站
 
+### 节点测活 / 测速专用
+
+如果只需要节点本身（例如用 SubsCheck 等工具测试节点可用性），不需要分流规则，请使用纯节点片段：
+- [nodes.check.yml](https://raw.githubusercontent.com/zhanghoa/AutoMergePublicNodes/master/snippets/nodes.check.yml) — 仅含 ss/vmess/trojan/vless/hysteria2/tuic/anytls 等加密代理协议（已剔除 http/socks5），**测活首选**
+- [nodes.meta.yml](https://raw.githubusercontent.com/zhanghoa/AutoMergePublicNodes/master/snippets/nodes.meta.yml) — 全部 Meta 支持的节点（含 http/socks5）
+- [list.txt](https://raw.githubusercontent.com/zhanghoa/AutoMergePublicNodes/master/list.txt) — base64 订阅格式
+
 以下链接可能不是最新，但绝对不会被封：
 - [JsDelivr 默认 (当前 Fastly)](https://cdn.jsdelivr.net/gh/zhanghoa/AutoMergePublicNodes@master/list.meta.yml)
 - [JsDelivr Fastly CDN](https://fastly.jsdelivr.net/gh/zhanghoa/AutoMergePublicNodes@master/list.meta.yml)
