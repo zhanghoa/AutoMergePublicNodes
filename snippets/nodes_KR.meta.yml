@@ -1,7 +1,7 @@
 proxies:
 - alterId: 0
   cipher: auto
-  name: 11|🇰🇷 韩国|@ripaojiedian
+  name: 6|🇰🇷 韩国|@ripaojiedian
   network: ws
   port: 443
   server: 8nTzyR5KNivfabaT.v.3dns.vip
@@ -14,7 +14,7 @@ proxies:
     headers:
       Host: 8nTzyR5KNivfabaT.v.3dns.vip
     path: /ws-vmess
-- name: 12|韩国|@ripaojiedian
+- name: 7|韩国|@ripaojiedian
   network: tcp
   password: AA885B42-133C-3828-FB69-E45105C06092
   port: 11171
