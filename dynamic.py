@@ -32,10 +32,11 @@ def w1770946466():
     return subs
 
 def peasoft():
-    return session.get("https://gist.githubusercontent.com/peasoft/8a0613b7a2be881d1b793a6bb7536281/raw/").text
+    # 旧 gist 已失效；上游已改用 sources.list 中的新 gist 地址动态订阅
+    return session.get("https://gist.githubusercontent.com/peasoft/7907a8ee2a4fa5e80cd1bd006664442c/raw/").text
 
 AUTOURLS = []
-AUTOFETCH = [peasoft]
+AUTOFETCH = []  # 上游已把 peasoft gist 移入 sources.list 作为 '*订阅列表'，此处不再重复抓取
 
 if __name__ == '__main__':
     print("URL 抓取："+', '.join([_.__name__ for _ in AUTOURLS]))
