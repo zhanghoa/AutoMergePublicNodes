@@ -7,12 +7,22 @@ proxies:
   sni: es1.xiaoliyu.cyou
   tls: false
   type: hysteria2
-- name: 8|嘎嘎
+- name: 8|未命名
   password: 19f72087-4591-4d72-930b-2697078ec2be
   port: 4433
   server: se.xiaoliyu.cyou
   skip-cert-verify: true
   sni: se.xiaoliyu.cyou
+  tls: false
+  type: hysteria2
+- name: '8|未命名 #1'
+  obfs: salamander
+  obfs-password: CyG0RFxMjzs41uQD4OLuHQ==
+  password: CyG0RFxMjzs41uQD4OLuHQ==
+  port: 443
+  server: 137.131.167.179
+  skip-cert-verify: true
+  sni: rmgyvpn.rest
   tls: false
   type: hysteria2
 - name: 8,9|@KAFING_2
@@ -51,7 +61,7 @@ proxies:
   sni: cdn77.dmtr.ru
   tls: false
   type: hysteria2
-- name: 9|Telegram @cnetvpn 🇷🇺
+- name: '9|Telegram @cnetvpn '
   obfs: salamander
   obfs-password: 09p333uviv2qal0y
   password: 617z9r1mbzbm1t5z
@@ -71,7 +81,7 @@ proxies:
   sni: fiproxy1.lockdwn.com
   tls: false
   type: hysteria2
-- name: '9|Telegram 🆔@Cnetvpn '
+- name: '9|Telegram @Cnetvpn '
   obfs: salamander
   obfs-password: fuw2k1ddrouwxr3u
   password: 8f0gvz5eul6omhq4
@@ -81,7 +91,7 @@ proxies:
   sni: giftcard.gateway-stream.com
   tls: false
   type: hysteria2
-- name: '9|Telegram 🆔@cnetvpn '
+- name: '9|Telegram @cnetvpn  #1'
   obfs: salamander
   obfs-password: 6cmj1dymhm79hopl
   password: 8z2e26xkqsa598s3
@@ -101,7 +111,7 @@ proxies:
   sni: 179.61.132.96
   tls: false
   type: hysteria2
-- name: 9|  @vistav2ray  👈ا  ✅
+- name: '9|  @vistav2ray    '
   obfs: salamander
   obfs-password: c1b4086fea89914496c7e10967a419216566
   password: QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s
@@ -141,7 +151,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: 9|✅  @vistav2ray  👈👈کانال ما ✅
+- name: '9|  @vistav2ray     #1'
   obfs: salamander
   obfs-password: d2e3c1b8a16952ae9cf06dfc05b3588a
   password: af24a0e4-f5a2-4b97-a678-992d45346147
@@ -161,7 +171,7 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: 9|🇷🇺@FreakConfig
+- name: 9|@FreakConfig
   obfs: salamander
   obfs-password: 44f1c1e2f8b99e792ceed574627a1eb0
   password: cd74c0a406664a5bc0bac098220a2468
@@ -181,7 +191,7 @@ proxies:
   sni: de1.sferavpn.pro
   tls: false
   type: hysteria2
-- name: 9|Telegram 🆔@Cnetvpn 🇺🇲
+- name: '9|Telegram @Cnetvpn  #1'
   obfs: salamander
   obfs-password: fuw2k1ddrouwxr3u
   password: fmaznn1lrzys7ddy
@@ -191,7 +201,7 @@ proxies:
   sni: giftcard.gateway-stream.com
   tls: false
   type: hysteria2
-- name: 9| @NOFiLTERING2 | ️ ل   ش | ⚡ |...
+- name: '9| @NOFiLTERING2 |      |  | '
   obfs: salamander
   obfs-password: rG07s3COMIEvdnQipRyWzx_H_2xygNC3
   password: p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR
@@ -213,7 +223,7 @@ proxies:
   sni: pro2.riziro.ir
   tls: false
   type: hysteria2
-- name: 9|Telegram 🆔@cnetvpn 🇱
+- name: '9|Telegram @cnetvpn  #2'
   obfs: salamander
   obfs-password: fuw2k1ddrouwxr3u
   password: s6gt5e4mof43sfg8
@@ -223,7 +233,7 @@ proxies:
   sni: giftcard.gateway-stream.com
   tls: false
   type: hysteria2
-- name: 9|@fastkanfig کانال ا
+- name: '9|@fastkanfig  '
   obfs: salamander
   obfs-password: b6d1f3888ab1d90dd11aac1dce427b81
   password: tnnls
@@ -233,7 +243,7 @@ proxies:
   sni: bwdf2fnt.xn--e1aatfr8bwa.online
   tls: false
   type: hysteria2
-- name: 9|Telegram 🆔@cnetvpn 🇪
+- name: '9|Telegram @cnetvpn  #3'
   obfs: salamander
   obfs-password: fuw2k1ddrouwxr3u
   password: vz86jgszv4zszchv
@@ -258,7 +268,7 @@ proxies:
   sni: hopp-swizland-new.mysynology.net
   tls: false
   type: hysteria2
-- name: 9|Telegram 🆔@cnetvpn
+- name: 9|Telegram @cnetvpn
   obfs: salamander
   obfs-password: fuw2k1ddrouwxr3u
   password: xf2ak19a4uajprxg
@@ -269,7 +279,7 @@ proxies:
   tls: false
   type: hysteria2
 - cipher: aes-256-cfb
-  name: 11|tg频道:@ripaojiedian
+  name: '11,12|tg频道:@ripaojiedian #1'
   password: amazonskr05
   port: 443
   server: 63.180.254.10
@@ -467,7 +477,7 @@ proxies:
   cipher: auto
   name: 12|香港|@ripaojiedian
   network: tcp
-  port: '30807'
+  port: 30807
   server: v10.hdacd.com
   servername: ''
   tls: false

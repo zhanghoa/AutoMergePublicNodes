@@ -72,7 +72,7 @@ proxies:
   cipher: auto
   name: 12|香港|@ripaojiedian
   network: tcp
-  port: '30807'
+  port: 30807
   server: v10.hdacd.com
   servername: ''
   tls: false
