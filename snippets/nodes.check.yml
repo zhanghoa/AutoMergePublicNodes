@@ -1,4 +1,4 @@
-# Update: 2026-10-03 19:54
+# Update: 2026-10-04 00:36
 proxies:
 - alterId: 0
   cipher: auto
@@ -161,6 +161,14 @@ proxies:
   sni: mhzedir.qzz.io
   tls: false
   type: hysteria2
+- name: ❌ 5|31@oneclickvpnkeys
+  password: 3a92b39a-5f02-415e-a908-783ec320e83f
+  port: 8443
+  server: 153.76.190.41
+  skip-cert-verify: true
+  sni: speedtestmark.com
+  tls: false
+  type: hysteria2
 - name: '❌ 5|@Begoo_VPN '
   obfs: salamander
   obfs-password: dzcb7hv6i2kx2zze
@@ -227,6 +235,37 @@ proxies:
   server: gift-catalog.aroonia.ir
   skip-cert-verify: false
   sni: gift-catalog.aroonia.ir
+  tls: false
+  type: hysteria2
+- name: ❌ 5|14@oneclickvpnkeys
+  password: 9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z
+  port: 8443
+  server: 162.249.127.141
+  sni: hop-germany-september.dynuddns.com
+  tls: false
+  type: hysteria2
+- name: ❌ 5|8@oneclickvpnkeys
+  password: 9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z
+  port: 8443
+  server: 162.249.127.143
+  skip-cert-verify: true
+  sni: hop-germany-september.dynuddns.com
+  tls: false
+  type: hysteria2
+- name: ❌ 5|6@oneclickvpnkeys
+  password: 9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z
+  port: 8443
+  server: 162.249.127.144
+  skip-cert-verify: true
+  sni: hop-germany-september.dynuddns.com
+  tls: false
+  type: hysteria2
+- name: ❌ 5|5@oneclickvpnkeys
+  password: 9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z
+  port: 8443
+  server: 162.249.127.146
+  skip-cert-verify: true
+  sni: hop-germany-september.dynuddns.com
   tls: false
   type: hysteria2
 - name: ❌ 5|+@Azarakhsh_Proxy+
@@ -365,10 +404,18 @@ proxies:
   sni: grape-test-italy.dynuddns.net
   tls: false
   type: hysteria2
-- name: ❌ 5|14@oneclickvpnkeys
+- name: '❌ 5|14@oneclickvpnkeys #1'
   password: s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z
   port: 8443
   server: 77.74.123.103
+  sni: grape-test-italy.dynuddns.net
+  tls: false
+  type: hysteria2
+- name: ❌ 5|3@oneclickvpnkeys
+  password: s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z
+  port: 8443
+  server: 77.74.123.99
+  skip-cert-verify: true
   sni: grape-test-italy.dynuddns.net
   tls: false
   type: hysteria2
@@ -435,7 +482,7 @@ proxies:
   type: ss
 - alterId: 2
   cipher: auto
-  name: ❌ 6|🇭🇰 香港|@ripaojiedian
+  name: ✅ 6|🇭🇰 香港|@ripaojiedian
   port: 30807
   server: v10.hdacd.com
   skip-cert-verify: false
@@ -624,7 +671,7 @@ proxies:
     path: /ws-vmess
 - alterId: 2
   cipher: auto
-  name: ❌ 7|香港|@ripaojiedian
+  name: ✅ 7|香港|@ripaojiedian
   network: tcp
   port: 30807
   server: v10.hdacd.com
@@ -733,7 +780,7 @@ proxies:
   sni: hk11.pulsarcore.site
   type: anytls
   udp: true
-- name: ✅ 8|🇺🇸US_1|1.1MB/s
+- name: ❌ 8|🇺🇸US_1|1.1MB/s
   password: 3fc0f254-54c3-4cf3-896b-5999a2b4c757
   port: 443
   server: as-us73.y1static-content-distribution.shop
