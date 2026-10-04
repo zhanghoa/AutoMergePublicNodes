@@ -1,1 +1,9 @@
-proxies: []
+proxies:
+- name: 8|🇨🇭CH_1|1.3MB/s
+  password: None
+  port: 9443
+  server: 37.120.213.210
+  skip-cert-verify: true
+  tls: true
+  type: http
+  username: null
