@@ -1,52 +1,20 @@
 proxies:
-- name: '2|A - 🇬🇧 GB 01 TG: @nodpai'
+- encryption: mlkem768x25519plus.native.0rtt.lmTuJzP_UcH5ThrWl5pCFPVsehutrNnyTRDVbSUP7mo
+  name: 8|🇬🇧GB_1|1.1MB/s
   network: ws
-  port: 8880
-  server: 185.193.30.30
+  port: '5456'
+  server: 188.213.198.25
   type: vless
-  uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
+  udp: true
+  uuid: 6b5d6852-0b29-4fb7-afa3-8904638bc1b5
   ws-opts:
     headers:
-      Host: vms.lifetime09.workers.dev
-- name: '2|A - 🇬🇧 GB 02 TG: @nodpai'
-  network: ws
-  port: 8880
-  server: 45.40.146.50
-  type: vless
-  uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
-  ws-opts:
-    headers:
-      Host: vms.lifetime36.workers.dev
-    path: /?ed=2560
-- name: '2|A - 🇬🇧 GB 03 TG: @nodpai'
-  network: ws
-  port: 8880
-  server: 45.80.110.30
-  type: vless
-  uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
-  ws-opts:
-    headers:
-      Host: vms.lifetime51.workers.dev
-- name: '2|B - 🇬🇧 GB 04 TG: @nodpai'
-  network: ws
-  port: 8880
-  server: 185.159.247.30
-  type: vless
-  uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
-  ws-opts:
-    headers:
-      Host: vms.lifetime59.workers.dev
+      Host: ''
+      User-Agent: Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML,
+        like Gecko) Chrome/69.0.3497.100 Safari/537.36
     path: /
-- name: '2|B - 🇬🇧 GB 05 TG: @nodpai'
-  network: ws
-  port: 8880
-  server: 77.75.199.30
-  type: vless
-  uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
-  ws-opts:
-    headers:
-      Host: vms.lifetime59.workers.dev
-- name: 8|🇬🇧GB_1|1.1MB/s
+  xudp: true
+- name: 8|🇬🇧GB_2|1.7MB/s
   password: None
   port: 443
   server: 37.120.233.34
@@ -54,15 +22,7 @@ proxies:
   tls: true
   type: http
   username: null
-- name: 8|🇬🇧GB_2|2.5MB/s
-  password: None
-  port: 9443
-  server: 37.120.233.34
-  skip-cert-verify: true
-  tls: true
-  type: http
-  username: null
-- name: 8|🇬🇧GB_3|2.5MB/s
+- name: 8|🇬🇧GB_3|2.3MB/s
   password: None
   port: 443
   server: 212.102.63.31
@@ -70,7 +30,21 @@ proxies:
   tls: true
   type: http
   username: null
-- name: 8|🇬🇧GB_4|1.6MB/s
+- name: 8|🇬🇧GB_4|2.3MB/s
+  password: None
+  port: 443
+  server: 212.102.63.61
+  skip-cert-verify: true
+  tls: true
+  type: http
+  username: null
+- name: 8|🇬🇧GB_5|1.6MB/s
+  port: 443
+  server: 84.17.50.193
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: 8|🇬🇧GB_6|2.9MB/s
   password: None
   port: 443
   server: 212.102.63.1

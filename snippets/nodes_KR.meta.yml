@@ -1,22 +1,4 @@
 proxies:
-- name: '2|A - 🇰🇷 KR 01 TG: @nodpai'
-  network: ws
-  port: 8880
-  server: 108.162.196.30
-  type: vless
-  uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
-  ws-opts:
-    headers:
-      Host: vms.lifetime59.workers.dev
-- name: '2|A - 🇰🇷 KR 02 TG: @nodpai'
-  network: ws
-  port: 8880
-  server: 72.167.230.30
-  type: vless
-  uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
-  ws-opts:
-    headers:
-      Host: vms.lifetime51.workers.dev
 - alterId: 0
   cipher: auto
   name: 6|🇰🇷 韩国|@ripaojiedian
@@ -40,13 +22,3 @@ proxies:
   skip-cert-verify: true
   sni: m.ctrip.com
   type: trojan
-- client-fingerprint: chrome
-  name: 8|🇰🇷KR_2|1.2MB/s
-  network: tcp
-  password: UX82473651
-  port: '443'
-  server: amazing-peacock.rooster465.autos
-  skip-cert-verify: true
-  sni: amazing-peacock.rooster465.autos
-  type: trojan
-  udp: true
