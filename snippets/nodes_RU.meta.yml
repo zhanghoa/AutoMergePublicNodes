@@ -1,19 +1,30 @@
 proxies:
-- name: 8|🇷🇺RU_1|3.5MB/s
-  port: 443
-  server: 82.147.71.46
-  skip-cert-verify: true
-  tls: true
-  type: http
-- name: 8|🇷🇺RU_2|3.5MB/s
-  port: 8443
-  server: 87.242.85.187
-  skip-cert-verify: true
-  tls: true
-  type: http
-- name: 8|🇷🇺RU_3|3.2MB/s
+- name: 8|🇷🇺RU_1|1.3MB/s
   port: 1446
   server: 46.29.166.134
   skip-cert-verify: true
   tls: true
   type: http
+- name: 8|🇷🇺RU_2|2.3MB/s
+  port: 443
+  server: 82.147.71.46
+  skip-cert-verify: true
+  tls: true
+  type: http
+- client-fingerprint: firefox
+  encryption: none
+  grpc-opts:
+    grpc-service-name: astracat
+  name: 8|🇷🇺RU_3|1.5MB/s
+  network: grpc
+  port: '2087'
+  reality-opts:
+    public-key: KDBhxT2YMtMjDEC9VdoDEISdCwxd6KFrSE8uyUaHcTY
+    short-id: ed435c242097fd05
+  server: 31.59.210.25
+  servername: www.yandex.ru
+  tls: true
+  type: vless
+  udp: true
+  uuid: 5413edfb-08d6-4fba-b51c-809c04feb127
+  xudp: true
