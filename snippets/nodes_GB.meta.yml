@@ -1,7 +1,7 @@
 proxies:
-- client-fingerprint: safari
+- client-fingerprint: chrome
   encryption: none
-  name: 8|🇬🇧GB_1|1.3MB/s
+  name: 8|🇬🇧GB_1|1.6MB/s
   network: xhttp
   port: '443'
   server: 46.33.11.36
@@ -14,43 +14,36 @@ proxies:
     mode: stream-up
     path: /api/v1/ingest/KczWgyXedh
   xudp: true
-- name: 8|🇬🇧GB_2|2.7MB/s
-  password: None
-  port: 443
-  server: 37.120.233.34
-  skip-cert-verify: true
-  tls: true
-  type: http
-- name: 8|🇬🇧GB_3|1.8MB/s
+- name: 8|🇬🇧GB_2|1.8MB/s
   password: None
   port: 443
   server: 212.102.63.61
   skip-cert-verify: true
   tls: true
   type: http
-- name: 8|🇬🇧GB_4|1.4MB/s
-  password: 0fcf5a7a-e1b7-11ec-a352-f23c91cfbbc9
-  port: 443
-  server: 1e32fec0-t9zts0-tq9o8d-1d3bw.uk.oshuawei.com
-  sni: 1e32fec0-t9zts0-tq9o8d-1d3bw.uk.oshuawei.com
-  tls: true
-  type: http
-  username: 0fcf5a7a-e1b7-11ec-a352-f23c91cfbbc9
-- name: 8|🇬🇧GB_5|1.9MB/s
+- name: 8|🇬🇧GB_3|2.6MB/s
   port: 443
   server: 84.17.50.193
   skip-cert-verify: true
   tls: true
   type: http
-- name: 8|🇬🇧GB_6|1010KB/s
-  password: None
+- name: 8|🇬🇧GB_4|1.9MB/s
+  password: ''
+  port: 443
+  server: 37.120.233.34
+  skip-cert-verify: true
+  tls: true
+  type: http
+  username: ''
+- name: 8|🇬🇧GB_5|2.4MB/s
+  port: 443
+  server: 37.120.233.18
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: 8|🇬🇧GB_6|1016KB/s
   port: 443
   server: 212.102.63.1
   skip-cert-verify: true
   tls: true
   type: http
-  username: null
-- name: 8|🇬🇧GB_7|1.5MB/s
-  port: 11111
-  server: 157.180.24.140
-  type: socks5

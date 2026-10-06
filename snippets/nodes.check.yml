@@ -1,4 +1,4 @@
-# Update: 2026-10-06 14:42
+# Update: 2026-10-07 02:33
 proxies:
 - alterId: 0
   cipher: auto
@@ -165,14 +165,6 @@ proxies:
   sni: fiproxy1.lockdwn.com
   tls: false
   type: hysteria2
-- name: ✅ 5|93@oneclickvpnkeys
-  password: 865e271f7c97b549b024255c9d02cebe9cc0c2c070a82b1e11bb11b9cd88dd01
-  port: 443
-  server: streambox.wwwinternetvideo.click
-  skip-cert-verify: true
-  sni: streambox.wwwinternetvideo.click
-  tls: false
-  type: hysteria2
 - name: ❌ 5|@vmesskhodam
   obfs: salamander
   obfs-password: xK9mN2pLq5vR8wB3
@@ -201,13 +193,6 @@ proxies:
   server: gift-catalog.aroonia.ir
   skip-cert-verify: false
   sni: gift-catalog.aroonia.ir
-  tls: false
-  type: hysteria2
-- name: ❌ 5|38@oneclickvpnkeys
-  password: 9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z
-  port: 8443
-  server: 162.249.127.136
-  sni: hop-germany-september.dynuddns.com
   tls: false
   type: hysteria2
 - name: ❌ 5|   ange1Vpn@
@@ -270,16 +255,6 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: ❌ 5|@FreakConfig
-  obfs: salamander
-  obfs-password: ec66908dbc46e6920143d9b684adf277
-  password: ca78f919e6
-  port: 11592
-  server: 155.94.134.183
-  skip-cert-verify: false
-  sni: srv-3fc7c9.21freedom.net
-  tls: false
-  type: hysteria2
 - alpn:
   - h3
   name: '❌ 5|@V2raySaman #1'
@@ -292,7 +267,17 @@ proxies:
   sni: srv-3fc7c9.21freedom.net
   tls: false
   type: hysteria2
-- name: ❌ 5|15@oneclickvpnkeys
+- name: '❌ 5|  @vistav2ray    '
+  obfs: salamander
+  obfs-password: ec66908dbc46e6920143d9b684adf277
+  password: ca78f919e6
+  port: 11592
+  server: 155.94.134.183
+  skip-cert-verify: false
+  sni: srv-3fc7c9.21freedom.net
+  tls: false
+  type: hysteria2
+- name: ❌ 5|34@oneclickvpnkeys
   obfs: salamander
   obfs-password: mbQXP2ASuHbF6ZPq
   password: capadm96216165
@@ -302,7 +287,17 @@ proxies:
   sni: vpn.local
   tls: false
   type: hysteria2
-- name: '✅ 5|@FreakConfig #1'
+- name: ❌ 5|188573 | Telegram = t.me/SOSke...
+  obfs: salamander
+  obfs-password: ChY5QQQT3ZtUdNT8
+  password: capadmbd5f18bd
+  port: 443
+  server: 51.77.217.70
+  skip-cert-verify: true
+  sni: vpn.local
+  tls: false
+  type: hysteria2
+- name: ✅ 5|@FreakConfig
   obfs: salamander
   obfs-password: 44f1c1e2f8b99e792ceed574627a1eb0
   password: cd74c0a406664a5bc0bac098220a2468
@@ -370,18 +365,11 @@ proxies:
   sni: pro2.riziro.ir
   tls: false
   type: hysteria2
-- name: '❌ 5|15@oneclickvpnkeys #1'
+- name: ❌ 5|31@oneclickvpnkeys
   password: s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z
   port: 8443
-  server: 77.74.123.104
+  server: 77.74.123.98
   skip-cert-verify: true
-  sni: grape-test-italy.dynuddns.net
-  tls: false
-  type: hysteria2
-- name: ❌ 5|13@oneclickvpnkeys
-  password: s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z
-  port: 8443
-  server: 77.74.123.105
   sni: grape-test-italy.dynuddns.net
   tls: false
   type: hysteria2
@@ -718,66 +706,60 @@ proxies:
   skip-cert-verify: true
   sni: m.ctrip.com
   type: trojan
-- client-fingerprint: safari
-  flow: xtls-rprx-vision
-  name: ✅ 8|🇫🇮FI_1|2.6MB/s
-  network: tcp
-  port: 443
-  reality-opts:
-    public-key: M7yPV6xLi9h6EevpqZfXLZBuxoey8kz1c6Bh0pK5fho
-    short-id: 170ab9ced015571f
-  server: 188.130.209.216
-  servername: emaar.ru
-  tls: true
-  type: vless
-  udp: true
-  uuid: 444623e9-f27d-487c-b7cc-436931967e79
-- auth: 5d0a6445-a30d-4522-bb1f-94f1d3ad63be
-  name: ❌ 8|🇪🇸ES_1|1.5MB/s
-  password: 5d0a6445-a30d-4522-bb1f-94f1d3ad63be
-  port: 2060
-  server: xby.mangshe.xyz
+- auth: Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0
+  name: ❌ 8|🇷🇴RO_1|3.5MB/s
+  password: Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0
+  port: 8443
+  server: 103.126.51.50
   skip-cert-verify: true
-  type: hysteria2
-- auth: 19f72087-4591-4d72-930b-2697078ec2be
-  name: ❌ 8|🇭🇰HK_1|1.8MB/s
-  password: 19f72087-4591-4d72-930b-2697078ec2be
-  port: 4433
-  server: hk2.xiaoliyu.cyou
-  skip-cert-verify: true
-  sni: hk2.xiaoliyu.cyou
+  sni: ocober-romania-new.yyuyy.com
   type: hysteria2
 - alpn:
+  - h3
   - h2
   - http/1.1
-  flow: xtls-rprx-vision
-  name: ✅ 8|🇵🇱PL_1|1.5MB/s
-  network: tcp
-  port: 2063
+  encryption: mlkem768x25519plus.native.0rtt.KmObJcXK-X9Zx5HMeSkn-zchyyWJR3U2XMJDtWK2QEw
+  name: ✅ 8|🇩🇪DE_1|1.1MB/s
+  network: xhttp
+  port: 8443
   reality-opts:
-    public-key: MMpt_jWc4J3oySBdf5sPDVRkiWlZmOObth6A1scM9BM
-  server: pl-waw.dontblockmepls.com
-  servername: rusbid.de
+    public-key: GB3bGUtRma7-14YH-WK--1CR9GXXPHNqFUQz8v0YLBk
+    short-id: 1a4e3e64b9a568c5
+  server: 2.28.142.170
+  servername: germanytest.tulnaro.ir
   tls: true
   type: vless
   udp: true
-  uuid: b18d5990-96eb-4587-a386-7f8ef7591e6a
+  uuid: f774f037-6320-42e3-a97b-6d4a1f018dd5
+  xhttp-opts:
+    host: germanytest.tulnaro.ir
+    mode: auto
+    path: /
+- cipher: aes-256-cfb
+  name: ✅ 8|🇫🇷FR_1|1.6MB/s
+  password: amazonskr05
+  port: 443
+  server: 13.36.167.227
+  type: ss
+  udp: true
+- name: ✅ 8|🇫🇷FR_2|1.3MB/s
+  password: github.com/Alvin9999-newpac/fanqiang
+  port: 30099
+  server: ip5.934618.xyz
+  skip-cert-verify: true
+  sni: ip5.934618.xyz
+  type: anytls
+  udp: true
+- name: ✅ 8|🇺🇸US_1|1.1MB/s
+  password: github.com/Alvin9999-newpac/fanqiang
+  port: 19000
+  server: anytls2.864106.xyz
+  skip-cert-verify: true
+  sni: anytls2.864106.xyz
+  type: anytls
+  udp: true
 - encryption: none
-  grpc-opts:
-    grpc-service-name: content.v1.Feed
-  name: ✅ 8|🇩🇪DE_1|2.9MB/s
-  network: grpc
-  port: '443'
-  server: 163.245.43.50
-  servername: se-twitch.global-cdn.org
-  tls: true
-  type: vless
-  udp: true
-  uuid: 203d434a-2a92-45df-8973-ca80434ecf73
-  xudp: true
-- client-fingerprint: safari
-  encryption: none
-  name: ✅ 8|🇬🇧GB_1|1.3MB/s
+  name: ✅ 8|🇬🇧GB_1|1.6MB/s
   network: xhttp
   port: '443'
   server: 46.33.11.36
@@ -790,157 +772,118 @@ proxies:
     mode: stream-up
     path: /api/v1/ingest/KczWgyXedh
   xudp: true
-- name: ✅ 8|🇫🇷FR_1|3.1MB/s
-  password: github.com/Alvin9999-newpac/fanqiang
-  port: 30099
-  server: ip5.934618.xyz
-  skip-cert-verify: true
-  sni: ip5.934618.xyz
-  type: anytls
-  udp: true
-- auth: github.com/Alvin9999-newpac/fanqiang
-  name: ❌ 8|🇫🇷FR_2|4.7MB/s
-  password: github.com/Alvin9999-newpac/fanqiang
-  port: 43115
-  server: 62.210.147.2
-  skip-cert-verify: true
-  sni: www.microsoft.com
-  type: hysteria2
-  udp: true
-- idle-session-check-interval: 30
-  idle-session-timeout: 30
-  name: ✅ 8|🇺🇸US_7|1.2MB/s
-  password: 776b4834-caaf-4006-ab21-409e958867af
-  port: 33091
-  server: 45.202.240.4
-  skip-cert-verify: true
-  sni: www.bing.com
-  type: anytls
-  udp: true
-- client-fingerprint: firefox
+- alpn:
+  - h2
+  - http/1.1
   encryption: none
-  name: ✅ 8|🇳🇱NL_8|1.1MB/s
-  network: tcp
+  name: ✅ 8|🇺🇸US_2|3.3MB/s
+  network: xhttp
   port: '443'
-  reality-opts:
-    public-key: zYNnGVEkMFCUR_9NcYeaXfm9A_L-PP6iG2sIIST6S0M
-    short-id: 1ed136481e0ede74
-  server: eu86.vaultberry.cloud
-  servername: eu86.vaultberry.cloud
+  server: cdn8.alihapp.com
+  servername: cdn8.alihapp.com
   tls: true
   type: vless
   udp: true
-  uuid: cfcb4c51-5c89-4132-a86d-bbbb757b56fb
+  uuid: c4394e27-baeb-422d-8905-a93f8e01126f
+  xhttp-opts:
+    host: cdn8.alihapp.com
+    mode: auto
+    path: /
   xudp: true
-- client-fingerprint: firefox
-  encryption: none
-  flow: xtls-rprx-vision
-  name: ✅ 8|🇳🇱NL_9|1.8MB/s
+- encryption: none
+  name: ✅ 8|🇩🇪DE_2|1.2MB/s
   network: tcp
-  port: '443'
+  port: '8080'
   reality-opts:
-    public-key: bYDBgjfKs8NyRn_NyUtpY2gx41x5AGg_WEedfx9zIwM
-    short-id: abdfc06000ae8552
-  server: 103.137.193.156
-  servername: nl.virtez.pro
+    public-key: _OmNcv89o5SDt4H3ButRX9UynGIVwNZR250w4Zie-yk
+    short-id: 73693dea6faae051
+  server: 91.107.165.46
+  servername: www.actionvfx.com
   tls: true
   type: vless
   udp: true
-  uuid: 0d6e70a5-abfd-4766-8ad4-e502173ba82b
+  uuid: 59ab9bbf-3f08-4992-bbf3-4faddceb8e49
   xudp: true
-- client-fingerprint: firefox
+- cipher: aes-256-cfb
+  name: ✅ 8|🇺🇸US_3|1.5MB/s
+  password: amazonskr05
+  port: '443'
+  server: 23.22.158.187
+  type: ss
+  udp: true
+- name: ✅ 8|🇻🇳VN_1|1.0MB/s
+  password: a7c5d30b-ce9b-4e34-b5cb-66f8308790ef
+  port: 1007
+  server: 4zfp01mn.zf-mix.9999231.xyz
+  skip-cert-verify: true
+  sni: vn-my.9999231.xyz
+  type: anytls
+  udp: true
+- cipher: aes-256-cfb
+  name: ✅ 8|🇩🇪DE_5|4.0MB/s
+  password: amazonskr05
+  port: 443
+  server: 18.159.149.158
+  type: ss
+  udp: true
+- cipher: aes-256-cfb
+  name: ✅ 8|🇩🇪DE_6|4.1MB/s
+  password: amazonskr05
+  port: 443
+  server: 3.67.197.81
+  type: ss
+  udp: true
+- cipher: aes-256-cfb
+  name: ✅ 8|🇺🇸US_15|1009KB/s
+  password: amazonskr05
+  port: 443
+  server: 100.26.108.154
+  type: ss
+  udp: true
+- client-fingerprint: safari
   encryption: none
   grpc-opts:
     grpc-service-name: astracat
-  name: ✅ 8|🇷🇺RU_3|1.5MB/s
+  name: ✅ 8|🇷🇺RU_3|2.6MB/s
   network: grpc
-  port: '2087'
+  port: '2088'
   reality-opts:
-    public-key: KDBhxT2YMtMjDEC9VdoDEISdCwxd6KFrSE8uyUaHcTY
-    short-id: ed435c242097fd05
-  server: 31.59.210.25
+    public-key: Eq3c19Y0WGB1APWMADQB-oxCvZFSVFAQxG5L6b8EkUg
+    short-id: b1ad165f903c62fe
+  server: 31.59.210.26
   servername: www.yandex.ru
   tls: true
   type: vless
   udp: true
   uuid: 5413edfb-08d6-4fba-b51c-809c04feb127
   xudp: true
-- client-fingerprint: unsafe
-  encryption: none
-  name: ✅ 8|🇧🇬BG_2|2.8MB/s
-  network: ws
-  port: '443'
-  server: 13.140.29.170
-  servername: shin-ra.ccwu.cc
+- encryption: none
+  name: ✅ 8|🇩🇪DE_10|3.4MB/s
+  network: tcp
+  port: '8080'
+  reality-opts:
+    public-key: _OmNcv89o5SDt4H3ButRX9UynGIVwNZR250w4Zie-yk
+    short-id: 73693dea6faae051
+  server: fi1d.lynch.ir
+  servername: www.actionvfx.com
   tls: true
   type: vless
   udp: true
-  uuid: 817b61c8-9bf0-4365-8a52-e43dfad274a6
-  ws-opts:
-    headers:
-      Host: shin-ra.ccwu.cc
-      User-Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML,
-        like Gecko) Chrome/65.0.3325.181 Safari/537.36
-    path: /
-  xudp: true
-- cipher: chacha20-ietf-poly1305
-  name: ✅ 8|🇺🇸US_34|2.2MB/s
-  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
-  plugin: obfs
-  plugin-opts:
-    host: (Telegram🇨🇳 @VPNine1)fa03bb5:137563
-    mode: tls
-  port: '2377'
-  server: 134.195.101.119
-  type: ss
-  udp: true
-- name: ✅ 8|🇸🇬SG_1|1.9MB/s
-  network: ws
-  port: '8443'
-  server: news.zoom.us
-  servername: asia.csmaster.site
-  tls: true
-  type: vless
-  udp: true
-  uuid: 799b1006-3255-4e36-8ea0-64fe24d2bfa7
-  ws-opts:
-    headers:
-      Host: asia.csmaster.site
-      User-Agent: Mozilla/5.0 (Linux; Android 6.0; vivo 1606 Build/MMB29M) AppleWebKit/537.36
-        (KHTML, like Gecko) Chrome/53.0.2785.124 Mobile Safari/537.36
-    path: ''
-  xudp: true
-- name: ✅ 8|🇸🇬SG_2|1.6MB/s
-  network: ws
-  port: '443'
-  server: 170.114.52.22
-  tls: true
-  type: vless
-  udp: true
-  uuid: a853e120-3570-462b-aec1-e8f3d4f92d24
-  ws-opts:
-    headers:
-      Host: asia.csmaster.site
-      User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like
-        Gecko) Chrome/44.0.2403.157 Safari/537.36
-    path: ''
+  uuid: 59ab9bbf-3f08-4992-bbf3-4faddceb8e49
   xudp: true
 - encryption: none
-  name: ✅ 8|🇺🇸US_35|2.2MB/s
-  network: ws
-  port: '443'
-  server: 2.56.172.107
-  servername: x.m-90.xyz
+  name: ✅ 8|🇫🇷FR_4|1.2MB/s
+  network: tcp
+  port: '8445'
+  reality-opts:
+    public-key: T3mwuNKqo8QuH0Vy6E50yClcQBSuh3scQJEl154D_j4
+    short-id: 8d241939
+  server: fin3.noirex.ir
+  servername: www3.donyumvps.tr
   tls: true
   type: vless
   udp: true
-  uuid: 489f1717-d3c7-4940-ad68-bdbdbab857f4
-  ws-opts:
-    headers:
-      Host: x.m-90.xyz
-      User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML,
-        like Gecko) Chrome/59.0.3071.115 Safari/537.36
-    path: t.me/TEAMNETGRATISCOL
+  uuid: 250865f0-4a0f-4e2e-8d14-4c39a25d0bef
   xudp: true
 - flow: xtls-rprx-vision
   name: ❌ 9|US_speednode_0130
