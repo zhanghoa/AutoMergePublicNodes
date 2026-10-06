@@ -1,7 +1,19 @@
 proxies:
-- name: 8|🇷🇺RU_1|1011KB/s
+- name: 8|🇷🇺RU_1|3.5MB/s
   port: 443
   server: 82.147.71.46
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: 8|🇷🇺RU_2|3.5MB/s
+  port: 8443
+  server: 87.242.85.187
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: 8|🇷🇺RU_3|3.2MB/s
+  port: 1446
+  server: 46.29.166.134
   skip-cert-verify: true
   tls: true
   type: http

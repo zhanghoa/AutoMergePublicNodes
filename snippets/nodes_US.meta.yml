@@ -45,29 +45,192 @@ proxies:
   skip-cert-verify: true
   sni: m.ctrip.com
   type: trojan
-- name: 8|🇺🇸US_1|2.8MB/s
-  port: 8443
-  server: 45.145.72.122
+- client-fingerprint: firefox
+  flow: xtls-rprx-vision
+  name: 8|🇺🇸US_1|3.5MB/s
+  network: tcp
+  port: 443
+  reality-opts:
+    public-key: SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc
+  server: 45.151.71.63
+  servername: abuse.sellflow.org
+  tls: true
+  type: vless
+  udp: true
+  uuid: 3984a6ee-9fc6-4219-93fd-706c59e02171
+- client-fingerprint: qq
+  name: 8|🇺🇸US_16|1.6MB/s
+  network: tcp
+  port: 443
+  reality-opts:
+    public-key: LYnDDS0AkBwVeeTyIEE5MhrTV_PZO5f1qBAbMN6z4HM
+    short-id: f1955f72763eb2fb
+  server: 34.187.170.146
+  servername: www.cloudflare.com
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: dffab367-7769-4c6c-86f2-66fc6bd03003
+- alpn:
+  - h2
+  - http/1.1
+  client-fingerprint: chrome
+  encryption: none
+  name: 8|🇺🇸US_4|3.3MB/s
+  network: xhttp
+  port: '443'
+  server: cdn8.alihapp.com
+  servername: cdn8.alihapp.com
+  tls: true
+  type: vless
+  udp: true
+  uuid: c4394e27-baeb-422d-8905-a93f8e01126f
+  xhttp-opts:
+    host: cdn8.alihapp.com
+    mode: auto
+    path: /
+  xudp: true
+- fingerprint: ''
+  name: 8|🇺🇸US_5|2.5MB/s
+  password: 9sK2mP8xQ7vL3nZ6
+  port: '443'
+  server: awefd2313fefarg23fr24.pnuqcnp.cn
+  skip-cert-verify: true
+  sni: images.ctfassets.net
+  type: anytls
+  udp: true
+  username: 9sK2mP8xQ7vL3nZ6
+- cipher: aes-256-cfb
+  name: 8|🇺🇸US_6|3.4MB/s
+  password: amazonskr05
+  port: 443
+  server: 23.22.158.187
+  type: ss
+  udp: true
+- name: 8|🇺🇸US_7|3.3MB/s
+  password: 'null'
+  port: 443
+  server: crosscards.site
+  sni: crosscards.site
+  tls: true
+  type: http
+  username: 'null'
+- name: 8|🇺🇸US_8|3.3MB/s
+  port: 443
+  server: 167.88.60.242
   skip-cert-verify: true
   tls: true
   type: http
-- client-fingerprint: chrome
-  name: 8|🇺🇸US_2|2.4MB/s
+- name: 8|🇺🇸US_9|2.7MB/s
+  password: None
+  port: 9002
+  server: 138.199.35.200
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: 8|🇺🇸US_10|4.2MB/s
+  port: 443
+  server: jewelscollecti.icu
+  skip-cert-verify: true
+  sni: jewelscollecti.icu
+  tls: true
+  type: http
+- name: 8|🇺🇸US_11|2.7MB/s
+  password: None
+  port: 443
+  server: mmgr.club
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: 8|🇺🇸US_12|4.3MB/s
+  password: None
+  port: 9002
+  server: 138.199.35.208
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: 8|🇺🇸US_13|3.2MB/s
+  password: None
+  port: 9002
+  server: 138.199.35.195
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: 8,9|US_speednode_0143
+  port: 9002
+  server: 138.199.35.198
+  skip-cert-verify: true
+  tls: true
+  type: http
+  udp: true
+- name: 8|🇺🇸US_15|3.8MB/s
   password: a7c5d30b-ce9b-4e34-b5cb-66f8308790ef
   port: 1002
-  server: qm5tw9xz.zf-mix.9999231.xyz
+  server: vltl28mf.zf-mix.9999231.xyz
   skip-cert-verify: true
   sni: iosapps.itunes.apple.com
   type: anytls
   udp: true
-- name: 8|🇺🇸US_3|1.1MB/s
+- client-fingerprint: firefox
+  name: 8|🇺🇸US_17|3.2MB/s
+  network: tcp
+  password: b837a998138d4c0a
+  port: '20019'
+  server: 192.9.158.245
+  skip-cert-verify: false
+  sni: sa245.moldscience.cc
+  type: trojan
+  udp: true
+- encryption: none
+  name: 8|🇺🇸US_18|2.2MB/s
+  network: tcp
+  port: '45299'
+  server: 104.243.33.154
+  type: vless
+  udp: true
+  uuid: 261f011c-e97a-4d72-b596-e6329b50b47b
+  xudp: true
+- name: 8|🇺🇸US_19|3.1MB/s
   password: 'null'
-  port: 443
-  server: goedkoopgeluid.icu
+  port: '443'
+  server: webdrone.club
   skip-cert-verify: true
   tls: true
   type: http
   username: 'null'
+- name: 8|🇺🇸US_20|3.2MB/s
+  password: 0fcf5a7a-e1b7-11ec-a352-f23c91cfbbc9
+  port: '443'
+  server: 31cebf36-t9zts0-tq9o8d-1d3bw.sj.oshuawei.com
+  skip-cert-verify: true
+  tls: true
+  type: http
+  username: 0fcf5a7a-e1b7-11ec-a352-f23c91cfbbc9
+- name: 8|🇺🇸US_21|3.6MB/s
+  password: None
+  port: '9002'
+  server: 138.199.35.219
+  skip-cert-verify: true
+  tls: true
+  type: http
+  username: 'null'
+- name: 8|🇺🇸US_22|2.7MB/s
+  password: ''
+  port: '8443'
+  server: 45.150.164.18
+  skip-cert-verify: true
+  tls: true
+  type: http
+  username: ''
+- name: 8|🇺🇸US_23|3.4MB/s
+  password: ''
+  port: '9002'
+  server: 138.199.35.196
+  skip-cert-verify: true
+  tls: true
+  type: http
+  username: ''
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
   name: 9|US_speednode_0130
@@ -224,13 +387,6 @@ proxies:
   type: vless
   udp: true
   uuid: f06c6039-a489-3d78-a676-ed43be6deca3
-- name: 9|US_speednode_0143
-  port: 9002
-  server: 138.199.35.198
-  skip-cert-verify: true
-  tls: true
-  type: http
-  udp: true
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
   name: 9|US_speednode_0144

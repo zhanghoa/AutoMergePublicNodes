@@ -1,1 +1,7 @@
-proxies: []
+proxies:
+- name: 8|🇨🇦CA_1|1.5MB/s
+  port: 443
+  server: 206.223.183.16
+  skip-cert-verify: true
+  tls: true
+  type: http
