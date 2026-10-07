@@ -45,21 +45,52 @@ proxies:
   skip-cert-verify: true
   sni: m.ctrip.com
   type: trojan
-- name: 8|🇺🇸US_3|1.0MB/s
+- name: 8|🇺🇸US_1|2.5MB/s
+  password: None
+  port: 9002
+  server: 138.199.35.202
+  skip-cert-verify: true
+  tls: true
+  type: http
+  username: null
+- name: 8|🇺🇸US_2|1.8MB/s
   password: None
   port: 443
-  server: berniesbodybla.fun
+  server: zebpay.site
   skip-cert-verify: false
   tls: true
   type: http
   username: null
-- name: 8,9|US_speednode_0140
-  password: None
+- name: 8|🇺🇸US_3|1.6MB/s
   port: 443
-  server: purposebydesig.club
+  server: 148.135.10.80
+  skip-cert-verify: true
   tls: true
   type: http
-  udp: true
+- name: 8|🇺🇸US_4|1013KB/s
+  port: 443
+  server: 167.88.60.242
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: 8|🇺🇸US_5|1.4MB/s
+  port: 443
+  server: 12.202.180.10
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: 8|🇺🇸US_6|1.3MB/s
+  port: 9443
+  server: 149.88.21.140
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: 8|🇺🇸US_7|1.2MB/s
+  port: 443
+  server: 45.63.38.134
+  skip-cert-verify: true
+  tls: true
+  type: http
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
   name: 9|US_speednode_0130
@@ -187,6 +218,13 @@ proxies:
   type: vless
   udp: true
   uuid: 9638a83e-f1f7-4cc8-a602-924965d9534f
+- name: 9|US_speednode_0140
+  password: None
+  port: 443
+  server: purposebydesig.club
+  tls: true
+  type: http
+  udp: true
 - name: 9|US_speednode_0141
   port: 443
   server: 38.28.193.188

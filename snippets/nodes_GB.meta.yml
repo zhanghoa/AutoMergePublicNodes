@@ -1,1 +1,17 @@
-proxies: []
+proxies:
+- client-fingerprint: firefox
+  encryption: none
+  flow: xtls-rprx-vision
+  name: 8|🇬🇧GB_1|1.3MB/s
+  network: tcp
+  port: '443'
+  reality-opts:
+    public-key: 65d6SIYIqiX-SN4vx_BnNiQJ8Lnr0HAgUKoT7WgWRgI
+    short-id: ee169e93d3c277a1
+  server: 193.202.113.5
+  servername: edge-uk2.mystatic-cdn.ru
+  tls: true
+  type: vless
+  udp: true
+  uuid: 6f756511-7fc3-41ba-874b-8cdc8e1b225f
+  xudp: true

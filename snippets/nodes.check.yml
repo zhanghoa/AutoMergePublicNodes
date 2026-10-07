@@ -1,4 +1,4 @@
-# Update: 2026-10-07 14:18
+# Update: 2026-10-07 21:44
 proxies:
 - alterId: 0
   cipher: auto
@@ -90,20 +90,12 @@ proxies:
   tls: false
   type: vmess
   uuid: 88888888-8888-8888-8888-888888888888
-- name: ❌ 4|🇫🇷188762 | ⚡️Telegram = t.me/S...
+- name: ❌ 4|🇫🇷189112 | ⚡️Telegram = t.me/S...
   password: H7mP2xY9kJ4nQ8wR5tF6vB3z
   port: 443
-  server: 13.36.234.11
+  server: 51.44.167.227
   skip-cert-verify: true
   sni: vpn-fr-001.fastervpn.world
-  tls: false
-  type: hysteria2
-- name: ❌ 4|188763 | Telegram = t.me/SOSke...
-  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
-  port: 443
-  server: 13.38.44.64
-  skip-cert-verify: true
-  sni: 'off'
   tls: false
   type: hysteria2
 - name: ❌ 4,5|@KAFING_2
@@ -222,6 +214,14 @@ proxies:
   sni: mhzedir.qzz.io
   tls: false
   type: hysteria2
+- name: ❌ 5|13@oneclickvpnkeys
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: 443
+  server: 13.38.44.64
+  skip-cert-verify: true
+  sni: 'off'
+  tls: false
+  type: hysteria2
 - name: ❌ 5|+@Azarakhsh_Proxy+
   obfs: salamander
   obfs-password: KevinZakarian
@@ -232,7 +232,7 @@ proxies:
   sni: 179.61.132.96
   tls: false
   type: hysteria2
-- name: '✅ 5|@FarazV2ray #1'
+- name: ✅ 5|@FarazV2ray
   obfs: salamander
   obfs-password: c1b4086fea89914496c7e10967a419216566
   password: QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s
@@ -284,7 +284,7 @@ proxies:
   sni: srv-3fc7c9.21freedom.net
   tls: false
   type: hysteria2
-- name: ❌ 5|188843 | Telegram = t.me/SOSke...
+- name: '❌ 5|  @vistav2ray    '
   obfs: salamander
   obfs-password: ec66908dbc46e6920143d9b684adf277
   password: ca78f919e6
@@ -358,6 +358,14 @@ proxies:
   server: giftcard.gateway-stream.com
   skip-cert-verify: false
   sni: giftcard.gateway-stream.com
+  tls: false
+  type: hysteria2
+- name: ✅ 5|14@oneclickvpnkeys
+  password: mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj
+  port: 443
+  server: 91.196.32.163
+  skip-cert-verify: true
+  sni: germany3.h2corp.local
   tls: false
   type: hysteria2
 - name: '✅ 5|@confiig_hub #1'
@@ -723,26 +731,45 @@ proxies:
   skip-cert-verify: true
   sni: m.ctrip.com
   type: trojan
-- name: ✅ 8|🇩🇪DE_1|1.8MB/s
-  network: tcp
-  port: 39100
-  server: 46.225.255.204
+- name: ✅ 8|🇩🇪DE_1|1.1MB/s
+  network: ws
+  port: 2052
+  server: 172.64.229.129
   tls: false
   type: vless
   udp: true
-  uuid: 88888888-8888-8888-8888-888888888888
-- name: ✅ 8|🇰🇷KR_1|1.4MB/s
-  password: Trojan@82164024
-  port: 443
-  server: kr.tronsg.com
+  uuid: 5744e593-1cc8-48fa-b8ca-57cd494fe35b
+  ws-opts:
+    headers:
+      Host: eu02.123450908.xyz
+    path: /rain1226
+- encryption: mlkem768x25519plus.native.0rtt.Obr5RkpXcciyoYhSOWoBu-rPy23XTh96VbZGM95Lpic
+  flow: xtls-rprx-vision
+  name: ✅ 8|🇩🇪DE_2|3.7MB/s
+  network: tcp
+  port: 59719
+  reality-opts:
+    public-key: cWI4RpOZJqkX1HE9pQIZQ8eNeLWGX8UEzECyRehQnlQ
+    short-id: 6e6f9fa5decc02
+  server: 189.24.108.152
+  servername: www.sony.lu
+  tls: true
+  type: vless
+  udp: true
+  uuid: cd55b3ae-6833-4eff-be18-55bd92164071
+- name: ✅ 8|🇫🇷FR_1|1.2MB/s
+  password: github.com/Alvin9999-newpac/fanqiang
+  port: 30099
+  server: ip5.934618.xyz
   skip-cert-verify: true
-  sni: kr.tronsg.com
-  type: trojan
+  sni: ip5.934618.xyz
+  type: anytls
+  udp: true
 - alpn:
   - h3
   - h2
   encryption: none
-  name: ✅ 8|🇯🇵JP_1|5.0MB/s
+  name: ✅ 8|🇯🇵JP_1|5.3MB/s
   network: ws
   port: '443'
   server: saas.sin.fan
@@ -754,17 +781,38 @@ proxies:
   ws-opts:
     headers:
       Host: snip.edgeoneai.cc.cd
-      User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like
-        Gecko) Chrome/49.0.2623.87 Safari/537.36
+      User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/533.4
+        (KHTML, like Gecko) Chrome/5.0.375.99 Safari/533.4
     path: /fdip=sstp://vpn:vpn@vpn748359672.opengw.net:1458?ed=2560
   xudp: true
-- name: ✅ 8|🇫🇷FR_2|1.1MB/s
-  password: github.com/Alvin9999-newpac/fanqiang
-  port: 30099
-  server: ip5.934618.xyz
-  sni: ip5.934618.xyz
-  type: anytls
+- client-fingerprint: firefox
+  encryption: none
+  flow: xtls-rprx-vision
+  name: ✅ 8|🇬🇧GB_1|1.3MB/s
+  network: tcp
+  port: '443'
+  reality-opts:
+    public-key: 65d6SIYIqiX-SN4vx_BnNiQJ8Lnr0HAgUKoT7WgWRgI
+    short-id: ee169e93d3c277a1
+  server: 193.202.113.5
+  servername: edge-uk2.mystatic-cdn.ru
+  tls: true
+  type: vless
   udp: true
+  uuid: 6f756511-7fc3-41ba-874b-8cdc8e1b225f
+  xudp: true
+- encryption: none
+  flow: xtls-rprx-vision
+  name: ✅ 8|🇩🇪DE_3|1.1MB/s
+  network: tcp
+  port: '443'
+  server: 31.131.251.17
+  servername: quatro.lmstream.org
+  tls: true
+  type: vless
+  udp: true
+  uuid: 9ea8b000-58ce-0050-b108-989dd4f248f1
+  xudp: true
 - flow: xtls-rprx-vision
   name: ❌ 9|US_speednode_0130
   network: tcp

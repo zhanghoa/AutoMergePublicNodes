@@ -110,3 +110,10 @@ proxies:
   skip-cert-verify: true
   sni: m.ctrip.com
   type: trojan
+- name: 8|🇭🇰HK_1|2.9MB/s
+  password: <password>
+  port: 8443
+  server: 61711f60-tdups0-tf8z9r-1pr35.hkt.cdnhuawei.com
+  tls: true
+  type: http
+  username: 6b7c1278-ff9d-11ee-84ca-f23c913c8d2b
