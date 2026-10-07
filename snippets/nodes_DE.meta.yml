@@ -9,22 +9,10 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: 8|🇩🇪DE_1|1.1MB/s
-  network: ws
-  port: 2052
-  server: 172.64.229.129
-  tls: false
-  type: vless
-  udp: true
-  uuid: 5744e593-1cc8-48fa-b8ca-57cd494fe35b
-  ws-opts:
-    headers:
-      Host: eu02.123450908.xyz
-    path: /rain1226
 - client-fingerprint: chrome
   encryption: mlkem768x25519plus.native.0rtt.Obr5RkpXcciyoYhSOWoBu-rPy23XTh96VbZGM95Lpic
   flow: xtls-rprx-vision
-  name: 8|🇩🇪DE_2|3.7MB/s
+  name: 8|🇩🇪DE_1|2.3MB/s
   network: tcp
   port: 59719
   reality-opts:
@@ -36,16 +24,96 @@ proxies:
   type: vless
   udp: true
   uuid: cd55b3ae-6833-4eff-be18-55bd92164071
+- cipher: aes-256-cfb
+  name: 8|🇩🇪DE_2|3.6MB/s
+  password: amazonskr05
+  port: 443
+  server: 63.177.230.112
+  type: ss
+  udp: true
 - client-fingerprint: chrome
   encryption: none
-  flow: xtls-rprx-vision
-  name: 8|🇩🇪DE_3|1.1MB/s
+  name: 8|🇩🇪DE_3|4.2MB/s
   network: tcp
-  port: '443'
-  server: 31.131.251.17
-  servername: quatro.lmstream.org
+  port: '2434'
+  reality-opts:
+    public-key: yzCvRpbQ-cRePaJAuQkw42_xEf-R860gFsQwoPki2E0
+    short-id: 9de041877612a718
+  server: fn3.bexait.ir
+  servername: icloud.com
   tls: true
   type: vless
   udp: true
-  uuid: 9ea8b000-58ce-0050-b108-989dd4f248f1
+  uuid: 2496047d-ba1e-49b4-9c04-4dc1a7f63313
   xudp: true
+- client-fingerprint: chrome
+  encryption: none
+  name: 8|🇩🇪DE_4|4.0MB/s
+  network: tcp
+  port: '2434'
+  reality-opts:
+    public-key: yzCvRpbQ-cRePaJAuQkw42_xEf-R860gFsQwoPki2E0
+    short-id: 9de041877612a718
+  server: de23.bexait.ir
+  servername: icloud.com
+  tls: true
+  type: vless
+  udp: true
+  uuid: 2496047d-ba1e-49b4-9c04-4dc1a7f63313
+  xudp: true
+- client-fingerprint: chrome
+  encryption: none
+  name: 8|🇩🇪DE_5|3.5MB/s
+  network: tcp
+  port: '2434'
+  reality-opts:
+    public-key: yzCvRpbQ-cRePaJAuQkw42_xEf-R860gFsQwoPki2E0
+    short-id: 9de041877612a718
+  server: de20.bexait.ir
+  servername: icloud.com
+  tls: true
+  type: vless
+  udp: true
+  uuid: 2496047d-ba1e-49b4-9c04-4dc1a7f63313
+  xudp: true
+- alpn:
+  - h2
+  - http/1.1
+  client-fingerprint: chrome
+  encryption: none
+  name: 8|🇩🇪DE_6|1.1MB/s
+  network: xhttp
+  port: '443'
+  server: fzjo.fbbv.electrocitymarket.ru
+  servername: fzjo.fbbv.electrocitymarket.ru
+  tls: true
+  type: vless
+  udp: true
+  uuid: d2519b5e-495e-462e-9703-bbf68011d2f3
+  xhttp-opts:
+    mode: stream-up
+  xudp: true
+- name: 8|🇩🇪DE_7|2.4MB/s
+  port: 443
+  server: 87.249.132.97
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: 8|🇩🇪DE_8|2.4MB/s
+  port: 9002
+  server: 158.173.154.4
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: 8|🇩🇪DE_9|2.6MB/s
+  port: 443
+  server: 213.109.163.119
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: 8|🇩🇪DE_10|3.3MB/s
+  port: 443
+  server: 79.76.126.155
+  skip-cert-verify: true
+  tls: true
+  type: http
