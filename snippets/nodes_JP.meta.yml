@@ -53,7 +53,7 @@ proxies:
   sni: m.ctrip.com
   type: trojan
 - auth: 5d0a6445-a30d-4522-bb1f-94f1d3ad63be
-  name: 8|🇯🇵JP_1|1.4MB/s
+  name: 8|🇯🇵JP_1|1.1MB/s
   password: 5d0a6445-a30d-4522-bb1f-94f1d3ad63be
   port: 2060
   server: rb.mangshe.xyz

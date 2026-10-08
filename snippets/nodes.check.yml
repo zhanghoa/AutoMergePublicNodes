@@ -1,4 +1,4 @@
-# Update: 2026-10-08 07:15
+# Update: 2026-10-08 14:28
 proxies:
 - alterId: 0
   cipher: auto
@@ -180,19 +180,6 @@ proxies:
   server: streambox.wwwinternetvideo.click
   skip-cert-verify: true
   sni: streambox.wwwinternetvideo.click
-  tls: false
-  type: hysteria2
-- alpn:
-  - h3
-  - h2
-  - http/1.1
-  name: ❌ 5|189465 | Telegram = t.me/SOSke...
-  obfs: salamander
-  obfs-password: 1vwbgf5t1k61nxmi
-  password: 8d1729b01c1ad743179ed4558c8404b0
-  port: 8397
-  server: 193.42.11.245
-  sni: 193.42.11.245
   tls: false
   type: hysteria2
 - name: '❌ 5|Telegram @Cnetvpn '
@@ -740,206 +727,85 @@ proxies:
   skip-cert-verify: true
   sni: m.ctrip.com
   type: trojan
-- encryption: mlkem768x25519plus.native.0rtt.Obr5RkpXcciyoYhSOWoBu-rPy23XTh96VbZGM95Lpic
-  flow: xtls-rprx-vision
-  name: ✅ 8|🇩🇪DE_1|2.3MB/s
-  network: tcp
-  port: 59719
-  reality-opts:
-    public-key: cWI4RpOZJqkX1HE9pQIZQ8eNeLWGX8UEzECyRehQnlQ
-    short-id: 6e6f9fa5decc02
-  server: 189.24.108.152
-  servername: www.sony.lu
-  tls: true
-  type: vless
-  udp: true
-  uuid: cd55b3ae-6833-4eff-be18-55bd92164071
-- cipher: aes-256-cfb
-  name: ✅ 8|🇩🇪DE_2|3.6MB/s
-  password: amazonskr05
-  port: 443
-  server: 63.177.230.112
-  type: ss
-  udp: true
-- alpn:
-  - h2
-  flow: xtls-rprx-vision
-  name: ✅ 8|🇫🇷FR_1|1.5MB/s
-  network: tcp
-  port: 443
-  server: tyxyrytyro-51255165170-direct.araghchy.com
-  servername: tyxyrytyro-51255165170-direct.araghchy.com
-  tls: true
-  type: vless
-  udp: true
-  uuid: 88888888-8888-8888-8888-888888888888
 - auth: 5d0a6445-a30d-4522-bb1f-94f1d3ad63be
-  name: ❌ 8|🇬🇧GB_1|1.9MB/s
-  password: 5d0a6445-a30d-4522-bb1f-94f1d3ad63be
-  port: 2060
-  server: yg.mangshe.xyz
-  skip-cert-verify: true
-  type: hysteria2
-- auth: 5d0a6445-a30d-4522-bb1f-94f1d3ad63be
-  name: ❌ 8|🇯🇵JP_1|1.4MB/s
+  name: ❌ 8|🇯🇵JP_1|1.1MB/s
   password: 5d0a6445-a30d-4522-bb1f-94f1d3ad63be
   port: 2060
   server: rb.mangshe.xyz
   skip-cert-verify: true
   sni: 127.0.0.1
   type: hysteria2
-- encryption: none
-  name: ✅ 8|🇩🇪DE_3|4.2MB/s
-  network: tcp
-  port: '2434'
-  reality-opts:
-    public-key: yzCvRpbQ-cRePaJAuQkw42_xEf-R860gFsQwoPki2E0
-    short-id: 9de041877612a718
-  server: fn3.bexait.ir
-  servername: icloud.com
-  tls: true
-  type: vless
-  udp: true
-  uuid: 2496047d-ba1e-49b4-9c04-4dc1a7f63313
-  xudp: true
-- encryption: none
-  name: ✅ 8|🇩🇪DE_4|4.0MB/s
-  network: tcp
-  port: '2434'
-  reality-opts:
-    public-key: yzCvRpbQ-cRePaJAuQkw42_xEf-R860gFsQwoPki2E0
-    short-id: 9de041877612a718
-  server: de23.bexait.ir
-  servername: icloud.com
-  tls: true
-  type: vless
-  udp: true
-  uuid: 2496047d-ba1e-49b4-9c04-4dc1a7f63313
-  xudp: true
-- encryption: none
-  flow: xtls-rprx-vision
-  name: ✅ 8|🇳🇱NL_1|3.2MB/s
-  network: tcp
-  port: '443'
-  reality-opts:
-    public-key: k76Ze8R0E5NyZwvBZT1A4n0zlVXxTeHQDAs0bBqiGQw
-    short-id: 4a1b0c7d
-  server: 109.121.44.61
-  servername: s3-m.perecmusic.ru
-  tls: true
-  type: vless
-  udp: true
-  uuid: 2feda6f7-8baa-4591-a851-1e2037a58572
-  xudp: true
-- encryption: none
-  name: ✅ 8|🇩🇪DE_5|3.5MB/s
-  network: tcp
-  port: '2434'
-  reality-opts:
-    public-key: yzCvRpbQ-cRePaJAuQkw42_xEf-R860gFsQwoPki2E0
-    short-id: 9de041877612a718
-  server: de20.bexait.ir
-  servername: icloud.com
-  tls: true
-  type: vless
-  udp: true
-  uuid: 2496047d-ba1e-49b4-9c04-4dc1a7f63313
-  xudp: true
-- alpn:
-  - h2
-  - http/1.1
-  client-fingerprint: firefox
-  encryption: none
-  flow: xtls-rprx-vision
-  name: ✅ 8|🇺🇸US_1|1.4MB/s
-  network: tcp
-  port: '443'
-  server: 216.74.123.169
-  servername: images2.surfweb.club
-  tls: true
-  type: vless
-  udp: true
-  uuid: 5b5e4cbf-2366-499a-8327-0cd9918c687d
-  xudp: true
-- alpn:
-  - h2
-  - http/1.1
-  encryption: none
-  name: ✅ 8|🇩🇪DE_6|1.1MB/s
-  network: xhttp
-  port: '443'
-  server: fzjo.fbbv.electrocitymarket.ru
-  servername: fzjo.fbbv.electrocitymarket.ru
-  tls: true
-  type: vless
-  udp: true
-  uuid: d2519b5e-495e-462e-9703-bbf68011d2f3
-  xhttp-opts:
-    mode: stream-up
-  xudp: true
-- cipher: aes-256-cfb
-  name: ✅ 8|🇺🇸US_2|3.9MB/s
-  password: amazonskr05
-  port: 443
-  server: 34.228.79.192
-  type: ss
-- cipher: aes-256-cfb
-  name: ✅ 8|🇺🇸US_3|4.3MB/s
-  password: amazonskr05
-  port: 443
-  server: 54.221.120.243
-  type: ss
+- auth: e3c3b722-1264-4cdc-a97c-b0a1bb73cd67
+  name: ❌ 8|🇱🇻LV_1|1.5MB/s
+  password: e3c3b722-1264-4cdc-a97c-b0a1bb73cd67
+  port: 9443
+  server: 104.165.205.46
+  skip-cert-verify: true
+  sni: onecloudstream.com
+  type: hysteria2
 - cipher: chacha20-ietf-poly1305
-  name: ✅ 8|🇺🇸US_4|2.8MB/s
+  name: ✅ 8|🇺🇸US_1|1.8MB/s
   password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
   plugin: obfs
   plugin-opts:
-    host: "(Telegram\x9F\x87\x9F\x87 @WangCai2)f6e348d:70852"
+    host: feb7fa9:154948
     mode: tls
   port: 2377
-  server: 88.210.36.106
+  server: 88.210.36.107
   type: ss
   udp: true
-- alterId: 0
-  cipher: auto
-  http-opts:
-    method: GET
-    path:
-    - /
-  name: ✅ 8|🇰🇷KR_1|3.1MB/s
-  network: http
-  port: 123
-  server: 43.108.103.167
-  tls: false
-  type: vmess
-  uuid: 35aa0fda-175a-4aec-c468-0231dee1a121
 - down: ''
   fingerprint: ''
-  name: ❌ 8|🇳🇱NL_15|2.6MB/s
+  name: ❌ 8|🇹🇷TR_1|2.9MB/s
   obfs: ''
   obfs-password: ''
-  password: s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z
-  port: '8443'
-  server: 77.74.123.108
+  password: 9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z
+  port: '9443'
+  server: 162.249.126.39
   skip-cert-verify: false
-  sni: grape-test-italy.dynuddns.net
+  sni: hop-germany-september.dynuddns.com
   type: hysteria2
   up: ''
-- client-fingerprint: firefox
-  encryption: none
-  flow: xtls-rprx-vision
-  name: ✅ 8|🇪🇸ES_3|1.1MB/s
-  network: tcp
+- down: ''
+  fingerprint: ''
+  name: ❌ 8|🇩🇪DE_2|2.4MB/s
+  obfs: ''
+  obfs-password: ''
+  password: 9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z
+  port: '8443'
+  server: 162.249.126.40
+  skip-cert-verify: false
+  sni: hop-germany-september.dynuddns.com
+  type: hysteria2
+  up: ''
+- down: ''
+  fingerprint: ''
+  name: ❌ 8|🇮🇱IL_1|2.2MB/s
+  obfs: ''
+  obfs-password: ''
+  password: f25f19f29ce3fb53a35bf1b35b452a43
+  port: '50160'
+  server: 129.159.156.109
+  skip-cert-verify: true
+  sni: www.bing.com
+  type: hysteria2
+  up: ''
+- encryption: none
+  name: ✅ 8|🇺🇸US_4|3.4MB/s
+  network: ws
   port: '443'
-  reality-opts:
-    public-key: 9GEc6lOjnGQyyE1951OZSBMWt4uCXsOjKyj9fysxHH0
-    short-id: e4e77e76e6e49da7
-  server: es.srv.dvzh.net
-  servername: es.srv.dvzh.net
+  server: 172.64.229.14
+  servername: x.m-90.xyz
   tls: true
   type: vless
   udp: true
-  uuid: 91344c03-b37f-42c5-90f1-cbb95c5cf256
+  uuid: 489f1717-d3c7-4940-ad68-bdbdbab857f4
+  ws-opts:
+    headers:
+      Host: x.m-90.xyz
+      User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko)
+        Chrome/70.0.3538.77 Safari/537.36
+    path: t.me/TEAMNETGRATISCOL
   xudp: true
 - flow: xtls-rprx-vision
   name: ❌ 9|US_speednode_0130

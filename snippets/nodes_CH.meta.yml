@@ -1,9 +1,9 @@
 proxies:
-- name: 8|🇨🇭CH_1|3.0MB/s
-  password: None
+- name: 8|🇨🇭CH_1|1.1MB/s|R002-260618
   port: 9443
   server: 37.120.213.210
   skip-cert-verify: true
+  sub_tag: R002-260618
   tls: true
   type: http
-  username: null
+  udp: true
