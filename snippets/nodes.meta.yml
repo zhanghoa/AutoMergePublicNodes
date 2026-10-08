@@ -219,6 +219,14 @@ proxies:
   sni: 'off'
   tls: false
   type: hysteria2
+- name: 5|189942 | Telegram = t.me/SOSke...
+  password: Hd7N0TU7Ow5ZqaIx
+  port: 25172
+  server: us5.h1cloud.net
+  skip-cert-verify: true
+  sni: us5.h1cloud.net
+  tls: false
+  type: hysteria2
 - name: 5|@meliproxyy
   obfs: salamander
   obfs-password: 6ccfcef2e116b03ce9047333
@@ -318,6 +326,38 @@ proxies:
   sni: vpn.local
   tls: false
   type: hysteria2
+- name: 5|190020 | Telegram = t.me/SOSke...
+  password: cc4074d6-f450-4025-833a-a6e0100ceaff
+  port: 443
+  server: 138.124.254.233
+  skip-cert-verify: false
+  sni: crt.molniya.sbs
+  tls: false
+  type: hysteria2
+- name: 5|190019 | Telegram = t.me/SOSke...
+  password: cc4074d6-f450-4025-833a-a6e0100ceaff
+  port: 443
+  server: 31.76.107.12
+  skip-cert-verify: false
+  sni: crt.molniya.sbs
+  tls: false
+  type: hysteria2
+- name: 5|190017 | Telegram = t.me/SOSke...
+  password: cc4074d6-f450-4025-833a-a6e0100ceaff
+  port: 443
+  server: 45.88.12.155
+  skip-cert-verify: false
+  sni: crt.molniya.sbs
+  tls: false
+  type: hysteria2
+- name: 5|190018 | Telegram = t.me/SOSke...
+  password: cc4074d6-f450-4025-833a-a6e0100ceaff
+  port: 443
+  server: 65.108.67.45
+  skip-cert-verify: false
+  sni: crt.molniya.sbs
+  tls: false
+  type: hysteria2
 - name: 5|@FreakConfig
   obfs: salamander
   obfs-password: 44f1c1e2f8b99e792ceed574627a1eb0
@@ -336,6 +376,14 @@ proxies:
   server: 2.27.59.206
   skip-cert-verify: false
   sni: de1.sferavpn.pro
+  tls: false
+  type: hysteria2
+- name: 5|189951 | Telegram = t.me/SOSke...
+  password: dongtaiwang.com
+  port: 44356
+  server: hy2.561891.xyz
+  skip-cert-verify: false
+  sni: hy2.561891.xyz
   tls: false
   type: hysteria2
 - name: 5|69@oneclickvpnkeys
@@ -361,6 +409,14 @@ proxies:
   server: 91.196.32.163
   skip-cert-verify: true
   sni: germany3.h2corp.local
+  tls: false
+  type: hysteria2
+- name: 5|189917 | Telegram = t.me/SOSke...
+  password: my_super_password_123
+  port: 5443
+  server: 138.2.21.246
+  skip-cert-verify: false
+  sni: open.2ml.cc.cd
   tls: false
   type: hysteria2
 - name: '5|@confiig_hub #1'
@@ -726,202 +782,68 @@ proxies:
   skip-cert-verify: true
   sni: m.ctrip.com
   type: trojan
-- auth: 5d0a6445-a30d-4522-bb1f-94f1d3ad63be
-  name: 8|🇯🇵JP_1|1.1MB/s
-  password: 5d0a6445-a30d-4522-bb1f-94f1d3ad63be
-  port: 2060
-  server: rb.mangshe.xyz
-  skip-cert-verify: true
-  sni: 127.0.0.1
-  type: hysteria2
-- auth: e3c3b722-1264-4cdc-a97c-b0a1bb73cd67
-  name: 8|🇱🇻LV_1|1.5MB/s
-  password: e3c3b722-1264-4cdc-a97c-b0a1bb73cd67
-  port: 9443
-  server: 104.165.205.46
-  skip-cert-verify: true
-  sni: onecloudstream.com
-  type: hysteria2
-- cipher: chacha20-ietf-poly1305
-  name: 8|🇺🇸US_1|1.8MB/s
-  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
-  plugin: obfs
-  plugin-opts:
-    host: feb7fa9:154948
-    mode: tls
-  port: 2377
-  server: 88.210.36.107
-  type: ss
+- client-fingerprint: random
+  name: 8|🇸🇬SG_1|1.3MB/s
+  network: ws
+  port: 443
+  server: ct.877774.xyz
+  servername: ap-south.862400.xyz
+  tls: true
+  type: vless
   udp: true
-- name: 8|🇪🇪EE_1|1018KB/s
-  port: 9443
-  server: 95.153.31.66
-  skip-cert-verify: true
+  uuid: f57dfd20-fdf4-4967-9599-aca8433ebd5c
+  ws-opts:
+    headers:
+      Host: ap-south.862400.xyz
+    path: /announcement?ed=2048
+- alpn:
+  - h3
+  - h2
+  encryption: none
+  name: 8|🇯🇵JP_1|2.6MB/s
+  network: ws
+  port: '443'
+  server: saas.sin.fan
+  servername: snip.edgeoneai.cc.cd
   tls: true
-  type: http
-- name: 8|🇫🇷FR_1|1.0MB/s
-  port: 443
-  server: 13.37.226.59
-  skip-cert-verify: true
-  tls: true
-  type: http
-- name: 8|🇺🇸US_2|1.3MB/s
-  port: 443
-  server: 167.88.60.242
-  skip-cert-verify: true
-  tls: true
-  type: http
-- name: 8|🇨🇿CZ_1|1.6MB/s
-  port: 443
-  server: 185.216.35.66
-  skip-cert-verify: true
-  tls: true
-  type: http
-- name: 8|🇫🇷FR_2|1.8MB/s
-  port: 443
-  server: 82.64.255.151
-  skip-cert-verify: true
-  tls: true
-  type: http
-- name: 8|🇳🇱NL_1|1.0MB/s
-  port: 9002
-  server: 84.17.47.126
-  skip-cert-verify: true
-  tls: true
-  type: http
-- name: 8|🇫🇷FR_3|3.0MB/s
-  port: 443
-  server: 13.37.228.51
-  skip-cert-verify: true
-  tls: true
-  type: http
-- name: 8|🇨🇦CA_1|1.0MB/s
-  port: 9443
-  server: 198.44.157.19
-  skip-cert-verify: true
-  tls: true
-  type: http
-- name: 8|🇨🇭CH_1|1.1MB/s|R002-260618
-  port: 9443
-  server: 37.120.213.210
-  skip-cert-verify: true
-  sub_tag: R002-260618
-  tls: true
-  type: http
+  type: vless
   udp: true
-- name: 8|🇩🇪DE_1|1.3MB/s
+  uuid: 495c7195-85b8-498a-bf20-2ea9ce9175b5
+  ws-opts:
+    headers:
+      Host: snip.edgeoneai.cc.cd
+      User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like
+        Gecko) Chrome/35.0.1916.153 Safari/537.36
+    path: /fdip=sstp://vpn:vpn@vpn748359672.opengw.net:1458?ed=2560
+  xudp: true
+- name: 8|🇫🇷FR_1|1.9MB/s
+  port: 9443
+  server: 138.199.47.247
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: 8|🇦🇹AT_1|1.3MB/s
   password: None
   port: 443
-  server: 149.36.50.157
+  server: 146.70.244.2
   skip-cert-verify: true
   tls: true
   type: http
   username: null
-- name: 8|🇮🇹IT_1|1.3MB/s
+- name: 8|🇧🇦BA_1|1.4MB/s
+  port: 443
+  server: 185.164.35.16
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: 8|🇳🇱NL_1|1.6MB/s
   password: None
-  port: 443
-  server: 185.183.105.146
-  skip-cert-verify: true
-  tls: true
-  type: http
-  username: null
-- name: 8|🇧🇪BE_1|1.0MB/s
-  port: 443
-  server: 146.70.176.242
-  skip-cert-verify: true
-  tls: true
-  type: http
-- name: 8|🇳🇴NO_1|1.2MB/s
-  port: 9443
-  server: 146.70.170.210
-  skip-cert-verify: true
-  tls: true
-  type: http
-- name: 8|🇷🇴RO_1|1001KB/s
-  port: 443
-  server: 185.163.110.194
-  skip-cert-verify: true
-  tls: true
-  type: http
-- name: 8|🇺🇸US_3|1.2MB/s
-  port: 443
-  server: 148.135.10.80
-  skip-cert-verify: true
-  tls: true
-  type: http
-- name: 8|🇱🇻LV_2|2.2MB/s
-  port: 443
-  server: 85.203.39.130
-  skip-cert-verify: true
-  tls: true
-  type: http
-- name: 8|🇳🇱NL_2|1.0MB/s
-  password: None
-  port: 443
+  port: '443'
   server: 5.255.118.82
   skip-cert-verify: true
   tls: true
   type: http
-  username: null
-- name: 8|🇳🇱NL_3|1.3MB/s
-  port: 443
-  server: 5.255.125.187
-  skip-cert-verify: true
-  tls: true
-  type: http
-- down: ''
-  fingerprint: ''
-  name: 8|🇹🇷TR_1|2.9MB/s
-  obfs: ''
-  obfs-password: ''
-  password: 9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z
-  port: '9443'
-  server: 162.249.126.39
-  skip-cert-verify: false
-  sni: hop-germany-september.dynuddns.com
-  type: hysteria2
-  up: ''
-- down: ''
-  fingerprint: ''
-  name: 8|🇩🇪DE_2|2.4MB/s
-  obfs: ''
-  obfs-password: ''
-  password: 9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z
-  port: '8443'
-  server: 162.249.126.40
-  skip-cert-verify: false
-  sni: hop-germany-september.dynuddns.com
-  type: hysteria2
-  up: ''
-- down: ''
-  fingerprint: ''
-  name: 8|🇮🇱IL_1|2.2MB/s
-  obfs: ''
-  obfs-password: ''
-  password: f25f19f29ce3fb53a35bf1b35b452a43
-  port: '50160'
-  server: 129.159.156.109
-  skip-cert-verify: true
-  sni: www.bing.com
-  type: hysteria2
-  up: ''
-- encryption: none
-  name: 8|🇺🇸US_4|3.4MB/s
-  network: ws
-  port: '443'
-  server: 172.64.229.14
-  servername: x.m-90.xyz
-  tls: true
-  type: vless
-  udp: true
-  uuid: 489f1717-d3c7-4940-ad68-bdbdbab857f4
-  ws-opts:
-    headers:
-      Host: x.m-90.xyz
-      User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko)
-        Chrome/70.0.3538.77 Safari/537.36
-    path: t.me/TEAMNETGRATISCOL
-  xudp: true
+  username: 'null'
 - name: 9|NL_speednode_0004
   port: 9002
   server: 84.17.47.125
