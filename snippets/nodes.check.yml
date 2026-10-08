@@ -1,4 +1,4 @@
-# Update: 2026-10-08 21:55
+# Update: 2026-10-09 07:30
 proxies:
 - alterId: 0
   cipher: auto
@@ -108,7 +108,15 @@ proxies:
   sni: vk.com
   tls: false
   type: hysteria2
-- name: ❌ 5|@ange1Vpn کانال تلگرام ما
+- name: ❌ 5|🍁97@oneclickvpnkeys
+  password: 099830134df5ac3a04a4b21d39b8c395
+  port: 50160
+  server: 163.192.14.135
+  skip-cert-verify: true
+  sni: vk.com
+  tls: false
+  type: hysteria2
+- name: '❌ 5|@ange1Vpn   '
   obfs: salamander
   obfs-password: 7y0p9k93w7ryw8tz
   password: 17537e14543a478b9c7a558870d814f3
@@ -118,15 +126,7 @@ proxies:
   sni: mhzedir.qzz.io
   tls: false
   type: hysteria2
-- name: ❌ 5|71@oneclickvpnkeys
-  password: 19f72087-4591-4d72-930b-2697078ec2be
-  port: 4433
-  server: de1.xiaoliyu.cyou
-  skip-cert-verify: true
-  sni: de1.xiaoliyu.cyou
-  tls: false
-  type: hysteria2
-- name: ❌ 5|Tel-@ProxyMtAlpha 2
+- name: '❌ 5|@VConfing '
   obfs: salamander
   obfs-password: 87d72c2949c0ca85bbda09459244e374
   password: 35d26d53bc
@@ -134,6 +134,13 @@ proxies:
   server: 109.104.153.124
   skip-cert-verify: false
   sni: srv-0e5387.frd21.ru
+  tls: false
+  type: hysteria2
+- name: ❌ 5|75@oneclickvpnkeys
+  password: 41edb44c8e
+  port: 11592
+  server: 103.88.243.142
+  sni: srv-17e124.21freedom.net
   tls: false
   type: hysteria2
 - name: '❌ 5|@Begoo_VPN '
@@ -156,14 +163,6 @@ proxies:
   sni: giftcard.gisora.ir
   tls: false
   type: hysteria2
-- name: ❌ 5|96@oneclickvpnkeys
-  password: 6a3fe9d0-0d68-4f29-ae99-5771d4217a45
-  port: 4433
-  server: de1.xiaoliyu.cyou
-  skip-cert-verify: true
-  sni: 127.0.0.1
-  tls: false
-  type: hysteria2
 - name: ✅ 5|Telegram:@v2rayng3
   obfs: salamander
   obfs-password: uw9b2qq5rx
@@ -174,12 +173,52 @@ proxies:
   sni: fiproxy1.lockdwn.com
   tls: false
   type: hysteria2
-- name: ✅ 5|74@oneclickvpnkeys
-  password: 865e271f7c97b549b024255c9d02cebe9cc0c2c070a82b1e11bb11b9cd88dd01
-  port: 443
-  server: streambox.wwwinternetvideo.click
+- name: ❌ 5|190453 | Telegram = t.me/SOSke...
+  obfs: salamander
+  obfs-password: 9VK3Nqd0bcXGPxcay9hRLY28HBtKo5
+  password: 81d953a0-f0cf-4452-a669-747d32efd6c1
+  port: 24000
+  server: 177.1.195.242
+  skip-cert-verify: false
+  sni: hy.kirian.su
+  tls: false
+  type: hysteria2
+- name: ❌ 5|190450 | Telegram = t.me/SOSke...
+  obfs: salamander
+  obfs-password: 9VK3Nqd0bcXGPxcay9hRLY28HBtKo5
+  password: 81d953a0-f0cf-4452-a669-747d32efd6c1
+  port: 26000
+  server: 78.17.53.9
+  skip-cert-verify: false
+  sni: hy.kirian.su
+  tls: false
+  type: hysteria2
+- name: ❌ 5|190452 | Telegram = t.me/SOSke...
+  obfs: salamander
+  obfs-password: 9VK3Nqd0bcXGPxcay9hRLY28HBtKo5
+  password: 81d953a0-f0cf-4452-a669-747d32efd6c1
+  port: 21000
+  server: 79.137.206.157
+  skip-cert-verify: false
+  sni: hy.kirian.su
+  tls: false
+  type: hysteria2
+- name: ❌ 5|190451 | Telegram = t.me/SOSke...
+  obfs: salamander
+  obfs-password: 9VK3Nqd0bcXGPxcay9hRLY28HBtKo5
+  password: 81d953a0-f0cf-4452-a669-747d32efd6c1
+  port: 25000
+  server: 91.196.161.47
+  skip-cert-verify: false
+  sni: hy.kirian.su
+  tls: false
+  type: hysteria2
+- name: ❌ 5|65@oneclickvpnkeys
+  password: 84a506ca5aca505696a454d828420b3f
+  port: 50160
+  server: 140.238.213.114
   skip-cert-verify: true
-  sni: streambox.wwwinternetvideo.click
+  sni: www.bing.com
   tls: false
   type: hysteria2
 - name: '❌ 5|Telegram @Cnetvpn '
@@ -218,14 +257,6 @@ proxies:
   server: 13.38.44.64
   skip-cert-verify: true
   sni: 'off'
-  tls: false
-  type: hysteria2
-- name: ❌ 5|189942 | Telegram = t.me/SOSke...
-  password: Hd7N0TU7Ow5ZqaIx
-  port: 25172
-  server: us5.h1cloud.net
-  skip-cert-verify: true
-  sni: us5.h1cloud.net
   tls: false
   type: hysteria2
 - name: ❌ 5|@meliproxyy
@@ -278,10 +309,10 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: ✅ 5|73@oneclickvpnkeys
+- name: ✅ 5|63@oneclickvpnkeys
   password: YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc
   port: 443
-  server: admin.wwwinternetvideo.click
+  server: 45.192.12.93
   sni: admin.wwwinternetvideo.click
   tls: false
   type: hysteria2
@@ -293,6 +324,14 @@ proxies:
   server: 5.175.249.174
   skip-cert-verify: true
   sni: api.kermanshahi.org
+  tls: false
+  type: hysteria2
+- name: ✅ 5|91@oneclickvpnkeys
+  password: c-E0lamG8OnEj9M_uh3oJPmIXqYIVGctO-NHELF1TmNYs7Jl
+  port: 443
+  server: cz.h2.cleanersaz.help
+  skip-cert-verify: true
+  sni: cz.h2.cleanersaz.help
   tls: false
   type: hysteria2
 - alpn:
@@ -317,49 +356,7 @@ proxies:
   sni: srv-3fc7c9.21freedom.net
   tls: false
   type: hysteria2
-- name: ❌ 5|33@oneclickvpnkeys
-  obfs: salamander
-  obfs-password: ChY5QQQT3ZtUdNT8
-  password: capadmbd5f18bd
-  port: 443
-  server: 51.77.217.70
-  skip-cert-verify: true
-  sni: vpn.local
-  tls: false
-  type: hysteria2
-- name: ❌ 5|190020 | Telegram = t.me/SOSke...
-  password: cc4074d6-f450-4025-833a-a6e0100ceaff
-  port: 443
-  server: 138.124.254.233
-  skip-cert-verify: false
-  sni: crt.molniya.sbs
-  tls: false
-  type: hysteria2
-- name: ❌ 5|190019 | Telegram = t.me/SOSke...
-  password: cc4074d6-f450-4025-833a-a6e0100ceaff
-  port: 443
-  server: 31.76.107.12
-  skip-cert-verify: false
-  sni: crt.molniya.sbs
-  tls: false
-  type: hysteria2
-- name: ❌ 5|190017 | Telegram = t.me/SOSke...
-  password: cc4074d6-f450-4025-833a-a6e0100ceaff
-  port: 443
-  server: 45.88.12.155
-  skip-cert-verify: false
-  sni: crt.molniya.sbs
-  tls: false
-  type: hysteria2
-- name: ❌ 5|190018 | Telegram = t.me/SOSke...
-  password: cc4074d6-f450-4025-833a-a6e0100ceaff
-  port: 443
-  server: 65.108.67.45
-  skip-cert-verify: false
-  sni: crt.molniya.sbs
-  tls: false
-  type: hysteria2
-- name: ✅ 5|@FreakConfig
+- name: '✅ 5|kurdconfig #1'
   obfs: salamander
   obfs-password: 44f1c1e2f8b99e792ceed574627a1eb0
   password: cd74c0a406664a5bc0bac098220a2468
@@ -369,7 +366,7 @@ proxies:
   sni: ru1.sferavpn.pro
   tls: false
   type: hysteria2
-- name: '✅ 5|@B2Hub #1'
+- name: ✅ 5|@B2Hub
   obfs: salamander
   obfs-password: 44f1c1e2f8b99e792ceed574627a1eb0
   password: cd74c0a406664a5bc0bac098220a2468
@@ -379,19 +376,12 @@ proxies:
   sni: de1.sferavpn.pro
   tls: false
   type: hysteria2
-- name: ❌ 5|189951 | Telegram = t.me/SOSke...
-  password: dongtaiwang.com
-  port: 44356
-  server: hy2.561891.xyz
-  skip-cert-verify: false
-  sni: hy2.561891.xyz
-  tls: false
-  type: hysteria2
-- name: ❌ 5|69@oneclickvpnkeys
-  password: dsmO0439gj_nX942GJRE_9j39fbcxv52_R
-  port: 8080
-  server: 85.209.157.177
-  sni: hopp-transit.1cooldns.com
+- name: ❌ 5|99@oneclickvpnkeys
+  password: f87376e17da040ed04c9665ce8972930
+  port: 50160
+  server: 138.2.73.238
+  skip-cert-verify: true
+  sni: 138.2.73.238
   tls: false
   type: hysteria2
 - name: '❌ 5|Telegram @Cnetvpn  #1'
@@ -410,14 +400,6 @@ proxies:
   server: 91.196.32.163
   skip-cert-verify: true
   sni: germany3.h2corp.local
-  tls: false
-  type: hysteria2
-- name: ❌ 5|189917 | Telegram = t.me/SOSke...
-  password: my_super_password_123
-  port: 5443
-  server: 138.2.21.246
-  skip-cert-verify: false
-  sni: open.2ml.cc.cd
   tls: false
   type: hysteria2
 - name: '✅ 5|@confiig_hub #1'
@@ -442,10 +424,10 @@ proxies:
   sni: pro2.riziro.ir
   tls: false
   type: hysteria2
-- name: ❌ 5|31@oneclickvpnkeys
+- name: ❌ 5|45@oneclickvpnkeys
   password: s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z
   port: 8443
-  server: 77.74.123.98
+  server: 77.74.123.100
   skip-cert-verify: true
   sni: grape-test-italy.dynuddns.net
   tls: false
@@ -783,39 +765,96 @@ proxies:
   skip-cert-verify: true
   sni: m.ctrip.com
   type: trojan
-- client-fingerprint: random
-  name: ✅ 8|🇸🇬SG_1|1.3MB/s
-  network: ws
+- cipher: aes-256-cfb
+  name: ✅ 8|🇩🇪DE_1|4.1MB/s
+  password: amazonskr05
   port: 443
-  server: ct.877774.xyz
-  servername: ap-south.862400.xyz
-  tls: true
-  type: vless
+  server: 18.196.88.40
+  type: ss
   udp: true
-  uuid: f57dfd20-fdf4-4967-9599-aca8433ebd5c
-  ws-opts:
-    headers:
-      Host: ap-south.862400.xyz
-    path: /announcement?ed=2048
-- alpn:
-  - h3
-  - h2
-  encryption: none
-  name: ✅ 8|🇯🇵JP_1|2.6MB/s
-  network: ws
+- cipher: aes-256-cfb
+  name: ✅ 8|🇩🇪DE_2|2.7MB/s
+  password: amazonskr05
+  port: 443
+  server: 3.79.59.187
+  type: ss
+  udp: true
+- name: ✅ 8|🇩🇪DE_13|1.1MB/s
+  network: tcp
+  password: gHncxmRjWEJ7apX5XuXsHw4kGexMH_gU
   port: '443'
-  server: saas.sin.fan
-  servername: snip.edgeoneai.cc.cd
+  server: ger2.fytpn.com
+  skip-cert-verify: false
+  type: trojan
+  udp: true
+- name: ✅ 8|🇫🇮FI_1|2.3MB/s
+  network: tcp
+  password: gHncxmRjWEJ7apX5XuXsHw4kGexMH_gU
+  port: '2097'
+  server: ger6.fytpn.com
+  skip-cert-verify: false
+  type: trojan
+  udp: true
+- client-fingerprint: firefox
+  flow: xtls-rprx-vision
+  name: ✅ 8|🇨🇦CA_6|1.8MB/s
+  network: tcp
+  port: '443'
+  reality-opts:
+    public-key: NO3w10fOUvwK8L7vzCVPDLWIKYCHDaB6ealdMnv4jS4
+    short-id: e287e3906e3c
+  server: 209.200.246.61
+  servername: ca.vpnskyline.com
   tls: true
   type: vless
   udp: true
-  uuid: 495c7195-85b8-498a-bf20-2ea9ce9175b5
-  ws-opts:
-    headers:
-      Host: snip.edgeoneai.cc.cd
-      User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like
-        Gecko) Chrome/35.0.1916.153 Safari/537.36
-    path: /fdip=sstp://vpn:vpn@vpn748359672.opengw.net:1458?ed=2560
+  uuid: ab9929fd-ab22-48e3-8723-480733c0eca9
+  xudp: true
+- client-fingerprint: qq
+  encryption: none
+  flow: xtls-rprx-vision
+  name: ✅ 8|🇩🇪DE_14|2.9MB/s
+  network: tcp
+  port: '443'
+  reality-opts:
+    public-key: l9b1AQuRbk4WA3hUVHI3mGBW-X5gNKFF72fWvismAS0
+    short-id: ''
+  server: ru-001.zapretu.net
+  servername: ru-001.zapretu.net
+  tls: true
+  type: vless
+  udp: true
+  uuid: eac04622-531b-0007-b85f-3c2ee67565c6
+  xudp: true
+- encryption: none
+  flow: xtls-rprx-vision
+  name: ✅ 8|🇳🇱NL_12|1.8MB/s
+  network: raw
+  port: '443'
+  reality-opts:
+    public-key: ZqVz1kWNxh_5zQ5PPkoPHoaXQOvppM0ZyIo8uKp2dCg
+    short-id: 78f97d82e16aaad6
+  server: fi-s-1.pythonmakemigreat.wiki
+  servername: fi-s-1.pythonmakemigreat.wiki
+  tls: true
+  type: vless
+  udp: true
+  uuid: f8d52ece-fad4-478d-875d-df6eed3befa7
+  xudp: true
+- alpn:
+  - h2
+  - http/1.1
+  alterId: '0'
+  cipher: auto
+  name: ✅ 8|🇱🇻LV_3|3.0MB/s
+  network: tcp
+  port: '2083'
+  server: 188.130.154.174
+  skip-cert-verify: false
+  tls: true
+  type: vmess
+  udp: true
+  uuid: 74c17cae-bf8b-4cda-8cdd-cf7983bf0a49
   xudp: true
 - flow: xtls-rprx-vision
   name: ❌ 9|US_speednode_0130
