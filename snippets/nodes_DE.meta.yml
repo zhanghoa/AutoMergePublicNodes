@@ -9,73 +9,47 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- client-fingerprint: firefox
-  flow: xtls-rprx-vision
-  name: 8|🇩🇪DE_1|1014KB/s
-  network: tcp
+- name: 8|🇩🇪DE_1|1.0MB/s
   port: 443
-  reality-opts:
-    public-key: 5fkwwCKZzMsE6Eb_b3iqluu-1AWIfnYl-p0N3EL9Al8
-    short-id: 2c9a2790ad5900b2
-  server: 217.60.179.244
-  servername: ge-s-1.pythonmakemigreat.wiki
-  tls: true
-  type: vless
-  udp: true
-  uuid: f8d52ece-fad4-478d-875d-df6eed3befa7
-- name: 8|🇩🇪DE_2|1.1MB/s
-  password: None
-  port: 443
-  server: 149.36.50.1
+  server: 79.76.126.155
   skip-cert-verify: true
   tls: true
   type: http
-- name: 8|🇩🇪DE_3|1.1MB/s
+- name: 8|🇩🇪DE_2|1.6MB/s
+  password: None
+  port: 443
+  server: 149.36.50.157
+  skip-cert-verify: true
+  tls: true
+  type: http
+  username: null
+- name: 8|🇩🇪DE_3|3.2MB/s
   port: 9002
   server: 158.173.154.1
   skip-cert-verify: true
   tls: true
   type: http
-- name: 8|🇩🇪DE_4|1.6MB/s
+- name: 8|🇩🇪DE_4|2.3MB/s
   port: 9443
   server: 79.127.156.177
   skip-cert-verify: true
   tls: true
   type: http
-- name: 8|🇩🇪DE_5|1.8MB/s
-  port: 443
-  server: 172.64.68.89
+- name: 8|🇩🇪DE_5|2.1MB/s
+  port: 9002
+  server: 158.173.154.2
   skip-cert-verify: true
   tls: true
   type: http
-- client-fingerprint: chrome
-  encryption: none
-  flow: xtls-rprx-vision
-  name: 8|🇩🇪DE_6|1.2MB/s
-  network: raw
-  port: '443'
-  reality-opts:
-    public-key: 5fkwwCKZzMsE6Eb_b3iqluu-1AWIfnYl-p0N3EL9Al8
-    short-id: 2c9a2790ad5900b2
-  server: ge-s-1.pythonmakemigreat.wiki
-  servername: ge-s-1.pythonmakemigreat.wiki
+- name: 8|🇩🇪DE_6|2.6MB/s
+  port: 9002
+  server: 158.173.154.5
+  skip-cert-verify: true
   tls: true
-  type: vless
-  udp: true
-  uuid: f8d52ece-fad4-478d-875d-df6eed3befa7
-  xudp: true
-- client-fingerprint: chrome
-  flow: xtls-rprx-vision
-  name: 8|🇩🇪DE_7|1.4MB/s
-  network: tcp
-  port: '443'
-  reality-opts:
-    public-key: XTarABsaaFbjYNk6lRKnUzGavHzeqMIP7B8dZGNCvkE
-    short-id: 0fa4a0e2493392
-  server: defrnode.xyy123.bid
-  servername: p-y3-www-amazon-com-kalias.amazon.com
+  type: http
+- name: 8|🇩🇪DE_7|3.2MB/s
+  port: 443
+  server: 149.36.50.129
+  skip-cert-verify: true
   tls: true
-  type: vless
-  udp: true
-  uuid: 8af93649-403b-46d8-9966-923d4c58402c
-  xudp: true
+  type: http

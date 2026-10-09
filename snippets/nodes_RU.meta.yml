@@ -1,13 +1,7 @@
 proxies:
-- down: ''
-  fingerprint: ''
-  name: 8|🇷🇺RU_1|2.8MB/s
-  obfs: ''
-  obfs-password: ''
-  password: f317b5d6-d399-4d3d-a051-89d674ae953c
-  port: '443'
-  server: msk.frkn.org
-  skip-cert-verify: false
-  sni: ''
-  type: hysteria2
-  up: ''
+- name: 8|🇷🇺RU_1|1.9MB/s
+  port: 443
+  server: 178.219.43.226
+  skip-cert-verify: true
+  tls: true
+  type: http

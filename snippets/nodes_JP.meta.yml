@@ -52,32 +52,15 @@ proxies:
   skip-cert-verify: true
   sni: m.ctrip.com
   type: trojan
-- name: 8|🇯🇵JP_1|5.2MB/s
-  password: UX82473651
-  port: 443
-  server: stable-python.rooster465.autos
+- down: ''
+  fingerprint: ''
+  name: 8|🇯🇵JP_1|2.3MB/s
+  obfs: ''
+  obfs-password: ''
+  password: 5d0a6445-a30d-4522-bb1f-94f1d3ad63be
+  port: '2060'
+  server: rb.mangshe.xyz
   skip-cert-verify: true
-  sni: stable-python.rooster465.autos
-  type: trojan
-  udp: true
-- alpn:
-  - h3
-  - h2
-  client-fingerprint: chrome
-  encryption: none
-  name: 8|🇯🇵JP_2|4.2MB/s
-  network: ws
-  port: '443'
-  server: saas.sin.fan
-  servername: snip.edgeoneai.cc.cd
-  tls: true
-  type: vless
-  udp: true
-  uuid: 495c7195-85b8-498a-bf20-2ea9ce9175b5
-  ws-opts:
-    headers:
-      Host: snip.edgeoneai.cc.cd
-      User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML,
-        like Gecko) Chrome/56.0.2924.87 Safari/537.36
-    path: /
-  xudp: true
+  sni: 127.0.0.1
+  type: hysteria2
+  up: ''

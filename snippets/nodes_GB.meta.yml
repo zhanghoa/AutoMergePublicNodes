@@ -1,27 +1,45 @@
 proxies:
-- name: 8|🇬🇧GB_1|1010KB/s
+- name: 8|🇬🇧GB_1|2.4MB/s
   port: 443
-  server: 212.102.63.31
+  server: 84.17.50.193
   skip-cert-verify: true
   tls: true
   type: http
-- name: 8|🇬🇧GB_2|1019KB/s
+- name: 8|🇬🇧GB_2|3.1MB/s
+  password: None
+  port: 443
+  server: 37.120.233.18
+  skip-cert-verify: true
+  tls: true
+  type: http
+  username: null
+- name: 8|🇬🇧GB_3|2.2MB/s
+  port: 443
+  server: 212.102.63.1
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: 8|🇬🇧GB_4|1017KB/s
+  port: 9443
+  server: 84.17.50.129
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: 8|🇬🇧GB_5|3.8MB/s
+  port: 9443
+  server: 84.17.50.214
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: 8|🇬🇧GB_6|2.8MB/s
   port: 443
   server: 212.102.63.61
   skip-cert-verify: true
   tls: true
   type: http
-- name: 8|🇬🇧GB_3|1.2MB/s
+- name: 8|🇬🇧GB_7|1.1MB/s
   port: 443
-  server: 185.164.138.156
+  server: 212.102.63.31
   skip-cert-verify: true
   tls: true
   type: http
-- name: 8|🇬🇧GB_4|1.0MB/s
-  password: None
-  port: 443
-  server: 37.120.233.50
-  skip-cert-verify: true
-  tls: true
-  type: http
-  username: null
