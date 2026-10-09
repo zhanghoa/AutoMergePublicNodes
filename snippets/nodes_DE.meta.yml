@@ -9,21 +9,7 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- cipher: aes-256-cfb
-  name: 8|🇩🇪DE_1|4.1MB/s
-  password: amazonskr05
-  port: 443
-  server: 18.196.88.40
-  type: ss
-  udp: true
-- cipher: aes-256-cfb
-  name: 8|🇩🇪DE_2|2.7MB/s
-  password: amazonskr05
-  port: 443
-  server: 3.79.59.187
-  type: ss
-  udp: true
-- name: 8|🇩🇪DE_3|2.4MB/s
+- name: 8|🇩🇪DE_1|1.6MB/s
   password: None
   port: 443
   server: 87.249.132.97
@@ -31,84 +17,42 @@ proxies:
   tls: true
   type: http
   username: null
-- name: 8|🇩🇪DE_4|1.6MB/s
-  port: 9002
-  server: 158.173.154.1
-  skip-cert-verify: true
-  tls: true
-  type: http
-- name: 8|🇩🇪DE_5|1.8MB/s
-  port: 443
-  server: 149.36.50.129
-  skip-cert-verify: true
-  tls: true
-  type: http
-- name: 8|🇩🇪DE_6|3.2MB/s
-  port: 443
-  server: 87.106.223.158
-  skip-cert-verify: true
-  tls: true
-  type: http
-- name: 8|🇩🇪DE_7|1.9MB/s
-  password: None
-  port: 443
-  server: 149.36.50.157
-  skip-cert-verify: true
-  tls: true
-  type: http
-  username: null
-- name: 8|🇩🇪DE_8|3.2MB/s
-  port: 443
-  server: 213.109.163.119
-  skip-cert-verify: true
-  tls: true
-  type: http
-- name: 8|🇩🇪DE_9|2.8MB/s
+- name: 8|🇩🇪DE_2|2.4MB/s
   port: 9443
-  server: 79.127.156.177
+  server: 213.177.229.161
   skip-cert-verify: true
   tls: true
   type: http
-- name: 8|🇩🇪DE_10|3.7MB/s
-  port: 443
-  server: 172.64.68.89
-  skip-cert-verify: true
-  tls: true
-  type: http
-- name: 8|🇩🇪DE_11|1.3MB/s
-  port: 443
-  server: 193.233.75.115
-  skip-cert-verify: true
-  tls: true
-  type: http
-- name: 8|🇩🇪DE_12|2.1MB/s
-  port: 443
-  server: 79.76.126.155
-  skip-cert-verify: true
-  tls: true
-  type: http
-- client-fingerprint: chrome
-  name: 8|🇩🇪DE_13|1.1MB/s
-  network: tcp
-  password: gHncxmRjWEJ7apX5XuXsHw4kGexMH_gU
+- alpn:
+  - h3
+  client-fingerprint: chrome
+  name: 8|🇩🇪DE_3|2.6MB/s
+  network: ws
+  password: bpb-trojan
   port: '443'
-  server: ger2.fytpn.com
+  server: russia.com
   skip-cert-verify: false
+  sni: 6982410.xyz
   type: trojan
   udp: true
-- client-fingerprint: qq
+  ws-opts:
+    headers:
+      User-Agent: Mozilla/5.0 (X11; U; Linux x86_64; en-US) AppleWebKit/533.2 (KHTML,
+        like Gecko) Chrome/5.0.342.1 Safari/533.2
+    path: /tr
+- client-fingerprint: chrome
   encryption: none
   flow: xtls-rprx-vision
-  name: 8|🇩🇪DE_14|2.9MB/s
-  network: tcp
+  name: 8|🇩🇪DE_4|1012KB/s
+  network: raw
   port: '443'
   reality-opts:
-    public-key: l9b1AQuRbk4WA3hUVHI3mGBW-X5gNKFF72fWvismAS0
-    short-id: ''
-  server: ru-001.zapretu.net
-  servername: ru-001.zapretu.net
+    public-key: 5fkwwCKZzMsE6Eb_b3iqluu-1AWIfnYl-p0N3EL9Al8
+    short-id: 2c9a2790ad5900b2
+  server: ge-s-1.pythonmakemigreat.wiki
+  servername: ge-s-1.pythonmakemigreat.wiki
   tls: true
   type: vless
   udp: true
-  uuid: eac04622-531b-0007-b85f-3c2ee67565c6
+  uuid: f8d52ece-fad4-478d-875d-df6eed3befa7
   xudp: true

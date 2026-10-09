@@ -374,48 +374,43 @@ proxies:
   skip-cert-verify: true
   sni: m.ctrip.com
   type: trojan
-- cipher: aes-256-cfb
-  name: 8|🇩🇪DE_1|4.1MB/s
-  password: amazonskr05
-  port: 443
-  server: 18.196.88.40
-  type: ss
-  udp: true
-- cipher: aes-256-cfb
-  name: 8|🇩🇪DE_2|2.7MB/s
-  password: amazonskr05
-  port: 443
-  server: 3.79.59.187
-  type: ss
-  udp: true
-- name: 8|🇩🇪DE_13|1.1MB/s
-  network: tcp
-  password: gHncxmRjWEJ7apX5XuXsHw4kGexMH_gU
-  port: '443'
-  server: ger2.fytpn.com
-  skip-cert-verify: false
+- name: 8|🇺🇸US_4|3.2MB/s
+  password: KiUXpE53Xd
+  port: 39493
+  server: www.7770031.xyz
+  skip-cert-verify: true
+  sni: www.7770031.xyz
   type: trojan
   udp: true
-- name: 8|🇫🇮FI_1|2.3MB/s
-  network: tcp
-  password: gHncxmRjWEJ7apX5XuXsHw4kGexMH_gU
-  port: '2097'
-  server: ger6.fytpn.com
-  skip-cert-verify: false
+- name: 8|🇭🇰HK_1|1.9MB/s
+  password: 16db1e7c-975c-4b8d-9317-13b49e55404a
+  port: 16102
+  server: brookseek.trafficmanager.net
+  skip-cert-verify: true
+  sni: teambition-file.oss-cn-zhangjiakou.aliyuncs.com
+  type: trojan
+  udp: true
+- name: 8|🇭🇰HK_2|1.4MB/s
+  password: 16db1e7c-975c-4b8d-9317-13b49e55404a
+  port: 16105
+  server: brookseek.trafficmanager.net
+  skip-cert-verify: true
+  sni: teambition-file.oss-cn-zhangjiakou.aliyuncs.com
   type: trojan
   udp: true
 - alpn:
-  - h2
-  - http/1.1
-  alterId: '0'
-  cipher: auto
-  name: 8|🇱🇻LV_3|3.0MB/s
-  network: tcp
-  port: '2083'
-  server: 188.130.154.174
+  - h3
+  name: 8|🇩🇪DE_3|2.6MB/s
+  network: ws
+  password: bpb-trojan
+  port: '443'
+  server: russia.com
   skip-cert-verify: false
-  tls: true
-  type: vmess
+  sni: 6982410.xyz
+  type: trojan
   udp: true
-  uuid: 74c17cae-bf8b-4cda-8cdd-cf7983bf0a49
-  xudp: true
+  ws-opts:
+    headers:
+      User-Agent: Mozilla/5.0 (X11; U; Linux x86_64; en-US) AppleWebKit/533.2 (KHTML,
+        like Gecko) Chrome/5.0.342.1 Safari/533.2
+    path: /tr

@@ -1,4 +1,4 @@
-# Update: 2026-10-09 07:30
+# Update: 2026-10-09 14:30
 proxies:
 - alterId: 0
   cipher: auto
@@ -314,6 +314,15 @@ proxies:
   port: 443
   server: 45.192.12.93
   sni: admin.wwwinternetvideo.click
+  tls: false
+  type: hysteria2
+- name: ❌ 5|190459 | Telegram = t.me/SOSke...
+  obfs: salamander
+  obfs-password: ocs9pxjl0p8l8408
+  password: ajr2tvlpy4nkddrx
+  port: 51509
+  server: www.duravexv.ir
+  skip-cert-verify: false
   tls: false
   type: hysteria2
 - name: '❌ 5|@KAFING_2 #2'
@@ -765,70 +774,57 @@ proxies:
   skip-cert-verify: true
   sni: m.ctrip.com
   type: trojan
-- cipher: aes-256-cfb
-  name: ✅ 8|🇩🇪DE_1|4.1MB/s
-  password: amazonskr05
-  port: 443
-  server: 18.196.88.40
-  type: ss
+- name: ✅ 8|🇫🇷FR_1|2.1MB/s
+  password: github.com/Alvin9999-newpac/fanqiang
+  port: 30099
+  server: ip5.934618.xyz
+  skip-cert-verify: true
+  sni: ip5.934618.xyz
+  type: anytls
   udp: true
-- cipher: aes-256-cfb
-  name: ✅ 8|🇩🇪DE_2|2.7MB/s
-  password: amazonskr05
-  port: 443
-  server: 3.79.59.187
-  type: ss
-  udp: true
-- name: ✅ 8|🇩🇪DE_13|1.1MB/s
-  network: tcp
-  password: gHncxmRjWEJ7apX5XuXsHw4kGexMH_gU
-  port: '443'
-  server: ger2.fytpn.com
-  skip-cert-verify: false
+- name: ❌ 8|🇺🇸US_4|3.2MB/s
+  password: KiUXpE53Xd
+  port: 39493
+  server: www.7770031.xyz
+  skip-cert-verify: true
+  sni: www.7770031.xyz
   type: trojan
   udp: true
-- name: ✅ 8|🇫🇮FI_1|2.3MB/s
-  network: tcp
-  password: gHncxmRjWEJ7apX5XuXsHw4kGexMH_gU
-  port: '2097'
-  server: ger6.fytpn.com
-  skip-cert-verify: false
+- name: ✅ 8|🇭🇰HK_1|1.9MB/s
+  password: 16db1e7c-975c-4b8d-9317-13b49e55404a
+  port: 16102
+  server: brookseek.trafficmanager.net
+  skip-cert-verify: true
+  sni: teambition-file.oss-cn-zhangjiakou.aliyuncs.com
   type: trojan
   udp: true
-- client-fingerprint: firefox
-  flow: xtls-rprx-vision
-  name: ✅ 8|🇨🇦CA_6|1.8MB/s
-  network: tcp
-  port: '443'
-  reality-opts:
-    public-key: NO3w10fOUvwK8L7vzCVPDLWIKYCHDaB6ealdMnv4jS4
-    short-id: e287e3906e3c
-  server: 209.200.246.61
-  servername: ca.vpnskyline.com
-  tls: true
-  type: vless
+- name: ✅ 8|🇭🇰HK_2|1.4MB/s
+  password: 16db1e7c-975c-4b8d-9317-13b49e55404a
+  port: 16105
+  server: brookseek.trafficmanager.net
+  skip-cert-verify: true
+  sni: teambition-file.oss-cn-zhangjiakou.aliyuncs.com
+  type: trojan
   udp: true
-  uuid: ab9929fd-ab22-48e3-8723-480733c0eca9
-  xudp: true
-- client-fingerprint: qq
-  encryption: none
-  flow: xtls-rprx-vision
-  name: ✅ 8|🇩🇪DE_14|2.9MB/s
-  network: tcp
+- alpn:
+  - h3
+  name: ✅ 8|🇩🇪DE_3|2.6MB/s
+  network: ws
+  password: bpb-trojan
   port: '443'
-  reality-opts:
-    public-key: l9b1AQuRbk4WA3hUVHI3mGBW-X5gNKFF72fWvismAS0
-    short-id: ''
-  server: ru-001.zapretu.net
-  servername: ru-001.zapretu.net
-  tls: true
-  type: vless
+  server: russia.com
+  skip-cert-verify: false
+  sni: 6982410.xyz
+  type: trojan
   udp: true
-  uuid: eac04622-531b-0007-b85f-3c2ee67565c6
-  xudp: true
+  ws-opts:
+    headers:
+      User-Agent: Mozilla/5.0 (X11; U; Linux x86_64; en-US) AppleWebKit/533.2 (KHTML,
+        like Gecko) Chrome/5.0.342.1 Safari/533.2
+    path: /tr
 - encryption: none
   flow: xtls-rprx-vision
-  name: ✅ 8|🇳🇱NL_12|1.8MB/s
+  name: ✅ 8|🇳🇱NL_6|2.0MB/s
   network: raw
   port: '443'
   reality-opts:
@@ -841,20 +837,35 @@ proxies:
   udp: true
   uuid: f8d52ece-fad4-478d-875d-df6eed3befa7
   xudp: true
-- alpn:
-  - h2
-  - http/1.1
-  alterId: '0'
-  cipher: auto
-  name: ✅ 8|🇱🇻LV_3|3.0MB/s
-  network: tcp
-  port: '2083'
-  server: 188.130.154.174
-  skip-cert-verify: false
+- encryption: none
+  flow: xtls-rprx-vision
+  name: ✅ 8|🇩🇪DE_4|1012KB/s
+  network: raw
+  port: '443'
+  reality-opts:
+    public-key: 5fkwwCKZzMsE6Eb_b3iqluu-1AWIfnYl-p0N3EL9Al8
+    short-id: 2c9a2790ad5900b2
+  server: ge-s-1.pythonmakemigreat.wiki
+  servername: ge-s-1.pythonmakemigreat.wiki
   tls: true
-  type: vmess
+  type: vless
   udp: true
-  uuid: 74c17cae-bf8b-4cda-8cdd-cf7983bf0a49
+  uuid: f8d52ece-fad4-478d-875d-df6eed3befa7
+  xudp: true
+- client-fingerprint: safari
+  flow: xtls-rprx-vision
+  name: ✅ 8|🇸🇬SG_1|3.0MB/s
+  network: tcp
+  port: '443'
+  reality-opts:
+    public-key: 9076EbD5vM8kATc_08QvDiqZF5KHTM_LaSrMOvcwfHw
+    short-id: 57b7989c
+  server: pq.aws65.yydjc.top
+  servername: iosapps.itunes.apple.com
+  tls: true
+  type: vless
+  udp: true
+  uuid: 11b0e50b-2efe-472d-bbc9-e6b159811d39
   xudp: true
 - flow: xtls-rprx-vision
   name: ❌ 9|US_speednode_0130
