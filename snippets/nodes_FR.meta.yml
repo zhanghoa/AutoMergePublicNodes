@@ -1,5 +1,5 @@
 proxies:
-- name: 8|🇫🇷FR_1|2.1MB/s
+- name: 8|🇫🇷FR_1|1.7MB/s
   password: github.com/Alvin9999-newpac/fanqiang
   port: 30099
   server: ip5.934618.xyz
@@ -7,9 +7,26 @@ proxies:
   sni: ip5.934618.xyz
   type: anytls
   udp: true
-- name: 8|🇫🇷FR_2|1.6MB/s
-  port: 9443
-  server: 213.139.9.142
+- alpn:
+  - ''
+  alterId: '0'
+  cipher: auto
+  name: 8|🇫🇷FR_2|1.6MB/s
+  network: tcp
+  port: '55277'
+  server: fertest3.povrak.ir
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 5551d2e8-d3d4-42d2-95c8-fb780b4f6e6d
+  xudp: true
+- auth: github.com/Alvin9999-newpac/fanqiang
+  name: 8|🇫🇷FR_3|2.1MB/s
+  password: github.com/Alvin9999-newpac/fanqiang
+  port: 43115
+  server: 62.210.147.2
   skip-cert-verify: true
-  tls: true
-  type: http
+  sni: www.microsoft.com
+  type: hysteria2
+  udp: true

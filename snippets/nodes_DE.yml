@@ -1,18 +1,1 @@
-proxies:
-- alpn:
-  - h3
-  client-fingerprint: chrome
-  name: 8|🇩🇪DE_3|2.6MB/s
-  network: ws
-  password: bpb-trojan
-  port: '443'
-  server: russia.com
-  skip-cert-verify: false
-  sni: 6982410.xyz
-  type: trojan
-  udp: true
-  ws-opts:
-    headers:
-      User-Agent: Mozilla/5.0 (X11; U; Linux x86_64; en-US) AppleWebKit/533.2 (KHTML,
-        like Gecko) Chrome/5.0.342.1 Safari/533.2
-    path: /tr
+proxies: []

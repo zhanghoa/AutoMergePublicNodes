@@ -1,4 +1,4 @@
-# Update: 2026-10-09 14:30
+# Update: 2026-10-09 21:40
 proxies:
 - alterId: 0
   cipher: auto
@@ -126,6 +126,14 @@ proxies:
   sni: mhzedir.qzz.io
   tls: false
   type: hysteria2
+- name: ✅ 5|190697 | Telegram = t.me/SOSke...
+  password: 267b3a79-81f2-42ac-a409-c23b05b6329d
+  port: 443
+  server: 188.241.241.33
+  skip-cert-verify: true
+  sni: dehy.bbobr.win
+  tls: false
+  type: hysteria2
 - name: '❌ 5|@VConfing '
   obfs: salamander
   obfs-password: 87d72c2949c0ca85bbda09459244e374
@@ -136,10 +144,26 @@ proxies:
   sni: srv-0e5387.frd21.ru
   tls: false
   type: hysteria2
+- name: ❌ 5|190696 | Telegram = t.me/SOSke...
+  password: 3f63c86c-ac4a-4900-85cf-4fedf93c2ca5
+  port: 22443
+  server: 91.240.86.70
+  skip-cert-verify: true
+  sni: hy.quattro-tech.ru
+  tls: false
+  type: hysteria2
 - name: ❌ 5|75@oneclickvpnkeys
   password: 41edb44c8e
   port: 11592
   server: 103.88.243.142
+  sni: srv-17e124.21freedom.net
+  tls: false
+  type: hysteria2
+- name: ❌ 5|190703 | Telegram = t.me/SOSke...
+  password: 41edb44c8e
+  port: 11592
+  server: srv-17e124.21freedom.net
+  skip-cert-verify: true
   sni: srv-17e124.21freedom.net
   tls: false
   type: hysteria2
@@ -151,6 +175,14 @@ proxies:
   server: 91.142.73.159
   skip-cert-verify: true
   sni: cdn77.dmtr.ru
+  tls: false
+  type: hysteria2
+- name: ❌ 5|190699 | Telegram = t.me/SOSke...
+  password: 5fa748137b6d822308eea4611f474ad5
+  port: 443
+  server: 155.117.19.17
+  skip-cert-verify: true
+  sni: www.bing.com
   tls: false
   type: hysteria2
 - name: '❌ 5|Telegram @cnetvpn '
@@ -173,7 +205,27 @@ proxies:
   sni: fiproxy1.lockdwn.com
   tls: false
   type: hysteria2
-- name: ❌ 5|190453 | Telegram = t.me/SOSke...
+- name: ❌ 5|190660 | Telegram = t.me/SOSke...
+  obfs: salamander
+  obfs-password: 9VK3Nqd0bcXGPxcay9hRLY28HBtKo5
+  password: 77f73bd5-51bf-4143-8ebd-02f56ba376f4
+  port: 24000
+  server: 177.1.195.242
+  skip-cert-verify: false
+  sni: hy.kirian.su
+  tls: false
+  type: hysteria2
+- name: ❌ 5|190659 | Telegram = t.me/SOSke...
+  obfs: salamander
+  obfs-password: 9VK3Nqd0bcXGPxcay9hRLY28HBtKo5
+  password: 77f73bd5-51bf-4143-8ebd-02f56ba376f4
+  port: 21000
+  server: 79.137.206.157
+  skip-cert-verify: false
+  sni: hy.kirian.su
+  tls: false
+  type: hysteria2
+- name: ❌ 5|@tootffarangi-6
   obfs: salamander
   obfs-password: 9VK3Nqd0bcXGPxcay9hRLY28HBtKo5
   password: 81d953a0-f0cf-4452-a669-747d32efd6c1
@@ -183,7 +235,7 @@ proxies:
   sni: hy.kirian.su
   tls: false
   type: hysteria2
-- name: ❌ 5|190450 | Telegram = t.me/SOSke...
+- name: ❌ 5|@tootffarangi-8
   obfs: salamander
   obfs-password: 9VK3Nqd0bcXGPxcay9hRLY28HBtKo5
   password: 81d953a0-f0cf-4452-a669-747d32efd6c1
@@ -193,7 +245,7 @@ proxies:
   sni: hy.kirian.su
   tls: false
   type: hysteria2
-- name: ❌ 5|190452 | Telegram = t.me/SOSke...
+- name: ❌ 5|@tootffarangi-5
   obfs: salamander
   obfs-password: 9VK3Nqd0bcXGPxcay9hRLY28HBtKo5
   password: 81d953a0-f0cf-4452-a669-747d32efd6c1
@@ -203,7 +255,7 @@ proxies:
   sni: hy.kirian.su
   tls: false
   type: hysteria2
-- name: ❌ 5|190451 | Telegram = t.me/SOSke...
+- name: ❌ 5|@tootffarangi-7
   obfs: salamander
   obfs-password: 9VK3Nqd0bcXGPxcay9hRLY28HBtKo5
   password: 81d953a0-f0cf-4452-a669-747d32efd6c1
@@ -219,6 +271,34 @@ proxies:
   server: 140.238.213.114
   skip-cert-verify: true
   sni: www.bing.com
+  tls: false
+  type: hysteria2
+- name: '❌ 5|@GozargahAzad| #2'
+  password: 8bd04756-3beb-4348-82c9-d35453df50ce
+  port: 28152
+  server: alb1337.zaebalsanoproxyklinus.lol
+  sni: ''
+  tls: false
+  type: hysteria2
+- name: ❌ 5|190694 | Telegram = t.me/SOSke...
+  password: 8bd04756-3beb-4348-82c9-d35453df50ce
+  port: 28152
+  server: alb1337.zaebalsanoproxyklinus.lol
+  sni: alb1337.zaebalsanoproxyklinus.lol
+  tls: false
+  type: hysteria2
+- name: '❌ 5|@GozargahAzad| #3'
+  password: 8bd04756-3beb-4348-82c9-d35453df50ce
+  port: 20270
+  server: mai.song69.fun
+  sni: ''
+  tls: false
+  type: hysteria2
+- name: ❌ 5|190695 | Telegram = t.me/SOSke...
+  password: 8bd04756-3beb-4348-82c9-d35453df50ce
+  port: 20270
+  server: mai.song69.fun
+  sni: mai.song69.fun
   tls: false
   type: hysteria2
 - name: '❌ 5|Telegram @Cnetvpn '
@@ -241,6 +321,13 @@ proxies:
   sni: gift-catalog.aroonia.ir
   tls: false
   type: hysteria2
+- name: ❌ 5|190702 | Telegram = t.me/SOSke...
+  password: 9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z
+  port: 9443
+  server: 162.249.126.41
+  sni: hop-germany-september.dynuddns.com
+  tls: false
+  type: hysteria2
 - name: ❌ 5|   ange1Vpn@
   obfs: salamander
   obfs-password: 7y0p9k93w7ryw8tz
@@ -251,15 +338,15 @@ proxies:
   sni: mhzedir.qzz.io
   tls: false
   type: hysteria2
-- name: ❌ 5|13@oneclickvpnkeys
-  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
-  port: 443
-  server: 13.38.44.64
+- name: ❌ 5|190700 | Telegram = t.me/SOSke...
+  password: Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0
+  port: 8443
+  server: 103.126.51.55
   skip-cert-verify: true
-  sni: 'off'
+  sni: ocober-romania-new.yyuyy.com
   tls: false
   type: hysteria2
-- name: ❌ 5|@meliproxyy
+- name: '❌ 5|@meliproxyy #2'
   obfs: salamander
   obfs-password: 6ccfcef2e116b03ce9047333
   password: KRYlhDrdm34kDT3En9j9vVO4-c3rcSiU
@@ -316,15 +403,6 @@ proxies:
   sni: admin.wwwinternetvideo.click
   tls: false
   type: hysteria2
-- name: ❌ 5|190459 | Telegram = t.me/SOSke...
-  obfs: salamander
-  obfs-password: ocs9pxjl0p8l8408
-  password: ajr2tvlpy4nkddrx
-  port: 51509
-  server: www.duravexv.ir
-  skip-cert-verify: false
-  tls: false
-  type: hysteria2
 - name: '❌ 5|@KAFING_2 #2'
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
@@ -355,7 +433,7 @@ proxies:
   sni: srv-3fc7c9.21freedom.net
   tls: false
   type: hysteria2
-- name: ❌ 5|kurdconfig
+- name: ❌ 5|@vasl_bashim
   obfs: salamander
   obfs-password: ec66908dbc46e6920143d9b684adf277
   password: ca78f919e6
@@ -365,7 +443,7 @@ proxies:
   sni: srv-3fc7c9.21freedom.net
   tls: false
   type: hysteria2
-- name: '✅ 5|kurdconfig #1'
+- name: ✅ 5|kurdconfig
   obfs: salamander
   obfs-password: 44f1c1e2f8b99e792ceed574627a1eb0
   password: cd74c0a406664a5bc0bac098220a2468
@@ -385,6 +463,22 @@ proxies:
   sni: de1.sferavpn.pro
   tls: false
   type: hysteria2
+- name: ❌ 5|190701 | Telegram = t.me/SOSke...
+  password: e3c3b722-1264-4cdc-a97c-b0a1bb73cd67
+  port: 9443
+  server: lv02.gotosvo.com
+  skip-cert-verify: true
+  sni: onecloudstream.com
+  tls: false
+  type: hysteria2
+- name: ❌ 5|190698 | Telegram = t.me/SOSke...
+  password: f317b5d6-d399-4d3d-a051-89d674ae953c
+  port: 443
+  server: 94.198.54.132
+  skip-cert-verify: true
+  sni: msk.frkn.org
+  tls: false
+  type: hysteria2
 - name: ❌ 5|99@oneclickvpnkeys
   password: f87376e17da040ed04c9665ce8972930
   port: 50160
@@ -401,14 +495,6 @@ proxies:
   server: giftcard.gateway-stream.com
   skip-cert-verify: false
   sni: giftcard.gateway-stream.com
-  tls: false
-  type: hysteria2
-- name: ✅ 5|14@oneclickvpnkeys
-  password: mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj
-  port: 443
-  server: 91.196.32.163
-  skip-cert-verify: true
-  sni: germany3.h2corp.local
   tls: false
   type: hysteria2
 - name: '✅ 5|@confiig_hub #1'
@@ -433,11 +519,33 @@ proxies:
   sni: pro2.riziro.ir
   tls: false
   type: hysteria2
-- name: ❌ 5|45@oneclickvpnkeys
+- name: ❌ 5|190576 | Telegram = t.me/SOSke...
+  password: s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z
+  port: 8443
+  server: 46.229.243.138
+  sni: grape-turbo-fr.roxa.org
+  tls: false
+  type: hysteria2
+- name: '❌ 5|45@oneclickvpnkeys #1'
   password: s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z
   port: 8443
   server: 77.74.123.100
   skip-cert-verify: true
+  sni: grape-test-italy.dynuddns.net
+  tls: false
+  type: hysteria2
+- name: ❌ 5|190540 | Telegram = t.me/SOSke...
+  password: s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z
+  port: 8443
+  server: 77.74.123.107
+  skip-cert-verify: true
+  sni: grape-test-italy.dynuddns.net
+  tls: false
+  type: hysteria2
+- name: ❌ 5|190536 | Telegram = t.me/SOSke...
+  password: s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z
+  port: 8443
+  server: 77.74.123.109
   sni: grape-test-italy.dynuddns.net
   tls: false
   type: hysteria2
@@ -459,6 +567,14 @@ proxies:
   server: bwdf2fnt.xn--e1aatfr8bwa.online
   skip-cert-verify: false
   sni: bwdf2fnt.xn--e1aatfr8bwa.online
+  tls: false
+  type: hysteria2
+- name: ❌ 5|190704 | Telegram = t.me/SOSke...
+  password: u63SxILNwtrQZ7Y1ZrFaZfsA
+  port: 8443
+  server: 8.211.175.236
+  skip-cert-verify: true
+  sni: bing.com
   tls: false
   type: hysteria2
 - name: '❌ 5|Telegram @cnetvpn  #3'
@@ -774,7 +890,21 @@ proxies:
   skip-cert-verify: true
   sni: m.ctrip.com
   type: trojan
-- name: ✅ 8|🇫🇷FR_1|2.1MB/s
+- client-fingerprint: firefox
+  flow: xtls-rprx-vision
+  name: ✅ 8|🇩🇪DE_1|1014KB/s
+  network: tcp
+  port: 443
+  reality-opts:
+    public-key: 5fkwwCKZzMsE6Eb_b3iqluu-1AWIfnYl-p0N3EL9Al8
+    short-id: 2c9a2790ad5900b2
+  server: 217.60.179.244
+  servername: ge-s-1.pythonmakemigreat.wiki
+  tls: true
+  type: vless
+  udp: true
+  uuid: f8d52ece-fad4-478d-875d-df6eed3befa7
+- name: ✅ 8|🇫🇷FR_1|1.7MB/s
   password: github.com/Alvin9999-newpac/fanqiang
   port: 30099
   server: ip5.934618.xyz
@@ -782,64 +912,134 @@ proxies:
   sni: ip5.934618.xyz
   type: anytls
   udp: true
-- name: ❌ 8|🇺🇸US_4|3.2MB/s
-  password: KiUXpE53Xd
-  port: 39493
-  server: www.7770031.xyz
-  skip-cert-verify: true
-  sni: www.7770031.xyz
-  type: trojan
-  udp: true
-- name: ✅ 8|🇭🇰HK_1|1.9MB/s
-  password: 16db1e7c-975c-4b8d-9317-13b49e55404a
-  port: 16102
-  server: brookseek.trafficmanager.net
-  skip-cert-verify: true
-  sni: teambition-file.oss-cn-zhangjiakou.aliyuncs.com
-  type: trojan
-  udp: true
-- name: ✅ 8|🇭🇰HK_2|1.4MB/s
-  password: 16db1e7c-975c-4b8d-9317-13b49e55404a
-  port: 16105
-  server: brookseek.trafficmanager.net
-  skip-cert-verify: true
-  sni: teambition-file.oss-cn-zhangjiakou.aliyuncs.com
-  type: trojan
-  udp: true
-- alpn:
-  - h3
-  name: ✅ 8|🇩🇪DE_3|2.6MB/s
-  network: ws
-  password: bpb-trojan
-  port: '443'
-  server: russia.com
-  skip-cert-verify: false
-  sni: 6982410.xyz
-  type: trojan
-  udp: true
-  ws-opts:
-    headers:
-      User-Agent: Mozilla/5.0 (X11; U; Linux x86_64; en-US) AppleWebKit/533.2 (KHTML,
-        like Gecko) Chrome/5.0.342.1 Safari/533.2
-    path: /tr
-- encryption: none
-  flow: xtls-rprx-vision
-  name: ✅ 8|🇳🇱NL_6|2.0MB/s
-  network: raw
-  port: '443'
-  reality-opts:
-    public-key: ZqVz1kWNxh_5zQ5PPkoPHoaXQOvppM0ZyIo8uKp2dCg
-    short-id: 78f97d82e16aaad6
-  server: fi-s-1.pythonmakemigreat.wiki
-  servername: fi-s-1.pythonmakemigreat.wiki
+- flow: xtls-rprx-vision
+  name: ✅ 8|🇳🇱NL_1|1.3MB/s
+  network: tcp
+  port: 8443
+  server: alb1.keepverify.net
   tls: true
   type: vless
   udp: true
-  uuid: f8d52ece-fad4-478d-875d-df6eed3befa7
+  uuid: 595a6246-d7b0-48bc-a5f0-17068aec2e88
+- name: ✅ 8|🇯🇵JP_1|5.2MB/s
+  password: UX82473651
+  port: 443
+  server: stable-python.rooster465.autos
+  skip-cert-verify: true
+  sni: stable-python.rooster465.autos
+  type: trojan
+  udp: true
+- client-fingerprint: ios
+  flow: xtls-rprx-vision
+  name: ✅ 8|🇸🇬SG_1|4.5MB/s
+  network: tcp
+  port: 47592
+  reality-opts:
+    public-key: WIQGJ43m8ym13-VZ57mAtWY5vOwHMHEpnLV8caw2-kA
+    short-id: f38326f99edf
+  server: dghk2610.supertoolify.com
+  servername: www.lamer.com.sg
+  tls: true
+  type: vless
+  udp: true
+  uuid: 57beeeb0-03fc-4fc9-94da-7604488a7134
+- encryption: mlkem768x25519plus.native.0rtt.opKdG01g_6N4XciPyF_LeRIlGsHRVgArleiuhLInRH8
+  name: ❌ 8|🇫🇮FI_1|2.3MB/s
+  network: tcp
+  port: '36465'
+  server: fintest2.povrak.ir
+  type: vless
+  udp: true
+  uuid: e69dba87-f883-46a3-858e-c66defc02588
+  xudp: true
+- alpn:
+  - ''
+  alterId: '0'
+  cipher: auto
+  name: ❌ 8|🇫🇷FR_2|1.6MB/s
+  network: tcp
+  port: '55277'
+  server: fertest3.povrak.ir
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 5551d2e8-d3d4-42d2-95c8-fb780b4f6e6d
+  xudp: true
+- alpn:
+  - h3
+  - h2
+  encryption: none
+  name: ✅ 8|🇯🇵JP_2|4.2MB/s
+  network: ws
+  port: '443'
+  server: saas.sin.fan
+  servername: snip.edgeoneai.cc.cd
+  tls: true
+  type: vless
+  udp: true
+  uuid: 495c7195-85b8-498a-bf20-2ea9ce9175b5
+  ws-opts:
+    headers:
+      Host: snip.edgeoneai.cc.cd
+      User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML,
+        like Gecko) Chrome/56.0.2924.87 Safari/537.36
+    path: /
+  xudp: true
+- alpn:
+  - ''
+  alterId: '0'
+  cipher: auto
+  name: ❌ 8|🇫🇮FI_2|1.8MB/s
+  network: tcp
+  port: '37483'
+  server: fertest2.povrak.ir
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 5551d2e8-d3d4-42d2-95c8-fb780b4f6e6d
+  xudp: true
+- auth: github.com/Alvin9999-newpac/fanqiang
+  name: ❌ 8|🇫🇷FR_3|2.1MB/s
+  password: github.com/Alvin9999-newpac/fanqiang
+  port: 43115
+  server: 62.210.147.2
+  skip-cert-verify: true
+  sni: www.microsoft.com
+  type: hysteria2
+  udp: true
+- down: ''
+  fingerprint: ''
+  name: ❌ 8|Other_1|2.0MB/s
+  obfs: ''
+  obfs-password: ''
+  password: 5d0a6445-a30d-4522-bb1f-94f1d3ad63be
+  port: '2060'
+  server: rb.mangshe.xyz
+  skip-cert-verify: true
+  sni: 127.0.0.1
+  type: hysteria2
+  up: ''
+- client-fingerprint: firefox
+  encryption: none
+  flow: xtls-rprx-vision
+  name: ✅ 8|🇵🇱PL_3|1.3MB/s
+  network: tcp
+  port: '10443'
+  reality-opts:
+    public-key: 1MLoHw7RVkGefh7XUyuGg4ndxwv4vDU9en-f9JxpXRQ
+    short-id: d2061bb1
+  server: gw2.edgemedia.lol
+  servername: ya.ru
+  tls: true
+  type: vless
+  udp: true
+  uuid: 8ff3db5a-5f41-4f25-a8a4-7fbf00f1c319
   xudp: true
 - encryption: none
   flow: xtls-rprx-vision
-  name: ✅ 8|🇩🇪DE_4|1012KB/s
+  name: ✅ 8|🇩🇪DE_6|1.2MB/s
   network: raw
   port: '443'
   reality-opts:
@@ -852,20 +1052,31 @@ proxies:
   udp: true
   uuid: f8d52ece-fad4-478d-875d-df6eed3befa7
   xudp: true
-- client-fingerprint: safari
-  flow: xtls-rprx-vision
-  name: ✅ 8|🇸🇬SG_1|3.0MB/s
+- down: ''
+  fingerprint: ''
+  name: ❌ 8|🇷🇺RU_1|2.8MB/s
+  obfs: ''
+  obfs-password: ''
+  password: f317b5d6-d399-4d3d-a051-89d674ae953c
+  port: '443'
+  server: msk.frkn.org
+  skip-cert-verify: false
+  sni: ''
+  type: hysteria2
+  up: ''
+- flow: xtls-rprx-vision
+  name: ✅ 8|🇩🇪DE_7|1.4MB/s
   network: tcp
   port: '443'
   reality-opts:
-    public-key: 9076EbD5vM8kATc_08QvDiqZF5KHTM_LaSrMOvcwfHw
-    short-id: 57b7989c
-  server: pq.aws65.yydjc.top
-  servername: iosapps.itunes.apple.com
+    public-key: XTarABsaaFbjYNk6lRKnUzGavHzeqMIP7B8dZGNCvkE
+    short-id: 0fa4a0e2493392
+  server: defrnode.xyy123.bid
+  servername: p-y3-www-amazon-com-kalias.amazon.com
   tls: true
   type: vless
   udp: true
-  uuid: 11b0e50b-2efe-472d-bbc9-e6b159811d39
+  uuid: 8af93649-403b-46d8-9966-923d4c58402c
   xudp: true
 - flow: xtls-rprx-vision
   name: ❌ 9|US_speednode_0130

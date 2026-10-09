@@ -9,41 +9,49 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: 8|🇩🇪DE_1|1.6MB/s
+- client-fingerprint: firefox
+  flow: xtls-rprx-vision
+  name: 8|🇩🇪DE_1|1014KB/s
+  network: tcp
+  port: 443
+  reality-opts:
+    public-key: 5fkwwCKZzMsE6Eb_b3iqluu-1AWIfnYl-p0N3EL9Al8
+    short-id: 2c9a2790ad5900b2
+  server: 217.60.179.244
+  servername: ge-s-1.pythonmakemigreat.wiki
+  tls: true
+  type: vless
+  udp: true
+  uuid: f8d52ece-fad4-478d-875d-df6eed3befa7
+- name: 8|🇩🇪DE_2|1.1MB/s
   password: None
   port: 443
-  server: 87.249.132.97
+  server: 149.36.50.1
   skip-cert-verify: true
   tls: true
   type: http
-  username: null
-- name: 8|🇩🇪DE_2|2.4MB/s
+- name: 8|🇩🇪DE_3|1.1MB/s
+  port: 9002
+  server: 158.173.154.1
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: 8|🇩🇪DE_4|1.6MB/s
   port: 9443
-  server: 213.177.229.161
+  server: 79.127.156.177
   skip-cert-verify: true
   tls: true
   type: http
-- alpn:
-  - h3
-  client-fingerprint: chrome
-  name: 8|🇩🇪DE_3|2.6MB/s
-  network: ws
-  password: bpb-trojan
-  port: '443'
-  server: russia.com
-  skip-cert-verify: false
-  sni: 6982410.xyz
-  type: trojan
-  udp: true
-  ws-opts:
-    headers:
-      User-Agent: Mozilla/5.0 (X11; U; Linux x86_64; en-US) AppleWebKit/533.2 (KHTML,
-        like Gecko) Chrome/5.0.342.1 Safari/533.2
-    path: /tr
+- name: 8|🇩🇪DE_5|1.8MB/s
+  port: 443
+  server: 172.64.68.89
+  skip-cert-verify: true
+  tls: true
+  type: http
 - client-fingerprint: chrome
   encryption: none
   flow: xtls-rprx-vision
-  name: 8|🇩🇪DE_4|1012KB/s
+  name: 8|🇩🇪DE_6|1.2MB/s
   network: raw
   port: '443'
   reality-opts:
@@ -55,4 +63,19 @@ proxies:
   type: vless
   udp: true
   uuid: f8d52ece-fad4-478d-875d-df6eed3befa7
+  xudp: true
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: 8|🇩🇪DE_7|1.4MB/s
+  network: tcp
+  port: '443'
+  reality-opts:
+    public-key: XTarABsaaFbjYNk6lRKnUzGavHzeqMIP7B8dZGNCvkE
+    short-id: 0fa4a0e2493392
+  server: defrnode.xyy123.bid
+  servername: p-y3-www-amazon-com-kalias.amazon.com
+  tls: true
+  type: vless
+  udp: true
+  uuid: 8af93649-403b-46d8-9966-923d4c58402c
   xudp: true

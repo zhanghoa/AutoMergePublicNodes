@@ -1,7 +1,7 @@
 proxies:
-- name: 8|🇨🇦CA_1|1.1MB/s
+- name: 8|🇨🇦CA_1|1.9MB/s
   port: 9443
-  server: 198.44.157.19
+  server: 149.88.98.81
   skip-cert-verify: true
   tls: true
   type: http

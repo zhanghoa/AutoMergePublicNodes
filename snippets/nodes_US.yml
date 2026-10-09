@@ -45,11 +45,3 @@ proxies:
   skip-cert-verify: true
   sni: m.ctrip.com
   type: trojan
-- name: 8|🇺🇸US_4|3.2MB/s
-  password: KiUXpE53Xd
-  port: 39493
-  server: www.7770031.xyz
-  skip-cert-verify: true
-  sni: www.7770031.xyz
-  type: trojan
-  udp: true

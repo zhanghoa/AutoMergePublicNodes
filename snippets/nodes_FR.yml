@@ -1,1 +1,15 @@
-proxies: []
+proxies:
+- alpn:
+  - ''
+  alterId: '0'
+  cipher: auto
+  name: 8|🇫🇷FR_2|1.6MB/s
+  network: tcp
+  port: '55277'
+  server: fertest3.povrak.ir
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 5551d2e8-d3d4-42d2-95c8-fb780b4f6e6d
+  xudp: true
