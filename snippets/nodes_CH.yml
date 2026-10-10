@@ -39,3 +39,13 @@ proxies:
   tls: false
   type: vmess
   uuid: ae56511d-6b39-454b-847b-b711782d18cb
+- alterId: 0
+  cipher: auto
+  name: '22|کانال تلگرام : Free_VPN_CH@ #1'
+  network: tcp
+  port: 4452
+  server: x2.mehradservice.com
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 389625c7-c891-4f61-9f98-478058744ada

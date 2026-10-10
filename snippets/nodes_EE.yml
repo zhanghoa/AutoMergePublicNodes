@@ -18,7 +18,6 @@ proxies:
   server: 38.180.216.114
   type: ss
 - name: '16,17|🇪🇪[www.v2nodes.com] trojan-EE-... #2'
-  network: tcp
   password: gHncxmRjWEJ7apX5XuXsHw4kGexMH_gU
   port: 2097
   server: stoniy.fytpn.com

@@ -49,11 +49,6 @@ proxies:
   skip-cert-verify: true
   sni: m.ctrip.com
   type: trojan
-- name: 17|🇹🇼[www.v2nodes.com] trojan-TW-...
-  password: i99Cef
-  port: 28101
-  server: 209.248.32.116
-  type: trojan
 - alterId: 0
   cipher: auto
   name: 25|🇹🇼TW_5|5.5MB/s

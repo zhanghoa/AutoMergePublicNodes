@@ -434,7 +434,7 @@ proxies:
   server: 82.38.31.16
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '7,17|🇳🇱[www.v2nodes.com] ss-NL-1592... #3'
+  name: '7|🇬🇧 [ Configs by DukeMehdi ] SS... #84'
   password: oZIoA69Q8yhcQV8ka3Pa3A
   port: 443
   server: 82.38.31.170
@@ -446,7 +446,7 @@ proxies:
   server: 82.38.31.171
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '7,16|🇳🇱[www.v2nodes.com] ss-NL-1592... #1'
+  name: '7,16,17|🇳🇱[www.v2nodes.com] ss-NL-1592... #3'
   password: oZIoA69Q8yhcQV8ka3Pa3A
   port: 8080
   server: 82.38.31.171
@@ -806,7 +806,7 @@ proxies:
   server: 172.99.190.39
   type: ss
 - cipher: aes-256-gcm
-  name: 7,16,30|🇬🇧GB_29|1009KB/s|A004-260618 0...
+  name: 7,16,17,30|🇬🇧GB_29|1009KB/s|A004-260618 0...
   password: RexnBgU7EV5ADxG
   port: 7001
   server: 94.156.250.148
@@ -919,14 +919,14 @@ proxies:
   port: 8118
   server: 172.99.190.39
   type: ss
-- client-fingerprint: firefox
+- client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: 9,12,16,20|🇳🇱_荷兰_73
+  name: 9,12,16,20|🇳🇱_荷兰_70
   network: tcp
   port: 2063
   reality-opts:
     public-key: MMpt_jWc4J3oySBdf5sPDVRkiWlZmOObth6A1scM9BM
-  server: 2.26.231.218
+  server: pl-waw.dontblockmepls.com
   servername: rusbid.de
   skip-cert-verify: true
   tls: true
@@ -1150,63 +1150,50 @@ proxies:
   tls: true
   type: vless
   uuid: 4bdeee92-97e8-414d-bef6-ec1d5e2ab73b
-- name: '16,22|@npv_vpn11 #787'
-  network: tcp
-  port: 8443
-  server: node-uk.connectsuite.org
-  skip-cert-verify: false
-  tls: true
-  type: vless
-  uuid: c08f0056-7a6d-4931-813b-aaa3cdd00aed
-- client-fingerprint: chrome
-  flow: xtls-rprx-vision
-  name: 16,22,30|🇬🇧GB_21|4.4MB/s|B007-260618 01
+- alpn:
+  - http/1.1
+  client-fingerprint: chrome
+  name: '16,22|@npv_vpn11 #773'
   network: tcp
   port: 443
-  reality-opts:
-    public-key: 3iVJAIGPx6JMlhlRmfpGrHkSmLpHJ4CPvBBH7KsFrFA
-    short-id: fd8cf7e1173f0edb
-  server: 83.147.18.3
-  servername: www.cloudflare.com
-  tls: false
+  server: 186.190.211.188
+  servername: 186.190.211.188
+  skip-cert-verify: true
+  tls: true
   type: vless
-  uuid: 9f61cdf4-810d-4052-bbc7-2da0c8e20104
+  uuid: 03fcc618-b93d-6796-6aed-8a38c975d581
 - cipher: aes-256-gcm
-  name: 16,30|🇬🇧GB_11|1.6MB/s|A004-260618 01
+  name: 16,17,30|🇬🇧GB_11|1.6MB/s|A004-260618 01
   password: g5h5jleTRSyO3Rk4
   port: 443
   server: 149.102.132.184
   type: ss
 - cipher: aes-128-gcm
-  name: '16|🇬🇧 英国 | GBR #1'
+  name: '16,17|🇬🇧 英国 | GBR #1 #1'
   password: 9c51ca33-a332-4de5-8677-5624e940097c
   port: 35016
   server: ruot.ayucloudservices.nl
   type: ss
 - cipher: aes-256-gcm
-  name: '16|🇬🇧 英国 | GBR #2'
+  name: '16,17|🇬🇧 英国 | GBR #2 #1'
   password: bd962c9a-d6f2-4561-bd80-34206c4d5279
   port: 22084
   server: ruot.ayucloudservices.nl
   type: ss
+  udp: true
 - cipher: aes-256-gcm
-  name: '16|🇬🇧 英国 | GBR #4'
+  name: '16,17|🇬🇧 英国 | GBR #4 #1'
   password: 9c51ca33-a332-4de5-8677-5624e940097c
   port: 22034
   server: ruot.ayucloudservices.nl
   type: ss
 - cipher: aes-128-gcm
-  name: '16|🇬🇧 英国 | GBR #5'
+  name: '16,17|🇬🇧 英国 | GBR #5 #1'
   password: 70a5c510-d56d-43e7-b150-9c00c969bd50
   port: 35194
   server: ruot.ayucloudservices.nl
   type: ss
-- cipher: aes-256-gcm
-  name: 17,30|🇬🇧GB_12|644KB/s|A004-260618 01
-  password: g5h5jleTRSyO3Rk4
-  port: 80
-  server: 149.102.132.184
-  type: ss
+  udp: true
 - client-fingerprint: firefox
   name: 20|🇬🇧_英国_96
   network: ws
@@ -1497,6 +1484,12 @@ proxies:
   port: 8080
   server: 146.70.23.32
   type: ss
+- cipher: aes-256-gcm
+  name: 30|🇬🇧GB_12|644KB/s|A004-260618 01
+  password: g5h5jleTRSyO3Rk4
+  port: 80
+  server: 149.102.132.184
+  type: ss
 - name: 30|🇬🇧GB_13|468KB/s|S001-260618 01
   network: ws
   port: 8880
@@ -1584,6 +1577,19 @@ proxies:
     headers:
       Host: 3tmj2egtm-fno.49bnithzk8vphybv36d1z1xkzfvogt2m6.workers.dev
     path: /@Marisa_kristi
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: 30|🇬🇧GB_30|3.9MB/s|M003-260806 01
+  network: raw
+  port: 443
+  reality-opts:
+    public-key: SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY
+    short-id: fd55b698ee8c3629
+  server: 87.117.234.19
+  servername: strapi.io
+  tls: false
+  type: vless
+  uuid: 4d583b2c-2f5a-47d0-8181-e95217fe8cd9
 - name: 30|🇬🇧GB_31|481KB/s|M003-260806 01
   network: ws
   port: 8880

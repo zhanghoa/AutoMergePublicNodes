@@ -664,7 +664,7 @@ proxies:
   server: 51.79.64.198
   type: ss
 - cipher: aes-256-gcm
-  name: 16,17|🏳[www.v2nodes.com] ss-
+  name: '16,17|🇨🇦[www.v2nodes.com] ss-CA-1545... #3'
   password: kDWvXYZoTBcGkC4
   port: 8882
   server: 51.79.49.116

@@ -2644,34 +2644,18 @@ proxies:
   port: 8118
   server: 38.91.107.37
   type: ss
-- auth: 9cfc9458e48c028ec03ff86ebc71c744
-  name: 9,11,16,30|🇰🇷KR_36|670KB/s|A004-260618 01
-  password: 9cfc9458e48c028ec03ff86ebc71c744
-  port: 50160
-  server: 150-230-252-217.liao.kdns.fr
-  skip-cert-verify: true
-  sni: 150-230-252-217.liao.kdns.fr
-  tls: false
-  type: hysteria2
-  udp: true
-- alpn:
-  - h3
-  - h2
-  client-fingerprint: chrome
-  name: '9,12|🔥Join+Telegram:@Farah_VPN🟣 #627'
+- name: 9|美国+CloudFlare节点
   network: ws
-  port: 443
-  server: 162.159.135.234
-  servername: snip.edgeoneai.cc.cd
-  skip-cert-verify: false
-  tls: true
+  port: 8080
+  server: 104.26.2.223
+  tls: false
   type: vless
-  uuid: 495c7195-85b8-498a-bf20-2ea9ce9175b5
+  uuid: 9cc42ee7-1f5f-46f5-a8b0-2da76b6b6641
   ws-opts:
     headers:
-      Host: snip.edgeoneai.cc.cd
+      Host: pe2ev-frosty-poetry-3d08.s67y4jl8.workers.dev
     path: /
-- name: '9|美国+V2CROSS.COM #1'
+- name: 9|美国+V2CROSS.COM
   password: f25f19f29ce3fb53a35bf1b35b452a43
   port: 50160
   server: 129.159.156.109
@@ -2679,6 +2663,19 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: '9,16,22|@npv_vpn11 #469'
+  network: tcp
+  port: 443
+  reality-opts:
+    public-key: BlSccfT5tvDIOS7v9VaPd0ulUNhUdvlMjGiNzDNDUHE
+    short-id: 051f20c2344a2dfd
+  server: c20s5.portablesubmarines.com
+  servername: portal.citygrainla.com
+  tls: false
+  type: vless
+  uuid: 85fe968d-fbb5-40dc-8422-30635eccb149
 - client-fingerprint: firefox
   encryption: none
   flow: xtls-rprx-vision
@@ -2686,7 +2683,7 @@ proxies:
     headers: {}
     path:
     - /
-  name: 9,11,12,16|🇫🇮FI_2|1.5MB/s
+  name: 9,11,16|🇫🇮FI_2|1.5MB/s
   network: tcp
   port: 13443
   reality-opts:
@@ -2699,22 +2696,6 @@ proxies:
   udp: true
   uuid: 9ebf4fda-7395-4800-b42f-b2dda649880a
   xudp: true
-- alpn:
-  - h2
-  - http/1.1
-  client-fingerprint: firefox
-  flow: xtls-rprx-vision
-  name: 9|美国+纽约州伊利县威廉斯维尔村ColoCrossing有限公...
-  network: tcp
-  port: 10829
-  server: s482.wagahaha.xyz
-  servername: u695098u764943ccs478.gogocs.xyz
-  tls: true
-  type: vless
-  uuid: 30e52776-55ac-3cb4-8d36-e2910f07e2c3
-  ws-opts:
-    headers:
-      Host: 764943ccs478.gogocs.xyz
 - alterId: 0
   cipher: auto
   http-opts:
@@ -4510,21 +4491,26 @@ proxies:
   udp: true
   uuid: 3cd1770d-f285-4cf4-8979-e9dd8f4be36a
 - client-fingerprint: chrome
-  name: '16|🇺🇸[www.v2nodes.com] vless-US-1... #1'
-  port: 10002
-  server: xjp111-2.vatilon.cc
-  servername: xjp111-2.vatilon.cc
-  tls: true
+  flow: xtls-rprx-vision
+  name: 16|美国+FDC芝加哥机房
+  network: tcp
+  port: 443
+  reality-opts:
+    public-key: 8ENbaQRCWZk-wewSrdHq1_rVjJY4CrxqXUo_5vZNdi4
+    short-id: b2b44805
+  server: 50.7.211.245
+  servername: xn--80abgtcaqw1f.xn----9sbekcigdcaa6cd7cafr7e.xn--p1ai
+  tls: false
   type: vless
-  uuid: aec8e5e3-bb81-4b22-8802-0b88c54997b3
-- name: '16,22|@npv_vpn11 #80'
+  uuid: a5172fb0-b4e8-42dc-a3ee-28239e2ff759
+- name: '16,17,22|@npv_vpn11 #80'
   password: aec8e5e3-bb81-4b22-8802-0b88c54997b3
   port: 10013
   server: us2.australiacaregroup.site
   skip-cert-verify: true
   sni: us2.australiacaregroup.site
   type: trojan
-- name: '16,17|🇺🇸[www.v2nodes.com] trojan-US-... #3'
+- name: '16,17|🇺🇸[www.v2nodes.com] trojan-US-... #4'
   password: aec8e5e3-bb81-4b22-8802-0b88c54997b3
   port: 10003
   server: r627r8.vatilon.cc
@@ -4600,6 +4586,17 @@ proxies:
     headers:
       Host: plain-cell-7c51.415-172.workers.dev
     path: /pyip=ProxyIP.US.CMLiussss.net
+- name: 16|🇺🇸US_2|1.0MB/s
+  network: ws
+  port: 8880
+  server: 45.12.30.30
+  tls: false
+  type: vless
+  uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
+  ws-opts:
+    headers:
+      Host: vms.lifetime28.workers.dev
+    path: /
 - name: 16|🇺🇸US_16|2.6MB/s
   network: ws
   port: 8880
@@ -4652,18 +4649,6 @@ proxies:
     headers:
       Host: autumn-base-0eb9.116-d25.workers.dev
     path: /pyip=ProxyIP.JP.autumniussss.net
-- name: 16|🇺🇸 美国 | USA 3
-  network: ws
-  password: humanity
-  port: 443
-  server: www.speedtest.net
-  skip-cert-verify: true
-  sni: www.calmlunch.com
-  type: trojan
-  ws-opts:
-    headers:
-      Host: www.calmlunch.com
-    path: /assignment
 - name: '16|🇺🇸 美国 | USA #4'
   network: ws
   port: 8880
@@ -4740,7 +4725,7 @@ proxies:
     headers:
       Host: snip.edgeoneai.cc.cd
     path: /fdip=sstp://vpn:vpn@vpn748359672.opengw.net:1458?ed=2560
-- name: '16|🇺🇸 美国 | USA #3'
+- name: '16,17|🇺🇸 美国 | USA #3 #1'
   password: humanity
   port: 443
   server: www.speedtest.net
@@ -4912,150 +4897,6 @@ proxies:
     headers:
       Host: bJ1Aa2ZyJxYamYuK.v.3dns.vip
     path: /ws-vmess
-- alpn:
-  - ''
-  alterId: 0
-  cipher: auto
-  name: '17|🇺🇸 美国 | USA 3 #1'
-  port: 23201
-  server: gz2.vatilon.cc
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  udp: true
-  uuid: aec8e5e3-bb81-4b22-8802-0b88c54997b3
-- alterId: 2
-  cipher: auto
-  name: 17|🇺🇸 美国 | USA 6
-  port: 30829
-  server: v29.hdacd.com
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  udp: true
-  uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
-- alpn:
-  - ''
-  alterId: 0
-  cipher: auto
-  name: 17|🇺🇸 美国 | USA 7
-  port: 10001
-  server: xjp111-3.vatilon.cc
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  udp: true
-  uuid: aec8e5e3-bb81-4b22-8802-0b88c54997b3
-- name: '17|🇺🇸 美国 | USA #8 #1'
-  password: aec8e5e3-bb81-4b22-8802-0b88c54997b3
-  port: 10003
-  server: jp121.vatilon.cc
-  skip-cert-verify: true
-  sni: jp121.vatilon.cc
-  type: trojan
-  udp: true
-- alterId: 0
-  cipher: auto
-  name: '17|🇺🇸 美国 | USA #9 #1'
-  network: ws
-  port: 23801
-  server: gz1.polymarket.party
-  skip-cert-verify: true
-  tls: true
-  type: vmess
-  udp: true
-  uuid: aec8e5e3-bb81-4b22-8802-0b88c54997b3
-  ws-opts:
-    headers:
-      Host: us4.australiacaregroup.site
-    path: /vmess
-- alterId: 0
-  cipher: auto
-  name: 17|🇺🇸 美国 | USA 14
-  port: 12330
-  server: p05.rghvf.sbs
-  servername: gb.uniquenames.net
-  skip-cert-verify: true
-  tls: true
-  type: vmess
-  udp: true
-  uuid: 68adffea-4146-4f92-b2f9-955cd634c274
-- alpn:
-  - ''
-  alterId: 0
-  cipher: auto
-  name: 17|🇺🇸 美国 | USA 17
-  port: 36011
-  server: gz1.polymarket.party
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  udp: true
-  uuid: aec8e5e3-bb81-4b22-8802-0b88c54997b3
-- alterId: 0
-  cipher: auto
-  name: 17|🇺🇸 美国 | USA 19
-  port: 20401
-  server: gz1.polymarket.party
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  udp: true
-  uuid: aec8e5e3-bb81-4b22-8802-0b88c54997b3
-- alterId: 0
-  cipher: auto
-  name: '17|🇺🇸 美国 | USA #3 #1'
-  network: tcp
-  port: 23201
-  server: gz2.vatilon.cc
-  tls: false
-  type: vmess
-  uuid: aec8e5e3-bb81-4b22-8802-0b88c54997b3
-- alterId: 2
-  cipher: auto
-  name: '17|🇺🇸 美国 | USA #6 #1'
-  network: tcp
-  port: 30829
-  server: v29.hdacd.com
-  tls: false
-  type: vmess
-  uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
-- alterId: 0
-  cipher: auto
-  name: '17|🇺🇸 美国 | USA #7 #1'
-  network: tcp
-  port: 10001
-  server: xjp111-3.vatilon.cc
-  tls: false
-  type: vmess
-  uuid: aec8e5e3-bb81-4b22-8802-0b88c54997b3
-- alterId: 0
-  cipher: auto
-  name: '17|🇺🇸 美国 | USA #14'
-  network: tcp
-  port: 12330
-  server: p05.rghvf.sbs
-  tls: true
-  type: vmess
-  uuid: 68adffea-4146-4f92-b2f9-955cd634c274
-- alterId: 0
-  cipher: auto
-  name: '17|🇺🇸 美国 | USA #17'
-  network: tcp
-  port: 36011
-  server: gz1.polymarket.party
-  tls: false
-  type: vmess
-  uuid: aec8e5e3-bb81-4b22-8802-0b88c54997b3
-- alterId: 0
-  cipher: auto
-  name: '17|🇺🇸 美国 | USA #19'
-  network: tcp
-  port: 20401
-  server: gz1.polymarket.party
-  tls: false
-  type: vmess
-  uuid: aec8e5e3-bb81-4b22-8802-0b88c54997b3
 - client-fingerprint: chrome
   name: 18|🇦🇲_AM_亚美尼亚
   network: ws
@@ -5095,6 +4936,20 @@ proxies:
     headers:
       Host: cdn-us.skyvora.app
     path: /0i027asku
+- client-fingerprint: firefox
+  flow: xtls-rprx-vision
+  name: 18|🇺🇸_US_美国_2
+  port: 40443
+  reality-opts:
+    public-key: Uvj5H9pDJP0HX2bN7NN7sCQwVCrC5N2NbKf-yuy1ikE
+    short-id: ee33
+  server: 72.56.41.33
+  servername: deepl.com
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: 5be7fb02-b6a5-450f-b041-3243b98e8420
 - name: 18|🇺🇸_US_美国_3
   network: ws
   port: 27534
@@ -6689,6 +6544,21 @@ proxies:
       Host: d2pwbkmfr5lxa4.cloudfront.net
     path: '%2F'
 - client-fingerprint: chrome
+  name: '30|🇺🇸US美國丨yoyapai.com #10'
+  network: tcp
+  port: 443
+  reality-opts:
+    public-key: 6p0aVCkOgd-xaxqSMANYABL6O4Tdbftnxjiy5qcmISQ
+    short-id: 0b
+  server: 45.155.52.231
+  servername: ru2.skydrgn-online.online
+  tls: false
+  type: vless
+  uuid: 219f9fec-8983-4f6f-af8c-31bd0c6dbf19
+  ws-opts:
+    headers:
+      Host: ru2.skydrgn-online.online
+- client-fingerprint: chrome
   name: 30|🇺🇸_US美國丨yoyapai.com
   network: ws
   port: 443
@@ -7475,20 +7345,6 @@ proxies:
   tls: false
   type: vless
   uuid: 8871f4a9-cb90-4159-b3d0-84b90efdd3ca
-- client-fingerprint: chrome
-  grpc-opts:
-    grpc-service-name: media.v1.ObjectService
-  name: '30|US美国(mibei77.com 米贝节点分享) #99'
-  network: grpc
-  port: 443
-  reality-opts:
-    public-key: tL16MVY08r-7YDXb1_gxuBBWInpSFp97ZLJ_ax3R2iE
-    short-id: 1469af2040b7c323
-  server: rs2.univesalsrv.com
-  servername: rs2.univesalsrv.com
-  tls: false
-  type: vless
-  uuid: 2f35965a-9a9b-45fd-ba32-987296dfb6be
 - client-fingerprint: firefox
   grpc-opts:
     grpc-service-name: media.v1.ObjectService
@@ -7503,20 +7359,6 @@ proxies:
   tls: false
   type: vless
   uuid: 2f35965a-9a9b-45fd-ba32-987296dfb6be
-- client-fingerprint: chrome
-  grpc-opts:
-    grpc-service-name: gw.v1.ObjectService
-  name: '30|US美国(mibei77.com 米贝节点分享) #104'
-  network: grpc
-  port: 443
-  reality-opts:
-    public-key: X8mPYnsoTd8QCnvFZKSy7VvpSn_nrt_NWJkCUJhFCyE
-    short-id: 4872856d5489c37d
-  server: 150.40.126.24
-  servername: rs5.univesalsrv.com
-  tls: false
-  type: vless
-  uuid: 2f35965a-9a9b-45fd-ba32-987296dfb6be
 - name: '30|US美国(mibei77.com 米贝节点分享) #100'
   network: ws
   password: humanity
@@ -7528,20 +7370,6 @@ proxies:
     headers:
       Host: www.ignitelimit.com
     path: '%2Fassignment'
-- client-fingerprint: chrome
-  grpc-opts:
-    grpc-service-name: api.v2.PushService
-  name: '30|US美国(mibei77.com 米贝节点分享) #101'
-  network: grpc
-  port: 443
-  reality-opts:
-    public-key: 0f0dh_FUju5cHgQcIwUjHvxQb9aIZ00p0kZRHeE7Ey4
-    short-id: 501ab3325b77e1ca
-  server: 45.9.156.24
-  servername: bg2.univesalsrv.com
-  tls: false
-  type: vless
-  uuid: 2f35965a-9a9b-45fd-ba32-987296dfb6be
 - name: '30|US美国(mibei77.com 米贝节点分享) #102'
   network: ws
   password: humanity
@@ -7757,6 +7585,19 @@ proxies:
   port: 38388
   server: 103.186.154.251
   type: ss
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: 30|🇺🇸US_473|958KB/s|M003-260806 0...
+  network: raw
+  port: 23576
+  reality-opts:
+    public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s
+    short-id: '01'
+  server: 15.204.97.216
+  servername: fuck.rkn
+  tls: false
+  type: vless
+  uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5
 - name: 30|🇺🇸US_58|1.7MB/s|A001-260618 01
   password: suAmQS9LlInNq4Wumh-FUF4GGlpgmG_g
   port: 8443
@@ -7791,15 +7632,15 @@ proxies:
   tls: false
   type: vless
   uuid: 00144519-7e0d-476b-8d28-435576af9262
-- client-fingerprint: ios
+- client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: 30|🇺🇸US_216|1.5MB/s|A004-260618 0...
-  network: tcp
+  name: 30|🇺🇸US_154|1.2MB/s|A004-260618 0...
+  network: raw
   port: 443
   reality-opts:
     public-key: e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg
     short-id: c39cc7310a
-  server: 169.40.42.184
+  server: 169.40.42.16
   servername: yahoo.com
   tls: false
   type: vless
@@ -7861,19 +7702,6 @@ proxies:
   port: 8080
   server: 107.151.182.197
   type: ss
-- client-fingerprint: chrome
-  flow: xtls-rprx-vision
-  name: 30|🇺🇸US_143|910KB/s|M003-260806 0...
-  network: tcp
-  port: 23576
-  reality-opts:
-    public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s
-    short-id: '01'
-  server: 15.204.97.209
-  servername: fuck.rkn
-  tls: false
-  type: vless
-  uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5
 - alpn:
   - http/1.1
   client-fingerprint: chrome
@@ -7898,6 +7726,19 @@ proxies:
     public-key: e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg
     short-id: c39cc7310a
   server: 169.40.42.225
+  servername: yahoo.com
+  tls: false
+  type: vless
+  uuid: d65cc14c-f53f-4fe2-b262-97856601319c
+- client-fingerprint: ios
+  flow: xtls-rprx-vision
+  name: 30|🇺🇸US_428|1.5MB/s|A004-260618 0...
+  network: raw
+  port: 443
+  reality-opts:
+    public-key: e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg
+    short-id: c39cc7310a
+  server: 169.40.42.202
   servername: yahoo.com
   tls: false
   type: vless
@@ -7929,6 +7770,19 @@ proxies:
   port: 8080
   server: 138.199.42.68
   type: ss
+- client-fingerprint: firefox
+  flow: xtls-rprx-vision
+  name: 30|🇺🇸US_283|836KB/s|A004-260618 0...
+  network: raw
+  port: 443
+  reality-opts:
+    public-key: e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg
+    short-id: c39cc7310a
+  server: 169.40.42.223
+  servername: yahoo.com
+  tls: false
+  type: vless
+  uuid: d65cc14c-f53f-4fe2-b262-97856601319c
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
   name: 30|🇺🇸US_219|904KB/s|B007-260618 0...
@@ -7942,19 +7796,6 @@ proxies:
   tls: false
   type: vless
   uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5
-- client-fingerprint: ios
-  flow: xtls-rprx-vision
-  name: 30|🇺🇸US_235|1.3MB/s|A004-260618 0...
-  network: raw
-  port: 443
-  reality-opts:
-    public-key: e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg
-    short-id: c39cc7310a
-  server: 169.40.42.173
-  servername: yahoo.com
-  tls: false
-  type: vless
-  uuid: d65cc14c-f53f-4fe2-b262-97856601319c
 - cipher: aes-256-gcm
   name: 30|🇺🇸US_237|777KB/s|A004-260618 0...
   password: faBAoD54k87UJG7
@@ -8149,6 +7990,19 @@ proxies:
   sni: us4.xiaoliyu.cyou
   tls: false
   type: hysteria2
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: 30|🇺🇸US_310|911KB/s|M002-260618 0...
+  network: raw
+  port: 23576
+  reality-opts:
+    public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s
+    short-id: '01'
+  server: 15.204.97.206
+  servername: fuck.rkn
+  tls: false
+  type: vless
+  uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5
 - name: 30|🇺🇸US_327|757KB/s|A004-260618 0...
   network: tcp
   password: M7v%w11Se*
@@ -8778,6 +8632,19 @@ proxies:
   type: hysteria2
 - client-fingerprint: ios
   flow: xtls-rprx-vision
+  name: 30|🇺🇸US_398|1.3MB/s|M003-260806 0...
+  network: tcp
+  port: 443
+  reality-opts:
+    public-key: e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg
+    short-id: c39cc7310a
+  server: 169.40.42.90
+  servername: yahoo.com
+  tls: false
+  type: vless
+  uuid: d65cc14c-f53f-4fe2-b262-97856601319c
+- client-fingerprint: ios
+  flow: xtls-rprx-vision
   name: 30|🇺🇸US_399|1.3MB/s|A004-260618 0...
   network: tcp
   port: 443
@@ -9047,6 +8914,19 @@ proxies:
       Host: 0-m19.soUTh-AfRiCA-LINK.CCWU.cC
     path: /CjBjB9sn5pCvaSwScc
 - client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: 30|🇺🇸US_481|930KB/s|A004-260618 0...
+  network: tcp
+  port: 23576
+  reality-opts:
+    public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s
+    short-id: '01'
+  server: ww13.levikogjgfdd.ir
+  servername: fuck.rkn
+  tls: false
+  type: vless
+  uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5
+- client-fingerprint: chrome
   name: 30|🇺🇸US_482|614KB/s|F003-260618 0...
   network: ws
   port: 443
@@ -9160,18 +9040,6 @@ proxies:
     headers:
       Host: 0-M19.nORTh-KoReA-park.KDNs.FR
     path: /CjBjB9sn5pCvaSwScc
-- client-fingerprint: chrome
-  name: 30|🇺🇸US_492|674KB/s|B007-260618 0...
-  network: tcp
-  port: 443
-  reality-opts:
-    public-key: lYcMPEgf6ePmF_d8RXR5fsVorycW37v_ECl-fz_H6w4
-    short-id: cfe08c23a85f24
-  server: 78.111.89.171
-  servername: www.cloudflare.com
-  tls: false
-  type: vless
-  uuid: 0370b162-baff-4757-86cc-cce4bf07f6f1
 - client-fingerprint: chrome
   name: 30|🇺🇸US_494|620KB/s|F003-260618 0...
   network: ws

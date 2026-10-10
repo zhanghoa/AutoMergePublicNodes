@@ -150,6 +150,18 @@ proxies:
   type: vless
   udp: true
   uuid: 56de13ac-086e-4789-8e1e-1bf2bd90216b
+- client-fingerprint: firefox
+  grpc-opts:
+    grpc-service-name: content.v1.Feed
+  name: '16|🇸🇪[www.v2nodes.com] vless-SE-1... #2'
+  network: grpc
+  port: 443
+  server: 163.245.43.50
+  servername: se-twitch.global-cdn.org
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  uuid: 203d434a-2a92-45df-8973-ca80434ecf73
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
   name: '16|🇸🇪[www.v2nodes.com] vless-SE-1... #3'

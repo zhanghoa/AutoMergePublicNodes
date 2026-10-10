@@ -16,7 +16,7 @@
 14,https://raw.githubusercontent.com/Surfboardv2ray/TGParse/main/python/hysteria2,75
 15,https://raw.githubusercontent.com/actionsfz/v2ray/refs/heads/master/all.yaml,91
 16,https://raw.githubusercontent.com/acymz/AutoVPN/main/data/V2.txt,554
-17,https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/list.yml,186
+17,https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/list.yml,185
 18,https://raw.githubusercontent.com/firefoxmmx2/v2rayshare_subcription/main/subscription/clash_sub.yaml,21
 19,https://raw.githubusercontent.com/free-nodes/clashfree/refs/heads/main/clash{Ymd}.yml,0
 20,https://raw.githubusercontent.com/free18/v2ray/refs/heads/main/c.yaml,215
@@ -32,5 +32,5 @@
 30,https://raw.githubusercontent.com/xiaoji235/airport-free/main/v2ray.txt,3000
 31,https://raw.githubusercontent.com/zhangkaiitugithub/passcro/main/speednodes.yaml,141
 
-总计,,7979
-存活节点,,4895/7979
+总计,,7953
+存活节点,,4843/7953

@@ -198,11 +198,12 @@ proxies:
   server: 3.66.88.253
   type: ss
 - cipher: aes-256-cfb
-  name: '7,16|🇩🇪 德国 | DEU #12'
+  name: '7,16,17|🇩🇪 德国 | DEU #12 #1'
   password: amazonskr05
   port: 443
   server: 3.67.197.81
   type: ss
+  udp: true
 - cipher: aes-256-cfb
   name: '7|🇩🇪 [ Configs by DukeMehdi ] SS... #58'
   password: amazonskr05
@@ -455,13 +456,20 @@ proxies:
   server: ger2.fytpn.com
   skip-cert-verify: false
   type: trojan
-- name: '16|🇩🇪 德国 | DEU #10'
+- name: '16,17|🇩🇪[www.v2nodes.com] trojan-DE-... #3'
+  password: UX82473651
+  port: 443
+  server: meet-goshawk.rooster465.autos
+  sni: meet-goshawk.rooster465.autos
+  type: trojan
+- name: '16,17|🇩🇪 德国 | DEU #10 #1'
   password: UX82473651
   port: 443
   server: cuddly-sheepdog.rooster465.autos
   skip-cert-verify: true
   sni: cuddly-sheepdog.rooster465.autos
   type: trojan
+  udp: true
 - name: 20|🇩🇪_德国_105
   password: humanity
   port: 443
@@ -480,16 +488,6 @@ proxies:
   server: 3.77.34.196
   type: ss
   udp: true
-- alterId: 0
-  cipher: auto
-  name: 22|🇩🇪𝗚𝗲𝗿𝗺𝗮𝗻𝘆-@v2ryNG01
-  network: tcp
-  port: 443
-  server: Ftst.goalir.co.uk
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: ce63f3dd-4c12-41f9-bbed-f1b948501692
 - name: 30|DE德国(mibei77.com 米贝节点分享)
   network: ws
   password: humanity

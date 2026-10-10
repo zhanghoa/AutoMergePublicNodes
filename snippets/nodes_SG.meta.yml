@@ -358,22 +358,6 @@ proxies:
   port: 8119
   server: 139.162.58.13
   type: ss
-- client-fingerprint: chrome
-  flow: xtls-rprx-vision
-  name: '9,12|🔥Join+Telegram:@Farah_VPN🟣 #1299'
-  network: tcp
-  port: 1891
-  reality-opts:
-    public-key: z6wAS22cWD7Sx0w9Ib5ya7JBL4rDs4qraPMYELTG0Ss
-    short-id: 8378f267
-  server: sin-a-01.auuas.com
-  servername: www.npmjs.com
-  tls: false
-  type: vless
-  uuid: 81c4547b-e5d8-4af8-baf0-91c5c0c05a9b
-  ws-opts:
-    headers:
-      Host: www.npmjs.com
 - name: '11,16,17,22|@npv_vpn11 #928'
   password: UX82473651
   port: 443
@@ -620,6 +604,18 @@ proxies:
     headers:
       Host: vms.lifetime51.workers.dev
     path: /
+- name: 16,30|🇫🇷FR_536|571KB/s|B007-260618 0...
+  network: ws
+  port: 2082
+  server: 172.64.150.28
+  servername: hhlfy.twiladaphne.ndjp.net
+  tls: false
+  type: vless
+  uuid: e5cc16a6-ea42-46b2-82ae-ad2157e1641b
+  ws-opts:
+    headers:
+      Host: hhlfy.twiladaphne.ndjp.net
+    path: /fp
 - name: '16|🇸🇬[www.v2nodes.com] vless-SG #... #3'
   network: ws
   port: 443
@@ -638,6 +634,15 @@ proxies:
   tls: false
   type: vless
   uuid: ba9ba1d3-19c8-4792-9d3f-ddd2cdcc2e65
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: '16|🇸🇬[www.v2nodes.com] vless-SG-1... #1'
+  port: 8443
+  server: 79.108.225.112
+  servername: github.com
+  tls: true
+  type: vless
+  uuid: c3369c07-f0d2-4a2c-97ab-0d3d47803912
 - name: '16|🇸🇬[www.v2nodes.com] vless-SG-1... #2'
   network: ws
   port: 80
@@ -665,12 +670,12 @@ proxies:
   sni: moral-basilisk.rooster465.autos
   type: trojan
   udp: true
-- name: '16,17|🇸🇬[www.v2nodes.com] trojan-SG-... #17'
+- name: '16,17|🇸🇬[www.v2nodes.com] trojan-SG-... #16'
   password: UX82473651
   port: 443
-  server: fond-mammoth.rooster465.autos
+  server: brave-tomcat.rooster465.autos
   skip-cert-verify: true
-  sni: fond-mammoth.rooster465.autos
+  sni: brave-tomcat.rooster465.autos
   type: trojan
 - name: '16,17|🇸🇬[www.v2nodes.com] trojan-SG-... #21'
   password: UX82473651
@@ -716,14 +721,13 @@ proxies:
   server: desired-boxer.rooster465.autos
   sni: desired-boxer.rooster465.autos
   type: trojan
-- name: '16|🇸🇬[www.v2nodes.com] trojan-SG-... #13'
+- name: '16,17|🇸🇬[www.v2nodes.com] trojan-SG-... #28'
   password: UX82473651
   port: 443
   server: real-cardinal.rooster465.autos
   sni: real-cardinal.rooster465.autos
   type: trojan
 - name: '16,17|🇸🇬[www.v2nodes.com] trojan-SG-... #29'
-  network: tcp
   password: UX82473651
   port: 443
   server: 18.143.92.167
@@ -801,13 +805,14 @@ proxies:
     headers:
       Host: jolly-butterfly-24e0.212-cb3.workers.dev
     path: /pyip
-- name: '16|🇸🇬 新加坡 | SGP #1'
+- name: '16,17|🇸🇬 新加坡 | SGP #1 #1'
   password: UX82473651
   port: 443
   server: joint-ewe.rooster465.autos
   skip-cert-verify: true
   sni: joint-ewe.rooster465.autos
   type: trojan
+  udp: true
 - name: '16|🇸🇬 新加坡 | SGP #2'
   password: aec8e5e3-bb81-4b22-8802-0b88c54997b3
   port: 10004
@@ -815,20 +820,22 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: '16|🇸🇬 新加坡 | SGP #3'
+- name: '16,17|🇸🇬 新加坡 | SGP #3 #1'
   password: UX82473651
   port: 443
   server: intense-wildcat.rooster465.autos
   skip-cert-verify: true
   sni: intense-wildcat.rooster465.autos
   type: trojan
-- name: '16|🇸🇬 新加坡 | SGP #4'
+  udp: true
+- name: '16,17|🇸🇬 新加坡 | SGP #4 #1'
   password: UX82473651
   port: 443
   server: inspired-hound.rooster465.autos
   skip-cert-verify: true
   sni: inspired-hound.rooster465.autos
   type: trojan
+  udp: true
 - client-fingerprint: qq
   flow: xtls-rprx-vision
   name: '16|🇸🇬 新加坡 | SGP #5'
@@ -839,16 +846,12 @@ proxies:
   type: vless
   uuid: ce3de0e0-9a00-4735-9a89-ebacbb669472
 - cipher: chacha20-ietf-poly1305
-  name: '16|🇸🇬 新加坡 | SGP #6'
+  name: '16,17|🇸🇬 新加坡 | SGP #6 #1'
   password: 7e68e32f-8015-4f37-9082-70e8b0b58043
   port: 8443
   server: 47.129.227.153
   type: ss
-- name: '17|🇸🇬[www.v2nodes.com] trojan-SG-... #28'
-  password: UX82473651
-  port: 443
-  server: 52.221.218.179
-  type: trojan
+  udp: true
 - alterId: 0
   cipher: auto
   name: '17|🇸🇬 新加坡|@ripaojiedian #1'
@@ -879,14 +882,6 @@ proxies:
     headers:
       Host: 6JiziO8PxQAXBAtZ.v.3dns.vip
     path: /ws-vmess
-- name: '17|🇸🇬 新加坡 | SGP #3 #1'
-  password: UX82473651
-  port: 443
-  server: simple-molly.rooster465.autos
-  skip-cert-verify: true
-  sni: simple-molly.rooster465.autos
-  type: trojan
-  udp: true
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
   name: 20|🇸🇬_新加坡_16

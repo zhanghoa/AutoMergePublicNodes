@@ -558,6 +558,19 @@ proxies:
     headers:
       Host: sub.mot.ip-ddns.com
     path: '%2F'
+- client-fingerprint: qq
+  flow: xtls-rprx-vision
+  name: '30|🇷🇺RU俄罗斯丨yoyapai.com #9'
+  network: tcp
+  port: 443
+  reality-opts:
+    public-key: Nb9IwEEhUHEbHSc6e5uYTjxDgN4ZExhDckM3OgYhj2o
+    short-id: 52ccb3687fe0b7ec
+  server: 200.165.235.78
+  servername: api8.eaglors.com
+  tls: false
+  type: vless
+  uuid: 238e492b-bc20-4380-92b6-135d39112ca4
 - client-fingerprint: chrome
   name: '30|RU俄罗斯(mibei77.com 米贝节点分享) #1'
   network: ws
