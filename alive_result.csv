@@ -11,10 +11,10 @@ name,type,server,port,delay_ms,alive
 ❌ 1|防范境外势力渗透 #9,vmess,127.0.0.53,89,-1,no
 ❌ 4 5|@KAFING_2,hysteria2,181.214.99.162,35000,-1,no
 ❌ 4|139909 | Telegram = t.me/SOSke...,hysteria2,54.213.89.22,443,-1,no
-5|@meliproxyy,hysteria2,77.232.139.128,11592,-1,no
-5|97@oneclickvpnkeys,hysteria2,163.192.14.135,50160,-1,no
+❌ 5|@meliproxyy,hysteria2,77.232.139.128,11592,943,yes
+❌ 5|97@oneclickvpnkeys,hysteria2,163.192.14.135,50160,204,yes
 ❌ 5|@ange1Vpn   ,hysteria2,mhzedir.qzz.io,51791,-1,no
-5|38@oneclickvpnkeys,hysteria2,188.241.241.33,443,-1,no
+✅ 5|38@oneclickvpnkeys,hysteria2,188.241.241.33,443,-1,no
 ❌ 5|@VConfing ,hysteria2,109.104.153.124,11592,-1,no
 ❌ 5|37@oneclickvpnkeys,hysteria2,91.240.86.70,22443,-1,no
 ❌ 5|44@oneclickvpnkeys,hysteria2,srv-17e124.21freedom.net,11592,-1,no
@@ -28,42 +28,42 @@ name,type,server,port,delay_ms,alive
 ❌ 5|@tootffarangi-8,hysteria2,78.17.53.9,26000,-1,no
 ❌ 5|@tootffarangi-5,hysteria2,79.137.206.157,21000,-1,no
 ❌ 5|@tootffarangi-7,hysteria2,91.196.161.47,25000,-1,no
-❌ 5|35@oneclickvpnkeys,hysteria2,alb1337.zaebalsanoproxyklinus.lol,28152,-1,no
+❌ 5|35@oneclickvpnkeys,hysteria2,alb1337.zaebalsanoproxyklinus.lol,28152,729,yes
 ❌ 5|36@oneclickvpnkeys,hysteria2,mai.song69.fun,20270,-1,no
 ❌ 5|Telegram @Cnetvpn ,hysteria2,giftcard.gateway-stream.com,52087,-1,no
 ❌ 5|Telegram @cnetvpn  #1,hysteria2,gift-catalog.aroonia.ir,52000,-1,no
-5|45@oneclickvpnkeys,hysteria2,162.249.126.41,9443,-1,no
-5|64@oneclickvpnkeys,hysteria2,162.249.126.42,9443,-1,no
+❌ 5|45@oneclickvpnkeys,hysteria2,162.249.126.41,9443,690,yes
+❌ 5|64@oneclickvpnkeys,hysteria2,162.249.126.42,9443,684,yes
 ❌ 5|   ange1Vpn@,hysteria2,mhzedir.qzz.io,51791,-1,no
 ❌ 5|41@oneclickvpnkeys,hysteria2,103.126.51.55,8443,-1,no
 ❌ 5|+@Azarakhsh_Proxy+,hysteria2,179.61.132.96,8443,-1,no
-5|@FarazV2ray #1,hysteria2,162.249.125.133,443,-1,no
+✅ 5|@FarazV2ray #1,hysteria2,162.249.125.133,443,623,yes
 ❌ 5|@ATLAS_V2VPN597,hysteria2,fastly.vexogf.ir,5443,-1,no
-5|191042 | Telegram = t.me/SOSke...,hysteria2,43.156.36.253,8443,-1,no
+❌ 5|191042 | Telegram = t.me/SOSke...,hysteria2,43.156.36.253,8443,862,yes
 ❌ 5| - NL - @FreeOnlineVPN,hysteria2,206.71.158.37,35000,-1,no
-5|73@oneclickvpnkeys,hysteria2,144.31.49.47,443,-1,no
+✅ 5|73@oneclickvpnkeys,hysteria2,144.31.49.47,443,-1,no
 ❌ 5|@KAFING_2 #2,hysteria2,5.175.249.174,35000,-1,no
-5|91@oneclickvpnkeys,hysteria2,cz.h2.cleanersaz.help,443,-1,no
+✅ 5|91@oneclickvpnkeys,hysteria2,cz.h2.cleanersaz.help,443,800,yes
 ❌ 5|@V2raySaman #2,hysteria2,155.94.134.183,11592,-1,no
 ✅ 5|kurdconfig,hysteria2,144.31.49.138,443,-1,no
 ✅ 5|@B2Hub,hysteria2,2.27.59.206,443,-1,no
-5|42@oneclickvpnkeys,hysteria2,lv02.gotosvo.com,9443,-1,no
-5|39@oneclickvpnkeys,hysteria2,94.198.54.132,443,-1,no
-5|99@oneclickvpnkeys,hysteria2,138.2.73.238,50160,-1,no
+❌ 5|42@oneclickvpnkeys,hysteria2,lv02.gotosvo.com,9443,661,yes
+❌ 5|39@oneclickvpnkeys,hysteria2,94.198.54.132,443,745,yes
+❌ 5|99@oneclickvpnkeys,hysteria2,138.2.73.238,50160,1301,yes
 ❌ 5|Telegram @Cnetvpn  #1,hysteria2,giftcard.gateway-stream.com,52076,-1,no
-5|@confiig_hub #1,hysteria2,130.49.161.70,443,-1,no
+✅ 5|@confiig_hub #1,hysteria2,130.49.161.70,443,453,yes
 ❌ 5|hysteria,hysteria2,pro2.riziro.ir,44100,-1,no
-5|45@oneclickvpnkeys #1,hysteria2,77.74.123.100,8443,-1,no
-5|11@oneclickvpnkeys,hysteria2,77.74.123.107,8443,-1,no
-5|5@oneclickvpnkeys,hysteria2,77.74.123.109,8443,-1,no
+❌ 5|45@oneclickvpnkeys #1,hysteria2,77.74.123.100,8443,406,yes
+❌ 5|11@oneclickvpnkeys,hysteria2,77.74.123.107,8443,397,yes
+❌ 5|5@oneclickvpnkeys,hysteria2,77.74.123.109,8443,400,yes
 ❌ 5|Telegram @cnetvpn  #2,hysteria2,giftcard.gateway-stream.com,52050,-1,no
 ❌ 5|@fastkanfig  ,hysteria2,bwdf2fnt.xn--e1aatfr8bwa.online,443,-1,no
-5|43@oneclickvpnkeys,hysteria2,8.211.175.236,8443,-1,no
+❌ 5|43@oneclickvpnkeys,hysteria2,8.211.175.236,8443,2265,yes
 ❌ 5|Telegram @cnetvpn  #3,hysteria2,giftcard.gateway-stream.com,52062,-1,no
-5|[  ] | @Cfox_SerVer,hysteria2,82.38.64.237,8443,-1,no
+❌ 5|[  ] | @Cfox_SerVer,hysteria2,82.38.64.237,8443,534,yes
 ❌ 5|Telegram @cnetvpn,hysteria2,giftcard.gateway-stream.com,52090,-1,no
 ✅ 6 7|tg频道:@ripaojiedian #1,ss,63.180.254.10,443,-1,no
-✅ 6|🇭🇰 香港|@ripaojiedian,vmess,v10.hdacd.com,30807,-1,no
+✅ 6|🇭🇰 香港|@ripaojiedian,vmess,v10.hdacd.com,30807,4340,yes
 ✅ 6|🇭🇰 香港3|@ripaojiedian,vmess,ADncdOvLHR4M1P36.v.3dns.vip,443,-1,no
 ✅ 6|🇭🇰 香港2|@ripaojiedian,vmess,kBONDXW9liFCi4h4.v.3dns.vip,443,-1,no
 ✅ 6|🇭🇰 香港4|@ripaojiedian,vmess,aZW0eunYVdvRe73k.v.3dns.vip,443,-1,no
