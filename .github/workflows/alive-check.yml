@@ -1,0 +1,107 @@
+name: Alive Check
+
+# 真实代理测活：用 mihomo 内核对 nodes.check.yml 的节点做协议级延迟测试，
+# 只保留真正可用的节点，输出 snippets/nodes.alive.yml。
+# 与 fetch.yml 的 TCP 粗筛不同，这里是端到端验证（能连上 ≠ 能代理）。
+
+on:
+  workflow_dispatch:
+    inputs:
+      test_url:
+        description: '测活 URL'
+        required: false
+        default: 'https://www.gstatic.com/generate_204'
+      timeout_ms:
+        description: '单节点超时(毫秒)'
+        required: false
+        default: '5000'
+      workers:
+        description: '并发数'
+        required: false
+        default: '32'
+  schedule:
+    # 与 fetch.yml 的 '30 */6 * * *' 错开 30 分钟
+    - cron: '0 */6 * * *'
+  push:
+    paths:
+      - 'alive_check.py'
+      - '.github/workflows/alive-check.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: alive-check
+  cancel-in-progress: true
+
+jobs:
+  alive:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+    - name: 迁出代码
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: 1
+
+    - name: 设置时区
+      run: sudo timedatectl set-timezone 'Asia/Shanghai'
+
+    - name: 安装 Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.x'
+        cache: 'pip'
+
+    - name: 安装依赖
+      run: pip install -r requirements.txt
+
+    - name: 拉取最新节点（确保测的是最新快照）
+      run: git pull --depth=1 origin master || true
+
+    - name: 真实代理测活
+      run: |
+        python ./alive_check.py \
+          --url "${{ github.event.inputs.test_url || 'https://www.gstatic.com/generate_204' }}" \
+          --timeout "${{ github.event.inputs.timeout_ms || '5000' }}" \
+          --workers "${{ github.event.inputs.workers || '32' }}" \
+          --in snippets/nodes.check.yml \
+          --out snippets/nodes.alive.yml \
+          --report alive_result.csv
+
+    - name: 显示结果摘要
+      if: always()
+      run: |
+        echo "=== 测活结果 ==="
+        if [ -f snippets/nodes.alive.yml ]; then
+          echo "可用节点: $(grep -c '^  type:' snippets/nodes.alive.yml || echo 0)"
+          head -3 snippets/nodes.alive.yml
+        else
+          echo "未生成输出文件"
+        fi
+        echo "=== 报告前 10 行 ==="
+        head -10 alive_result.csv 2>/dev/null || true
+
+    - name: 提交结果
+      run: |
+        git config --local user.email "actions@github.com"
+        git config --local user.name "GitHub Actions"
+        git add snippets/nodes.alive.yml alive_result.csv
+        git diff --cached --quiet || git commit -m "$(date '+%Y-%m-%d %H:%M:%S') 真实测活"
+
+    - name: 推送结果
+      uses: ad-m/github-push-action@v1.0.0
+      with:
+        branch: master
+        force: true
+
+    - name: 上传测活报告（artifact）
+      uses: actions/upload-artifact@v4
+      if: always()
+      with:
+        name: alive-result
+        path: |
+          snippets/nodes.alive.yml
+          alive_result.csv
+          mihomo_test.log
+        retention-days: 7

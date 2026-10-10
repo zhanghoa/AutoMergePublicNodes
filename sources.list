@@ -43,7 +43,7 @@ https://raw.githubusercontent.com/Surfboardv2ray/TGParse/main/python/hy2
 https://raw.githubusercontent.com/Surfboardv2ray/TGParse/main/python/hysteria2
 
 # Copied from https://raw.githubusercontent.com/beck-8/sub-urls/refs/heads/main/%E5%B0%8F%E8%80%8C%E7%BE%8E.txt
-https://pai.yt/clash#ignore=ss,ssr,anytls
+# https://pai.yt/clash#ignore=ss,ssr,anytls  # 2026-10-10 实测 522（源站不可达），停用
 
 
 # 不更新
@@ -93,3 +93,21 @@ https://pai.yt/clash#ignore=ss,ssr,anytls
 # Airports
 # *https://raw.githubusercontent.com/RenaLio/Mux2sub/main/urllist # 挂了，谁叫你不控制抓取时长
 *https://gist.githubusercontent.com/peasoft/7907a8ee2a4fa5e80cd1bd006664442c/raw/
+
+# ===== 2026-10-10 补充：从 0.46 subs-check 清单中实测可用的源 =====
+# 实测（经代理/CI 直连）HTTP 200 且节点量可观
+https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/main/all_configs.txt
+https://raw.githubusercontent.com/nikita29a/FreeProxyList/main/mirror/1.txt
+https://raw.githubusercontent.com/mahdibland/SSAggregator/master/sub/sub_merge_yaml.yml
+https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/list.yml
+https://raw.githubusercontent.com/free18/v2ray/refs/heads/main/c.yaml
+https://raw.githubusercontent.com/Ruk1ng001/freeSub/main/clash.yaml
+https://raw.githubusercontent.com/actionsfz/v2ray/refs/heads/master/all.yaml
+https://raw.githubusercontent.com/acymz/AutoVPN/main/data/V2.txt
+https://raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/clashmeta.txt
+https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/snippets/nodes.meta.yml
+https://raw.githubusercontent.com/kasesm/Free-Config/main/all_raw.txt
+# 大体积源（节点量大；CI 带宽充足，实测抓取 1.5 分钟内可完成）
+https://raw.githubusercontent.com/DukeMehdi/FreeList-V2ray-Configs/main/Configs/All-DukeMehdi-Configs.txt
+https://raw.githubusercontent.com/xiaoji235/airport-free/main/v2ray.txt
+https://raw.githubusercontent.com/nikita29a/FreeProxyList/main/mirror/4.txt
