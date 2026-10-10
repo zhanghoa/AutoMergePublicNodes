@@ -96,9 +96,9 @@ https://raw.githubusercontent.com/Surfboardv2ray/TGParse/main/python/hysteria2
 
 # ===== 2026-10-10 补充：从 0.46 subs-check 清单中实测可用的源 =====
 # 实测（经代理/CI 直连）HTTP 200 且节点量可观
-https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/main/all_configs.txt
-https://raw.githubusercontent.com/nikita29a/FreeProxyList/main/mirror/1.txt
-https://raw.githubusercontent.com/mahdibland/SSAggregator/master/sub/sub_merge_yaml.yml
+https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/main/all_configs.txt#limit=2000
+https://raw.githubusercontent.com/nikita29a/FreeProxyList/main/mirror/1.txt#limit=2000
+https://raw.githubusercontent.com/mahdibland/SSAggregator/master/sub/sub_merge_yaml.yml#limit=2000
 https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/list.yml
 https://raw.githubusercontent.com/free18/v2ray/refs/heads/main/c.yaml
 https://raw.githubusercontent.com/Ruk1ng001/freeSub/main/clash.yaml
@@ -106,11 +106,11 @@ https://raw.githubusercontent.com/actionsfz/v2ray/refs/heads/master/all.yaml
 https://raw.githubusercontent.com/acymz/AutoVPN/main/data/V2.txt
 https://raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/clashmeta.txt
 https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/snippets/nodes.meta.yml
-https://raw.githubusercontent.com/kasesm/Free-Config/main/all_raw.txt
+https://raw.githubusercontent.com/kasesm/Free-Config/main/all_raw.txt#limit=1200
 # 大体积源（节点量大；CI 带宽充足，实测抓取 1.5 分钟内可完成）
-https://raw.githubusercontent.com/DukeMehdi/FreeList-V2ray-Configs/main/Configs/All-DukeMehdi-Configs.txt
-https://raw.githubusercontent.com/xiaoji235/airport-free/main/v2ray.txt
-https://raw.githubusercontent.com/nikita29a/FreeProxyList/main/mirror/4.txt
+https://raw.githubusercontent.com/DukeMehdi/FreeList-V2ray-Configs/main/Configs/All-DukeMehdi-Configs.txt#limit=2000
+https://raw.githubusercontent.com/xiaoji235/airport-free/main/v2ray.txt#limit=3000
+https://raw.githubusercontent.com/nikita29a/FreeProxyList/main/mirror/4.txt#limit=400
 
 # ===== 2026-10-10 补充：来自 0.46 subs-check 本地清单中 GitHub 侧缺失的源 =====
 # 均为实测 HTTP 200 有效

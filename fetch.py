@@ -770,6 +770,15 @@ class Source():
                         except ValueError:
                             exc_queue.append("最大节点数限制不是整数！")
                             del self.cfg['max']
+                    if 'limit' in self.cfg:
+                        # limit=N 与 max=N 的区别：
+                        #   max=N   超过 N 个就整个丢弃该订阅（上游既有语义，保留）
+                        #   limit=N 只取前 N 个，其余忽略（用于节点量过大的源，避免撑爆下游）
+                        try:
+                            self.cfg['limit'] = int(self.cfg['limit'])
+                        except ValueError:
+                            exc_queue.append("节点数截取上限 limit 不是整数！")
+                            del self.cfg['limit']
                     if 'ignore' in self.cfg:
                         self.cfg['ignore'] = [_ for _ in self.cfg['ignore'].split(',') if _.strip()]
                     self.url = '#'.join(segs[:-1])
@@ -876,6 +885,16 @@ class Source():
             if 'max' in self.cfg and len(sub) > self.cfg['max']:
                 exc_queue.append(f"此订阅有 {len(sub)} 个节点，最大限制为 {self.cfg['max']} 个，忽略此订阅。")
                 self.sub = []
+            elif 'limit' in self.cfg and len(sub) > self.cfg['limit']:
+                # 先按 limit 截取，再走 ignore 过滤；顺序不影响结果，但截取放前面省一次遍历
+                _lim = sub[:self.cfg['limit']]
+                if 'ignore' in self.cfg:
+                    if isinstance(_lim[0], str):
+                        _lim = [_ for _ in _lim if _.split('://', 1)[0] not in self.cfg['ignore']]
+                    elif isinstance(_lim[0], dict):
+                        _lim = [_ for _ in _lim if _.get('type', '') not in self.cfg['ignore']] #type:ignore
+                self.sub = _lim
+                exc_queue.append(f"此订阅有 {len(sub)} 个节点，按 limit={self.cfg['limit']} 截取前 {len(_lim)} 个。")
             elif sub and 'ignore' in self.cfg:
                 if isinstance(sub[0], str):
                     self.sub = [_ for _ in sub if _.split('://', 1)[0] not in self.cfg['ignore']]
