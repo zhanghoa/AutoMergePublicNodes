@@ -1,1 +1,27 @@
-proxies: []
+proxies:
+- cipher: chacha20-ietf-poly1305
+  name: 16|🇨🇭[www.v2nodes.com] ss-CH-1573...
+  password: e8KgS8fD0yDqYFpgN4G5piCOt9aFyqA3
+  port: 8388
+  server: 132.243.175.144
+  type: ss
+- alterId: 0
+  cipher: auto
+  name: '22|کانال تلگرام : Free_VPN_CH@'
+  network: tcp
+  port: 9119
+  server: GR1-Public-IR.g2gstore.ir
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: ae56511d-6b39-454b-847b-b711782d18cb
+- alterId: 0
+  cipher: auto
+  name: '22|کانال تلگرام : Free_VPN_CH@ #1'
+  network: tcp
+  port: 4452
+  server: x2.mehradservice.com
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 389625c7-c891-4f61-9f98-478058744ada

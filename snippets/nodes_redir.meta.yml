@@ -1,1 +1,104 @@
-proxies: []
+proxies:
+- client-fingerprint: ios
+  name: '4,5,6|🇭🇰_HK_中国香港->🇸🇬_SG_新加坡 #2'
+  network: ws
+  port: 443
+  server: 119.246.150.50
+  servername: gogo.wknm.dpdns.org
+  tls: true
+  type: vless
+  uuid: ce069292-c8bf-40dd-a6b1-87818a1e64e9
+  ws-opts:
+    headers:
+      Host: gogo.wknm.dpdns.org
+    path: '%2F'
+- alterId: 2
+  cipher: auto
+  name: '4,5,6|🇮🇩_ID_印度尼西亚->🇭🇰_HK_中国香港 #2'
+  network: tcp
+  port: 30809
+  server: v9.hdacd.com
+  tls: false
+  type: vmess
+  uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
+- name: '4,5,6|🇳🇱_NL_荷兰->🇱🇻_LV_拉脱维亚 #2'
+  network: ws
+  port: 443
+  server: 212.87.223.196
+  servername: sni.111000.dns.army
+  tls: true
+  type: vless
+  uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
+  ws-opts:
+    headers:
+      Host: sni.111000.dns.army
+- name: 16|♾️Join->🆔️@ATLAS_V2VPN🆓️📶‎🛰️59...
+  obfs: salamander
+  obfs-password: 6ccfcef2e116b03ce9047333
+  password: TPey1Zqj9th9y2JKyiuqVPRTvfjQC-nB
+  port: 5443
+  server: fastly.vexogf.ir
+  skip-cert-verify: false
+  sni: tun-a-1.bexait.ir
+  tls: false
+  type: hysteria2
+- client-fingerprint: firefox
+  name: 18|_US_->_FI_
+  network: ws
+  port: 443
+  server: a2.arshia-nova.ir
+  servername: ssl.fastly.com
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: 1fac5e18-2ca8-4626-c299-1f3f21c6b55e
+  ws-opts:
+    headers:
+      Host: c12.com
+    path: /
+- client-fingerprint: chrome
+  name: 18|_HK_->_SG_
+  network: ws
+  port: 443
+  server: 103.143.81.178
+  servername: shuma.ccwu.cc
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: c18b978e-1c4e-415c-8bea-07942b563a64
+  ws-opts:
+    headers:
+      Host: shuma.ccwu.cc
+    path: /
+- client-fingerprint: chrome
+  name: 18|_AU_->_FI_
+  network: ws
+  port: 443
+  server: 202.166.187.132
+  servername: f.yoptybla.ru
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: 8be20011-59b1-4118-91ed-83e8e6b662cd
+  ws-opts:
+    headers:
+      Host: f.yoptybla.ru
+    path: /
+- client-fingerprint: chrome
+  name: 18|_TR_->_NL_
+  network: ws
+  port: 8443
+  server: 104.143.204.23
+  servername: shuma.ccwu.cc
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: c18b978e-1c4e-415c-8bea-07942b563a64
+  ws-opts:
+    headers:
+      Host: shuma.ccwu.cc
+    path: /

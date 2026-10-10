@@ -1,23 +1,105 @@
 proxies:
-- name: 8|🇬🇧GB_1|2.7MB/s
+- name: '4,5,6|🇬🇧_GB_英国 #2'
+  password: qQe1z5kU8kN6SlKnDt9Ru3Qp
   port: 443
-  server: 84.17.50.193
+  server: vpn-uk-002.fastervpn.world
   skip-cert-verify: true
+  sni: vpn-uk-002.fastervpn.world
+  tls: false
+  type: hysteria2
+- client-fingerprint: chrome
+  name: 10|GByoyapai.com
+  network: ws
+  port: 8443
+  server: ad-010.pixel9xdmq.info
+  servername: ad-010.pixel9xdmq.info
+  skip-cert-verify: false
   tls: true
-  type: http
-- name: 8|🇬🇧GB_2|1.9MB/s
-  port: 9443
-  server: 84.17.50.214
-  skip-cert-verify: true
+  type: vless
+  udp: true
+  uuid: 9047efd2-5aa4-4c9c-a58f-a5791b06c79e
+  ws-opts:
+    headers:
+      Host: ad-010.pixel9xdmq.info
+    path: /
+- client-fingerprint: firefox
+  flow: xtls-rprx-vision
+  name: '10|GByoyapai.com #1'
+  port: 2053
+  reality-opts:
+    public-key: RwtMzZtTCmy9WRq3_27xeGF8-1l_qPXRVG3yIFp-6Go
+    short-id: c0d1d1776fed0f6d
+  server: 31.76.39.217
+  servername: uk-t2.vinnypuxtomoon.today
+  skip-cert-verify: false
   tls: true
-  type: http
-- name: 8|🇬🇧GB_3|1.0MB/s
+  type: vless
+  udp: true
+  uuid: 629f88a6-b20b-4489-a22f-4d8b418c0488
+- client-fingerprint: chrome
+  name: 10|GByoyapai.com_1
+  network: ws
+  port: 8443
+  server: 91.110.174.210
+  servername: rubifen.adaspoloandco.com
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: cf39fab0-bb85-42cb-9945-2ad69d78e575
+  ws-opts:
+    headers:
+      Host: rubifen.adaspoloandco.com
+    path: /GOrbEh
+- name: 10|GByoyapai.com_2
+  network: ws
+  port: 2087
+  server: 188.220.67.245
+  skip-cert-verify: false
+  tls: false
+  type: vless
+  udp: true
+  uuid: 90da514d-8888-4a53-912e-ac2981c8c6ee
+  ws-opts:
+    path: /8f2690e2d016
+- client-fingerprint: random
+  flow: xtls-rprx-vision
+  name: 10|GByoyapai.com_3
   port: 443
-  server: 212.102.63.61
+  reality-opts:
+    public-key: W7zjZJiEbAN6b-KkXWtk5dJ513BFDeKMSxgdiCUOWBo
+    short-id: a1ab5a56bcca
+  server: 217.179.221.82
+  servername: ve.cishosts.org
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: ee78dc0c-fcf8-4651-92a5-a7ae1476f2a4
+- client-fingerprint: chrome
+  name: '10|GByoyapai.com #2'
+  network: ws
+  port: 443
+  server: 162.159.152.4
+  servername: rAyAn-007.mAxImA.DpDnS.OrG
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: f2a73750-3087-48ff-a763-1348c15dce68
+  ws-opts:
+    headers:
+      Host: rAyAn-007.mAxImA.DpDnS.OrG
+    path: /
+- name: 11,29|🇬🇧GB_1|1.9MB/s
+  password: None
+  port: 443
+  server: 37.120.233.18
   skip-cert-verify: true
   tls: true
   type: http
-- name: 8|🇬🇧GB_4|1.2MB/s
+  username: null
+- name: 11|D🔴🇬🇧hos[🎬🤖📺🎭]_dokng.com_b6a9de...
   password: None
   port: 443
   server: 37.120.233.50
@@ -25,3 +107,381 @@ proxies:
   tls: true
   type: http
   username: null
+- name: 11|D🔴🇬🇧hos[🎬📺🎭🎪]_dokng.com_2b887a...
+  password: None
+  port: 443
+  server: 37.120.233.34
+  skip-cert-verify: true
+  tls: true
+  type: http
+  username: null
+- client-fingerprint: firefox
+  flow: xtls-rprx-vision
+  name: 11,16,20|🇬🇧_英国_15
+  port: 26460
+  reality-opts:
+    public-key: rnykCyLboP7HiOwx0Tfo5OSUVaJXbSMOB9MKkEZ_Xh8
+  server: 40.120.36.23
+  servername: addons.mozilla.org
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: 234ff65c-35e8-4ff6-a1e7-cce6acb2f3e2
+- name: 11|C🟠🇬🇧hos[🎬🤖📺🎭]_dokng.com_f5da27...
+  port: 443
+  server: 185.164.138.156
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: 11|D🔴🇬🇧hos[🤖📺🎭🎪]_dokng.com_045fb9...
+  port: 9443
+  server: 37.120.233.34
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: 11|A🟢🇬🇧res[🎬🤖📺🎭]_dokng.com_5e30aa...
+  port: 8443
+  server: 198.105.124.180
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: 11|D🔴🇬🇧hos[🎬🤖📺🎭]_dokng.com_9827b0...
+  port: 443
+  server: 84.17.50.193
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: 11|D🔴🇬🇧hos[🎬🤖📺🎭]_dokng.com_26bd59...
+  port: 443
+  server: 212.102.63.1
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: 11,29|🇬🇧GB_2|1.8MB/s
+  port: 9443
+  server: 84.17.50.129
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: 11|D🔴🇬🇧hos[🤖📺🎭🎪]_dokng.com_5f056d...
+  port: 9443
+  server: 84.233.178.33
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: 11|A🟢🇬🇧res[🎬🤖📺🎭]_dokng.com_d453c3...
+  port: 9443
+  server: 84.17.50.214
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: 11,29|🇬🇧GB_3|1.2MB/s
+  port: 443
+  server: 212.102.63.61
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: 11|D🔴🇬🇧hos[🤖📺🎭🎪]_dokng.com_485cc6...
+  port: 443
+  server: 212.102.63.31
+  skip-cert-verify: true
+  tls: true
+  type: http
+- alpn:
+  - h2
+  - http/1.1
+  client-fingerprint: chrome
+  name: 15|🇬🇧GB_1 |  1.1MB/s|Netflix|Yout...
+  network: ws
+  port: 443
+  server: 172.67.134.196
+  servername: avid.gorbe.store
+  tls: true
+  type: vless
+  udp: true
+  uuid: 59b3242f-6e1b-45f7-a57d-183192cc87fe
+  ws-opts:
+    headers:
+      Host: avid.gorbe.store
+      User-Agent: Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko)
+        Chrome/49.0.2623.112 Safari/537.36
+    path: /random
+  xudp: true
+- client-fingerprint: chrome
+  http-opts:
+    headers: {}
+    path:
+    - /
+  name: 15|🇬🇧GB_2 |  4.1MB/s|57%|Netflix|...
+  network: tcp
+  port: 1370
+  reality-opts:
+    public-key: _N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw
+    short-id: e1afb93bfe75a34b
+  server: 198.244.140.236
+  servername: refersion.com
+  tls: true
+  type: vless
+  udp: true
+  uuid: e71f9e93-064e-4847-b628-f41c6e74e6cb
+  xudp: true
+- client-fingerprint: chrome
+  http-opts:
+    headers: {}
+    path:
+    - /
+  name: 15|🇬🇧GB_3 |  1.1MB/s|57%|Netflix|...
+  network: tcp
+  port: 1370
+  reality-opts:
+    public-key: _N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw
+    short-id: e1afb93bfe75a34b
+  server: 198.244.140.136
+  servername: refersion.com
+  tls: true
+  type: vless
+  udp: true
+  uuid: e71f9e93-064e-4847-b628-f41c6e74e6cb
+  xudp: true
+- client-fingerprint: chrome
+  http-opts:
+    headers: {}
+    path:
+    - /
+  name: 15|🇬🇧GB_4 |  1.8MB/s|Netflix|Open...
+  network: tcp
+  port: 1370
+  reality-opts:
+    public-key: _N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw
+    short-id: e1afb93bfe75a34b
+  server: 57.128.166.113
+  servername: refersion.com
+  tls: true
+  type: vless
+  udp: true
+  uuid: e71f9e93-064e-4847-b628-f41c6e74e6cb
+  xudp: true
+- name: 16|GB【机场推荐：https://a9a.xyz】19
+  network: ws
+  port: 8880
+  server: cf7.466688.xyz
+  tls: false
+  type: vless
+  uuid: 9c772ed7-2843-4554-9a96-4a88f827de58
+  ws-opts:
+    headers:
+      Host: nameless-tree-08b8.352.workers.dev
+    path: '%2Fpyip%3DProxyIP.KR.CMLiussss.net%40https%3A%2F%2Ft.me%2FQiangLieTuiJian'
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: 16|🇬🇧[www.v2nodes.com] vless-GB-1...
+  port: 443
+  server: sql.popmintxo.cc
+  servername: www.microsoft.com
+  tls: true
+  type: vless
+  uuid: d806a58b-33aa-42e0-b170-395e49c16b37
+- client-fingerprint: firefox
+  name: '16|🇬🇧[www.v2nodes.com] vless-GB-1... #1'
+  port: 2053
+  server: 51.89.194.151
+  servername: www.apple.com
+  tls: true
+  type: vless
+  uuid: 8e790f25-1d71-4601-9fb0-d503931dcfca
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: '16|🇬🇧[www.v2nodes.com] vless-GB-1... #2'
+  port: 443
+  server: 23.81.34.204
+  servername: speed.cloudflare.com
+  tls: true
+  type: vless
+  uuid: 99955907-9070-46f0-a200-9c7a0b9d74fe
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: '16|🇬🇧[www.v2nodes.com] vless-GB-1... #3'
+  port: 443
+  server: tomaz1337shellbuy.vvzzkontaktezzvv.garden
+  servername: tomaz1337shellbuy.vvzzkontaktezzvv.garden
+  tls: true
+  type: vless
+  uuid: 4bdeee92-97e8-414d-bef6-ec1d5e2ab73b
+- name: '16,22|@npv_vpn11 #788'
+  network: tcp
+  port: 8443
+  server: node-uk.connectsuite.org
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  uuid: c08f0056-7a6d-4931-813b-aaa3cdd00aed
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: '16,22|@npv_vpn11 #45'
+  network: tcp
+  port: 443
+  reality-opts:
+    public-key: 3iVJAIGPx6JMlhlRmfpGrHkSmLpHJ4CPvBBH7KsFrFA
+    short-id: fd8cf7e1173f0edb
+  server: 83.147.18.3
+  servername: www.cloudflare.com
+  tls: false
+  type: vless
+  uuid: 9f61cdf4-810d-4052-bbc7-2da0c8e20104
+- alpn:
+  - http/1.1
+  client-fingerprint: chrome
+  name: '16,22|@npv_vpn11 #774'
+  network: tcp
+  port: 443
+  server: 186.190.211.188
+  servername: 186.190.211.188
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  uuid: 03fcc618-b93d-6796-6aed-8a38c975d581
+- cipher: aes-128-gcm
+  name: 16|🇬🇧[www.v2nodes.com] ss-GB-1451...
+  password: shadowsocks
+  port: 443
+  server: 158.173.24.73
+  type: ss
+- cipher: aes-256-gcm
+  name: 16|🇬🇧[www.v2nodes.com] ss-GB-1292...
+  password: g5h5jleTRSyO3Rk4
+  port: 443
+  server: 149.102.132.184
+  type: ss
+- cipher: aes-256-gcm
+  name: 16|🇬🇧[www.v2nodes.com] ss-GB-1289...
+  password: LXchLsIwtCeUAUgu
+  port: 80
+  server: 149.102.149.207
+  type: ss
+- cipher: aes-256-gcm
+  name: 16|🇬🇧[www.v2nodes.com] ss-GB-1247...
+  password: RexnBgU7EV5ADxG
+  port: 7001
+  server: 94.156.250.148
+  type: ss
+- cipher: aes-128-gcm
+  name: '16|🇬🇧 英国 | GBR #1'
+  password: 9c51ca33-a332-4de5-8677-5624e940097c
+  port: 35016
+  server: ruot.ayucloudservices.nl
+  type: ss
+- cipher: aes-256-gcm
+  name: '16|🇬🇧 英国 | GBR #2'
+  password: bd962c9a-d6f2-4561-bd80-34206c4d5279
+  port: 22084
+  server: ruot.ayucloudservices.nl
+  type: ss
+- cipher: aes-256-gcm
+  name: '16|🇬🇧 英国 | GBR #4'
+  password: 9c51ca33-a332-4de5-8677-5624e940097c
+  port: 22034
+  server: ruot.ayucloudservices.nl
+  type: ss
+- cipher: aes-128-gcm
+  name: '16|🇬🇧 英国 | GBR #5'
+  password: 70a5c510-d56d-43e7-b150-9c00c969bd50
+  port: 35194
+  server: ruot.ayucloudservices.nl
+  type: ss
+- client-fingerprint: firefox
+  name: 20|🇬🇧_英国_96
+  network: ws
+  port: 443
+  server: 5.199.0.226
+  servername: rnxq-1lpi3m.linmeisoft.com
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: b0a100ee-c397-43f2-bdae-2adfb7a0d4e5
+  ws-opts:
+    headers:
+      Host: rnxq-1lpi3m.linmeisoft.com
+    path: /b0a100ee-c397-43f2-bdae-2adfb7a0d4e5
+- client-fingerprint: chrome
+  name: 20|🇬🇧_英国_106
+  network: ws
+  port: 31867
+  server: 129.151.64.169
+  servername: jln31qtswdkut5.60kohcognywybguuq3ouc818oofnxfvn35daott.workers.dev
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: adeb038d-f011-4733-b133-3791e76950f7
+  ws-opts:
+    headers:
+      Host: jln31qtswdkut5.60kohcognywybguuq3ouc818oofnxfvn35daott.workers.dev
+    path: /@Marisa_kristi
+- client-fingerprint: chrome
+  name: 20|🇬🇧_英国_137
+  network: ws
+  port: 80
+  server: 194.36.55.146
+  servername: 194.36.55.146
+  skip-cert-verify: true
+  tls: false
+  type: vless
+  udp: true
+  uuid: 964e6322-afad-4594-8508-86d634d732e6
+  ws-opts:
+    headers:
+      Host: blacklegends.umc-mansur13.workers.dev
+    path: /
+- client-fingerprint: chrome
+  name: 20|🇬🇧_英国_187
+  network: ws
+  port: 52014
+  server: 57.129.130.34
+  servername: jln31qtswdkut5.60kohcognywybguuq3ouc818oofnxfvn35daott.workers.dev
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: 53367702-4b8d-431a-a193-34d7d057a065
+  ws-opts:
+    headers:
+      Host: jln31qtswdkut5.60kohcognywybguuq3ouc818oofnxfvn35daott.workers.dev
+    path: /@Marisa_kristi
+- client-fingerprint: chrome
+  name: 25|GB【机场推荐：https://a9a.xyz】25
+  network: ws
+  port: 8443
+  server: 91.110.174.210
+  servername: rubifen.adaspoloandco.com
+  tls: true
+  type: vless
+  uuid: cf39fab0-bb85-42cb-9945-2ad69d78e575
+  ws-opts:
+    headers:
+      Host: rubifen.adaspoloandco.com
+    path: '%2FGOrbEh'
+- name: 25|英国
+  password: s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z
+  port: 8443
+  server: 205.237.109.221
+  sni: grape-turbo-fr.roxa.org
+  tls: false
+  type: hysteria2
+- name: 25|🇬🇧|GB|@wxgqlfx|19
+  password: 725bc0b69e720cd5a2cd209252507c6e
+  port: 50160
+  server: 94-229-64-108.liao.kdns.fr
+  skip-cert-verify: true
+  sni: 94-229-64-108.liao.kdns.fr
+  tls: false
+  type: hysteria2
+- client-fingerprint: edge
+  name: 25|🇬🇧GB_1|1.0MB/s
+  port: 2020
+  server: sitea.awexco.shop
+  servername: play.googleapis.com
+  tls: true
+  type: vless
+  uuid: 00b41e07-68e6-46b0-928f-a02becd4e398

@@ -1,16 +1,135 @@
 proxies:
+- cipher: aes-256-gcm
+  name: 2|🇭🇰 香港2|@stairnode
+  password: ccf426f1fe78
+  port: 443
+  server: 103.103.245.158
+  type: ss
+- name: 2|🇭🇰 香港4|@stairnode
+  password: 253bc477d4e43c209f2d427272968280
+  port: 4419
+  server: 221.128.195.221
+  skip-cert-verify: false
+  sni: www.nintendogames.net
+  type: trojan
+- name: 2|🇭🇰 香港6|@stairnode
+  password: 253bc477d4e43c209f2d427272968280
+  port: 443
+  server: 126.47.92.160
+  skip-cert-verify: true
+  sni: fe2.update.microsoft.com
+  type: trojan
 - alterId: 2
   cipher: auto
-  name: 6|🇭🇰 香港|@ripaojiedian
+  name: '3,16,25,28|香港|@ripaojiedian #2'
+  network: tcp
   port: 30807
   server: v10.hdacd.com
-  skip-cert-verify: false
+  servername: ''
   tls: false
   type: vmess
   uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
+- name: 3|🇭🇰 香港3|@stairnode
+  password: 868ecdaf6aed618ec98cf78585672b2b
+  port: 52687
+  server: 18.162.54.192
+  skip-cert-verify: false
+  sni: www.nintendogames.net
+  type: trojan
+- name: '3|🇭🇰 香港4|@stairnode #1'
+  password: BxceQaOe
+  port: 6313
+  server: 52.194.222.108
+  skip-cert-verify: true
+  sni: t.me%2Fripaojiedian
+  type: trojan
+- name: 3|🇭🇰 香港5|@stairnode
+  password: BxceQaOe
+  port: 6313
+  server: 3.112.196.41
+  skip-cert-verify: true
+  sni: t.me%2Fripaojiedian
+  type: trojan
 - alterId: 0
   cipher: auto
-  name: 6|🇭🇰 香港3|@ripaojiedian
+  name: 10|HKyoyapai.com_11
+  port: 800
+  server: 47.83.247.150
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 59c06976-3009-48d5-89f3-bd94d4a120a0
+- alterId: 0
+  cipher: auto
+  name: 10|HKyoyapai.com_12
+  network: ws
+  port: 443
+  server: u2frxj0g13vdi0wo.v.3dns.vip
+  skip-cert-verify: false
+  tls: true
+  type: vmess
+  udp: true
+  uuid: 88888888-8888-8888-8888-888888888888
+  ws-opts:
+    headers:
+      Host: U2FRxj0G13vDI0Wo.v.3dns.vip
+    path: /ws-vmess
+- alterId: 2
+  cipher: auto
+  name: 11|C🟠🇭🇰hos_dokng.com_533a58aa
+  port: 11252
+  server: goldcnmltyljgfwgov.vip52.wogcnmnnagfwgov.com
+  type: vmess
+  udp: true
+  uuid: 605956ee-544d-308e-8b90-51e67c6ea8da
+- alterId: 2
+  cipher: auto
+  name: 15|🇭🇰HK_1 |  1.7MB/s
+  network: ws
+  port: 80
+  server: a4e9c5f4-sv0xs0-sv37gm-81nv.hk.p5pv.com
+  servername: broadcastlv.chat.bilibili.com
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 47e91fb6-25b8-df52-bc18-3cdc8548192f
+  ws-opts:
+    headers:
+      Host: a4e9c5f4-sv0xs0-sv37gm-81nv.hk.p5pv.com
+    path: /
+  xudp: true
+- alterId: 64
+  cipher: auto
+  name: 15|🇭🇰HK_2 |  788KB/s|0%|Netflix|D...
+  port: 41911
+  server: 183.236.51.37
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
+- cipher: chacha20-ietf-poly1305
+  name: 16|🇭🇰[www.v2nodes.com] ss-HK-1585...
+  password: pno0e2keji2gsfea
+  port: 1080
+  server: telegram.khp25.com
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: 16|🇭🇰[www.v2nodes.com] ss-HK-1576...
+  password: m5nsedvdczx6x06e
+  port: 1080
+  server: telegramx.khp25.com
+  type: ss
+- name: 16|🇭🇰[www.v2nodes.com] trojan-HK-...
+  password: UX82473651
+  port: 443
+  server: strong-haddock.rooster465.autos
+  sni: strong-haddock.rooster465.autos
+  type: trojan
+- alterId: 0
+  cipher: auto
+  name: '16,27|🇭🇰 香港3|@ripaojiedian #1'
   network: ws
   port: 443
   server: ADncdOvLHR4M1P36.v.3dns.vip
@@ -25,7 +144,7 @@ proxies:
     path: /ws-vmess
 - alterId: 0
   cipher: auto
-  name: 6|🇭🇰 香港2|@ripaojiedian
+  name: '16,27|🇭🇰 香港2|@ripaojiedian #1'
   network: ws
   port: 443
   server: kBONDXW9liFCi4h4.v.3dns.vip
@@ -40,7 +159,7 @@ proxies:
     path: /ws-vmess
 - alterId: 0
   cipher: auto
-  name: 6|🇭🇰 香港4|@ripaojiedian
+  name: '16,27|🇭🇰 香港4|@ripaojiedian #1'
   network: ws
   port: 443
   server: aZW0eunYVdvRe73k.v.3dns.vip
@@ -55,7 +174,7 @@ proxies:
     path: /ws-vmess
 - alterId: 0
   cipher: auto
-  name: 6|🇭🇰 香港5|@ripaojiedian
+  name: '16,27|🇭🇰 香港5|@ripaojiedian #1'
   network: ws
   port: 443
   server: syJ2gGUgMwBwQwQx.v.3dns.vip
@@ -68,17 +187,7 @@ proxies:
     headers:
       Host: syJ2gGUgMwBwQwQx.v.3dns.vip
     path: /ws-vmess
-- alterId: 2
-  cipher: auto
-  name: 7|香港|@ripaojiedian
-  network: tcp
-  port: 30807
-  server: v10.hdacd.com
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
-- name: 7|香港2|@ripaojiedian
+- name: '16,28|香港2|@ripaojiedian #1'
   network: tcp
   password: AA885B42-133C-3828-FB69-E45105C06092
   port: 12103
@@ -86,7 +195,7 @@ proxies:
   skip-cert-verify: true
   sni: m.ctrip.com
   type: trojan
-- name: 7|香港3|@ripaojiedian
+- name: '16,28|香港3|@ripaojiedian #2'
   network: tcp
   password: AA885B42-133C-3828-FB69-E45105C06092
   port: 10115
@@ -94,7 +203,7 @@ proxies:
   skip-cert-verify: true
   sni: m.ctrip.com
   type: trojan
-- name: 7|香港4|@ripaojiedian
+- name: '16,28|香港4|@ripaojiedian #2'
   network: tcp
   password: AA885B42-133C-3828-FB69-E45105C06092
   port: 12107
@@ -102,11 +211,124 @@ proxies:
   skip-cert-verify: true
   sni: m.ctrip.com
   type: trojan
-- name: 7|香港5|@ripaojiedian
+- name: '16,28|香港5|@ripaojiedian #2'
   network: tcp
   password: AA885B42-133C-3828-FB69-E45105C06092
   port: 12102
   server: 7d0a2gz0-7a0c.aws-agent.net
   skip-cert-verify: true
   sni: m.ctrip.com
+  type: trojan
+- alterId: 0
+  cipher: auto
+  name: '16|🇭🇰 香港 | HKG #1'
+  network: ws
+  port: 443
+  server: 8.217.13.103
+  servername: qtkdr8jxe3wefxjm.v.3dns.vip
+  tls: true
+  type: vmess
+  uuid: f23bb427-c1f9-4373-876c-2f43e9f790f3
+  ws-opts:
+    headers:
+      Host: qtkdr8jxe3wefxjm.v.3dns.vip
+    path: /ws-vmess
+- alterId: 0
+  cipher: auto
+  name: '16|🇭🇰 香港 | HKG #2'
+  network: ws
+  port: 443
+  server: 47.76.44.32
+  tls: true
+  type: vmess
+  uuid: f23bb427-c1f9-4373-876c-2f43e9f790f3
+  ws-opts:
+    headers:
+      Host: 93ucrn4i0pffuabk.v.3dns.vip
+    path: /ws-vmess
+- alterId: 0
+  cipher: auto
+  name: '16|🇭🇰 香港 | HKG #3'
+  network: ws
+  port: 443
+  server: 47.83.207.148
+  tls: true
+  type: vmess
+  uuid: f23bb427-c1f9-4373-876c-2f43e9f790f3
+  ws-opts:
+    headers:
+      Host: VAH4URdZL3jDX5r2.v.3dns.vip
+    path: /ws-vmess
+- alterId: 0
+  cipher: auto
+  name: 16|🇭🇰 香港 | HKG 5
+  network: ws
+  port: 443
+  server: 6jdvarazgu3qqr6q.v.3dns.vip
+  servername: 6JDvArazgU3qQR6Q.v.3dns.vip
+  tls: true
+  type: vmess
+  uuid: f23bb427-c1f9-4373-876c-2f43e9f790f3
+  ws-opts:
+    headers:
+      Host: 6JDvArazgU3qQR6Q.v.3dns.vip
+    path: /ws-vmess
+- alterId: 0
+  cipher: auto
+  name: '16|🇭🇰 香港 | HKG #6'
+  network: ws
+  port: 443
+  server: 8.218.195.61
+  servername: EX1oGt73NzPQKAc2.v.3dns.vip
+  tls: true
+  type: vmess
+  uuid: f23bb427-c1f9-4373-876c-2f43e9f790f3
+  ws-opts:
+    headers:
+      Host: EX1oGt73NzPQKAc2.v.3dns.vip
+    path: /ws-vmess
+- alterId: 2
+  cipher: auto
+  name: '20,27|🇭🇰 香港|@ripaojiedian #2'
+  port: 30807
+  server: v10.hdacd.com
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  udp: true
+  uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
+- name: '25|香港3|@ripaojiedian #1'
+  password: 6ec301428255a78a1d826988d86cc87e
+  port: 14684
+  server: 16.163.156.207
+  skip-cert-verify: true
+  sni: www.nintendogames.net
+  type: trojan
+- name: '25|香港4|@ripaojiedian #1'
+  password: BxceQaOe
+  port: 29444
+  server: 43.198.240.223
+  skip-cert-verify: true
+  sni: t.me%2Fripaojiedian
+  type: trojan
+- name: '25|香港5|@ripaojiedian #1'
+  password: BxceQaOe
+  port: 14684
+  server: 43.198.109.134
+  skip-cert-verify: true
+  sni: t.me%2Fripaojiedian
+  type: trojan
+- name: 25|HK_speednode_0012
+  password: BxceQaOe
+  port: 27161
+  server: 16.162.3.11
+  skip-cert-verify: true
+  sni: t.me/ripaojiedian
+  type: trojan
+- name: 25|HK_speednode_0013
+  password: BxceQaOe
+  port: 27161
+  server: 16.162.3.11
+  skip-cert-verify: true
+  sni: t.me%2Fripaojiedian
   type: trojan

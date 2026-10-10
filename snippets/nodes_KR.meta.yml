@@ -1,7 +1,312 @@
 proxies:
+- name: 10|KRyoyapai.com
+  network: ws
+  port: 8880
+  server: 104.17.144.29
+  skip-cert-verify: false
+  tls: false
+  type: vless
+  udp: true
+  uuid: 81d55675-8570-4b40-9a77-3125339a0f86
+  ws-opts:
+    headers:
+      Host: spring-sound-8d8e.36-9ff.workers.dev
+    path: /pyip=ProxyIP.KR.CMLiussss.net
+- name: '10|KRyoyapai.com_1 #1'
+  network: ws
+  port: 8880
+  server: crimson-smoke-7818.397.workers.dev
+  skip-cert-verify: false
+  tls: false
+  type: vless
+  udp: true
+  uuid: d6bdda67-168d-4501-a2c1-ef01070cb327
+  ws-opts:
+    path: /pyip=ProxyIP.KR.CMLiussss.net
+- client-fingerprint: chrome
+  name: 10|KRyoyapai.com_1
+  network: ws
+  port: 25524
+  server: 116.93.199.28
+  servername: ylnhh.cc.cd
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: 14b02e2a-8930-4afb-8412-ea4a4954ca5b
+  ws-opts:
+    headers:
+      Host: ylnhh.cc.cd
+    path: /Telegram@WangCai2
+- name: '11,16,22|@npv_vpn11 #877'
+  password: UX82473651
+  port: 443
+  server: pure-kodiak.rooster465.autos
+  skip-cert-verify: true
+  sni: pure-kodiak.rooster465.autos
+  type: trojan
+  udp: true
+- name: 11|A🟢🇰🇷res[🎬🤖📺🎭]_dokng.com_6ade7d...
+  port: 1020
+  server: 175.197.55.225
+  type: socks5
+- alterId: 2
+  cipher: auto
+  name: 11|C🟠🇰🇷hos[📺🎪🔍]_dokng.com_1ab4b9a...
+  port: 11264
+  server: goldcnmltyljgfwgov.vip64.wogcnmnnagfwgov.com
+  type: vmess
+  udp: true
+  uuid: 605956ee-544d-308e-8b90-51e67c6ea8da
+- alpn:
+  - h3
+  - h2
+  client-fingerprint: chrome
+  encryption: none
+  name: 11|D🔴🇰🇷hos[🎬📺🎭🎪]_dokng.com_4c8695...
+  network: ws
+  port: 443
+  server: 162.159.135.234
+  servername: snip.edgeoneai.cc.cd
+  tls: true
+  type: vless
+  udp: true
+  uuid: 495c7195-85b8-498a-bf20-2ea9ce9175b5
+  ws-opts:
+    headers:
+      Host: snip.edgeoneai.cc.cd
+      User-Agent: Mozilla/5.0 (Linux; Android 5.1.1; A37fw Build/LMY47V) AppleWebKit/537.36
+        (KHTML, like Gecko) Chrome/62.0.3202.84 Mobile Safari/537.36
+    path: /fdip=sstp://vpn:vpn@public-vpn-200.opengw.net:443
+  xudp: true
+- name: 11|D🔴🇰🇷hos[🎬🤖📺🎭]_dokng.com_5275fa...
+  port: 12121
+  server: 112.216.54.226
+  type: http
+- name: 11|C🟠🇰🇷hos_dokng.com_6b427381
+  password: 81c4547b-e5d8-4af8-baf0-91c5c0c05a9b
+  port: 1892
+  server: icn-a-01.auuas.com
+  skip-cert-verify: true
+  sni: images.apple.com
+  type: anytls
+  udp: true
+- name: 11|D🔴🇰🇷hos[🎬🤖📺🎭]_dokng.com_aba567...
+  port: 443
+  server: 172.64.69.89
+  skip-cert-verify: true
+  tls: true
+  type: http
 - alterId: 0
   cipher: auto
-  name: 6|🇰🇷 韩国|@ripaojiedian
+  http-opts:
+    method: GET
+    path:
+    - /
+  name: 11|C🟠🇰🇷hos[🤖📺🎪]_dokng.com_3012d41...
+  network: http
+  port: 123
+  server: 43.108.103.167
+  tls: false
+  type: vmess
+  uuid: 35aa0fda-175a-4aec-c468-0231dee1a121
+- client-fingerprint: chrome
+  name: 11|C🟠🇰🇷hos[🎬🤖📺🎭]_dokng.com_04c17f...
+  port: 443
+  reality-opts:
+    public-key: M0QKczb2MzOH45qDViIAbb9LPrVVyCp880D4HlwIKnA
+    short-id: 8685f8b4d9f4f51e
+  server: 34.22.111.30
+  servername: www.cloudflare.com
+  tls: true
+  type: vless
+  uuid: cb2abff3-5fe6-4b5a-aa19-5739deb285b6
+- name: 15|🇰🇷KR_1 |  1.8MB/s|Netflix|Disn...
+  network: ws
+  port: 8880
+  server: 185.162.231.177
+  servername: Telegram-channel-WangCai2
+  type: vless
+  udp: true
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
+  ws-opts:
+    headers:
+      Host: ip.langmanshanxi.top
+      User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like
+        Gecko) Chrome/40.0.2214.115 Safari/537.36
+    path: /Telegram🇨🇳 @WangCai2 /?ed=2560
+  xudp: true
+- name: 15|🇰🇷KR_2 |  1.4MB/s|Netflix|Disn...
+  network: ws
+  port: 8880
+  server: 5.10.247.177
+  servername: Telegram-channel-WangCai2
+  type: vless
+  udp: true
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
+  ws-opts:
+    headers:
+      Host: ip.langmanshanxi.top
+      User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like
+        Gecko) Chrome/42.0.2311.90 Safari/537.36
+    path: /Telegram🇨🇳 @WangCai2 /?ed=2560
+  xudp: true
+- client-fingerprint: chrome
+  name: 16|KR【机场推荐：https://a9a.xyz】39
+  network: ws
+  port: 2096
+  server: 49.238.238.156
+  servername: and-75r.pages.dev
+  tls: true
+  type: vless
+  uuid: 573c6482-37db-454a-8c31-5b45a338a580
+  ws-opts:
+    headers:
+      Host: and-75r.pages.dev
+    path: '%2F'
+- client-fingerprint: chrome
+  name: 16|KR【机场推荐：https://a9a.xyz】43
+  network: ws
+  port: 2053
+  server: 49.238.238.154
+  servername: and-75r.pages.dev
+  tls: true
+  type: vless
+  uuid: 573c6482-37db-454a-8c31-5b45a338a580
+  ws-opts:
+    headers:
+      Host: and-75r.pages.dev
+    path: '%2F'
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: 16|🇰🇷[www.v2nodes.com] vless-KR-1...
+  port: 2053
+  server: 47.80.19.173
+  servername: gateway.icloud.com
+  tls: true
+  type: vless
+  uuid: 319d5ffb-57e8-4bbd-ac0c-5d55d0c253de
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: '16|🇰🇷[www.v2nodes.com] vless-KR-1... #1'
+  port: 13672
+  server: 3.39.4.109
+  servername: www.apple.com
+  tls: true
+  type: vless
+  uuid: 814bd064-544d-4255-a070-5705c03f6da9
+- cipher: aes-256-gcm
+  name: 16|🇰🇷[www.v2nodes.com] ss-KR-1580...
+  password: ac9c0a7b
+  port: 49642
+  server: ce1fc2d8.krkt.hkssip.com
+  type: ss
+- name: 16|🇰🇷[www.v2nodes.com] trojan-KR-...
+  password: UX82473651
+  port: 443
+  server: fancy-skink.rooster465.autos
+  skip-cert-verify: true
+  sni: fancy-skink.rooster465.autos
+  type: trojan
+- name: '16,22|@npv_vpn11 #840'
+  password: UX82473651
+  port: 443
+  server: glorious-lark.rooster465.autos
+  skip-cert-verify: true
+  sni: glorious-lark.rooster465.autos
+  type: trojan
+- country: 🇰🇷KR
+  delay: 388
+  name: '16,21,22|@npv_vpn11 #927'
+  password: UX82473651
+  port: 443
+  server: inviting-rabbit.rooster465.autos
+  skip-cert-verify: true
+  sni: inviting-rabbit.rooster465.autos
+  type: trojan
+  udp: true
+- name: '16|🇰🇷[www.v2nodes.com] trojan-KR-... #4'
+  password: UX82473651
+  port: 443
+  server: central-jawfish.rooster465.autos
+  skip-cert-verify: true
+  sni: central-jawfish.rooster465.autos
+  type: trojan
+- name: '16|🇰🇷[www.v2nodes.com] trojan-KR-... #5'
+  password: UX82473651
+  port: 443
+  server: working-tomcat.rooster465.autos
+  skip-cert-verify: true
+  sni: working-tomcat.rooster465.autos
+  type: trojan
+- name: '16|🇰🇷[www.v2nodes.com] trojan-KR-... #6'
+  password: UX82473651
+  port: 443
+  server: full-egret.rooster465.autos
+  skip-cert-verify: true
+  sni: full-egret.rooster465.autos
+  type: trojan
+- name: '16|🇰🇷[www.v2nodes.com] trojan-KR-... #7'
+  password: UX82473651
+  port: 443
+  server: neutral-quail.rooster465.autos
+  sni: neutral-quail.rooster465.autos
+  type: trojan
+- name: '16|🇰🇷[www.v2nodes.com] trojan-KR-... #8'
+  password: UX82473651
+  port: 443
+  server: delicate-buck.rooster465.autos
+  sni: delicate-buck.rooster465.autos
+  type: trojan
+- name: '16|🇰🇷[www.v2nodes.com] trojan-KR-... #9'
+  password: UX82473651
+  port: 443
+  server: amazing-peacock.rooster465.autos
+  sni: amazing-peacock.rooster465.autos
+  type: trojan
+- name: '16|🇰🇷[www.v2nodes.com] trojan-KR-... #10'
+  password: UX82473651
+  port: 443
+  server: kind-stork.rooster465.autos
+  sni: kind-stork.rooster465.autos
+  type: trojan
+- name: '16|🇰🇷[www.v2nodes.com] trojan-KR-... #11'
+  password: UX82473651
+  port: 443
+  server: noted-cougar.rooster465.autos
+  sni: noted-cougar.rooster465.autos
+  type: trojan
+- name: '16|🇰🇷[www.v2nodes.com] trojan-KR-... #12'
+  password: UX82473651
+  port: 443
+  server: optimum-snapper.rooster465.autos
+  sni: optimum-snapper.rooster465.autos
+  type: trojan
+- name: '16|🇰🇷[www.v2nodes.com] trojan-KR-... #13'
+  password: UX82473651
+  port: 443
+  server: 13.125.69.162
+  type: trojan
+- name: '16|🇰🇷[www.v2nodes.com] trojan-KR-... #14'
+  password: UX82473651
+  port: 443
+  server: 3.34.131.153
+  type: trojan
+- name: '16|🇰🇷[www.v2nodes.com] trojan-KR-... #15'
+  password: UX82473651
+  port: 443
+  server: main-fawn.rooster465.autos
+  sni: main-fawn.rooster465.autos
+  type: trojan
+- name: '16|🇰🇷[www.v2nodes.com] trojan-KR-... #16'
+  password: UX82473651
+  port: 443
+  server: balanced-stag.rooster465.autos
+  sni: balanced-stag.rooster465.autos
+  type: trojan
+- alterId: 0
+  cipher: auto
+  name: '16,27|🇰🇷 韩国|@ripaojiedian #1'
   network: ws
   port: 443
   server: 8nTzyR5KNivfabaT.v.3dns.vip
@@ -14,11 +319,130 @@ proxies:
     headers:
       Host: 8nTzyR5KNivfabaT.v.3dns.vip
     path: /ws-vmess
-- name: 7|韩国|@ripaojiedian
+- name: '16,28|韩国|@ripaojiedian #1'
   network: tcp
   password: AA885B42-133C-3828-FB69-E45105C06092
   port: 11171
   server: 63182sh8-4d7b.aws-agent.net
   skip-cert-verify: true
   sni: m.ctrip.com
+  type: trojan
+- name: '16|🇰🇷 韩国 | KOR #1'
+  password: 7e68e32f-8015-4f37-9082-70e8b0b58043
+  port: 443
+  server: 52.79.249.116
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: false
+  type: hysteria2
+- client-fingerprint: chrome
+  name: 20|🇰🇷_韩国_135
+  network: ws
+  port: 10280
+  server: 175.195.149.58
+  servername: jln31qtswdkut5.60kohcognywybguuq3ouc818oofnxfvn35daott.workers.dev
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: 31457647-274c-467f-8bd9-525c994e3047
+  ws-opts:
+    headers:
+      Host: jln31qtswdkut5.60kohcognywybguuq3ouc818oofnxfvn35daott.workers.dev
+    path: /@Marisa_kristi
+- client-fingerprint: chrome
+  name: 20|🇰🇷_韩国_150
+  network: ws
+  port: 16034
+  server: 220.71.172.2
+  servername: jln31qtswdkut5.60kohcognywybguuq3ouc818oofnxfvn35daott.workers.dev
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: bfa5cd1f-1465-4850-b7c9-08e1a63dac2c
+  ws-opts:
+    headers:
+      Host: jln31qtswdkut5.60kohcognywybguuq3ouc818oofnxfvn35daott.workers.dev
+    path: /@Marisa_kristi
+- client-fingerprint: chrome
+  name: 20|🇰🇷_韩国_201
+  network: ws
+  port: 2053
+  server: 49.238.238.154
+  servername: and-75r.pages.dev
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: 573c6482-37db-454a-8c31-5b45a338a580
+  ws-opts:
+    headers:
+      Host: and-75r.pages.dev
+    path: /
+- client-fingerprint: chrome
+  name: 20|🇰🇷_韩国_205
+  network: ws
+  port: 2096
+  server: 49.238.238.156
+  servername: and-75r.pages.dev
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: 573c6482-37db-454a-8c31-5b45a338a580
+  ws-opts:
+    headers:
+      Host: and-75r.pages.dev
+    path: /
+- name: 25|🇰🇷|KR|@wxgqlfx|24
+  password: dfb54e674104158210fdfcac45e5679d
+  port: 50160
+  server: 193.122.104.200
+  skip-cert-verify: true
+  sni: 193-122-104-200.liao.kdns.fr
+  tls: false
+  type: hysteria2
+- name: 25|🇰🇷|KR|@wxgqlfx|23
+  password: 3d7634af8cb2c6cb4bac1c0efad8b43d
+  port: 50160
+  server: 152.67.200.82
+  skip-cert-verify: true
+  sni: 152-67-200-82.liao.kdns.fr
+  tls: false
+  type: hysteria2
+- client-fingerprint: chrome
+  grpc-opts:
+    grpc-service-name: update
+  name: 25|🇰🇷KR_1|5.4MB/s
+  network: grpc
+  port: 10046
+  server: kr1-r.link-t7.com
+  servername: s0.awsstatic.com
+  tls: true
+  type: vless
+  uuid: 88DA9CA6-5E68-4687-A748-961B612DCED5
+- name: 25|🇰🇷KR_2|4.7MB/s
+  password: HC04361579
+  port: 443
+  server: powerful-troll.rooster465.autos
+  skip-cert-verify: true
+  sni: powerful-troll.rooster465.autos
+  type: trojan
+- client-fingerprint: chrome
+  grpc-opts:
+    grpc-service-name: update
+  name: 25|🇰🇷KR_4|5.1MB/s
+  network: grpc
+  port: 10049
+  server: kr4-r.link-t7.com
+  servername: s0.awsstatic.com
+  tls: true
+  type: vless
+  uuid: 88DA9CA6-5E68-4687-A748-961B612DCED5
+- name: 25|🇰🇷KR_5|2.2MB/s
+  password: ND91608427
+  port: 443
+  server: definite-malamute.rooster465.autos
+  skip-cert-verify: true
   type: trojan

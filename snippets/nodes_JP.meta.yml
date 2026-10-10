@@ -1,7 +1,447 @@
 proxies:
+- name: 2|🇯🇵 日本2|@stairnode
+  password: 253bc477d4e43c209f2d427272968280
+  port: 1806
+  server: 36.156.102.84
+  skip-cert-verify: false
+  sni: www.nintendogames.net
+  type: trojan
+- name: 2|🇯🇵 日本3|@stairnode
+  password: 253bc477d4e43c209f2d427272968280
+  port: 3160
+  server: 36.156.102.84
+  skip-cert-verify: false
+  sni: www.nintendogames.net
+  type: trojan
+- name: 3|🇯🇵 日本|@stairnode
+  password: BxceQaOe
+  port: 3022
+  server: 52.194.222.108
+  skip-cert-verify: true
+  sni: t.me%252Fripaojiedian
+  type: trojan
+- name: '3|🇯🇵 日本2|@stairnode #1'
+  password: 868ecdaf6aed618ec98cf78585672b2b
+  port: 4937
+  server: 13.231.134.78
+  skip-cert-verify: false
+  sni: www.nintendogames.net
+  type: trojan
+- name: '3|🇯🇵 日本3|@stairnode #1'
+  password: 868ecdaf6aed618ec98cf78585672b2b
+  port: 9201
+  server: 43.207.115.26
+  skip-cert-verify: false
+  sni: www.nintendogames.net
+  type: trojan
+- name: '4,5,6|🇯🇵_JP_日本 #4'
+  password: qQe1z5kU8kN6SlKnDt9Ru3Qp
+  port: 443
+  server: vpn-jp-002.fastervpn.world
+  skip-cert-verify: true
+  sni: vpn-jp-002.fastervpn.world
+  tls: false
+  type: hysteria2
+- name: '4,5,6|🇯🇵_JP_日本 #5'
+  password: qQe1z5kU8kN6SlKnDt9Ru3Qp
+  port: 443
+  server: vpn-jp-001.fastervpn.world
+  skip-cert-verify: true
+  sni: vpn-jp-001.fastervpn.world
+  tls: false
+  type: hysteria2
+- client-fingerprint: safari
+  flow: xtls-rprx-vision
+  name: 10|JPyoyapai.com_1
+  port: 443
+  reality-opts:
+    public-key: 0i_xAxYgSNx5NMpK2lOaWGS-CvAiD_LneYPO0MF0owo
+    short-id: 1a
+  server: 210.140.81.172
+  servername: www.amazon.com
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: b98d4c6e-6770-4a31-8256-a4750cdea0e7
+- client-fingerprint: chrome
+  name: 10,16,20|🇨🇳_中国_91
+  network: tcp
+  port: 58011
+  server: us22.sofast.live
+  skip-cert-verify: true
+  tls: false
+  type: vless
+  udp: true
+  uuid: 0afc6426-606c-48e7-bd70-3c424a416842
+- name: 10|JPyoyapai.com_3
+  network: ws
+  port: 18122
+  server: 155.248.168.35
+  servername: notls.lukongtou.eu.org
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: 1d16c6e0-1bbe-435b-b661-90043fee999c
+  ws-opts:
+    headers:
+      Host: notls.lukongtou.eu.org
+    path: Telegram-WangCai2
+- name: 10|JPyoyapai.com_4
+  network: ws
+  port: 11424
+  server: 38.47.96.220
+  servername: notls.lukongtou.eu.org
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: 1d16c6e0-1bbe-435b-b661-90043fee999c
+  ws-opts:
+    headers:
+      Host: notls.lukongtou.eu.org
+    path: Telegram-WangCai2
+- name: '10|JPyoyapai.com #1'
+  network: ws
+  port: 443
+  server: 89.125.244.28
+  servername: notls.lukongtou.eu.org
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: 1d16c6e0-1bbe-435b-b661-90043fee999c
+  ws-opts:
+    headers:
+      Host: notls.lukongtou.eu.org
+    path: Telegram-WangCai2
+- name: '10|JPyoyapai.com_1 #1'
+  network: ws
+  port: 443
+  server: 154.197.88.253
+  servername: notls.lukongtou.eu.org
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: 1d16c6e0-1bbe-435b-b661-90043fee999c
+  ws-opts:
+    headers:
+      Host: notls.lukongtou.eu.org
+    path: Telegram-WangCai2
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: 10|JPyoyapai.com_5
+  port: 443
+  reality-opts:
+    public-key: qBtxq4RZxDLCJT8i48iaGMhacv8MOI0yhIFiuwYJm08
+    short-id: 825d392c67e4
+  server: 2.27.27.64
+  servername: jp.musicwave.net
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: 94d2d711-76e5-4d82-a3c9-4f06fd5558c8
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: '10|JPyoyapai.com #2'
+  port: 443
+  reality-opts:
+    public-key: d1LjsQHtTCj7kHx2LHFisVDPc_xOtKnugy5YRFKXqUs
+    short-id: '39'
+  server: 64.176.62.54
+  servername: www.amazon.com
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: 12e35bfe-1e79-4cf1-8a8e-22a242e97408
+- client-fingerprint: chrome
+  name: 10|JPyoyapai.com_7
+  port: 443
+  reality-opts:
+    public-key: Ti7zRkfweHdrQ5QHI9o_zEgHn39xRfMG2C2Gfp_AMHE
+    short-id: 8380ad05cd21a69f
+  server: 136.110.116.68
+  servername: www.cloudflare.com
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: 0c4c6ebb-603f-4429-8682-beef6b65b80d
+- name: '11,16,22|@npv_vpn11 #872'
+  password: UX82473651
+  port: 443
+  server: stable-python.rooster465.autos
+  skip-cert-verify: true
+  sni: stable-python.rooster465.autos
+  type: trojan
+  udp: true
+- country: 🇯🇵JP
+  delay: 260
+  name: '11,16,21,22|@npv_vpn11 #930'
+  password: UX82473651
+  port: 443
+  server: live-stallion.rooster465.autos
+  skip-cert-verify: true
+  sni: live-stallion.rooster465.autos
+  type: trojan
+  udp: true
+- alterId: 2
+  cipher: auto
+  name: 11|D🔴🇯🇵hos_dokng.com_069c3867
+  port: 11205
+  server: sbgfgov.vip5.wogacnmnagfwgov.com
+  type: vmess
+  udp: true
+  uuid: 605956ee-544d-308e-8b90-51e67c6ea8da
+- client-fingerprint: ios
+  flow: xtls-rprx-vision
+  name: '11,22|@npv_vpn11 #88'
+  network: tcp
+  port: 41563
+  reality-opts:
+    public-key: HrcXRHtsitc_AVlN-_8fZuRgaP-Mqa_9JJotI9OnkVc
+    short-id: 25c79e5856c7
+  server: apinbxs.mate-fox.com
+  servername: iosapps.itunes.apple.com
+  tls: false
+  type: vless
+  uuid: 57beeeb0-03fc-4fc9-94da-7604488a7134
+- name: 11|D🔴🇯🇵hos[🎬🤖📺🎭]_dokng.com_9efa95...
+  password: None
+  port: 443
+  server: fan.571589.xyz
+  skip-cert-verify: false
+  tls: true
+  type: http
+  username: null
+- client-fingerprint: ios
+  flow: xtls-rprx-vision
+  name: 11|C🟠🇯🇵hos[🎬🤖📺🎭]_dokng.com_34483c...
+  port: 27916
+  reality-opts:
+    public-key: ztQ8VYq_dVDc3x-QM8LXjup2161CirYrIBE1F7loVzQ
+    short-id: 6772eb2b7a
+  server: apifunx.mate-fox.com
+  servername: cdn-dynmedia-1.microsoft.com
+  tls: true
+  type: vless
+  uuid: 57beeeb0-03fc-4fc9-94da-7604488a7134
+- name: 11|D🔴🇯🇵hos[🤖📺🎭🎪]_dokng.com_8b8961...
+  password: None
+  port: 10808
+  server: 101.36.104.239
+  type: socks5
+  udp: true
+  username: null
+- name: 11|D🔴🇯🇵hos[🎬🤖📺🎭]_dokng.com_5e6784...
+  port: 1080
+  server: 217.142.236.180
+  type: socks5
+- name: 11|D🔴🇯🇵hos[🎬📺🎭🎞]_dokng.com_29d160...
+  port: 1080
+  server: 103.75.118.84
+  type: socks5
+- client-fingerprint: chrome
+  name: 11|D🔴🇯🇵hos[🎬🤖📺🎭]_dokng.com_b6743e...
+  network: ws
+  password: 5504eaa8-1395-402f-8e0e-75ecd762e627
+  port: 443
+  server: jp3.998998.best
+  skip-cert-verify: false
+  sni: nat11.outsidemyheart.space
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      User-Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML,
+        like Gecko) Chrome/60.0.3112.90 Safari/537.36
+    path: /w4e5yh0p945y3?ed=2560
+- name: 11|C🟠🇯🇵hos[🎬🤖📺🎭]_dokng.com_16f5ab...
+  password: '!!str 123456'
+  port: 1080
+  server: 8.209.236.192
+  type: socks5
+  username: '123456'
+- name: 11|D🔴🇯🇵hos[🎬🤖📺🎭]_dokng.com_c618c9...
+  password: None
+  port: 10808
+  server: 101.36.104.46
+  type: socks5
+  udp: true
+  username: null
+- client-fingerprint: qq
+  flow: xtls-rprx-vision
+  http-opts:
+    headers: {}
+    path:
+    - /
+  name: 15|🇯🇵JP_1 |  756KB/s|0%|Netflix|D...
+  network: tcp
+  port: 25666
+  reality-opts:
+    public-key: 5LQN6qrXtjIX6L2LIGLJo7PP2qTVntRNhfnCfVwMY3k
+    short-id: 33a4b37fe5
+  server: 160.16.88.100
+  servername: www.samsung.com
+  tls: true
+  type: vless
+  udp: true
+  uuid: 6b76a8d6-37b1-4ff8-94cb-65d47e1a9bb3
+  xudp: true
+- alpn:
+  - h2
+  - http/1.1
+  client-fingerprint: firefox
+  flow: xtls-rprx-vision
+  grpc-opts:
+    grpc-service-name: ''
+  name: 16|节点日期：2026-10-10
+  network: tcp
+  port: 10829
+  server: 185.106.96.231
+  servername: u695098u99a93686s848.gogocs.xyz
+  tls: true
+  type: vless
+  uuid: 30e52776-55ac-3cb4-8d36-e2910f07e2c3
+  ws-opts:
+    headers:
+      Host: 99a93686s848.gogocs.xyz
+    path: ''
+- country: 🇯🇵JP
+  delay: 264
+  name: 16,21|日本 - 東京都 - 2
+  password: UX82473651
+  port: 443
+  server: legible-ram.rooster465.autos
+  skip-cert-verify: true
+  sni: legible-ram.rooster465.autos
+  type: trojan
+  udp: true
+- name: '16|🇯🇵[www.v2nodes.com] trojan-JP-... #3'
+  password: UX82473651
+  port: 443
+  server: warm-krill.rooster465.autos
+  skip-cert-verify: true
+  sni: warm-krill.rooster465.autos
+  type: trojan
+- name: '16|🇯🇵[www.v2nodes.com] trojan-JP-... #4'
+  password: UX82473651
+  port: 443
+  server: normal-macaque.rooster465.autos
+  skip-cert-verify: true
+  sni: normal-macaque.rooster465.autos
+  type: trojan
+- name: '16|🇯🇵[www.v2nodes.com] trojan-JP-... #5'
+  password: UX82473651
+  port: 443
+  server: optimal-penguin.rooster465.autos
+  skip-cert-verify: true
+  sni: optimal-penguin.rooster465.autos
+  type: trojan
+- name: '16|🇯🇵[www.v2nodes.com] trojan-JP-... #6'
+  password: UX82473651
+  port: 443
+  server: amazed-mako.rooster465.autos
+  skip-cert-verify: true
+  sni: amazed-mako.rooster465.autos
+  type: trojan
+- name: '16|🇯🇵[www.v2nodes.com] trojan-JP-... #7'
+  password: UX82473651
+  port: 443
+  server: equipped-stingray.rooster465.autos
+  skip-cert-verify: true
+  sni: equipped-stingray.rooster465.autos
+  type: trojan
+- name: '16|🇯🇵[www.v2nodes.com] trojan-JP-... #8'
+  password: UX82473651
+  port: 443
+  server: internal-krill.rooster465.autos
+  skip-cert-verify: true
+  sni: internal-krill.rooster465.autos
+  type: trojan
+- name: '16|🇯🇵[www.v2nodes.com] trojan-JP-... #9'
+  password: e26a229d-e8f2-4ff9-8c7d-58a9d83ee437
+  port: 8886
+  server: 45.32.52.173
+  sni: 45.32.52.173
+  type: trojan
+- name: '16|🇯🇵[www.v2nodes.com] trojan-JP-... #10'
+  password: UX82473651
+  port: 443
+  server: prime-corgi.rooster465.autos
+  sni: prime-corgi.rooster465.autos
+  type: trojan
+- name: '16|🇯🇵[www.v2nodes.com] trojan-JP-... #11'
+  password: UX82473651
+  port: 443
+  server: 54.250.237.143
+  type: trojan
+- name: '16|🇯🇵[www.v2nodes.com] trojan-JP-... #12'
+  password: UX82473651
+  port: 443
+  server: 3.112.245.255
+  type: trojan
+- name: '16|🇯🇵[www.v2nodes.com] trojan-JP-... #13'
+  password: UX82473651
+  port: 443
+  server: musical-terrier.rooster465.autos
+  sni: musical-terrier.rooster465.autos
+  type: trojan
+- name: '16|🇯🇵[www.v2nodes.com] trojan-JP-... #14'
+  password: UX82473651
+  port: 443
+  server: obliging-louse.rooster465.autos
+  sni: obliging-louse.rooster465.autos
+  type: trojan
+- name: '16|🇯🇵[www.v2nodes.com] trojan-JP-... #15'
+  password: UX82473651
+  port: 443
+  server: winning-marten.rooster465.autos
+  sni: winning-marten.rooster465.autos
+  type: trojan
+- name: '16|🇯🇵[www.v2nodes.com] trojan-JP-... #16'
+  password: UX82473651
+  port: 443
+  server: concrete-aardvark.rooster465.autos
+  sni: concrete-aardvark.rooster465.autos
+  type: trojan
+- name: '16|🇯🇵[www.v2nodes.com] trojan-JP-... #17'
+  password: UX82473651
+  port: 443
+  server: organic-caribou.rooster465.autos
+  sni: organic-caribou.rooster465.autos
+  type: trojan
+- name: '16|🇯🇵[www.v2nodes.com] trojan-JP-... #18'
+  password: UX82473651
+  port: 443
+  server: intense-sole.rooster465.autos
+  sni: intense-sole.rooster465.autos
+  type: trojan
+- name: '16|🇯🇵[www.v2nodes.com] trojan-JP-... #19'
+  password: UX82473651
+  port: 443
+  server: fancy-javelin.rooster465.autos
+  sni: fancy-javelin.rooster465.autos
+  type: trojan
+- name: '16|🇯🇵[www.v2nodes.com] trojan-JP-... #20'
+  password: UX82473651
+  port: 443
+  server: comic-poodle.rooster465.autos
+  sni: comic-poodle.rooster465.autos
+  type: trojan
+- name: '16|🇯🇵[www.v2nodes.com] trojan-JP-... #21'
+  password: UX82473651
+  port: 443
+  server: promoted-rattler.rooster465.autos
+  sni: promoted-rattler.rooster465.autos
+  type: trojan
 - alterId: 0
   cipher: auto
-  name: 6|🇯🇵 日本|@ripaojiedian
+  name: '16,27|🇯🇵 日本|@ripaojiedian #1'
   network: ws
   port: 443
   server: Z9FfBx3zs2q5O0BG.v.3dns.vip
@@ -16,7 +456,7 @@ proxies:
     path: /ws-vmess
 - alterId: 0
   cipher: auto
-  name: 6|🇯🇵 日本2|@ripaojiedian
+  name: '16,27|🇯🇵 日本2|@ripaojiedian #1'
   network: ws
   port: 443
   server: kQov7UKaDknXb8a3.v.3dns.vip
@@ -31,7 +471,7 @@ proxies:
     path: /ws-vmess
 - alterId: 0
   cipher: auto
-  name: 6|🇯🇵 日本3|@ripaojiedian
+  name: '16,27|🇯🇵 日本3|@ripaojiedian #1'
   network: ws
   port: 443
   server: kneNaKHeSXnZH259.v.3dns.vip
@@ -44,7 +484,7 @@ proxies:
     headers:
       Host: kneNaKHeSXnZH259.v.3dns.vip
     path: /ws-vmess
-- name: 7|日本2|@ripaojiedian
+- name: '16,28|日本2|@ripaojiedian #2'
   network: tcp
   password: AA885B42-133C-3828-FB69-E45105C06092
   port: 10125
@@ -52,3 +492,228 @@ proxies:
   skip-cert-verify: true
   sni: m.ctrip.com
   type: trojan
+- alpn:
+  - h3
+  - h2
+  name: 16|🇯🇵JP_1|3.9MB/s
+  network: ws
+  port: 443
+  server: saas.sin.fan
+  servername: snip.edgeoneai.cc.cd
+  tls: true
+  type: vless
+  uuid: 495c7195-85b8-498a-bf20-2ea9ce9175b5
+  ws-opts:
+    headers:
+      Host: snip.edgeoneai.cc.cd
+    path: /fdip=sstp://vpn:vpn@vpn748359672.opengw.net:1458?ed=2560fp=chrome
+- client-fingerprint: chrome
+  name: 18|_JP_
+  network: ws
+  port: 443
+  server: 35.72.179.15
+  servername: shuma.ccwu.cc
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: c18b978e-1c4e-415c-8bea-07942b563a64
+  ws-opts:
+    headers:
+      Host: shuma.ccwu.cc
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 20|🇯🇵_日本_37
+  port: 10001
+  server: jp7.vatilon.cc
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: aec8e5e3-bb81-4b22-8802-0b88c54997b3
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: 20|🇯🇵_日本_38
+  port: 443
+  reality-opts:
+    public-key: AgTktefiMM58y7f-KFgEtmVti_YJbd0GPSkxNeJ0RH4
+    short-id: cfffc6b65acb2ad3
+  server: jpga01.xyy123.bid
+  servername: shop.business.amazon.com
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: 05453546-201f-4e8d-97ae-fd70da0e951f
+- name: 20|🇯🇵_日本_39
+  password: aec8e5e3-bb81-4b22-8802-0b88c54997b3
+  port: 10003
+  server: jp7.vatilon.cc
+  skip-cert-verify: true
+  sni: jp7.vatilon.cc
+  type: trojan
+  udp: true
+- client-fingerprint: chrome
+  name: 20|🇯🇵_日本_42
+  port: 10002
+  server: jp7.vatilon.cc
+  servername: jp7.vatilon.cc
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: aec8e5e3-bb81-4b22-8802-0b88c54997b3
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: 20|🇯🇵_日本_88
+  port: 443
+  reality-opts:
+    public-key: sDKrtAJk2VP_w1w7cFi2O86RdlvQ2E2An5xsRdJlgGE
+    short-id: 6d962e8d8a0dce
+  server: japro02.xyy123.bid
+  servername: shop.business.amazon.com
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: 440f986b-9469-4d80-adf0-01ba37af73c5
+- client-fingerprint: chrome
+  name: 20|🇯🇵_日本_134
+  network: ws
+  port: 11704
+  server: 36.50.84.115
+  servername: jln31qtswdkut5.60kohcognywybguuq3ouc818oofnxfvn35daott.workers.dev
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: 74407380-038c-417d-a404-9a9fc1e832fb
+  ws-opts:
+    headers:
+      Host: jln31qtswdkut5.60kohcognywybguuq3ouc818oofnxfvn35daott.workers.dev
+    path: /@Marisa_kristi
+- client-fingerprint: chrome
+  name: 20|🇯🇵_日本_145
+  network: ws
+  port: 26418
+  server: 154.31.112.237
+  servername: jln31qtswdkut5.60kohcognywybguuq3ouc818oofnxfvn35daott.workers.dev
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: ab2a5cc0-11d1-4bc4-a9d4-b5654ad18dc4
+  ws-opts:
+    headers:
+      Host: jln31qtswdkut5.60kohcognywybguuq3ouc818oofnxfvn35daott.workers.dev
+    path: /@Marisa_kristi
+- client-fingerprint: chrome
+  name: 20|🇯🇵_日本_204
+  network: ws
+  port: 4798
+  server: 107.191.53.86
+  servername: jln31qtswdkut5.60kohcognywybguuq3ouc818oofnxfvn35daott.workers.dev
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: 16a5e4f6-246f-406d-9787-1b5686a97cbc
+  ws-opts:
+    headers:
+      Host: jln31qtswdkut5.60kohcognywybguuq3ouc818oofnxfvn35daott.workers.dev
+    path: /@Marisa_kristi
+- client-fingerprint: chrome
+  name: 25|节点日期：2026-08-17
+  network: ws
+  port: 443
+  server: 18.154.132.116
+  servername: d1yxsk0zprgivr.cloudfront.net
+  tls: true
+  type: vless
+  uuid: 7ce54bb3-d612-4aa7-be08-089d3c461d53
+  ws-opts:
+    headers:
+      Host: d1yxsk0zprgivr.cloudfront.net
+    path: '%2F'
+- name: 25|🇯🇵|JP|@wxgqlfx|15
+  password: bc751c4c5c80f17dfbc05785c368b613
+  port: 50160
+  server: 154.31.115.179
+  skip-cert-verify: true
+  sni: 154-31-115-179.liao.kdns.fr
+  tls: false
+  type: hysteria2
+- name: 25|日本|@ripaojiedian
+  password: BxceQaOe
+  port: 49811
+  server: 16.163.139.175
+  skip-cert-verify: true
+  sni: t.me%252Fripaojiedian
+  type: trojan
+- name: '25|日本2|@ripaojiedian #1'
+  password: 6ec301428255a78a1d826988d86cc87e
+  port: 55564
+  server: 16.162.109.29
+  skip-cert-verify: true
+  sni: www.nintendogames.net
+  type: trojan
+- name: 25|日本3|@ripaojiedian
+  password: 6ec301428255a78a1d826988d86cc87e
+  port: 3415
+  server: 16.162.192.182
+  skip-cert-verify: true
+  sni: www.nintendogames.net
+  type: trojan
+- client-fingerprint: chrome
+  grpc-opts:
+    grpc-service-name: update
+  name: 25|🇯🇵JP_1|5.4MB/s
+  network: grpc
+  port: 10032
+  server: jp2-r.link-t7.com
+  servername: s0.awsstatic.com
+  tls: true
+  type: vless
+  uuid: 88DA9CA6-5E68-4687-A748-961B612DCED5
+- name: 25|🇯🇵JP_2|1.4MB/s
+  port: 10000
+  server: 14.137.238.40
+  tls: false
+  type: vless
+  uuid: 431fe973-a43a-4fac-bf83-2a772e0d0625
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: 25|🇯🇵JP_3|5.6MB/s
+  port: 443
+  server: jp3.miyazono-kaori.com
+  servername: www.bandainamcoent.co.jp
+  tls: true
+  type: vless
+  uuid: aba8b762-e6c5-413e-b342-c132007fa767
+- name: 25|JP_speednode_0014
+  password: 7d8e6db4-96cc-4710-afc0-619edde2d7a1
+  port: 55682
+  server: t11.qifei.app
+  skip-cert-verify: true
+  sni: t11.qifei.app
+  type: trojan
+- alpn:
+  - ''
+  alterId: '0'
+  cipher: auto
+  name: 29|🇯🇵JP_1|1.2MB/s
+  network: ws
+  port: '2083'
+  server: cdn.sfacg.uk
+  servername: cdn.sfacg.uk
+  skip-cert-verify: false
+  tls: true
+  type: vmess
+  udp: true
+  uuid: ac251237-576f-40c8-a543-554960c958b1
+  ws-opts:
+    headers:
+      Host: or3.sfacg.uk
+    path: /or3
+  xudp: true
