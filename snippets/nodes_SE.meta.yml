@@ -1,5 +1,5 @@
 proxies:
-- name: '4,5,6|🇸🇪_SE_瑞典 #2'
+- name: '7,8,9|🇸🇪_SE_瑞典 #2'
   network: ws
   port: 443
   server: 5.178.109.158
@@ -12,42 +12,42 @@ proxies:
       Host: sni.111000.dns.army
     path: '%2F%3Fhttps%253A%252F%252Ft.me%252FWangCai2%25F0%259F%2587%25A8%25F0%259F%2587%25B3%3D'
 - cipher: chacha20-ietf-poly1305
-  name: 7|🇸🇪 [ Configs by DukeMehdi ] SS...
+  name: '10,21| By EbraSha 🔐 #8'
   password: CxtcZaOSFYiJnloyTZJ0z2
   port: 443
   server: 89.22.234.121
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '7|🇸🇪 [ Configs by DukeMehdi ] SS... #1'
+  name: '10,21| By EbraSha 🃏 #6'
   password: N2YzM
   port: 1443
   server: 45.138.103.4
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '7|🇸🇪 [ Configs by DukeMehdi ] SS... #2'
+  name: '10|🇸🇪 [ Configs by DukeMehdi ] SS... #2'
   password: pydQILh06AvJ
   port: 27092
   server: 13.49.241.14
   type: ss
 - cipher: aes-256-cfb
-  name: '7|🇸🇪 [ Configs by DukeMehdi ] SS... #3'
+  name: '10,21| By EbraSha 🌐 #16'
   password: asdKkaskJKfnsa
   port: 443
   server: 37.19.222.212
   type: ss
 - cipher: aes-256-cfb
-  name: '7|🇸🇪 [ Configs by DukeMehdi ] SS... #4'
+  name: '10,21| By EbraSha ♠️ #21'
   password: asdKkaskJKfnsa
   port: 443
   server: 37.19.222.213
   type: ss
 - cipher: aes-256-cfb
-  name: '7|🇸🇪 [ Configs by DukeMehdi ] SS... #5'
+  name: '10,21| By EbraSha 🪬 #21'
   password: asdKkaskJKfnsa
   port: 443
   server: 37.19.222.214
   type: ss
-- name: '14,16,26|Telegram 🆔@cnetvpn 🇸🇪 #2'
+- name: '17,19,21,30|Telegram 🆔@cnetvpn 🇸🇪 #2'
   obfs: salamander
   obfs-password: fuw2k1ddrouwxr3u
   password: vz86jgszv4zszchv
@@ -60,7 +60,7 @@ proxies:
 - alpn:
   - http/1.1
   client-fingerprint: randomized
-  name: 15|🇸🇪SE_1 | ⬇️ 4.0MB/s|20%|Netfli...
+  name: 18|🇸🇪SE_1 | ⬇️ 4.0MB/s|20%|Netfli...
   network: ws
   port: 2053
   server: 172.67.213.99
@@ -78,7 +78,7 @@ proxies:
   xudp: true
 - client-fingerprint: qq
   flow: xtls-rprx-vision
-  name: 16,20|🇸🇪_瑞典_33
+  name: 19,24|🇸🇪_瑞典_33
   port: 443
   reality-opts:
     public-key: MQrvfivvEfLGzDee7h0j5uC-DwaD_38_NXOY9-NhqxM
@@ -89,25 +89,20 @@ proxies:
   type: vless
   udp: true
   uuid: 56de13ac-086e-4789-8e1e-1bf2bd90216b
-- client-fingerprint: chrome
-  flow: xtls-rprx-vision
-  name: '16|🇸🇪[www.v2nodes.com] vless-SE-1... #3'
+- client-fingerprint: firefox
+  encryption: none
+  grpc-opts:
+    grpc-service-name: content.v1.Feed
+  name: '19,30|🇸🇪[www.v2nodes.com] vless-SE-1... #9'
+  network: grpc
   port: 443
-  server: 132.243.231.12
-  servername: d3-se1.cloud-cdn.xyz
+  server: 163.245.43.50
+  servername: se-twitch.global-cdn.org
+  skip-cert-verify: false
   tls: true
   type: vless
-  uuid: 87fd990d-ca93-440a-bbd4-e8281c4a0910
-- client-fingerprint: chrome
-  flow: xtls-rprx-vision
-  name: '16|🇸🇪[www.v2nodes.com] vless-SE-1... #4'
-  port: 443
-  server: 132.243.231.4
-  servername: d3-se1.cloud-cdn.xyz
-  tls: true
-  type: vless
-  uuid: 87fd990d-ca93-440a-bbd4-e8281c4a0910
-- name: '16|🇸🇪[www.v2nodes.com] vless-SE-1... #5'
+  uuid: 203d434a-2a92-45df-8973-ca80434ecf73
+- name: '19|🇸🇪[www.v2nodes.com] vless-SE-1... #5'
   network: ws
   port: 443
   server: sub.merky.top
@@ -120,10 +115,23 @@ proxies:
     headers:
       Host: sub.merky.top
     path: /merky-connect/de6/fp=chrome
+- client-fingerprint: ''
+  flow: xtls-rprx-vision
+  name: '19,26|@npv_vpn11 #1054'
+  network: tcp
+  port: 443
+  reality-opts:
+    public-key: RDL0RVmgFM3fdqXRSHBF2A53YF9TPFu2aeJQhMTaY3s
+    short-id: 457ae5b8bef4d1b3
+  server: 31.207.7.74
+  servername: pkg.go.dev
+  tls: false
+  type: vless
+  uuid: 2412bd96-925b-43f2-81d1-0ed4f0793699
 - client-fingerprint: safari
   grpc-opts:
     grpc-service-name: grpce5bb9e71
-  name: '16,22|@npv_vpn11 #881'
+  name: '19,26|@npv_vpn11 #881'
   network: grpc
   port: 2053
   reality-opts:
@@ -136,7 +144,7 @@ proxies:
   uuid: fc00adfb-232a-46ce-8b93-0c70e516aa8a
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: '16,30|🇱🇻LV拉脱维亚丨yoyapai.com #1'
+  name: '19,34|🇱🇻LV拉脱维亚丨yoyapai.com #1'
   network: tcp
   port: 443
   reality-opts:
@@ -147,20 +155,20 @@ proxies:
   tls: false
   type: vless
   uuid: 11aabba0-5fd1-4f15-8068-74c1a466cefc
-- name: '16,17,26|🇸🇪[www.v2nodes.com] trojan-SE-... #2'
+- name: '19,20,30|🇸🇪[www.v2nodes.com] trojan-SE-... #2'
   password: s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z
   port: 4443
   server: 77.74.123.106
   sni: grape-test-italy.dynuddns.net
   type: trojan
-- name: 25|瑞典
+- name: 29|瑞典
   password: 53c76647-14d1-4df5-99cb-be99ad2e6bd9
   port: 443
   server: us54.mechvpn.online
   sni: us54.mechvpn.online
   tls: false
   type: hysteria2
-- name: 25|🇸🇪|SE|@wxgqlfx|238
+- name: 29|🇸🇪|SE|@wxgqlfx|238
   password: 53c76647-14d1-4df5-99cb-be99ad2e6bd9
   port: 443
   server: us63.mechvpn.online
@@ -168,7 +176,7 @@ proxies:
   sni: us63.mechvpn.online
   tls: false
   type: hysteria2
-- name: 25|🇸🇪|SE|@wxgqlfx|213
+- name: 29|🇸🇪|SE|@wxgqlfx|213
   password: 53c76647-14d1-4df5-99cb-be99ad2e6bd9
   port: 443
   server: us65.mechvpn.online
@@ -178,7 +186,7 @@ proxies:
   type: hysteria2
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: 25|SE_speednode_0116
+  name: 29|SE_speednode_0116
   port: 443
   server: 164.37.105.38
   servername: gb.cdn.cachefleet.com
@@ -186,20 +194,20 @@ proxies:
   tls: true
   type: vless
   uuid: f4dbc770-016d-4a0f-82f0-d83ee6f45da3
-- name: 26|🇸🇪SE_1|3.1MB/s
+- name: 30|🇸🇪SE_1|3.1MB/s
   password: None
   port: 443
   server: 146.70.242.130
   skip-cert-verify: true
   tls: true
   type: http
-- name: 26|🇸🇪SE_2|1.3MB/s
+- name: 30|🇸🇪SE_2|1.3MB/s
   port: 443
   server: 146.70.242.146
   skip-cert-verify: true
   tls: true
   type: http
-- name: 26|🇸🇪 瑞典 | SWE
+- name: 30|🇸🇪 瑞典 | SWE
   password: a7c5d30b-ce9b-4e34-b5cb-66f8308790ef
   port: 1020
   server: 56juef1w.zf-mix.9999231.xyz
@@ -207,14 +215,14 @@ proxies:
   sni: se-house.9999231.xyz
   type: anytls
   udp: true
-- name: 26|🇸🇪 瑞典 | SWE 2
+- name: 30|🇸🇪 瑞典 | SWE 2
   password: a7c5d30b-ce9b-4e34-b5cb-66f8308790ef
   port: 1020
   server: 06nn6kxv.zf-mix.9999231.xyz
   skip-cert-verify: true
   sni: se-house.9999231.xyz
   type: anytls
-- name: 26|🇸🇪 瑞典 | SWE 4
+- name: 30|🇸🇪 瑞典 | SWE 4
   password: a7c5d30b-ce9b-4e34-b5cb-66f8308790ef
   port: 1020
   server: fkcx3zsc.zf-mix.9999231.xyz
@@ -223,7 +231,7 @@ proxies:
   type: anytls
   udp: true
 - client-fingerprint: chrome
-  name: 30|🇸🇪瑞典丨yoyapai.com
+  name: 34|🇸🇪瑞典丨yoyapai.com
   network: ws
   port: 8443
   server: 193.232.178.149
@@ -237,7 +245,7 @@ proxies:
       Host: edge.yzkvm.top
     path: '%2F'
 - client-fingerprint: chrome
-  name: 30|🇸🇪SE_1|803KB/s|M003-260806 01
+  name: 34|🇸🇪SE_1|803KB/s|M003-260806 01
   network: ws
   port: 1443
   server: 2.26.91.98
@@ -250,7 +258,7 @@ proxies:
       Host: c6dbx99g6stb418qeo.t3jmlj0r152zji4htdkm9.workers.dev
     path: /@Marisa_kristi
 - client-fingerprint: chrome
-  name: 30|🇸🇪SE_3|670KB/s|M003-260806 01
+  name: 34|🇸🇪SE_3|670KB/s|M003-260806 01
   network: ws
   port: 1443
   server: 2.26.91.98
@@ -263,7 +271,7 @@ proxies:
       Host: sxyyvihkektlx4rjxsdj.pkc73phpweu4rbxbatm444.workers.dev
     path: /@Marisa_kristi
 - client-fingerprint: chrome
-  name: 30|🇸🇪SE_4|919KB/s|M003-260806 01
+  name: 34|🇸🇪SE_4|919KB/s|M003-260806 01
   network: ws
   port: 443
   server: 172.67.210.146
@@ -276,7 +284,7 @@ proxies:
       Host: r5zenrelur2s.pqzdileiu8es.workers.dev
     path: /stream/PANEL_ZEUS/4eef5adc237a/loc-1
 - client-fingerprint: chrome
-  name: 30|🇸🇪SE_5|332KB/s|M003-260806 01
+  name: 34|🇸🇪SE_5|332KB/s|M003-260806 01
   network: ws
   port: 443
   server: 104.24.143.217
@@ -289,7 +297,7 @@ proxies:
       Host: r5zenrelur2s.pqzdileiu8es.workers.dev
     path: /stream/PANEL_ZEUS/4eef5adc237a/loc-1
 - client-fingerprint: chrome
-  name: 30|🇸🇪SE_6|1.0MB/s|M003-260806 01
+  name: 34|🇸🇪SE_6|1.0MB/s|M003-260806 01
   network: ws
   port: 443
   server: 104.25.155.45
@@ -301,7 +309,7 @@ proxies:
     headers:
       Host: r5zenrelur2s.pqzdileiu8es.workers.dev
     path: /stream/PANEL_ZEUS/4eef5adc237a/loc-1
-- name: 30|🇸🇪SE_7|1.4MB/s|T001-260618 01
+- name: 34|🇸🇪SE_7|1.4MB/s|T001-260618 01
   network: ws
   port: 8080
   server: 188.114.97.6
@@ -315,7 +323,7 @@ proxies:
 - client-fingerprint: chrome
   grpc-opts:
     grpc-service-name: TunService
-  name: 30|🇸🇪SE_8|319KB/s|B007-260618 01
+  name: 34|🇸🇪SE_8|319KB/s|B007-260618 01
   network: grpc
   port: 33743
   reality-opts:
@@ -326,7 +334,7 @@ proxies:
   type: vless
   uuid: b3a11068-1a7e-4643-85de-7c82cce46943
 - client-fingerprint: chrome
-  name: 30|🇸🇪SE_10|972KB/s|M003-260806 01
+  name: 34|🇸🇪SE_10|972KB/s|M003-260806 01
   network: ws
   port: 444
   server: 84.22.150.239
@@ -341,7 +349,7 @@ proxies:
 - client-fingerprint: firefox
   grpc-opts:
     grpc-service-name: TunService
-  name: 30|🇸🇪SE_12|820KB/s|A004-260618 01
+  name: 34|🇸🇪SE_12|820KB/s|A004-260618 01
   network: grpc
   port: 33743
   reality-opts:

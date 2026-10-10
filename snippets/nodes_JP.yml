@@ -1,33 +1,33 @@
 proxies:
-- name: 2|🇯🇵 日本2|@stairnode
+- name: 5|🇯🇵 日本2|@stairnode
   password: 253bc477d4e43c209f2d427272968280
   port: 1806
   server: 36.156.102.84
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- name: 2|🇯🇵 日本3|@stairnode
+- name: 5|🇯🇵 日本3|@stairnode
   password: 253bc477d4e43c209f2d427272968280
   port: 3160
   server: 36.156.102.84
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- name: 3|🇯🇵 日本|@stairnode
+- name: 6|🇯🇵 日本|@stairnode
   password: BxceQaOe
   port: 3022
   server: 52.194.222.108
   skip-cert-verify: true
   sni: t.me%252Fripaojiedian
   type: trojan
-- name: '3|🇯🇵 日本2|@stairnode #1'
+- name: '6|🇯🇵 日本2|@stairnode #1'
   password: 868ecdaf6aed618ec98cf78585672b2b
   port: 4937
   server: 13.231.134.78
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- name: '3|🇯🇵 日本3|@stairnode #1'
+- name: '6|🇯🇵 日本3|@stairnode #1'
   password: 868ecdaf6aed618ec98cf78585672b2b
   port: 9201
   server: 43.207.115.26
@@ -35,269 +35,179 @@ proxies:
   sni: www.nintendogames.net
   type: trojan
 - cipher: chacha20-ietf-poly1305
-  name: 7|🇯🇵 [ Configs by DukeMehdi ] SS...
+  name: '10,21| By EbraSha 🪖 #15'
   password: G!yBwPWH3Vao
   port: 800
   server: 185.172.113.182
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '7|🇯🇵 [ Configs by DukeMehdi ] SS... #1'
+  name: '10,21| By EbraSha 📱 #5'
   password: G!yBwPWH3Vao
   port: 811
   server: 185.172.113.182
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '7|🇯🇵 [ Configs by DukeMehdi ] SS... #2'
+  name: '10|🇯🇵 [ Configs by DukeMehdi ] SS... #2'
   password: G!yBwPWH3Vao
   port: 806
   server: 193.38.139.204
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '7|🇯🇵 [ Configs by DukeMehdi ] SS... #3'
+  name: '10,21| By EbraSha 🥷 #6'
   password: G!yBwPWH3Vao
   port: 809
   server: 193.38.139.204
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '7|🇯🇵 [ Configs by DukeMehdi ] SS... #4'
+  name: '10,21| By EbraSha ⛓️ #12'
   password: G!yBwPWH3Vao
   port: 812
   server: 89.31.125.101
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '7|🇯🇵 [ Configs by DukeMehdi ] SS... #5'
+  name: '10|🇯🇵 [ Configs by DukeMehdi ] SS... #5'
   password: Xs9ORT4j65b8HreZrg0p
   port: 1664
   server: 185.160.26.91
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '7|🇯🇵 [ Configs by DukeMehdi ] SS... #6'
+  name: '10,21| By EbraSha 👑 #17'
   password: ljqdalu13..
   port: 8316
   server: 3.112.130.53
   type: ss
 - cipher: aes-128-gcm
-  name: 7,30|🇯🇵JP_3|607KB/s|A004-260618 01
+  name: 10,21,34|🇯🇵JP_3|607KB/s|A004-260618 01
   password: shadowsocks
   port: 443
   server: 149.22.87.204
   type: ss
-- cipher: aes-128-gcm
-  name: 7,30|🇯🇵JP_7|595KB/s|A004-260618 01
-  password: shadowsocks
-  port: 443
-  server: 149.22.87.240
-  type: ss
-- cipher: aes-128-gcm
-  name: '7|🇯🇵 [ Configs by DukeMehdi ] SS... #9'
-  password: shadowsocks
-  port: 443
-  server: 149.22.87.241
-  type: ss
 - cipher: aes-256-cfb
-  name: '7|🇯🇵 [ Configs by DukeMehdi ] SS... #10'
+  name: '10,21| By EbraSha ♣️ #15'
   password: amazonskr05
   port: 443
   server: 175.41.205.247
   type: ss
 - cipher: aes-256-cfb
-  name: '7|🇯🇵 [ Configs by DukeMehdi ] SS... #11'
+  name: '10,21| By EbraSha 🪬 #20'
   password: amazonskr05
   port: 443
   server: 43.206.219.140
   type: ss
 - cipher: aes-256-cfb
-  name: '7|🇯🇵 [ Configs by DukeMehdi ] SS... #12'
+  name: '10|🇯🇵 [ Configs by DukeMehdi ] SS... #12'
   password: amazonskr05
   port: 443
   server: 43.206.221.164
   type: ss
 - cipher: aes-256-cfb
-  name: '7|🇯🇵 [ Configs by DukeMehdi ] SS... #13'
+  name: '10|🇯🇵 [ Configs by DukeMehdi ] SS... #13'
   password: amazonskr05
   port: 443
   server: 43.207.1.14
   type: ss
 - cipher: aes-256-cfb
-  name: '7|🇯🇵 [ Configs by DukeMehdi ] SS... #14'
+  name: '10,21| By EbraSha ⚡ #15'
   password: amazonskr05
   port: 443
   server: 43.207.166.104
   type: ss
 - cipher: aes-256-cfb
-  name: '7|🇯🇵 [ Configs by DukeMehdi ] SS... #15'
+  name: '10|🇯🇵 [ Configs by DukeMehdi ] SS... #15'
   password: amazonskr05
   port: 443
   server: 43.207.68.169
   type: ss
 - cipher: aes-256-cfb
-  name: '7|🇯🇵 [ Configs by DukeMehdi ] SS... #16'
+  name: '10|🇯🇵 [ Configs by DukeMehdi ] SS... #16'
   password: amazonskr05
   port: 443
   server: 43.207.82.53
   type: ss
 - cipher: aes-256-cfb
-  name: '7|🇯🇵 [ Configs by DukeMehdi ] SS... #17'
+  name: '10,21| By EbraSha ⚔️ #19'
   password: amazonskr05
   port: 443
   server: 43.207.83.221
   type: ss
 - cipher: aes-256-cfb
-  name: '7|🇯🇵 [ Configs by DukeMehdi ] SS... #18'
+  name: '10,21| By EbraSha 🧊 #19'
   password: amazonskr05
   port: 443
   server: 54.178.60.213
   type: ss
 - cipher: aes-256-cfb
-  name: '7|🇯🇵 [ Configs by DukeMehdi ] SS... #19'
+  name: '10|🇯🇵 [ Configs by DukeMehdi ] SS... #19'
   password: doub.io
   port: 2333
   server: 54.199.83.239
   type: ss
 - cipher: aes-256-gcm
-  name: '7|🇯🇵 [ Configs by DukeMehdi ] SS... #20'
+  name: '10,21| By EbraSha 🚀 #18'
   password: 3eOFeNssde7PYYMv
   port: 443
   server: 84.247.155.196
   type: ss
 - cipher: aes-256-gcm
-  name: '7|🇯🇵 [ Configs by DukeMehdi ] SS... #21'
+  name: '10|🇯🇵 [ Configs by DukeMehdi ] SS... #21'
   password: 233blog.com
   port: 443
   server: 20.210.122.21
   type: ss
 - cipher: aes-256-gcm
-  name: '7|🇯🇵 [ Configs by DukeMehdi ] SS... #22'
+  name: '10,21| By EbraSha 🚬 #18'
   password: 665e00335bb2fb5f7ee8243952205e5e
   port: 2087
   server: 74.222.12.141
   type: ss
 - cipher: aes-256-gcm
-  name: '7|🇯🇵 [ Configs by DukeMehdi ] SS... #23'
+  name: '10,21| By EbraSha 🧿 #21'
   password: GTZI5AbjNAeWQG0oVNptvWJogHNKiiKA
   port: 40003
   server: 47.79.144.115
   type: ss
 - cipher: aes-256-gcm
-  name: '7|🇯🇵 [ Configs by DukeMehdi ] SS... #24'
+  name: '10|🇯🇵 [ Configs by DukeMehdi ] SS... #24'
   password: XKFKl2rULjIp74
   port: 8009
   server: 103.106.228.175
   type: ss
-- country: 🇯🇵JP
-  delay: 264
-  name: '16,17,21,26|🇯🇵[www.v2nodes.com] trojan-JP-... #45'
-  password: UX82473651
-  port: 443
-  server: legible-ram.rooster465.autos
-  skip-cert-verify: true
-  sni: legible-ram.rooster465.autos
-  type: trojan
-  udp: true
-- country: 🇯🇵JP
-  delay: 260
-  name: '16,17,21,26|🇯🇵[www.v2nodes.com] trojan-JP-... #46'
-  password: UX82473651
-  port: 443
-  server: live-stallion.rooster465.autos
-  skip-cert-verify: true
-  sni: live-stallion.rooster465.autos
-  type: trojan
-  udp: true
-- name: '16,17,26|🇯🇵[www.v2nodes.com] trojan-JP-... #49'
-  password: UX82473651
-  port: 443
-  server: normal-macaque.rooster465.autos
-  skip-cert-verify: true
-  sni: normal-macaque.rooster465.autos
-  type: trojan
-- name: '16,17,26|🇯🇵[www.v2nodes.com] trojan-JP-... #50'
-  password: UX82473651
-  port: 443
-  server: optimal-penguin.rooster465.autos
-  skip-cert-verify: true
-  sni: optimal-penguin.rooster465.autos
-  type: trojan
-- name: '16,17,26|🇯🇵[www.v2nodes.com] trojan-JP-... #53'
+- name: '19,20,30|🇯🇵[www.v2nodes.com] trojan-JP-... #53'
   password: UX82473651
   port: 443
   server: internal-krill.rooster465.autos
   skip-cert-verify: true
   sni: internal-krill.rooster465.autos
   type: trojan
-- name: '16,17,26|🇯🇵[www.v2nodes.com] trojan-JP-... #54'
-  password: e26a229d-e8f2-4ff9-8c7d-58a9d83ee437
-  port: 8886
-  server: 45.32.52.173
-  sni: 45.32.52.173
-  type: trojan
-- name: '16,26|🇯🇵[www.v2nodes.com] trojan-JP-... #55'
+- name: '19,30|🇯🇵[www.v2nodes.com] trojan-JP-... #55'
   password: UX82473651
   port: 443
   server: 54.249.55.154
   type: trojan
-- name: '16,17,26|🇯🇵[www.v2nodes.com] trojan-JP-... #56'
+- name: '19,20,30|🇯🇵[www.v2nodes.com] trojan-JP-... #56'
   password: UX82473651
   port: 443
   server: 54.250.237.143
   type: trojan
-- name: '16,17,26|🇯🇵[www.v2nodes.com] trojan-JP-... #57'
+- name: '19,20,30|🇯🇵[www.v2nodes.com] trojan-JP-... #57'
   password: UX82473651
   port: 443
   server: 3.112.245.255
   type: trojan
-- name: '16,17,22,26|🇯🇵[www.v2nodes.com] trojan-JP-... #59'
-  network: tcp
-  password: UX82473651
-  port: 443
-  server: obliging-louse.rooster465.autos
-  sni: obliging-louse.rooster465.autos
-  type: trojan
-- name: '16,17,22,26|🇯🇵[www.v2nodes.com] trojan-JP-... #60'
-  network: tcp
-  password: UX82473651
-  port: 443
-  server: winning-marten.rooster465.autos
-  sni: winning-marten.rooster465.autos
-  type: trojan
-- name: '16,17,26|🇯🇵[www.v2nodes.com] trojan-JP-... #61'
-  password: UX82473651
-  port: 443
-  server: concrete-aardvark.rooster465.autos
-  sni: concrete-aardvark.rooster465.autos
-  type: trojan
-- name: '16,17,26|🇯🇵[www.v2nodes.com] trojan-JP-... #62'
-  password: UX82473651
-  port: 443
-  server: organic-caribou.rooster465.autos
-  sni: organic-caribou.rooster465.autos
-  type: trojan
-- name: '16,17,26|🇯🇵[www.v2nodes.com] trojan-JP-... #63'
+- name: '19,20,30|🇯🇵[www.v2nodes.com] trojan-JP-... #63'
   password: UX82473651
   port: 443
   server: intense-sole.rooster465.autos
   sni: intense-sole.rooster465.autos
   type: trojan
-- name: '16,26|🇯🇵[www.v2nodes.com] trojan-JP-... #65'
+- name: '19,30|🇯🇵[www.v2nodes.com] trojan-JP-... #65'
   password: UX82473651
   port: 443
   server: 54.249.36.167
   type: trojan
-- name: '16,17,22,26|🇯🇵[www.v2nodes.com] trojan-JP-... #66'
-  password: UX82473651
-  port: 443
-  server: promoted-rattler.rooster465.autos
-  sni: promoted-rattler.rooster465.autos
-  type: trojan
-- name: '16,26|🇯🇵[www.v2nodes.com] trojan-JP-... #67'
-  password: UX82473651
-  port: 443
-  server: integral-rodent.rooster465.autos
-  sni: integral-rodent.rooster465.autos
-  type: trojan
 - alterId: 0
   cipher: auto
-  name: '16,27|🇯🇵 日本|@ripaojiedian #3'
+  name: '19,31|🇯🇵 日本|@ripaojiedian #3'
   network: ws
   port: 443
   server: Z9FfBx3zs2q5O0BG.v.3dns.vip
@@ -312,7 +222,7 @@ proxies:
     path: /ws-vmess
 - alterId: 0
   cipher: auto
-  name: '16,27|🇯🇵 日本2|@ripaojiedian #3'
+  name: '19,31|🇯🇵 日本2|@ripaojiedian #3'
   network: ws
   port: 443
   server: kQov7UKaDknXb8a3.v.3dns.vip
@@ -327,7 +237,7 @@ proxies:
     path: /ws-vmess
 - alterId: 0
   cipher: auto
-  name: '16,27|🇯🇵 日本3|@ripaojiedian #3'
+  name: '19,31|🇯🇵 日本3|@ripaojiedian #3'
   network: ws
   port: 443
   server: kneNaKHeSXnZH259.v.3dns.vip
@@ -340,7 +250,7 @@ proxies:
     headers:
       Host: kneNaKHeSXnZH259.v.3dns.vip
     path: /ws-vmess
-- name: '16,17,26,28|日本2|@ripaojiedian #4'
+- name: '19,20,30,32|日本2|@ripaojiedian #4'
   network: tcp
   password: AA885B42-133C-3828-FB69-E45105C06092
   port: 10125
@@ -348,19 +258,11 @@ proxies:
   skip-cert-verify: true
   sni: m.ctrip.com
   type: trojan
-- name: '16,26|🇯🇵 日本 | JPN #1 #1'
-  password: UX82473651
-  port: 443
-  server: allowed-poodle.rooster465.autos
-  skip-cert-verify: true
-  sni: allowed-poodle.rooster465.autos
-  type: trojan
-  udp: true
 - alpn:
   - ''
   alterId: 0
   cipher: auto
-  name: '16,26|🇯🇵 日本 | JPN #3 #1'
+  name: '19,30|🇯🇵 日本 | JPN #3 #1'
   network: ws
   port: 23801
   server: gz1.polymarket.party
@@ -373,29 +275,9 @@ proxies:
     headers:
       Host: us4.australiacaregroup.site
     path: /vmess
-- name: '16,26|🇯🇵 日本 | JPN #5 #1'
-  password: UX82473651
-  port: 443
-  server: evident-ant.rooster465.autos
-  skip-cert-verify: true
-  sni: evident-ant.rooster465.autos
-  type: trojan
-  udp: true
-- name: '17|🇯🇵[www.v2nodes.com] trojan-JP-... #33'
-  password: UX82473651
-  port: 443
-  server: prime-corgi.rooster465.autos
-  sni: prime-corgi.rooster465.autos
-  type: trojan
-- name: '17,22|@npv_vpn11 #819'
-  password: UX82473651
-  port: 443
-  server: comic-poodle.rooster465.autos
-  sni: comic-poodle.rooster465.autos
-  type: trojan
 - alterId: 0
   cipher: auto
-  name: '17,26|🇯🇵 日本|@ripaojiedian #2'
+  name: '20,30|🇯🇵 日本|@ripaojiedian #2'
   network: ws
   port: 443
   server: Z9FfBx3zs2q5O0BG.v.3dns.vip
@@ -410,7 +292,7 @@ proxies:
     path: /ws-vmess
 - alterId: 0
   cipher: auto
-  name: '17,26|🇯🇵 日本2|@ripaojiedian #2'
+  name: '20,30|🇯🇵 日本2|@ripaojiedian #2'
   network: ws
   port: 443
   server: kQov7UKaDknXb8a3.v.3dns.vip
@@ -425,7 +307,7 @@ proxies:
     path: /ws-vmess
 - alterId: 0
   cipher: auto
-  name: '17,26|🇯🇵 日本3|@ripaojiedian #2'
+  name: '20,30|🇯🇵 日本3|@ripaojiedian #2'
   network: ws
   port: 443
   server: kneNaKHeSXnZH259.v.3dns.vip
@@ -438,28 +320,9 @@ proxies:
     headers:
       Host: kneNaKHeSXnZH259.v.3dns.vip
     path: /ws-vmess
-- alpn:
-  - ''
-  alterId: '0'
-  cipher: auto
-  name: 17,22|🇯🇵JP_1|1.2MB/s
-  network: ws
-  port: 2083
-  server: cdn.sfacg.uk
-  servername: cdn.sfacg.uk
-  skip-cert-verify: false
-  tls: true
-  type: vmess
-  udp: true
-  uuid: ac251237-576f-40c8-a543-554960c958b1
-  ws-opts:
-    headers:
-      Host: or3.sfacg.uk
-    path: /or3
-  xudp: true
 - alterId: 0
   cipher: auto
-  name: 20|🇯🇵_日本_37
+  name: 24|🇯🇵_日本_37
   port: 10001
   server: jp7.vatilon.cc
   skip-cert-verify: true
@@ -467,7 +330,7 @@ proxies:
   type: vmess
   udp: true
   uuid: aec8e5e3-bb81-4b22-8802-0b88c54997b3
-- name: 20|🇯🇵_日本_39
+- name: 24|🇯🇵_日本_39
   password: aec8e5e3-bb81-4b22-8802-0b88c54997b3
   port: 10003
   server: jp7.vatilon.cc
@@ -475,28 +338,28 @@ proxies:
   sni: jp7.vatilon.cc
   type: trojan
   udp: true
-- name: 25|日本|@ripaojiedian
+- name: 29|日本|@ripaojiedian
   password: BxceQaOe
   port: 49811
   server: 16.163.139.175
   skip-cert-verify: true
   sni: t.me%252Fripaojiedian
   type: trojan
-- name: '25|日本2|@ripaojiedian #2'
+- name: '29|日本2|@ripaojiedian #2'
   password: 6ec301428255a78a1d826988d86cc87e
   port: 55564
   server: 16.162.109.29
   skip-cert-verify: true
   sni: www.nintendogames.net
   type: trojan
-- name: 25|日本3|@ripaojiedian
+- name: 29|日本3|@ripaojiedian
   password: 6ec301428255a78a1d826988d86cc87e
   port: 3415
   server: 16.162.192.182
   skip-cert-verify: true
   sni: www.nintendogames.net
   type: trojan
-- name: 25|JP_speednode_0014
+- name: 29|JP_speednode_0014
   password: 7d8e6db4-96cc-4710-afc0-619edde2d7a1
   port: 55682
   server: t11.qifei.app
@@ -507,7 +370,7 @@ proxies:
   - ''
   alterId: 0
   cipher: auto
-  name: '26|🇯🇵 日本 | JPN 3 #1'
+  name: '30|🇯🇵 日本 | JPN 3 #1'
   port: 36011
   server: gz1.polymarket.party
   skip-cert-verify: true

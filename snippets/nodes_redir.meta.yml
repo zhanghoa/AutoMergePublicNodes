@@ -1,6 +1,6 @@
 proxies:
 - client-fingerprint: ios
-  name: '4,5,6|🇭🇰_HK_中国香港->🇸🇬_SG_新加坡 #2'
+  name: '7,8,9|🇭🇰_HK_中国香港->🇸🇬_SG_新加坡 #2'
   network: ws
   port: 443
   server: 119.246.150.50
@@ -14,14 +14,14 @@ proxies:
     path: '%2F'
 - alterId: 2
   cipher: auto
-  name: '4,5,6|🇮🇩_ID_印度尼西亚->🇭🇰_HK_中国香港 #2'
+  name: '7,8,9|🇮🇩_ID_印度尼西亚->🇭🇰_HK_中国香港 #2'
   network: tcp
   port: 30809
   server: v9.hdacd.com
   tls: false
   type: vmess
   uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
-- name: '4,5,6|🇳🇱_NL_荷兰->🇱🇻_LV_拉脱维亚vless://62... #2'
+- name: '7,8,9|🇳🇱_NL_荷兰->🇱🇻_LV_拉脱维亚vless://62... #2'
   network: ws
   port: 443
   server: 212.87.223.196
@@ -33,7 +33,7 @@ proxies:
     headers:
       Host: sni.111000.dns.army
 - client-fingerprint: firefox
-  name: 18|🇺🇸_US_美国->🇫🇮_FI_芬兰
+  name: 22|🇺🇸_US_美国->🇫🇮_FI_芬兰
   network: ws
   port: 443
   server: a2.arshia-nova.ir
@@ -48,7 +48,7 @@ proxies:
       Host: c12.com
     path: /
 - client-fingerprint: chrome
-  name: '18|🇭🇰_HK_中国香港->🇸🇬_SG_新加坡 #3'
+  name: '22|🇭🇰_HK_中国香港->🇸🇬_SG_新加坡 #3'
   network: ws
   port: 443
   server: 103.143.81.178
@@ -63,7 +63,7 @@ proxies:
       Host: shuma.ccwu.cc
     path: /
 - client-fingerprint: chrome
-  name: 18|🇦🇺_AU_澳大利亚->🇫🇮_FI_芬兰
+  name: 22|🇦🇺_AU_澳大利亚->🇫🇮_FI_芬兰
   network: ws
   port: 443
   server: 202.166.187.132
@@ -78,7 +78,7 @@ proxies:
       Host: f.yoptybla.ru
     path: /
 - client-fingerprint: chrome
-  name: 18|🇹🇷_TR_土耳其->🇳🇱_NL_荷兰
+  name: 22|🇹🇷_TR_土耳其->🇳🇱_NL_荷兰
   network: ws
   port: 8443
   server: 104.143.204.23

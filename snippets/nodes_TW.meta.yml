@@ -1,41 +1,52 @@
 proxies:
 - cipher: chacha20-ietf-poly1305
-  name: 7|🇹🇼 [ Configs by DukeMehdi ] SS...
+  name: '10,21| By EbraSha 🦂 #4'
   password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4
   port: 50099
   server: 36.224.141.124
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '7|🇹🇼 [ Configs by DukeMehdi ] SS... #1'
+  name: '10,21| By EbraSha ♣️ #7'
   password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4
   port: 50099
   server: 36.224.152.189
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '7|🇹🇼 [ Configs by DukeMehdi ] SS... #2'
+  name: '10,21| By EbraSha ♠️ #12'
   password: q2jToxsx4vTevqrFiLGuwRx96SXM3C96id1MWpnSECHq3MaTWnEV76aN5PYEigRfqf7rxAcuAMWUzYNxrYRG6QhMcYw5QnqL
   port: 56594
   server: 46.249.109.128
   type: ss
 - cipher: aes-256-cfb
-  name: '7|🇹🇼 [ Configs by DukeMehdi ] SS... #3'
+  name: '10,21| By EbraSha 🌃 #11'
   password: qwerREWQ@@
   port: 41632
   server: 185.189.160.105
   type: ss
 - cipher: aes-256-gcm
-  name: '7|🇹🇼 [ Configs by DukeMehdi ] SS... #4'
+  name: '10,21| By EbraSha 🚬 #19'
   password: 8n6pwAcrrv2pj6tFY2p3TbQ6
   port: 33992
   server: 2.58.242.157
   type: ss
 - cipher: aes-256-gcm
-  name: '7|🇹🇼 [ Configs by DukeMehdi ] SS... #5'
+  name: '10,21| By EbraSha 🕶️ #17'
   password: 8n6pwAcrrv2pj6tFY2p3TbQ6
   port: 33992
   server: 2.58.242.43
   type: ss
-- name: '16|🇹🇼[www.v2nodes.com] vless-TW-1... #1'
+- client-fingerprint: chrome
+  name: 19,34|🇹🇼TW_27|84KB/s|F003-260618 01
+  network: tcp
+  port: 24215
+  reality-opts:
+    public-key: mdWKUPMVTtTbDqK10BPb89OcqBC2-Lx-4NOYtqc1GWE
+  server: hinet1.2yly.com
+  servername: addons.mozilla.org
+  tls: false
+  type: vless
+  uuid: 19d5a678-8396-4e3b-93da-ece618d0e83a
+- name: '19|🇹🇼[www.v2nodes.com] vless-TW-1... #1'
   network: ws
   port: 443
   server: 59.125.69.23
@@ -47,7 +58,7 @@ proxies:
     headers:
       Host: ty986gfazs.cainiaohub.xyz
     path: /81574b6b-c9d7-44a0-b83d-dad56e8cb530fp=chrome
-- name: '16,17,26,28|台湾|@ripaojiedian #3'
+- name: '19,20,30,32|台湾|@ripaojiedian #3'
   network: tcp
   password: AA885B42-133C-3828-FB69-E45105C06092
   port: 12142
@@ -55,39 +66,24 @@ proxies:
   skip-cert-verify: true
   sni: m.ctrip.com
   type: trojan
-- name: 24|[OpenRay] 🇹🇼TW-23
-  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
-  port: 443
-  server: 103.115.109.49
-  skip-cert-verify: true
-  sni: https%3A%2F%2Ft.me%2Foneclickvpnkeys
-  tls: false
-  type: hysteria2
-- name: 24|[OpenRay] 🇹🇼TW-7
-  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
-  port: 443
-  server: 103.115.109.49
-  skip-cert-verify: true
-  sni: t.me
-  tls: false
-  type: hysteria2
-- name: 24,30|🇹🇼TW_9|501KB/s|A004-260618 01
-  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
-  port: 443
-  server: 103.115.109.49
-  skip-cert-verify: true
-  sni: https%3a%2f%2ft.me%2foneclickvpnkeys
-  tls: false
-  type: hysteria2
-- name: 25|台湾
+- name: 29|台湾
   password: 85a88b70b5f2f73d0dcac92bd3934a5e
   port: 50160
   server: 211.22.154.26
   sni: 211-22-154-26.liao.kdns.fr
   tls: false
   type: hysteria2
+- alterId: 0
+  cipher: auto
+  name: 29|🇹🇼TW_5|5.5MB/s
+  network: none
+  port: 31172
+  server: 202.153.4.171
+  tls: false
+  type: vmess
+  uuid: 2bb735a0-b26e-4628-9f1a-23a6661b1275
 - client-fingerprint: chrome
-  name: '26|🇹🇼[www.v2nodes.com] vless-TW-1... #2'
+  name: '30|🇹🇼[www.v2nodes.com] vless-TW-1... #2'
   network: ws
   port: 443
   server: 59.125.69.23
@@ -100,7 +96,7 @@ proxies:
       Host: ty986gfazs.cainiaohub.xyz
     path: /81574b6b-c9d7-44a0-b83d-dad56e8cb530
 - client-fingerprint: chrome
-  name: 30|TW台湾(mibei77.com 米贝节点分享)
+  name: 34|TW台湾(mibei77.com 米贝节点分享)
   network: ws
   port: 2053
   server: 89.46.42.141
@@ -113,7 +109,7 @@ proxies:
       Host: shuma.ccwu.cc
     path: '%2F'
 - client-fingerprint: chrome
-  name: '30|TW台湾(mibei77.com 米贝节点分享) #1'
+  name: '34|TW台湾(mibei77.com 米贝节点分享) #1'
   network: ws
   port: 443
   server: 140.235.39.19
@@ -126,7 +122,7 @@ proxies:
       Host: shuma.ccwu.cc
     path: '%2F'
 - client-fingerprint: chrome
-  name: '30|TW台湾(mibei77.com 米贝节点分享) #2'
+  name: '34|TW台湾(mibei77.com 米贝节点分享) #2'
   network: ws
   port: 2053
   server: 89.46.42.92
@@ -139,7 +135,7 @@ proxies:
       Host: shuma.ccwu.cc
     path: '%2F'
 - client-fingerprint: chrome
-  name: '30|TW台湾(mibei77.com 米贝节点分享) #3'
+  name: '34|TW台湾(mibei77.com 米贝节点分享) #3'
   network: ws
   port: 443
   server: 140.235.39.162
@@ -151,7 +147,7 @@ proxies:
     headers:
       Host: shuma.ccwu.cc
     path: '%2F'
-- name: 30|🇹🇼TW_1|496KB/s|C002-260622 01
+- name: 34|🇹🇼TW_1|496KB/s|C002-260622 01
   password: H7mP2xY9kJ4nQ8wR5tF6vB3z
   port: 443
   server: 103.115.109.49
@@ -159,7 +155,7 @@ proxies:
   sni: https://t.me/WangCai2🇨🇳
   tls: false
   type: hysteria2
-- name: 30|🇹🇼TW_18|500KB/s|A004-260618 01
+- name: 34|🇹🇼TW_18|500KB/s|A004-260618 01
   password: H7mP2xY9kJ4nQ8wR5tF6vB3z
   port: 443
   server: 160.187.100.109
@@ -167,7 +163,7 @@ proxies:
   sni: 160.187.100.109
   tls: false
   type: hysteria2
-- name: 30|🇹🇼TW_4|452KB/s|C002-260622 01
+- name: 34|🇹🇼TW_4|452KB/s|C002-260622 01
   password: H7mP2xY9kJ4nQ8wR5tF6vB3z
   port: 443
   server: 103.115.109.49
@@ -175,7 +171,7 @@ proxies:
   sni: https://t.me/WangCai2
   tls: false
   type: hysteria2
-- name: 30|🇹🇼TW_5|477KB/s|R002-260618 01
+- name: 34|🇹🇼TW_5|477KB/s|R002-260618 01
   network: ws
   port: 443
   server: 60.248.219.78
@@ -188,7 +184,7 @@ proxies:
     headers:
       Host: ty986gfazs.cainiaohub.xyz
     path: /81574b6b-c9d7-44a0-b83d-dad56e8cb530
-- name: 30|🇹🇼TW_6|497KB/s|A004-260618 01
+- name: 34|🇹🇼TW_6|497KB/s|A004-260618 01
   password: H7mP2xY9kJ4nQ8wR5tF6vB3z
   port: 443
   server: 103.115.109.49
@@ -196,23 +192,7 @@ proxies:
   sni: https://t.me/wangcai2🇨🇳
   tls: false
   type: hysteria2
-- name: 30|🇹🇼TW_33|493KB/s|A004-260618 01
-  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
-  port: 443
-  server: 103.115.109.49
-  skip-cert-verify: true
-  sni: 103.115.109.49
-  tls: false
-  type: hysteria2
-- name: 30|🇹🇼TW_8|502KB/s|A004-260618 01
-  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
-  port: 443
-  server: 103.115.109.49
-  skip-cert-verify: true
-  sni: https://t.me/wangcai2
-  tls: false
-  type: hysteria2
-- name: 30|🇹🇼TW_10|495KB/s|A004-260618 01
+- name: 34|🇹🇼TW_10|495KB/s|A004-260618 01
   password: H7mP2xY9kJ4nQ8wR5tF6vB3z
   port: 443
   server: 103.115.109.49
@@ -220,7 +200,7 @@ proxies:
   sni: 'https:'
   tls: false
   type: hysteria2
-- name: 30|🇹🇼TW_11|501KB/s|A004-260618 01
+- name: 34|🇹🇼TW_11|501KB/s|A004-260618 01
   password: H7mP2xY9kJ4nQ8wR5tF6vB3z
   port: 443
   server: vpn-tw-002.fastervpn.world
@@ -228,7 +208,7 @@ proxies:
   sni: speedtest.tinkoff.ru
   tls: false
   type: hysteria2
-- name: 30|🇹🇼TW_12|504KB/s|A004-260618 01
+- name: 34|🇹🇼TW_12|504KB/s|A004-260618 01
   password: H7mP2xY9kJ4nQ8wR5tF6vB3z
   port: 443
   server: vpn-tw-002.fastervpn.world
@@ -236,33 +216,9 @@ proxies:
   sni: vk.com
   tls: false
   type: hysteria2
-- name: 30|🇹🇼TW_15|475KB/s|A004-260618 01
-  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
-  port: 443
-  server: vpn-tw-002.fastervpn.world
-  skip-cert-verify: true
-  sni: vpn-tw-002.fastervpn.world\u0026insecure=1\u0026allowinsecure=1
-  tls: false
-  type: hysteria2
-- name: 30|🇹🇼TW_16|483KB/s|A004-260618 01
-  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
-  port: 443
-  server: vpn-tw-002.fastervpn.world
-  skip-cert-verify: true
-  sni: vpn-tw-002.fastervpn.world%5cu0026insecure%3d1%5cu0026allowinsecure%3d1
-  tls: false
-  type: hysteria2
-- name: 30|🇹🇼TW_17|503KB/s|A004-260618 01
-  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
-  port: 443
-  server: 103.115.109.49
-  skip-cert-verify: true
-  sni: https%3a%2f%2ft.me%2fwangcai2
-  tls: false
-  type: hysteria2
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: 30|🇹🇼TW_22|71KB/s|A004-260618 01
+  name: 34|🇹🇼TW_22|71KB/s|A004-260618 01
   network: raw
   port: 30837
   reality-opts:
@@ -273,15 +229,7 @@ proxies:
   tls: false
   type: vless
   uuid: 85a6bd94-83a9-4e80-849f-c06d7011d1a4
-- name: 30|🇹🇼TW_21|282KB/s|A004-260618 01
-  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
-  port: 443
-  server: 103.115.109.49
-  skip-cert-verify: true
-  sni: https
-  tls: false
-  type: hysteria2
-- name: 30|🇹🇼TW_23|491KB/s|A004-260618 01
+- name: 34|🇹🇼TW_23|491KB/s|A004-260618 01
   password: H7mP2xY9kJ4nQ8wR5tF6vB3z
   port: 443
   server: 160.187.100.109
@@ -289,33 +237,9 @@ proxies:
   sni: 127.0.0.1
   tls: false
   type: hysteria2
-- name: 30|🇹🇼TW_24|476KB/s|A004-260618 01
-  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
-  port: 443
-  server: vpn-tw-002.fastervpn.world
-  skip-cert-verify: true
-  sni: t.me
-  tls: false
-  type: hysteria2
-- name: 30|🇹🇼TW_25|499KB/s|A004-260618 01
-  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
-  port: 443
-  server: 103.115.109.49
-  skip-cert-verify: true
-  sni: https%3a%2f%2ft.me%2fwangcai2%f0%9f%87%a8%f0%9f%87%b3
-  tls: false
-  type: hysteria2
-- name: 30|🇹🇼TW_26|493KB/s 01
-  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
-  port: 443
-  server: 103.115.109.49
-  skip-cert-verify: true
-  sni: https://t.me/oneclickvpnkeys
-  tls: false
-  type: hysteria2
 - client-fingerprint: firefox
   flow: xtls-rprx-vision
-  name: 30|❓Other_34|279KB/s|A004-260618 ...
+  name: 34|❓Other_34|279KB/s|A004-260618 ...
   network: raw
   port: 28364
   reality-opts:

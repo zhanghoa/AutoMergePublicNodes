@@ -1,29 +1,29 @@
 proxies:
 - cipher: chacha20-ietf-poly1305
-  name: 7|🇪🇪 [ Configs by DukeMehdi ] SS...
+  name: '10,21| By EbraSha ⌨️ #7'
   password: lejSRyqa033OEPmEQsvRsl
   port: 46114
   server: 194.59.183.134
   type: ss
 - cipher: aes-256-cfb
-  name: '7|🇪🇪 [ Configs by DukeMehdi ] SS... #1'
+  name: '10,21| By EbraSha 🌑 #17'
   password: f8f7aCzcPKbsF8p3
   port: 989
   server: 37.252.5.234
   type: ss
 - cipher: aes-256-gcm
-  name: '7|🇪🇪 [ Configs by DukeMehdi ] SS... #2'
+  name: '10,21| By EbraSha ⚔️ #22'
   password: FoOiGlkAA9yPEGP
   port: 7307
   server: 38.180.216.114
   type: ss
-- name: '16,17,26|🇪🇪[www.v2nodes.com] trojan-EE-... #4'
+- name: '19,20,30|🇪🇪[www.v2nodes.com] trojan-EE-... #4'
   password: gHncxmRjWEJ7apX5XuXsHw4kGexMH_gU
   port: 2097
   server: stoniy.fytpn.com
   sni: stoniy.fytpn.com
   type: trojan
-- name: 16,17,26,30|🇪🇪EE_8|1.2MB/s|C002-260622 01
+- name: 19,20,30,34|🇪🇪EE_8|1.2MB/s|C002-260622 01
   network: tcp
   password: oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1
   port: 449
@@ -31,7 +31,7 @@ proxies:
   skip-cert-verify: true
   sni: russiapower.accesscam.org
   type: trojan
-- name: 30|🇪🇪EE_12|1.3MB/s|B007-260618 01
+- name: 34|🇪🇪EE_12|1.3MB/s|B007-260618 01
   network: tcp
   password: oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1
   port: 449

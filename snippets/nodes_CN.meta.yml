@@ -1,125 +1,125 @@
 proxies:
 - cipher: chacha20-ietf-poly1305
-  name: 7|🇨🇳 [ Configs by DukeMehdi ] SS...
+  name: 10|🇨🇳 [ Configs by DukeMehdi ] SS...
   password: a5a0a8d9-ab2c-407f-89a4-bf027d216184
   port: 870
   server: 183.240.222.15
   type: ss
 - cipher: aes-128-cfb
-  name: '7|🇨🇳 [ Configs by DukeMehdi ] SS... #1'
+  name: '10|🇨🇳 [ Configs by DukeMehdi ] SS... #1'
   password: QazEdcTgb159@$*
   port: 24002
   server: 14.29.124.168
   type: ss
 - cipher: aes-128-cfb
-  name: '7|🇨🇳 [ Configs by DukeMehdi ] SS... #2'
+  name: '10,21| By EbraSha 🔌 #11'
   password: QazEdcTgb159@$*
   port: 24003
   server: 14.29.124.168
   type: ss
 - cipher: aes-128-cfb
-  name: '7|🇨🇳 [ Configs by DukeMehdi ] SS... #3'
+  name: '10,21| By EbraSha 🌑 #10'
   password: QazEdcTgb159@$*
   port: 24006
   server: 14.29.124.168
   type: ss
 - cipher: aes-128-cfb
-  name: '7|🇨🇳 [ Configs by DukeMehdi ] SS... #4'
+  name: '10|🇨🇳 [ Configs by DukeMehdi ] SS... #4'
   password: QazEdcTgb159@$*
   port: 24008
   server: 14.29.124.168
   type: ss
 - cipher: aes-128-cfb
-  name: '7|🇨🇳 [ Configs by DukeMehdi ] SS... #5'
+  name: '10|🇨🇳 [ Configs by DukeMehdi ] SS... #5'
   password: QazEdcTgb159@$*
   port: 25217
   server: 14.29.124.168
   type: ss
 - cipher: aes-128-cfb
-  name: '7|🇨🇳 [ Configs by DukeMehdi ] SS... #6'
+  name: '10|🇨🇳 [ Configs by DukeMehdi ] SS... #6'
   password: QazEdcTgb159@$*
   port: 25218
   server: 14.29.124.168
   type: ss
 - cipher: aes-128-cfb
-  name: '7|🇨🇳 [ Configs by DukeMehdi ] SS... #7'
+  name: '10,21| By EbraSha 💻 #13'
   password: QazEdcTgb159@$*
   port: 25219
   server: 14.29.124.168
   type: ss
 - cipher: aes-128-cfb
-  name: '7|🇨🇳 [ Configs by DukeMehdi ] SS... #8'
+  name: '10|🇨🇳 [ Configs by DukeMehdi ] SS... #8'
   password: QazEdcTgb159@$*
   port: 25220
   server: 14.29.124.168
   type: ss
 - cipher: aes-128-cfb
-  name: '7|🇨🇳 [ Configs by DukeMehdi ] SS... #9'
+  name: '10,21| By EbraSha 🛸 #17'
   password: QazEdcTgb159@$*
   port: 25226
   server: 14.29.124.168
   type: ss
 - cipher: aes-128-cfb
-  name: '7|🇨🇳 [ Configs by DukeMehdi ] SS... #10'
+  name: '10|🇨🇳 [ Configs by DukeMehdi ] SS... #10'
   password: QazEdcTgb159@$*
   port: 25238
   server: 14.29.124.168
   type: ss
 - cipher: aes-128-cfb
-  name: '7|🇨🇳 [ Configs by DukeMehdi ] SS... #11'
+  name: '10,21| By EbraSha 🃏 #10'
   password: QazEdcTgb159@$*
   port: 25251
   server: 14.29.124.168
   type: ss
 - cipher: aes-128-cfb
-  name: '7|🇨🇳 [ Configs by DukeMehdi ] SS... #12'
+  name: '10,21| By EbraSha 🔋 #7'
   password: QazEdcTgb159@$*
   port: 25252
   server: 14.29.124.168
   type: ss
 - cipher: aes-128-cfb
-  name: '7|🇨🇳 [ Configs by DukeMehdi ] SS... #13'
+  name: '10|🇨🇳 [ Configs by DukeMehdi ] SS... #13'
   password: QazEdcTgb159@$*
   port: 25259
   server: 14.29.124.168
   type: ss
 - cipher: aes-128-cfb
-  name: '7|🇨🇳 [ Configs by DukeMehdi ] SS... #14'
+  name: '10|🇨🇳 [ Configs by DukeMehdi ] SS... #14'
   password: QazEdcTgb159@$*
   port: 25261
   server: 14.29.124.168
   type: ss
 - cipher: aes-128-cfb
-  name: '7|🇨🇳 [ Configs by DukeMehdi ] SS... #15'
+  name: '10|🇨🇳 [ Configs by DukeMehdi ] SS... #15'
   password: QazEdcTgb159@$*
   port: 25266
   server: 14.29.124.168
   type: ss
 - cipher: aes-128-cfb
-  name: '7|🇨🇳 [ Configs by DukeMehdi ] SS... #16'
+  name: '10,21| By EbraSha ♠️ #16'
   password: QazEdcTgb159@$*
   port: 25267
   server: 14.29.124.168
   type: ss
 - cipher: aes-128-cfb
-  name: '7|🇨🇳 [ Configs by DukeMehdi ] SS... #17'
+  name: '10|🇨🇳 [ Configs by DukeMehdi ] SS... #17'
   password: QazEdcTgb159@$*
   port: 25272
   server: 14.29.124.168
   type: ss
 - cipher: aes-128-cfb
-  name: '7|🇨🇳 [ Configs by DukeMehdi ] SS... #18'
+  name: '10,21| By EbraSha 🕹️ #11'
   password: QazEdcTgb159@$*
   port: 25284
   server: 14.29.124.168
   type: ss
 - cipher: aes-128-cfb
-  name: '7|🇨🇳 [ Configs by DukeMehdi ] SS... #19'
+  name: '10|🇨🇳 [ Configs by DukeMehdi ] SS... #19'
   password: QazEdcTgb159@$*
   port: 25289
   server: 14.29.124.168
   type: ss
-- name: 16|CN【机场推荐：https://a9a.xyz】4
+- name: 19|CN【机场推荐：https://a9a.xyz】4
   network: tcp
   port: 52683
   server: jp.sofast.live
@@ -128,7 +128,7 @@ proxies:
   uuid: 5aaa5259-f924-4682-a4a3-149d472a9dcc
 - alterId: 0
   cipher: auto
-  name: 18,20|🇨🇳_中国_92
+  name: 22,24|🇨🇳_中国_92
   port: 50002
   server: 112.132.215.108
   skip-cert-verify: true
@@ -137,7 +137,7 @@ proxies:
   udp: true
   uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
 - client-fingerprint: chrome
-  name: 20|🇨🇳_中国_41
+  name: 24|🇨🇳_中国_41
   port: 3302
   server: gz1.australiacaregroup.site
   servername: jp7.vatilon.cc
@@ -147,7 +147,7 @@ proxies:
   udp: true
   uuid: aec8e5e3-bb81-4b22-8802-0b88c54997b3
 - client-fingerprint: chrome
-  name: 20|🇨🇳_中国_43
+  name: 24|🇨🇳_中国_43
   port: 8447
   server: gz2.vatilon.cc
   servername: 48.maoming.org
@@ -157,7 +157,7 @@ proxies:
   udp: true
   uuid: aec8e5e3-bb81-4b22-8802-0b88c54997b3
 - client-fingerprint: chrome
-  name: 20|🇨🇳_中国_44
+  name: 24|🇨🇳_中国_44
   port: 8447
   server: sh.polymarket.party
   servername: 48.maoming.org
@@ -167,7 +167,7 @@ proxies:
   udp: true
   uuid: aec8e5e3-bb81-4b22-8802-0b88c54997b3
 - client-fingerprint: chrome
-  name: 20|🇨🇳_中国_45
+  name: 24|🇨🇳_中国_45
   port: 50002
   server: gz1.polymarket.party
   servername: tyo1.australiacaregroup.site
@@ -176,17 +176,7 @@ proxies:
   type: vless
   udp: true
   uuid: aec8e5e3-bb81-4b22-8802-0b88c54997b3
-- client-fingerprint: chrome
-  name: 20|🇨🇳_中国_48
-  port: 23202
-  server: sh.polymarket.party
-  servername: jp2.australiacaregroup.site
-  skip-cert-verify: true
-  tls: true
-  type: vless
-  udp: true
-  uuid: aec8e5e3-bb81-4b22-8802-0b88c54997b3
-- name: 20|🇨🇳_中国_51
+- name: 24|🇨🇳_中国_51
   password: aec8e5e3-bb81-4b22-8802-0b88c54997b3
   port: 23203
   server: gz1.polymarket.party
@@ -195,7 +185,7 @@ proxies:
   type: trojan
   udp: true
 - client-fingerprint: chrome
-  name: 20|🇨🇳_中国_61
+  name: 24|🇨🇳_中国_61
   port: 23202
   server: gz1.polymarket.party
   servername: jp2.australiacaregroup.site
@@ -204,17 +194,7 @@ proxies:
   type: vless
   udp: true
   uuid: aec8e5e3-bb81-4b22-8802-0b88c54997b3
-- client-fingerprint: chrome
-  name: 20|🇨🇳_中国_63
-  port: 36032
-  server: gz2.vatilon.cc
-  servername: us2.australiacaregroup.site
-  skip-cert-verify: true
-  tls: true
-  type: vless
-  udp: true
-  uuid: aec8e5e3-bb81-4b22-8802-0b88c54997b3
-- name: 20|🇨🇳_中国_191
+- name: 24|🇨🇳_中国_191
   password: aec8e5e3-bb81-4b22-8802-0b88c54997b3
   port: 23823
   server: gz2.vatilon.cc
@@ -228,7 +208,7 @@ proxies:
     path: /trojan
 - alterId: 0
   cipher: auto
-  name: 20|🇨🇳_中国_214
+  name: 24|🇨🇳_中国_214
   network: ws
   port: 10086
   server: 120.48.133.162
@@ -238,7 +218,7 @@ proxies:
   udp: true
   uuid: fde10e39-48bb-4dcf-b3ba-71d711323a54
 - flow: ''
-  name: 25|广东省广州市+腾讯云
+  name: 29|广东省广州市+腾讯云
   network: tcp
   port: 52683
   server: jp.sofast.live

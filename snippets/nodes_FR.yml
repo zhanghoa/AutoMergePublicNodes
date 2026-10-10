@@ -1,287 +1,287 @@
 proxies:
 - cipher: chacha20-ietf-poly1305
-  name: 7|🇫🇷 [ Configs by DukeMehdi ] SS...
+  name: '10,21| By EbraSha 📛 #2'
   password: 8zw5j9h
   port: 443
   server: 54.36.174.134
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '7|🇫🇷 [ Configs by DukeMehdi ] SS... #1'
+  name: '10|🇫🇷 [ Configs by DukeMehdi ] SS... #1'
   password: 97OnDEZYGja4
   port: 443
   server: 178.18.244.2
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '7|🇫🇷 [ Configs by DukeMehdi ] SS... #2'
+  name: '10,21| By EbraSha 🪬 #6'
   password: 94dvoW0TdKRq
   port: 443
   server: 161.97.68.139
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '7|🇫🇷 [ Configs by DukeMehdi ] SS... #3'
+  name: '10,21| By EbraSha ✨ #7'
   password: ytw2awn
   port: 443
   server: 54.36.174.140
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '7,16,17,26|🇫🇷[www.v2nodes.com] ss-FR-1536... #2'
+  name: '10,19,20,21,30|🇫🇷[www.v2nodes.com] ss-FR-1536... #2'
   password: BqnqToih0PbU
   port: 8388
   server: 51.255.13.232
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '7|🇫🇷 [ Configs by DukeMehdi ] SS... #5'
+  name: '10,21| By EbraSha 🪖 #13'
   password: E4gyHkKwJGyG
   port: 443
   server: 161.97.66.81
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '7|🇫🇷 [ Configs by DukeMehdi ] SS... #6'
+  name: '10,21| By EbraSha 🌀 #5'
   password: G!yBwPWH3Vao
   port: 804
   server: 51.178.87.37
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '7|🇫🇷 [ Configs by DukeMehdi ] SS... #7'
+  name: '10,21| By EbraSha 🌌 #6'
   password: G!yBwPWH3Vao
   port: 810
   server: 51.178.87.37
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '7|🇫🇷 [ Configs by DukeMehdi ] SS... #8'
+  name: '10,21| By EbraSha ⛓️ #11'
   password: G!yBwPWH3Vao
   port: 800
   server: 141.95.0.23
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '7|🇫🇷 [ Configs by DukeMehdi ] SS... #9'
+  name: '10,21| By EbraSha 🛰️ #8'
   password: G!yBwPWH3Vao
   port: 810
   server: 141.95.0.23
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '7|🇫🇷 [ Configs by DukeMehdi ] SS... #10'
+  name: '10,21| By EbraSha 🔮 #15'
   password: G!yBwPWH3Vao
   port: 809
   server: 163.172.110.153
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '7|🇫🇷 [ Configs by DukeMehdi ] SS... #11'
+  name: '10,21| By EbraSha 🐉 #9'
   password: G!yBwPWH3Vao
   port: 803
   server: 95.85.90.181
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '7|🇫🇷 [ Configs by DukeMehdi ] SS... #12'
+  name: '10,21| By EbraSha 📀 #7'
   password: G!yBwPWH3Vao
   port: 804
   server: 95.85.90.181
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '7|🇫🇷 [ Configs by DukeMehdi ] SS... #13'
+  name: '10,21| By EbraSha 🦇 #5'
   password: G!yBwPWH3Vao
   port: 810
   server: 95.85.90.181
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '7|🇫🇷 [ Configs by DukeMehdi ] SS... #14'
+  name: '10,21| By EbraSha ⚔️ #11'
   password: Kq3iQqtVlyPJBPcD6QpnGE
   port: 9802
   server: 92.243.27.51
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '7|🇫🇷 [ Configs by DukeMehdi ] SS... #15'
+  name: '10,21| By EbraSha 🧪 #7'
   password: diOMBU5IDvJcFqyNPbRjYR
   port: 10443
   server: 137.74.119.18
   type: ss
 - cipher: aes-128-gcm
-  name: '7|🇫🇷 [ Configs by DukeMehdi ] SS... #16'
+  name: '10,21| By EbraSha 👾 #12'
   password: SySWDaP8rm1NEK0wdLdoaV5ClkSjFDfw
   port: 51058
   server: 173.212.251.231
   type: ss
 - cipher: aes-256-cfb
-  name: '7|🇫🇷 [ Configs by DukeMehdi ] SS... #17'
+  name: '10,21| By EbraSha 🥷 #13'
   password: '!!str 4415934295'
   port: 50004
   server: 62.210.213.6
   type: ss
 - cipher: aes-256-cfb
-  name: '7|🇫🇷 [ Configs by DukeMehdi ] SS... #18'
+  name: '10,21| By EbraSha 🚧 #13'
   password: '!!str 7122910143'
   port: 50007
   server: 135.125.236.229
   type: ss
 - cipher: aes-256-cfb
-  name: '7|🇫🇷 [ Configs by DukeMehdi ] SS... #19'
+  name: '10,21| By EbraSha 🕷️ #18'
   password: amazonskr05
   port: 443
   server: 13.36.241.80
   type: ss
 - cipher: aes-256-cfb
-  name: '7|🇫🇷 [ Configs by DukeMehdi ] SS... #20'
+  name: '10,21| By EbraSha 🖥️ #16'
   password: amazonskr05
   port: 443
   server: 15.237.53.180
   type: ss
 - cipher: aes-256-cfb
-  name: '7|🇫🇷 [ Configs by DukeMehdi ] SS... #21'
+  name: '10,21| By EbraSha 🚬 #15'
   password: amazonskr05
   port: 443
   server: 52.47.99.71
   type: ss
 - cipher: aes-256-cfb
-  name: '7|🇫🇷 [ Configs by DukeMehdi ] SS... #22'
+  name: '10,21| By EbraSha 🎯 #14'
   password: amazonskr05
   port: 443
   server: 15.237.138.120
   type: ss
 - cipher: aes-256-cfb
-  name: '7|🇫🇷 [ Configs by DukeMehdi ] SS... #23'
+  name: '10,21| By EbraSha 🧠 #18'
   password: amazonskr05
   port: 443
   server: 35.181.4.41
   type: ss
 - cipher: aes-256-cfb
-  name: '7|🇫🇷 [ Configs by DukeMehdi ] SS... #24'
+  name: '10,21| By EbraSha 🩸 #17'
   password: amazonskr05
   port: 443
   server: 51.44.86.16
   type: ss
 - cipher: aes-256-cfb
-  name: '7|🇫🇷 [ Configs by DukeMehdi ] SS... #25'
+  name: '10,21| By EbraSha 🌌 #20'
   password: asdKkaskJKfnsa
   port: 443
   server: 162.19.59.160
   type: ss
 - cipher: aes-256-cfb
-  name: '7|🇫🇷 [ Configs by DukeMehdi ] SS... #26'
+  name: '10,21| By EbraSha 🛡️ #14'
   password: asdKkaskJKfnsa
   port: 443
   server: 162.19.59.161
   type: ss
 - cipher: aes-256-cfb
-  name: '7|🇫🇷 [ Configs by DukeMehdi ] SS... #27'
+  name: '10,21| By EbraSha ✨ #20'
   password: asdKkaskJKfnsa
   port: 443
   server: 162.19.59.163
   type: ss
 - cipher: aes-256-cfb
-  name: '7|🇫🇷 [ Configs by DukeMehdi ] SS... #28'
+  name: '10,21| By EbraSha 🌍 #17'
   password: f8f7aCzcPKbsF8p3
   port: 989
   server: 54.37.139.110
   type: ss
 - cipher: aes-256-gcm
-  name: '7|🇫🇷 [ Configs by DukeMehdi ] SS... #29'
+  name: '10,21| By EbraSha 🦅 #24'
   password: 7NuB0Y5m3aNzkKMKlFoMwkiajsu6F36c9ok4VKEZnB4=
   port: 2083
   server: 162.19.254.232
   type: ss
 - cipher: aes-256-gcm
-  name: '7|🇫🇷 [ Configs by DukeMehdi ] SS... #30'
+  name: '10,21| By EbraSha 🦾 #21'
   password: FWrXcxPZjJxAN89xLgqY3Acp
   port: 44236
   server: 138.199.16.135
   type: ss
 - cipher: aes-256-gcm
-  name: '7|🇫🇷 [ Configs by DukeMehdi ] SS... #31'
+  name: '10,21| By EbraSha 👑 #26'
   password: FoOiGlkAA9yPEGP
   port: 7306
   server: 188.165.32.235
   type: ss
 - cipher: aes-256-gcm
-  name: '7|🇫🇷 [ Configs by DukeMehdi ] SS... #32'
+  name: '10,21| By EbraSha 🎛️ #13'
   password: FoOiGlkAA9yPEGP
   port: 7306
   server: 54.38.72.170
   type: ss
 - cipher: aes-256-gcm
-  name: '7|🇫🇷 [ Configs by DukeMehdi ] SS... #33'
+  name: '10,21| By EbraSha 🧨 #14'
   password: FjG3IPbny+0ZYU4/p1vULP84GcKpGoZpWKAay16VhIw=
   port: 2083
   server: 51.254.128.106
   type: ss
 - cipher: aes-256-gcm
-  name: '7|🇫🇷 [ Configs by DukeMehdi ] SS... #34'
+  name: '10,21| By EbraSha 🚀 #21'
   password: KixLvKzwjekG00rm
   port: 8080
   server: 149.202.82.172
   type: ss
 - cipher: aes-256-gcm
-  name: '7|🇫🇷 [ Configs by DukeMehdi ] SS... #35'
+  name: '10|🇫🇷 [ Configs by DukeMehdi ] SS... #35'
   password: PCnnH6SQSnfoS27
   port: 8091
   server: 149.202.82.172
   type: ss
 - cipher: aes-256-gcm
-  name: '7|🇫🇷 [ Configs by DukeMehdi ] SS... #36'
+  name: '10|🇫🇷 [ Configs by DukeMehdi ] SS... #36'
   password: RexnBgU7EV5ADxG
   port: 7001
   server: 149.202.82.172
   type: ss
 - cipher: aes-256-gcm
-  name: '7|🇫🇷 [ Configs by DukeMehdi ] SS... #37'
+  name: '10|🇫🇷 [ Configs by DukeMehdi ] SS... #37'
   password: TEzjfAYq2IjtuoS
   port: 6697
   server: 149.202.82.172
   type: ss
 - cipher: aes-256-gcm
-  name: '7|🇫🇷 [ Configs by DukeMehdi ] SS... #38'
+  name: '10,21| By EbraSha 🌪️ #23'
   password: XKFKl2rULjIp74
   port: 8008
   server: 149.202.82.172
   type: ss
 - cipher: aes-256-gcm
-  name: '7|🇫🇷 [ Configs by DukeMehdi ] SS... #39'
+  name: '10,21| By EbraSha 🚬 #25'
   password: XKFKl2rULjIp74
   port: 8009
   server: 149.202.82.172
   type: ss
 - cipher: aes-256-gcm
-  name: '7|🇫🇷 [ Configs by DukeMehdi ] SS... #40'
+  name: '10|🇫🇷 [ Configs by DukeMehdi ] SS... #40'
   password: XKFKl2rULjIp74
   port: 8009
   server: 188.165.32.235
   type: ss
 - cipher: aes-256-gcm
-  name: '7|🇫🇷 [ Configs by DukeMehdi ] SS... #41'
+  name: '10|🇫🇷 [ Configs by DukeMehdi ] SS... #41'
   password: Y6R9pAtvxxzmGC
   port: 3306
   server: 149.202.82.172
   type: ss
 - cipher: aes-256-gcm
-  name: '7|🇫🇷 [ Configs by DukeMehdi ] SS... #42'
+  name: '10|🇫🇷 [ Configs by DukeMehdi ] SS... #42'
   password: Y6R9pAtvxxzmGC
   port: 3389
   server: 149.202.82.172
   type: ss
 - cipher: aes-256-gcm
-  name: '7|🇫🇷 [ Configs by DukeMehdi ] SS... #43'
+  name: '10|🇫🇷 [ Configs by DukeMehdi ] SS... #43'
   password: Y6R9pAtvxxzmGC
   port: 5601
   server: 149.202.82.172
   type: ss
 - cipher: aes-256-gcm
-  name: '7|🇫🇷 [ Configs by DukeMehdi ] SS... #44'
+  name: '10|🇫🇷 [ Configs by DukeMehdi ] SS... #44'
   password: cdBIDV42DCwnfIN
   port: 8118
   server: 149.202.82.172
   type: ss
 - cipher: aes-256-gcm
-  name: '7|🇫🇷 [ Configs by DukeMehdi ] SS... #45'
+  name: '10|🇫🇷 [ Configs by DukeMehdi ] SS... #45'
   password: cdBIDV42DCwnfIN
   port: 8119
   server: 149.202.82.172
   type: ss
 - cipher: aes-256-gcm
-  name: '7|🇫🇷 [ Configs by DukeMehdi ] SS... #46'
+  name: '10|🇫🇷 [ Configs by DukeMehdi ] SS... #46'
   password: cdBIDV42DCwnfIN
   port: 8119
   server: 54.36.174.181
   type: ss
-- name: '16,17,26|🇫🇷[www.v2nodes.com] trojan-FR-... #21'
+- name: '19,20,30|🇫🇷[www.v2nodes.com] trojan-FR-... #21'
   network: ws
   password: humanity
   port: 443
@@ -293,7 +293,19 @@ proxies:
     headers:
       Host: www.calmlunch.com
     path: /assignment
-- name: '16,17,26|🇫🇷[www.v2nodes.com] trojan-FR-... #23'
+- name: '19,20,26,30|🇫🇷[www.v2nodes.com] trojan-FR-... #22'
+  network: ws
+  password: humanity
+  port: 443
+  server: 185.220.100.168
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+- name: '19,20,30|🇫🇷[www.v2nodes.com] trojan-FR-... #23'
   network: ws
   password: humanity
   port: 443
@@ -305,7 +317,7 @@ proxies:
     headers:
       Host: www.calmlunch.com
     path: /assignment
-- name: '16,17,26|🇫🇷[www.v2nodes.com] trojan-FR-... #24'
+- name: '19,20,30|🇫🇷[www.v2nodes.com] trojan-FR-... #24'
   network: ws
   password: humanity
   port: 443
@@ -316,7 +328,7 @@ proxies:
     headers:
       Host: www.calmlunch.com
     path: /assignment
-- name: '16,17,26|🇫🇷[www.v2nodes.com] trojan-FR-... #25'
+- name: '19,20,30|🇫🇷[www.v2nodes.com] trojan-FR-... #25'
   network: ws
   password: humanity
   port: 2053
@@ -328,7 +340,7 @@ proxies:
     headers:
       Host: www.calmlunch.com
     path: /assignment
-- name: '16,17,26|🇫🇷[www.v2nodes.com] trojan-FR-... #26'
+- name: '19,20,30|🇫🇷[www.v2nodes.com] trojan-FR-... #26'
   network: ws
   password: humanity
   port: 443
@@ -340,14 +352,14 @@ proxies:
     headers:
       Host: www.calmlunch.com
     path: '%2Fassignment'
-- name: '16,17,26|🇫🇷[www.v2nodes.com] trojan-FR-... #27'
+- name: '19,20,30|🇫🇷[www.v2nodes.com] trojan-FR-... #27'
   password: humanity
   port: 443
   server: 165.215.250.14
   type: trojan
   ws-opts:
     path: '%2Fassignment'
-- name: '16,17,26|🇫🇷[www.v2nodes.com] trojan-FR-... #28'
+- name: '19,20,30|🇫🇷[www.v2nodes.com] trojan-FR-... #28'
   network: ws
   password: humanity
   port: 443
@@ -359,7 +371,7 @@ proxies:
     headers:
       Host: www.calmlunch.com
     path: '%2Fassignment'
-- name: '16,17,26|🇫🇷[www.v2nodes.com] trojan-FR-... #29'
+- name: '19,20,30|🇫🇷[www.v2nodes.com] trojan-FR-... #29'
   network: ws
   password: humanity
   port: 443
@@ -371,7 +383,7 @@ proxies:
     headers:
       Host: www.calmlunch.com
     path: '%2Fassignment'
-- name: '16,17,26|🇫🇷[www.v2nodes.com] trojan-FR-... #30'
+- name: '19,20,30|🇫🇷[www.v2nodes.com] trojan-FR-... #30'
   network: ws
   password: humanity
   port: 443
@@ -384,7 +396,7 @@ proxies:
     path: '%2Fassignment'
 - alpn:
   - v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus
-  name: '17|🇫🇷[www.v2nodes.com] trojan-FR-... #12'
+  name: '20|🇫🇷[www.v2nodes.com] trojan-FR-... #12'
   network: ws
   password: humanity
   port: 8443
@@ -396,13 +408,13 @@ proxies:
     headers:
       Host: www.calmlunch.com
     path: /assignment
-- name: 25|🇫🇷FR_3|1.3MB/s
+- name: 29|🇫🇷FR_3|1.3MB/s
   password: PQ05174892
   port: 443
   server: lucky-marmot.rooster465.autos
   skip-cert-verify: true
   type: trojan
-- name: 30|🇫🇷FR法国丨yoyapai.com
+- name: 34|🇫🇷FR法国丨yoyapai.com
   network: ws
   password: humanity
   port: 443
@@ -414,7 +426,7 @@ proxies:
     headers:
       Host: www.ignitelimit.com
     path: '%2Fassignment'
-- name: '30|CA加拿大(mibei77.com 米贝节点分享) #4'
+- name: '34|CA加拿大(mibei77.com 米贝节点分享) #4'
   network: ws
   password: humanity
   port: 443
@@ -424,17 +436,7 @@ proxies:
   type: trojan
   ws-opts:
     path: '%2Fassignment'
-- alterId: 0
-  cipher: auto
-  name: '30|FR法国(mibei77.com 米贝节点分享) #15'
-  network: tcp
-  port: 9022
-  server: star.starnick2030.ir
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 11c9da87-198b-40d5-a83e-546e8c73a50e
-- name: '30|FR法国(mibei77.com 米贝节点分享) #20'
+- name: '34|FR法国(mibei77.com 米贝节点分享) #20'
   network: ws
   password: humanity
   port: 443
@@ -443,7 +445,7 @@ proxies:
   type: trojan
   ws-opts:
     path: '%2Fassignment'
-- name: '30|FR法国(mibei77.com 米贝节点分享) #21'
+- name: '34|FR法国(mibei77.com 米贝节点分享) #21'
   network: ws
   password: humanity
   port: 443
@@ -452,7 +454,7 @@ proxies:
   type: trojan
   ws-opts:
     path: '%2Fassignment'
-- name: '30|FR法国(mibei77.com 米贝节点分享) #22'
+- name: '34|FR法国(mibei77.com 米贝节点分享) #22'
   network: ws
   password: humanity
   port: 443
@@ -461,7 +463,7 @@ proxies:
   type: trojan
   ws-opts:
     path: '%2Fassignment'
-- name: 30|🇫🇷FR_1|1.2MB/s 01
+- name: 34|🇫🇷FR_1|1.2MB/s 01
   network: ws
   password: humanity
   port: 443
@@ -470,7 +472,7 @@ proxies:
   type: trojan
   ws-opts:
     path: /assignment
-- name: 30|🇫🇷FR_109|188KB/s|B007-260618 0...
+- name: 34|🇫🇷FR_109|188KB/s|B007-260618 0...
   network: ws
   password: humanity
   port: 443
@@ -480,7 +482,7 @@ proxies:
   type: trojan
   ws-opts:
     path: /assignment
-- name: 30|🇫🇷FR_8|475KB/s 01
+- name: 34|🇫🇷FR_8|475KB/s 01
   network: ws
   password: humanity
   port: 443
@@ -489,7 +491,7 @@ proxies:
   type: trojan
   ws-opts:
     path: /assignment
-- name: 30|🇫🇷FR_11|1.1MB/s 01
+- name: 34|🇫🇷FR_11|1.1MB/s 01
   network: ws
   password: humanity
   port: 443
@@ -498,7 +500,7 @@ proxies:
   type: trojan
   ws-opts:
     path: /assignment
-- name: 30|🇫🇷FR_14|1.2MB/s 01
+- name: 34|🇫🇷FR_14|1.2MB/s 01
   network: ws
   password: humanity
   port: 443
@@ -507,7 +509,7 @@ proxies:
   type: trojan
   ws-opts:
     path: /assignment
-- name: 30|🇫🇷FR_15|1.2MB/s 01
+- name: 34|🇫🇷FR_15|1.2MB/s 01
   network: ws
   password: humanity
   port: 443
@@ -517,7 +519,7 @@ proxies:
   type: trojan
   ws-opts:
     path: /assignment
-- name: 30|🇫🇷FR_16|1.2MB/s 01
+- name: 34|🇫🇷FR_16|1.2MB/s 01
   network: ws
   password: humanity
   port: 443
@@ -528,7 +530,7 @@ proxies:
     path: /assignment
 - alpn:
   - http/1.1
-  name: 30|🇫🇷FR_53|1.1MB/s 01
+  name: 34|🇫🇷FR_53|1.1MB/s 01
   network: ws
   password: humanity
   port: 443
@@ -538,7 +540,7 @@ proxies:
   type: trojan
   ws-opts:
     path: /assignment
-- name: 30|🇫🇷FR_96|968KB/s|B007-260618 01
+- name: 34|🇫🇷FR_96|968KB/s|B007-260618 01
   network: ws
   password: humanity
   port: 443
@@ -547,7 +549,7 @@ proxies:
   type: trojan
   ws-opts:
     path: /assignment
-- name: 30|🇫🇷FR_97|1.7MB/s|B007-260618 01
+- name: 34|🇫🇷FR_97|1.7MB/s|B007-260618 01
   network: ws
   password: humanity
   port: 443
@@ -556,7 +558,7 @@ proxies:
   type: trojan
   ws-opts:
     path: /assignment
-- name: 30|🇫🇷FR_98|783KB/s|B007-260618 01
+- name: 34|🇫🇷FR_98|783KB/s|B007-260618 01
   network: ws
   password: humanity
   port: 443
@@ -565,7 +567,7 @@ proxies:
   type: trojan
   ws-opts:
     path: /assignment
-- name: 30|🇫🇷FR_99|1.7MB/s|B007-260618 01
+- name: 34|🇫🇷FR_99|1.7MB/s|B007-260618 01
   network: ws
   password: humanity
   port: 443
@@ -574,7 +576,7 @@ proxies:
   type: trojan
   ws-opts:
     path: /assignment
-- name: 30|🇫🇷FR_100|1.6MB/s|B007-260618 0...
+- name: 34|🇫🇷FR_100|1.6MB/s|B007-260618 0...
   network: ws
   password: humanity
   port: 443
@@ -583,7 +585,7 @@ proxies:
   type: trojan
   ws-opts:
     path: /assignment
-- name: 30|🇫🇷FR_101|4.1MB/s|B007-260618 0...
+- name: 34|🇫🇷FR_101|4.1MB/s|B007-260618 0...
   network: ws
   password: humanity
   port: 443
@@ -593,7 +595,7 @@ proxies:
   type: trojan
   ws-opts:
     path: /assignment
-- name: 30|🇫🇷FR_104|1.2MB/s|B007-260618 0...
+- name: 34|🇫🇷FR_104|1.2MB/s|B007-260618 0...
   network: ws
   password: humanity
   port: 443
@@ -602,7 +604,7 @@ proxies:
   type: trojan
   ws-opts:
     path: /assignment
-- name: 30|🇫🇷FR_105|780KB/s|B007-260618 0...
+- name: 34|🇫🇷FR_105|780KB/s|B007-260618 0...
   network: ws
   password: humanity
   port: 443
@@ -611,7 +613,7 @@ proxies:
   type: trojan
   ws-opts:
     path: /assignment
-- name: 30|🇫🇷FR_106|745KB/s|B007-260618 0...
+- name: 34|🇫🇷FR_106|745KB/s|B007-260618 0...
   network: ws
   password: humanity
   port: 443
@@ -622,7 +624,7 @@ proxies:
     path: /assignment
 - alpn:
   - http/1.1
-  name: 30|🇫🇷FR_107|992KB/s|B007-260618 0...
+  name: 34|🇫🇷FR_107|992KB/s|B007-260618 0...
   network: ws
   password: humanity
   port: 443
@@ -635,7 +637,7 @@ proxies:
   - h3
   - h2
   - http/1.1
-  name: 30|🇫🇷FR_108|739KB/s|B007-260618 0...
+  name: 34|🇫🇷FR_108|739KB/s|B007-260618 0...
   network: ws
   password: humanity
   port: 443
@@ -648,7 +650,7 @@ proxies:
   - h3
   - h2
   - http/1.1
-  name: 30|🇫🇷FR_124|1.5MB/s|B007-260618 0...
+  name: 34|🇫🇷FR_124|1.5MB/s|B007-260618 0...
   network: ws
   password: humanity
   port: 443
@@ -657,7 +659,7 @@ proxies:
   type: trojan
   ws-opts:
     path: /assignment
-- name: 30|🇫🇷FR_147|1.2MB/s|C002-260622 0...
+- name: 34|🇫🇷FR_147|1.2MB/s|C002-260622 0...
   network: ws
   password: humanity
   port: 443
@@ -666,7 +668,7 @@ proxies:
   type: trojan
   ws-opts:
     path: /assignment
-- name: 30|🇫🇷FR_156|1.2MB/s|C002-260622 0...
+- name: 34|🇫🇷FR_156|1.2MB/s|C002-260622 0...
   network: ws
   password: humanity
   port: 443
@@ -675,7 +677,7 @@ proxies:
   type: trojan
   ws-opts:
     path: /assignment
-- name: 30|🇫🇷FR_164|1.2MB/s|C002-260622 0...
+- name: 34|🇫🇷FR_164|1.2MB/s|C002-260622 0...
   network: ws
   password: humanity
   port: 443
@@ -684,7 +686,7 @@ proxies:
   type: trojan
   ws-opts:
     path: /assignment
-- name: 30|🇫🇷FR_175|1.3MB/s|C002-260622 0...
+- name: 34|🇫🇷FR_175|1.3MB/s|C002-260622 0...
   network: ws
   password: humanity
   port: 443
@@ -693,7 +695,7 @@ proxies:
   type: trojan
   ws-opts:
     path: /assignment
-- name: 30|🇫🇷FR_190|1.4MB/s|C002-260622 0...
+- name: 34|🇫🇷FR_190|1.4MB/s|C002-260622 0...
   network: ws
   password: humanity
   port: 443
@@ -702,7 +704,7 @@ proxies:
   type: trojan
   ws-opts:
     path: /assignment
-- name: 30|🇫🇷FR_206|1.1MB/s|C002-260622 0...
+- name: 34|🇫🇷FR_206|1.1MB/s|C002-260622 0...
   network: ws
   password: humanity
   port: 443
@@ -711,7 +713,7 @@ proxies:
   type: trojan
   ws-opts:
     path: /assignment
-- name: 30|🇫🇷FR_218|1.6MB/s|C002-260622 0...
+- name: 34|🇫🇷FR_218|1.6MB/s|C002-260622 0...
   network: ws
   password: humanity
   port: 443
@@ -720,7 +722,7 @@ proxies:
   type: trojan
   ws-opts:
     path: /assignment
-- name: 30|🇫🇷FR_236|925KB/s|C002-260622 0...
+- name: 34|🇫🇷FR_236|925KB/s|C002-260622 0...
   network: ws
   password: humanity
   port: 443
@@ -729,7 +731,7 @@ proxies:
   type: trojan
   ws-opts:
     path: /assignment
-- name: 30|🇫🇷FR_237|1.8MB/s|C002-260622 0...
+- name: 34|🇫🇷FR_237|1.8MB/s|C002-260622 0...
   network: ws
   password: humanity
   port: 443
@@ -738,7 +740,7 @@ proxies:
   type: trojan
   ws-opts:
     path: /assignment
-- name: 30|🇫🇷FR_240|1.4MB/s|C002-260622 0...
+- name: 34|🇫🇷FR_240|1.4MB/s|C002-260622 0...
   network: ws
   password: humanity
   port: 443
@@ -747,7 +749,7 @@ proxies:
   type: trojan
   ws-opts:
     path: /assignment
-- name: 30|🇫🇷FR_284|647KB/s|F003-260618 0...
+- name: 34|🇫🇷FR_284|647KB/s|F003-260618 0...
   network: ws
   password: 87d1bfd4-574e-4c96-ad42-0426f27461ff
   port: 443
@@ -756,7 +758,7 @@ proxies:
   type: trojan
   ws-opts:
     path: /
-- name: 30|🇫🇷FR_300|1.2MB/s|B007-260618 0...
+- name: 34|🇫🇷FR_300|1.2MB/s|B007-260618 0...
   network: ws
   password: humanity
   port: 443
@@ -767,7 +769,7 @@ proxies:
     path: /assignment
 - alpn:
   - http/1.1
-  name: 30|🇫🇷FR_314|439KB/s|S004-260618 0...
+  name: 34|🇫🇷FR_314|439KB/s|S004-260618 0...
   network: ws
   password: Telegram_healer_config
   port: 443
@@ -778,7 +780,7 @@ proxies:
     path: /tr/N61UxT346epoPVmA9xFM6H00?ed=2560
 - alpn:
   - http/1.1
-  name: 30|🇫🇷FR_316|383KB/s|S004-260618 0...
+  name: 34|🇫🇷FR_316|383KB/s|S004-260618 0...
   network: ws
   password: Telegram_healer_config
   port: 443
@@ -787,7 +789,7 @@ proxies:
   type: trojan
   ws-opts:
     path: /tr/GaQvfFwT5sWgVxHig8YaXjtiuQPZNI?ed=2560
-- name: 30|🇫🇷FR_333|1.3MB/s|C002-260622 0...
+- name: 34|🇫🇷FR_333|1.3MB/s|C002-260622 0...
   network: ws
   password: humanity
   port: 443
@@ -798,7 +800,7 @@ proxies:
     path: /assignment
 - alpn:
   - http/1.1
-  name: 30|🇫🇷FR_349|142KB/s|S004-260618 0...
+  name: 34|🇫🇷FR_349|142KB/s|S004-260618 0...
   network: ws
   password: Telegram_healer_config
   port: 443
@@ -809,7 +811,7 @@ proxies:
     path: /tr/W3Ei3SdcW9sRVMLIbEd8sB1lm?ed=2560
 - alpn:
   - http/1.1
-  name: 30|🇫🇷FR_356|1.1MB/s|S004-260618 0...
+  name: 34|🇫🇷FR_356|1.1MB/s|S004-260618 0...
   network: ws
   password: Telegram_healer_config
   port: 443
@@ -822,7 +824,7 @@ proxies:
   - h3
   - h2
   - http/1.1
-  name: 30|🇫🇷FR_360|1.8MB/s|S004-260618 0...
+  name: 34|🇫🇷FR_360|1.8MB/s|S004-260618 0...
   network: ws
   password: humanity
   port: 443
@@ -831,7 +833,7 @@ proxies:
   type: trojan
   ws-opts:
     path: /assignment
-- name: 30|🇫🇷FR_383|2.0MB/s|B007-260618 0...
+- name: 34|🇫🇷FR_383|2.0MB/s|B007-260618 0...
   network: ws
   password: humanity
   port: 443
@@ -840,7 +842,7 @@ proxies:
   type: trojan
   ws-opts:
     path: /assignment
-- name: 30|🇫🇷FR_385|1.1MB/s|B007-260618 0...
+- name: 34|🇫🇷FR_385|1.1MB/s|B007-260618 0...
   network: ws
   password: humanity
   port: 443
@@ -849,7 +851,7 @@ proxies:
   type: trojan
   ws-opts:
     path: /assignment
-- name: 30|🇫🇷FR_386|1.0MB/s|B007-260618 0...
+- name: 34|🇫🇷FR_386|1.0MB/s|B007-260618 0...
   network: ws
   password: humanity
   port: 443
@@ -858,7 +860,7 @@ proxies:
   type: trojan
   ws-opts:
     path: /assignment
-- name: 30|🇫🇷FR_412|713KB/s|C002-260622 0...
+- name: 34|🇫🇷FR_412|713KB/s|C002-260622 0...
   network: ws
   password: humanity
   port: 443
@@ -869,7 +871,7 @@ proxies:
     path: /assignment
 - alpn:
   - http/1.1
-  name: 30|🇫🇷FR_416|348KB/s|B007-260618 0...
+  name: 34|🇫🇷FR_416|348KB/s|B007-260618 0...
   network: ws
   password: Telegram_healer_config
   port: 443
@@ -881,7 +883,7 @@ proxies:
 - alpn:
   - h2
   - http/1.1
-  name: 30|🇫🇷FR_438|878KB/s|A001-260618 0...
+  name: 34|🇫🇷FR_438|878KB/s|A001-260618 0...
   network: ws
   password: humanity
   port: 443
@@ -890,7 +892,7 @@ proxies:
   type: trojan
   ws-opts:
     path: /assignment
-- name: 30|🇫🇷FR_439|1.8MB/s|A001-260618 0...
+- name: 34|🇫🇷FR_439|1.8MB/s|A001-260618 0...
   network: ws
   password: humanity
   port: 443
@@ -899,7 +901,7 @@ proxies:
   type: trojan
   ws-opts:
     path: /assignment
-- name: 30|🇫🇷FR_440|725KB/s|A001-260618 0...
+- name: 34|🇫🇷FR_440|725KB/s|A001-260618 0...
   network: ws
   password: humanity
   port: 443
@@ -908,7 +910,7 @@ proxies:
   type: trojan
   ws-opts:
     path: /assignment
-- name: 30|🇫🇷FR_441|1.0MB/s|A001-260618 0...
+- name: 34|🇫🇷FR_441|1.0MB/s|A001-260618 0...
   network: ws
   password: humanity
   port: 443
@@ -917,7 +919,7 @@ proxies:
   type: trojan
   ws-opts:
     path: /assignment
-- name: 30|🇫🇷FR_446|636KB/s|F003-260618 0...
+- name: 34|🇫🇷FR_446|636KB/s|F003-260618 0...
   network: ws
   password: humanity
   port: 443
@@ -928,7 +930,7 @@ proxies:
     path: /assignment
 - alpn:
   - http/1.1
-  name: 30|🇫🇷FR_491|740KB/s|B007-260618 0...
+  name: 34|🇫🇷FR_491|740KB/s|B007-260618 0...
   network: ws
   password: Telegram_healer_config
   port: 443
@@ -941,7 +943,7 @@ proxies:
   - h3
   - h2
   - http/1.1
-  name: 30|🇫🇷FR_492|1.2MB/s|S001-260618 0...
+  name: 34|🇫🇷FR_492|1.2MB/s|S001-260618 0...
   network: ws
   password: humanity
   port: 443
@@ -950,7 +952,7 @@ proxies:
   type: trojan
   ws-opts:
     path: /assignment
-- name: 30|🇫🇷FR_496|1.0MB/s|S004-260618 0...
+- name: 34|🇫🇷FR_496|1.0MB/s|S004-260618 0...
   network: ws
   password: humanity
   port: 443
@@ -959,7 +961,7 @@ proxies:
   type: trojan
   ws-opts:
     path: /assignment
-- name: 30|🇫🇷FR_499|1.2MB/s|C002-260622 0...
+- name: 34|🇫🇷FR_499|1.2MB/s|C002-260622 0...
   network: ws
   password: humanity
   port: 443
@@ -968,7 +970,7 @@ proxies:
   type: trojan
   ws-opts:
     path: /assignment
-- name: 30|🇫🇷FR_527|1.4MB/s|A001-260618 0...
+- name: 34|🇫🇷FR_527|1.4MB/s|A001-260618 0...
   network: ws
   password: humanity
   port: 443
@@ -977,7 +979,7 @@ proxies:
   type: trojan
   ws-opts:
     path: /assignment
-- name: 30|🇫🇷FR_529|1.1MB/s|B007-260618 0...
+- name: 34|🇫🇷FR_529|1.1MB/s|B007-260618 0...
   network: ws
   password: humanity
   port: 443
@@ -986,7 +988,7 @@ proxies:
   type: trojan
   ws-opts:
     path: /assignment
-- name: 30|🇫🇷FR_537|441KB/s|A001-260618 0...
+- name: 34|🇫🇷FR_537|441KB/s|A001-260618 0...
   network: ws
   password: humanity
   port: 443
@@ -995,7 +997,7 @@ proxies:
   type: trojan
   ws-opts:
     path: /assignment
-- name: 30|🇫🇷FR_538|803KB/s|A001-260618 0...
+- name: 34|🇫🇷FR_538|803KB/s|A001-260618 0...
   network: ws
   password: humanity
   port: 443
@@ -1004,7 +1006,7 @@ proxies:
   type: trojan
   ws-opts:
     path: /assignment
-- name: 30|🇫🇷FR_539|795KB/s|A001-260618 0...
+- name: 34|🇫🇷FR_539|795KB/s|A001-260618 0...
   network: ws
   password: humanity
   port: 443
@@ -1013,7 +1015,7 @@ proxies:
   type: trojan
   ws-opts:
     path: /assignment
-- name: 30|🇫🇷FR_540|861KB/s|A001-260618 0...
+- name: 34|🇫🇷FR_540|861KB/s|A001-260618 0...
   network: ws
   password: humanity
   port: 443
@@ -1022,7 +1024,7 @@ proxies:
   type: trojan
   ws-opts:
     path: /assignment
-- name: 30|🇫🇷FR_541|1.6MB/s|A001-260618 0...
+- name: 34|🇫🇷FR_541|1.6MB/s|A001-260618 0...
   network: ws
   password: humanity
   port: 443
@@ -1031,7 +1033,7 @@ proxies:
   type: trojan
   ws-opts:
     path: /assignment
-- name: 30|🇫🇷FR_544|659KB/s|F003-260618 0...
+- name: 34|🇫🇷FR_544|659KB/s|F003-260618 0...
   network: ws
   password: humanity
   port: 443
@@ -1040,7 +1042,7 @@ proxies:
   type: trojan
   ws-opts:
     path: /assignment
-- name: 30|🇫🇷FR_569|119KB/s 01
+- name: 34|🇫🇷FR_569|119KB/s 01
   network: ws
   password: humanity
   port: 443
@@ -1049,7 +1051,7 @@ proxies:
   type: trojan
   ws-opts:
     path: /assignment
-- name: 30|🇫🇷FR_570|1.6MB/s 01
+- name: 34|🇫🇷FR_570|1.6MB/s 01
   network: ws
   password: humanity
   port: 443
@@ -1058,7 +1060,7 @@ proxies:
   type: trojan
   ws-opts:
     path: /assignment
-- name: 30|🇫🇷FR_573|1.2MB/s 01
+- name: 34|🇫🇷FR_573|1.2MB/s 01
   network: ws
   password: humanity
   port: 443
@@ -1067,7 +1069,7 @@ proxies:
   type: trojan
   ws-opts:
     path: /assignment
-- name: 30|🇫🇷FR_579|1.1MB/s|C002-260622 0...
+- name: 34|🇫🇷FR_579|1.1MB/s|C002-260622 0...
   network: ws
   password: humanity
   port: 443
@@ -1076,7 +1078,7 @@ proxies:
   type: trojan
   ws-opts:
     path: /assignment
-- name: 30|🇫🇷FR_584|1.6MB/s|C002-260622 0...
+- name: 34|🇫🇷FR_584|1.6MB/s|C002-260622 0...
   network: ws
   password: humanity
   port: 443
@@ -1085,7 +1087,7 @@ proxies:
   type: trojan
   ws-opts:
     path: /assignment
-- name: 30|🇫🇷FR_585|1.4MB/s|C002-260622 0...
+- name: 34|🇫🇷FR_585|1.4MB/s|C002-260622 0...
   network: ws
   password: humanity
   port: 443
@@ -1094,7 +1096,7 @@ proxies:
   type: trojan
   ws-opts:
     path: /assignment
-- name: 30|🇫🇷FR_589|964KB/s|C002-260622 0...
+- name: 34|🇫🇷FR_589|964KB/s|C002-260622 0...
   network: ws
   password: humanity
   port: 443
@@ -1105,7 +1107,7 @@ proxies:
     path: /%2Fassignment
 - alpn:
   - http/1.1
-  name: 30|🇫🇷FR_591|673KB/s|M002-260618 0...
+  name: 34|🇫🇷FR_591|673KB/s|M002-260618 0...
   network: ws
   password: A4u^p(_UR*F6
   port: 443
@@ -1114,7 +1116,7 @@ proxies:
   type: trojan
   ws-opts:
     path: /eyJqdW5rIjoidlhnMXN5OXFUSiIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=2560
-- name: 30|🇫🇷FR_593|1.2MB/s|B007-260618 0...
+- name: 34|🇫🇷FR_593|1.2MB/s|B007-260618 0...
   network: ws
   password: humanity
   port: 443
@@ -1123,7 +1125,7 @@ proxies:
   type: trojan
   ws-opts:
     path: /assignment
-- name: 30|🇫🇷FR_594|1.3MB/s|C002-260622 0...
+- name: 34|🇫🇷FR_594|1.3MB/s|C002-260622 0...
   network: ws
   password: humanity
   port: 443
@@ -1132,7 +1134,7 @@ proxies:
   type: trojan
   ws-opts:
     path: /assignment
-- name: 30|🇫🇷FR_607|944KB/s|C002-260622 0...
+- name: 34|🇫🇷FR_607|944KB/s|C002-260622 0...
   network: ws
   password: humanity
   port: 443
@@ -1144,7 +1146,7 @@ proxies:
 - alpn:
   - h2
   - http/1.1
-  name: 30|🇫🇷FR_617|1.3MB/s|C002-260622 0...
+  name: 34|🇫🇷FR_617|1.3MB/s|C002-260622 0...
   network: ws
   password: humanity
   port: 443
@@ -1153,9 +1155,18 @@ proxies:
   type: trojan
   ws-opts:
     path: /assignment
+- name: 34|🇫🇷FR_640|1.0MB/s|B007-260618 0...
+  network: ws
+  password: humanity
+  port: 443
+  server: 172.67.149.60
+  sni: www.ignitelimit.com
+  type: trojan
+  ws-opts:
+    path: /assignment
 - alpn:
   - http/1.1
-  name: 30|🇫🇷FR_705|419KB/s 01
+  name: 34|🇫🇷FR_705|419KB/s 01
   network: ws
   password: bd85f5fe32d9446a8b1f59e4f710455b
   port: 443
@@ -1166,7 +1177,7 @@ proxies:
     path: /eyJqdW5rIjoibkN2cER2SDZIUTkiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6IiIsInBhbmVsSVBzIjoiWzJhMDI6ODk4OjE0Njo2NDo6XSJ9?ed=2560
 - alpn:
   - http/1.1
-  name: 30|🇫🇷FR_727|399KB/s|B007-260618 0...
+  name: 34|🇫🇷FR_727|399KB/s|B007-260618 0...
   network: ws
   password: Telegram_healer_config
   port: 443
@@ -1177,7 +1188,7 @@ proxies:
     path: /tr/VQ1n6VuZtSQv0vvjjCG?ed=2560
 - alpn:
   - http/1.1
-  name: 30|🇫🇷FR_775|442KB/s|S004-260618 0...
+  name: 34|🇫🇷FR_775|442KB/s|S004-260618 0...
   network: ws
   password: Telegram_healer_config
   port: 443
@@ -1186,7 +1197,7 @@ proxies:
   type: trojan
   ws-opts:
     path: /tr/GaQvfFwT5sWgVxHig8YaXjtiuQPZNI?ed=2560
-- name: 30|🇫🇷FR_831|397KB/s|M003-260806 0...
+- name: 34|🇫🇷FR_831|397KB/s|M003-260806 0...
   network: ws
   password: 50414e45-4c5f-5a45-5553-eeb34b317c4f
   port: 443
@@ -1197,7 +1208,7 @@ proxies:
     path: /stream/PANEL_ZEUS/eeb34b317c4f
 - alpn:
   - http/1.1
-  name: 30|🇫🇷FR_885|475KB/s|V007-260618 0...
+  name: 34|🇫🇷FR_885|475KB/s|V007-260618 0...
   network: ws
   password: Telegram_healer_config
   port: 443
@@ -1209,7 +1220,7 @@ proxies:
 - alpn:
   - h2
   - http/1.1
-  name: 30|🇫🇷FR_892|855KB/s|R002-260618 0...
+  name: 34|🇫🇷FR_892|855KB/s|R002-260618 0...
   network: ws
   password: humanity
   port: 443
@@ -1220,7 +1231,7 @@ proxies:
     path: /assignment
 - alpn:
   - http/1.1
-  name: 30|🇫🇷FR_911|546KB/s|B007-260618 0...
+  name: 34|🇫🇷FR_911|546KB/s|B007-260618 0...
   network: ws
   password: eabf1999fefbb7d2
   port: 2087
@@ -1231,7 +1242,7 @@ proxies:
     path: /tr/sMpzOZ0eWEt6jbZ1jjN3BaM7LLoQ
 - alpn:
   - http/1.1
-  name: 30|🇫🇷FR_913|340KB/s|M003-260806 0...
+  name: 34|🇫🇷FR_913|340KB/s|M003-260806 0...
   network: ws
   password: Telegram_healer_config
   port: 443
@@ -1242,7 +1253,7 @@ proxies:
     path: /tr/nDuppKYyUqsEcG0rcQEg5sghG0?ed=2560
 - alpn:
   - http/1.1
-  name: 30|🇫🇷FR_914|497KB/s|M003-260806 0...
+  name: 34|🇫🇷FR_914|497KB/s|M003-260806 0...
   network: ws
   password: letiranbreath-x@^f
   port: 2096
@@ -1251,7 +1262,7 @@ proxies:
   type: trojan
   ws-opts:
     path: /eyJqdW5rIjoiYmx1NXI3dml6NjB3NW9nZyIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjEwNC4yOC4yNTUuNzQiXX0=?ed=2560
-- name: 30|🇫🇷FR_962|763KB/s|M003-260806 0...
+- name: 34|🇫🇷FR_962|763KB/s|M003-260806 0...
   network: ws
   password: 87d1bfd4-574e-4c96-ad42-0426f27461ff
   port: 443
@@ -1262,7 +1273,7 @@ proxies:
     path: /
 - alpn:
   - http/1.1
-  name: 30|🇫🇷FR_963|472KB/s|M003-260806 0...
+  name: 34|🇫🇷FR_963|472KB/s|M003-260806 0...
   network: ws
   password: A4u^p(_UR*F6
   port: 443
@@ -1274,7 +1285,7 @@ proxies:
     path: /eyJqdW5rIjoidDJ0UDljR2ZIaVBQakg2byIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=
 - alpn:
   - http/1.1
-  name: 30|🇫🇷FR_964|1.5MB/s|M003-260806 0...
+  name: 34|🇫🇷FR_964|1.5MB/s|M003-260806 0...
   network: ws
   password: Telegram_healer_config
   port: 443
@@ -1285,7 +1296,7 @@ proxies:
     path: /tr/kp0IOvZwWV0X35ln0vIh?ed=2560
 - alpn:
   - http/1.1
-  name: 30|🇫🇷FR_965|390KB/s|M003-260806 0...
+  name: 34|🇫🇷FR_965|390KB/s|M003-260806 0...
   network: ws
   password: letiranbreath-x@^f
   port: 2053
@@ -1296,7 +1307,7 @@ proxies:
     path: /eyJqdW5rIjoiYmx1NXI3dml6NjB3NW9nZyIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjEwNC4yOC4yNTUuNzQiXX0=?ed=2560
 - alpn:
   - http/1.1
-  name: 30|🇫🇷FR_966|556KB/s|M003-260806 0...
+  name: 34|🇫🇷FR_966|556KB/s|M003-260806 0...
   network: ws
   password: letiranbreath-x@^f
   port: 443
@@ -1305,7 +1316,7 @@ proxies:
   type: trojan
   ws-opts:
     path: /eyJqdW5rIjoiYmx1NXI3dml6NjB3NW9nZyIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjEwNC4yOC4yNTUuNzQiXX0=?ed=2560
-- name: 30|🇫🇷FR_987|765KB/s|C002-260622 0...
+- name: 34|🇫🇷FR_987|765KB/s|C002-260622 0...
   network: ws
   password: humanity
   port: 443
@@ -1316,7 +1327,7 @@ proxies:
     path: /assignment
 - alpn:
   - http/1.1
-  name: 30|🇫🇷FR_1012|756KB/s|B007-260618 ...
+  name: 34|🇫🇷FR_1012|756KB/s|B007-260618 ...
   network: ws
   password: Telegram_healer_config
   port: 443
@@ -1327,7 +1338,7 @@ proxies:
     path: /tr/JIPAVWGHbaGJWIcEUAFGZIxrVCPW?ed=2560
 - alpn:
   - http/1.1
-  name: 30|🇫🇷FR_1019|300KB/s|B007-260618 ...
+  name: 34|🇫🇷FR_1019|300KB/s|B007-260618 ...
   network: ws
   password: Telegram_healer_config
   port: 443
@@ -1338,7 +1349,7 @@ proxies:
     path: /tr/5cJhuZZi5ZL6KKmZ5vKVeM?ed=2560
 - alpn:
   - http/1.1
-  name: 30|🇫🇷FR_1020|549KB/s|B007-260618 ...
+  name: 34|🇫🇷FR_1020|549KB/s|B007-260618 ...
   network: ws
   password: Telegram_healer_config
   port: 443
@@ -1349,7 +1360,7 @@ proxies:
     path: /tr/MyONKU8UND5ZRBBUz6C?ed=2560
 - alpn:
   - http/1.1
-  name: 30|🇫🇷FR_1021|529KB/s|B007-260618 ...
+  name: 34|🇫🇷FR_1021|529KB/s|B007-260618 ...
   network: ws
   password: Telegram_healer_config
   port: 443
@@ -1360,7 +1371,7 @@ proxies:
     path: /tr/rkSn26veCGpvDy162Z?ed=2560
 - alpn:
   - http/1.1
-  name: 30|🇫🇷FR_1022|231KB/s|B007-260618 ...
+  name: 34|🇫🇷FR_1022|231KB/s|B007-260618 ...
   network: ws
   password: Telegram_healer_config
   port: 443
@@ -1371,7 +1382,7 @@ proxies:
     path: /tr/XDSHbKWRTEyuEeUs4isq9LG?ed=2560
 - alpn:
   - http/1.1
-  name: 30|🇫🇷FR_1024|381KB/s|M003-260806 ...
+  name: 34|🇫🇷FR_1024|381KB/s|M003-260806 ...
   network: ws
   password: eabf1999fefbb7d2
   port: 2087
@@ -1380,7 +1391,7 @@ proxies:
   type: trojan
   ws-opts:
     path: /tr/sMpzOZ0eWEt6jbZ1jjN3BaM7LLoQ
-- name: 30|🇫🇷FR_1034|361KB/s|R002-260618 ...
+- name: 34|🇫🇷FR_1034|361KB/s|R002-260618 ...
   network: ws
   password: trojan
   port: 8443
@@ -1391,7 +1402,7 @@ proxies:
     path: /
 - alpn:
   - http/1.1
-  name: 30|🇫🇷FR_1039|827KB/s|B007-260618 ...
+  name: 34|🇫🇷FR_1039|827KB/s|B007-260618 ...
   network: ws
   password: Telegram_healer_config
   port: 443
@@ -1402,7 +1413,7 @@ proxies:
     path: /tr/SniOCmVMzIWOA1FDZDeGODGx2lS1LV?ed=2560
 - alpn:
   - http/1.1
-  name: 30|🇫🇷FR_1041|257KB/s|M003-260806 ...
+  name: 34|🇫🇷FR_1041|257KB/s|M003-260806 ...
   network: ws
   password: eabf1999fefbb7d2
   port: 2087
@@ -1413,7 +1424,7 @@ proxies:
     path: /tr/sMpzOZ0eWEt6jbZ1jjN3BaM7LLoQ
 - alpn:
   - http/1.1
-  name: 30|🇫🇷FR_1047|446KB/s|M003-260806 ...
+  name: 34|🇫🇷FR_1047|446KB/s|M003-260806 ...
   network: ws
   password: Telegram_healer_config
   port: 443
@@ -1424,7 +1435,7 @@ proxies:
     path: /tr/kp0IOvZwWV0X35ln0vIh?ed=2560
 - alpn:
   - http/1.1
-  name: 30|🇫🇷FR_1048|510KB/s|M003-260806 ...
+  name: 34|🇫🇷FR_1048|510KB/s|M003-260806 ...
   network: ws
   password: Telegram_healer_config
   port: 443
@@ -1435,7 +1446,7 @@ proxies:
     path: /tr/GaQvfFwT5sWgVxHig8YaXjtiuQPZNI?ed=2560
 - alpn:
   - http/1.1
-  name: 30|🇫🇷FR_1049|709KB/s|M003-260806 ...
+  name: 34|🇫🇷FR_1049|709KB/s|M003-260806 ...
   network: ws
   password: Telegram_healer_config
   port: 443
@@ -1446,7 +1457,7 @@ proxies:
     path: /tr/GaQvfFwT5sWgVxHig8YaXjtiuQPZNI?ed=2560
 - alpn:
   - http/1.1
-  name: 30|🇫🇷FR_1072|724KB/s|B007-260618 ...
+  name: 34|🇫🇷FR_1072|724KB/s|B007-260618 ...
   network: ws
   password: Telegram_healer_config
   port: 443
@@ -1457,7 +1468,7 @@ proxies:
     path: /tr/zMUJnc0O87fJR02xzGNed?ed=2560
 - alpn:
   - http/1.1
-  name: 30|🇫🇷FR_1073|411KB/s|B007-260618 ...
+  name: 34|🇫🇷FR_1073|411KB/s|B007-260618 ...
   network: ws
   password: Telegram_healer_config
   port: 443
@@ -1466,7 +1477,7 @@ proxies:
   type: trojan
   ws-opts:
     path: /tr/VCf8OF27gyXfyS3GNQ1ejyY7sy4?ed=2560
-- name: 30|🇫🇷FR_1095|310KB/s|M003-260806 ...
+- name: 34|🇫🇷FR_1095|310KB/s|M003-260806 ...
   network: ws
   password: 50414e45-4c5f-5a45-5553-05920b4f8f35
   port: 2096
@@ -1477,7 +1488,7 @@ proxies:
     path: /stream/PANEL_ZEUS/05920b4f8f35
 - alpn:
   - http/1.1
-  name: 30|🇫🇷FR_1096|589KB/s|M003-260806 ...
+  name: 34|🇫🇷FR_1096|589KB/s|M003-260806 ...
   network: ws
   password: 5855d6850594830f
   port: 443
@@ -1488,7 +1499,7 @@ proxies:
     path: /tr/w2O3K3xXNYDKIxwOIw7?ed=2560
 - alpn:
   - http/1.1
-  name: 30|🇫🇷FR_1097|594KB/s|M003-260806 ...
+  name: 34|🇫🇷FR_1097|594KB/s|M003-260806 ...
   network: ws
   password: Telegram_healer_config
   port: 443
@@ -1499,7 +1510,7 @@ proxies:
     path: /tr/iKNPzyUClLafWsNIz03UG9xb?ed=2560
 - alpn:
   - http/1.1
-  name: 30|🇫🇷FR_1126|568KB/s|M003-260806 ...
+  name: 34|🇫🇷FR_1126|568KB/s|M003-260806 ...
   network: ws
   password: c0c17d1da2c2c9299d5094c8
   port: 443
@@ -1510,7 +1521,7 @@ proxies:
     path: /eyJqdW5rIjoia1pyRFFaUlU0eSIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=
 - alpn:
   - http/1.1
-  name: 30|🇫🇷FR_1133|409KB/s|B007-260618 ...
+  name: 34|🇫🇷FR_1133|409KB/s|B007-260618 ...
   network: ws
   password: -wb.oDfOeHifTGMVEf
   port: 443
@@ -1521,7 +1532,7 @@ proxies:
     path: /tr/DUxfWnCsYjSEOWSUGmnz?ed=2560
 - alpn:
   - http/1.1
-  name: 30|🇫🇷FR_1134|396KB/s|B007-260618 ...
+  name: 34|🇫🇷FR_1134|396KB/s|B007-260618 ...
   network: ws
   password: -wb.oDfOeHifTGMVEf
   port: 443
@@ -1532,7 +1543,7 @@ proxies:
     path: /tr/JkwIXZZlza6sgoi9?ed=2560
 - alpn:
   - http/1.1
-  name: 30|🇫🇷FR_1135|532KB/s|B007-260618 ...
+  name: 34|🇫🇷FR_1135|532KB/s|B007-260618 ...
   network: ws
   password: PFAiJ0ND-iqYF@NE
   port: 443
@@ -1543,7 +1554,7 @@ proxies:
     path: /tr/KURFCgLPt17jn2XBc1a8Mfx?ed=2560
 - alpn:
   - http/1.1
-  name: 30|🇫🇷FR_1143|318KB/s|B007-260618 ...
+  name: 34|🇫🇷FR_1143|318KB/s|B007-260618 ...
   network: ws
   password: -wb.oDfOeHifTGMVEf
   port: 443
@@ -1554,7 +1565,7 @@ proxies:
     path: /tr/CRGrZTTVLMALBJkE4?ed=2560
 - alpn:
   - http/1.1
-  name: 30|🇫🇷FR_2270|92KB/s|M003-260806 0...
+  name: 34|🇫🇷FR_2270|92KB/s|M003-260806 0...
   network: ws
   password: c0c17d1da2c2c9299d5094c8
   port: 443
@@ -1563,7 +1574,7 @@ proxies:
   type: trojan
   ws-opts:
     path: /eyJqdW5rIjoiMDdteWJvazY4azJ3MiIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=
-- name: 30|🇫🇷FR_1147|1.4MB/s|P002-260618 ...
+- name: 34|🇫🇷FR_1147|1.4MB/s|P002-260618 ...
   network: ws
   password: humanity
   port: 443
@@ -1574,7 +1585,7 @@ proxies:
     path: /assignment
 - alpn:
   - http/1.1
-  name: 30|🇫🇷FR_1176|637KB/s|B007-260618 ...
+  name: 34|🇫🇷FR_1176|637KB/s|B007-260618 ...
   network: ws
   password: LcICDcp!jD9TFV$NbH
   port: 443
@@ -1585,7 +1596,7 @@ proxies:
     path: /tr/pg4wM48V9O859nmqsJg22EOFKN4S570y?ed=2560
 - alpn:
   - http/1.1
-  name: 30|🇫🇷FR_1181|357KB/s|M003-260806 ...
+  name: 34|🇫🇷FR_1181|357KB/s|M003-260806 ...
   network: ws
   password: Telegram_healer_config
   port: 443
@@ -1596,7 +1607,7 @@ proxies:
     path: /tr/1nWXnOaq1ajP7PKxbRS7Sdck48oy?ed=2560
 - alpn:
   - http/1.1
-  name: 30|🇫🇷FR_1201|388KB/s|B007-260618 ...
+  name: 34|🇫🇷FR_1201|388KB/s|B007-260618 ...
   network: ws
   password: EPI4SnpMUxd6L-I.B9
   port: 443
@@ -1607,7 +1618,7 @@ proxies:
     path: /tr/8KVksLNS3szUPyFzJT8yvuJztLr?ed=2560
 - alpn:
   - http/1.1
-  name: 30|🇫🇷FR_1202|545KB/s|B007-260618 ...
+  name: 34|🇫🇷FR_1202|545KB/s|B007-260618 ...
   network: ws
   password: EPI4SnpMUxd6L-I.B9
   port: 443
@@ -1616,7 +1627,7 @@ proxies:
   type: trojan
   ws-opts:
     path: /tr/bZQmUGcGvss6BIiQhIPr003mzA?ed=2560
-- name: 30|🇫🇷FR_1218|580KB/s|B007-260618 ...
+- name: 34|🇫🇷FR_1218|580KB/s|B007-260618 ...
   network: ws
   password: humanity
   port: 443
@@ -1627,7 +1638,7 @@ proxies:
     path: /assignment
 - alpn:
   - http/1.1
-  name: 30|🇫🇷FR_1224|934KB/s|B007-260618 ...
+  name: 34|🇫🇷FR_1224|934KB/s|B007-260618 ...
   network: ws
   password: Telegram_healer_config
   port: 443
@@ -1638,7 +1649,7 @@ proxies:
     path: /tr/owxywx7VjYMLyGu2JOQYjHwV67l?ed=2560
 - alpn:
   - http/1.1
-  name: 30|🇫🇷FR_1225|462KB/s|B007-260618 ...
+  name: 34|🇫🇷FR_1225|462KB/s|B007-260618 ...
   network: ws
   password: Telegram_healer_config
   port: 443
@@ -1649,7 +1660,7 @@ proxies:
     path: /tr/e2X4F8y1t8YGOWfIV2ImzqxmdmGEpf?ed=2560
 - alpn:
   - http/1.1
-  name: 30|🇫🇷FR_1234|445KB/s|B007-260618 ...
+  name: 34|🇫🇷FR_1234|445KB/s|B007-260618 ...
   network: ws
   password: Telegram_healer_config
   port: 443
@@ -1661,7 +1672,7 @@ proxies:
     path: /tr/W3Ei3SdcW9sRVMLIbEd8sB1lm?ed=2560
 - alpn:
   - http/1.1
-  name: 30|🇫🇷FR_1235|363KB/s|B007-260618 ...
+  name: 34|🇫🇷FR_1235|363KB/s|B007-260618 ...
   network: ws
   password: Telegram_healer_config
   port: 443
@@ -1673,7 +1684,7 @@ proxies:
     path: /tr/N61UxT346epoPVmA9xFM6H00?ed=2560
 - alpn:
   - http/1.1
-  name: 30|🇫🇷FR_1243|574KB/s|T001-260618 ...
+  name: 34|🇫🇷FR_1243|574KB/s|T001-260618 ...
   network: ws
   password: Telegram_healer_config
   port: 443
@@ -1685,7 +1696,7 @@ proxies:
     path: /tr/ox5zBiRQjs2Rscy0XwxXY2ZzE?ed=2560
 - alpn:
   - http/1.1
-  name: 30|🇫🇷FR_1245|548KB/s|T001-260618 ...
+  name: 34|🇫🇷FR_1245|548KB/s|T001-260618 ...
   network: ws
   password: Telegram_healer_config
   port: 443
@@ -1697,7 +1708,7 @@ proxies:
     path: /tr/bDodLFtTQwCZ6EX3ffMYJ06j9EjLse4d?ed=2560
 - alpn:
   - http/1.1
-  name: 30|🇫🇷FR_1246|534KB/s|T001-260618 ...
+  name: 34|🇫🇷FR_1246|534KB/s|T001-260618 ...
   network: ws
   password: Telegram_healer_config
   port: 443
@@ -1709,7 +1720,7 @@ proxies:
     path: /tr/zJi4ccv7FeEo780U?ed=2560
 - alpn:
   - http/1.1
-  name: 30|🇫🇷FR_1247|317KB/s|T001-260618 ...
+  name: 34|🇫🇷FR_1247|317KB/s|T001-260618 ...
   network: ws
   password: Telegram_healer_config
   port: 443
@@ -1719,7 +1730,7 @@ proxies:
   type: trojan
   ws-opts:
     path: /tr/qL8YIeH28wNcXfNTPgLCwOhNFEr?ed=2560
-- name: 30|🇫🇷FR_1254|1.1MB/s 01
+- name: 34|🇫🇷FR_1254|1.1MB/s 01
   network: ws
   password: humanity
   port: 443
@@ -1728,7 +1739,7 @@ proxies:
   type: trojan
   ws-opts:
     path: /assignment
-- name: 30|🇫🇷FR_1256|1.2MB/s|B007-260618 ...
+- name: 34|🇫🇷FR_1256|1.2MB/s|B007-260618 ...
   network: ws
   password: humanity
   port: 443
@@ -1737,7 +1748,7 @@ proxies:
   type: trojan
   ws-opts:
     path: /assignment
-- name: 30|🇫🇷FR_1257|661KB/s|B007-260618 ...
+- name: 34|🇫🇷FR_1257|661KB/s|B007-260618 ...
   network: ws
   password: humanity
   port: 443
@@ -1746,7 +1757,7 @@ proxies:
   type: trojan
   ws-opts:
     path: /assignment
-- name: 30|🇫🇷FR_1259|965KB/s|C002-260622 ...
+- name: 34|🇫🇷FR_1259|965KB/s|C002-260622 ...
   network: ws
   password: humanity
   port: 443
@@ -1755,7 +1766,7 @@ proxies:
   type: trojan
   ws-opts:
     path: /assignment
-- name: 30|🇫🇷FR_1260|1.6MB/s|C002-260622 ...
+- name: 34|🇫🇷FR_1260|1.6MB/s|C002-260622 ...
   network: ws
   password: humanity
   port: 443
@@ -1764,7 +1775,7 @@ proxies:
   type: trojan
   ws-opts:
     path: /assignment
-- name: 30|🇫🇷FR_1262|1.2MB/s|C002-260622 ...
+- name: 34|🇫🇷FR_1262|1.2MB/s|C002-260622 ...
   network: ws
   password: humanity
   port: 443
@@ -1777,7 +1788,7 @@ proxies:
   - h3
   - h2
   - http/1.1
-  name: 30|🇫🇷FR_1264|1.0MB/s|S004-260618 ...
+  name: 34|🇫🇷FR_1264|1.0MB/s|S004-260618 ...
   network: ws
   password: humanity
   port: 443
@@ -1786,7 +1797,7 @@ proxies:
   type: trojan
   ws-opts:
     path: /assignment
-- name: 30|🇫🇷FR_1266|1.7MB/s|A001-260618 ...
+- name: 34|🇫🇷FR_1266|1.7MB/s|A001-260618 ...
   network: ws
   password: humanity
   port: 443
@@ -1795,7 +1806,7 @@ proxies:
   type: trojan
   ws-opts:
     path: /assignment
-- name: 30|🇫🇷FR_1268|920KB/s|M003-260806 ...
+- name: 34|🇫🇷FR_1268|920KB/s|M003-260806 ...
   network: ws
   password: humanity
   port: 443
@@ -1804,7 +1815,7 @@ proxies:
   type: trojan
   ws-opts:
     path: /assignment
-- name: 30|🇫🇷FR_1272|1.1MB/s|A001-260618 ...
+- name: 34|🇫🇷FR_1272|1.1MB/s|A001-260618 ...
   network: ws
   password: humanity
   port: 443
@@ -1813,7 +1824,7 @@ proxies:
   type: trojan
   ws-opts:
     path: /assignment
-- name: 30|🇫🇷FR_1273|1004KB/s|A001-260618...
+- name: 34|🇫🇷FR_1273|1004KB/s|A001-260618...
   network: ws
   password: humanity
   port: 443
@@ -1824,7 +1835,7 @@ proxies:
     path: /assignment
 - alpn:
   - http/1.1
-  name: 30|🇫🇷FR_1274|705KB/s|B007-260618 ...
+  name: 34|🇫🇷FR_1274|705KB/s|B007-260618 ...
   network: ws
   password: Telegram_healer_config
   port: 443
@@ -1833,7 +1844,7 @@ proxies:
   type: trojan
   ws-opts:
     path: /tr/V2VWNDZAAEIdXVjOCkLfJnefnR5Pum?ed=2560
-- name: 30|🇫🇷FR_1279|609KB/s|F003-260618 ...
+- name: 34|🇫🇷FR_1279|609KB/s|F003-260618 ...
   network: ws
   password: humanity
   port: 443
@@ -1844,7 +1855,7 @@ proxies:
     path: /assignment
 - alpn:
   - http/1.1
-  name: 30|🇫🇷FR_1284|769KB/s|B007-260618 ...
+  name: 34|🇫🇷FR_1284|769KB/s|B007-260618 ...
   network: ws
   password: Telegram_healer_config
   port: 443
@@ -1853,7 +1864,7 @@ proxies:
   type: trojan
   ws-opts:
     path: /tr/dxyX388XOtyAjF3A?ed=2560
-- name: 30|🇫🇷FR_1298|720KB/s|A001-260618 ...
+- name: 34|🇫🇷FR_1298|720KB/s|A001-260618 ...
   network: ws
   password: humanity
   port: 443
@@ -1864,7 +1875,7 @@ proxies:
     path: /assignment
 - alpn:
   - http/1.1
-  name: 30|🇫🇷FR_1315|357KB/s|B007-260618 ...
+  name: 34|🇫🇷FR_1315|357KB/s|B007-260618 ...
   network: ws
   password: PFAiJ0ND-iqYF@NE
   port: 443
@@ -1875,7 +1886,7 @@ proxies:
     path: /tr/0FBfx1aV3Ri9dlJaevEWV3sBuJnoqIS?ed=2560
 - alpn:
   - http/1.1
-  name: 30|🇫🇷FR_1319|443KB/s|M003-260806 ...
+  name: 34|🇫🇷FR_1319|443KB/s|M003-260806 ...
   network: ws
   password: Telegram_healer_config
   port: 443
@@ -1884,7 +1895,7 @@ proxies:
   type: trojan
   ws-opts:
     path: /tr/VCf8OF27gyXfyS3GNQ1ejyY7sy4?ed=2560
-- name: 30|🇫🇷FR_1343|1.1MB/s|C002-260622 ...
+- name: 34|🇫🇷FR_1343|1.1MB/s|C002-260622 ...
   network: ws
   password: humanity
   port: 443
@@ -1897,7 +1908,7 @@ proxies:
   - h3
   - h2
   - http/1.1
-  name: 30|🇫🇷FR_1346|1.4MB/s|M003-260806 ...
+  name: 34|🇫🇷FR_1346|1.4MB/s|M003-260806 ...
   network: ws
   password: humanity
   port: 443
@@ -1906,7 +1917,7 @@ proxies:
   type: trojan
   ws-opts:
     path: /assignment
-- name: 30|🇫🇷FR_1347|916KB/s|M003-260806 ...
+- name: 34|🇫🇷FR_1347|916KB/s|M003-260806 ...
   network: ws
   password: humanity
   port: 443
@@ -1915,7 +1926,7 @@ proxies:
   type: trojan
   ws-opts:
     path: /assignment
-- name: 30|🇫🇷FR_1351|824KB/s|A003-260618 ...
+- name: 34|🇫🇷FR_1351|824KB/s|A003-260618 ...
   network: ws
   password: humanity
   port: 2053
@@ -1924,7 +1935,7 @@ proxies:
   type: trojan
   ws-opts:
     path: /assignment
-- name: 30|🇫🇷FR_1426|357KB/s|C002-260622 ...
+- name: 34|🇫🇷FR_1426|357KB/s|C002-260622 ...
   network: ws
   password: f18d6149-e214-8554-e737-f7523c8b2eea
   port: 443
@@ -1933,7 +1944,7 @@ proxies:
   type: trojan
   ws-opts:
     path: /sync
-- name: 30|🇫🇷FR_1435|449KB/s|M002-260618 ...
+- name: 34|🇫🇷FR_1435|449KB/s|M002-260618 ...
   network: ws
   password: bpb-trojan
   port: 443
@@ -1944,7 +1955,7 @@ proxies:
     path: /tr?ed=2560
 - alpn:
   - http/1.1
-  name: 30|🇫🇷FR_1448|671KB/s|B007-260618 ...
+  name: 34|🇫🇷FR_1448|671KB/s|B007-260618 ...
   network: ws
   password: Telegram_healer_config
   port: 443
@@ -1955,7 +1966,7 @@ proxies:
     path: /tr/J6IJuAAWkqyiEt8UkeRnVdLlkLIGukLr?ed=2560
 - alpn:
   - http/1.1
-  name: 30|🇫🇷FR_1449|465KB/s|B007-260618 ...
+  name: 34|🇫🇷FR_1449|465KB/s|B007-260618 ...
   network: ws
   password: Telegram_healer_config
   port: 443
@@ -1964,7 +1975,7 @@ proxies:
   type: trojan
   ws-opts:
     path: /tr/hYgAqUlh5GyczDyXP?ed
-- name: 30|🇫🇷FR_1462|404KB/s|C002-260622 ...
+- name: 34|🇫🇷FR_1462|404KB/s|C002-260622 ...
   network: ws
   password: 19877587-ed94-4033-88cd-4ac50a5e8718
   port: 443
@@ -1973,7 +1984,7 @@ proxies:
   type: trojan
   ws-opts:
     path: /WangCai-8
-- name: 30|🇫🇷FR_1472|828KB/s|C002-260622 ...
+- name: 34|🇫🇷FR_1472|828KB/s|C002-260622 ...
   network: ws
   password: 2bcfbfba-b446-4ad5-93ad-72af9e008f61
   port: 443
@@ -1982,7 +1993,7 @@ proxies:
   type: trojan
   ws-opts:
     path: /195.123.218.174-443
-- name: 30|🇫🇷FR_2120|590KB/s 01
+- name: 34|🇫🇷FR_2120|590KB/s 01
   network: ws
   password: bpb-trojan
   port: 443

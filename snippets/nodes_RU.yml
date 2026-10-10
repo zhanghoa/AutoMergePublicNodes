@@ -1,160 +1,146 @@
 proxies:
 - cipher: chacha20-ietf-poly1305
-  name: '7|🇷🇺 [ Configs by DukeMehdi ] SS... #1'
+  name: '10|🇷🇺 [ Configs by DukeMehdi ] SS... #1'
   password: V7jmsA6PQsLn
   port: 444
   server: 146.185.198.44
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '7|🇷🇺 [ Configs by DukeMehdi ] SS... #2'
+  name: '10|🇷🇺 [ Configs by DukeMehdi ] SS... #2'
   password: VVlAff77CnAU43Aoc5j15Y
   port: 5112
   server: 90.156.203.62
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '7|🇷🇺 [ Configs by DukeMehdi ] SS... #3'
+  name: '10,21| By EbraSha 💣 #12'
   password: frcYfFRuQRks932EpCWvX7
   port: 57925
   server: 157.22.240.141
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '7|🇷🇺 [ Configs by DukeMehdi ] SS... #4'
+  name: '10,21| By EbraSha 🚨 #13'
   password: mX1q8sv17wA5LGDHIHD6Jo
   port: 15720
   server: 91.207.183.63
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '7|🇷🇺 [ Configs by DukeMehdi ] SS... #5'
+  name: '10,21| By EbraSha 🪖 #20'
   password: slatpifOon
   port: 444
   server: 185.221.153.52
   type: ss
 - cipher: aes-256-cfb
-  name: '7|🇷🇺 [ Configs by DukeMehdi ] SS... #6'
+  name: '10,21| By EbraSha ♠️ #18'
   password: '!!str 7620447880'
   port: 50005
   server: 92.38.139.95
   type: ss
 - cipher: aes-256-cfb
-  name: '7|🇷🇺 [ Configs by DukeMehdi ] SS... #7'
+  name: '10,21| By EbraSha 🩸 #13'
   password: EXN3S3eQpjE7EJu8
   port: 9027
   server: 213.183.41.38
   type: ss
 - cipher: aes-256-cfb
-  name: '7|🇷🇺 [ Configs by DukeMehdi ] SS... #8'
+  name: '10,21| By EbraSha 🌌 #17'
   password: KnJGad3FqTvjqbaX
   port: 9014
   server: 213.183.53.222
   type: ss
 - cipher: aes-256-cfb
-  name: '7|🇷🇺 [ Configs by DukeMehdi ] SS... #9'
+  name: '10|🇷🇺 [ Configs by DukeMehdi ] SS... #9'
   password: HSZuyJQcWe8dxNdF
   port: 9043
   server: 45.89.52.66
   type: ss
 - cipher: aes-256-cfb
-  name: '7|🇷🇺 [ Configs by DukeMehdi ] SS... #10'
+  name: '10,21| By EbraSha 🚧 #14'
   password: S7KwUu7yBy58S3Ga
   port: 9042
   server: 45.89.52.66
   type: ss
 - cipher: aes-256-cfb
-  name: '7|🇷🇺 [ Configs by DukeMehdi ] SS... #11'
+  name: '10,21| By EbraSha 🌍 #12'
   password: U6qnYRhfyDmn8sgn
   port: 9041
   server: 45.89.52.66
   type: ss
 - cipher: aes-256-cfb
-  name: '7|🇷🇺 [ Configs by DukeMehdi ] SS... #12'
+  name: '10,21| By EbraSha 🌍 #15'
   password: asdKkaskJKfnsa
   port: 443
   server: 31.172.67.43
   type: ss
 - cipher: aes-256-cfb
-  name: '7|🇷🇺 [ Configs by DukeMehdi ] SS... #13'
+  name: '10,21| By EbraSha 🔥 #13'
   password: f8f7aCzcPKbsF8p3
   port: 989
   server: 92.223.109.126
   type: ss
 - cipher: aes-256-cfb
-  name: '7|🇷🇺 [ Configs by DukeMehdi ] SS... #14'
+  name: '10|🇷🇺 [ Configs by DukeMehdi ] SS... #14'
   password: p9z5BVADH2YFs3MN
   port: 9040
   server: 45.89.52.66
   type: ss
 - cipher: aes-256-cfb
-  name: '7|🇷🇺 [ Configs by DukeMehdi ] SS... #15'
+  name: '10,21| By EbraSha 🦅 #23'
   password: qazplmn1236547dr42q
   port: 3001
   server: 45.144.176.135
   type: ss
 - cipher: aes-256-cfb
-  name: '7|🇷🇺 [ Configs by DukeMehdi ] SS... #16'
+  name: '10,21| By EbraSha 🪬 #22'
   password: vDS9G2p
   port: 21247
   server: 185.4.65.6
   type: ss
 - cipher: aes-256-gcm
-  name: '7|🇷🇺 [ Configs by DukeMehdi ] SS... #17'
+  name: '10,21| By EbraSha 🛜 #18'
   password: 1eadd4e4a37b6601
   port: 10801
   server: 45.8.158.176
   type: ss
 - cipher: aes-256-gcm
-  name: '7|🇷🇺 [ Configs by DukeMehdi ] SS... #18'
+  name: '10,21| By EbraSha ⛓️ #18'
   password: 6b39ae3234dfd68b
   port: 10808
   server: 185.22.155.162
   type: ss
 - cipher: aes-256-gcm
-  name: '7,17|🇷🇺 俄罗斯 | RUS #3'
+  name: '10,20,21| By EbraSha 🧨 #12'
   password: 6b39ae3234dfd68b
   port: 20221
   server: 46.17.42.141
   type: ss
   udp: true
 - cipher: aes-256-gcm
-  name: '7|🇷🇺 [ Configs by DukeMehdi ] SS... #20'
+  name: '10,21| By EbraSha 🔐 #12'
   password: 6b39ae3234dfd68b
   port: 20880
   server: 46.17.42.141
   type: ss
 - cipher: aes-256-gcm
-  name: '7|🇷🇺 [ Configs by DukeMehdi ] SS... #21'
+  name: '10,21| By EbraSha 🪬 #23'
   password: 8ad9d72a5571df86
   port: 10550
   server: 176.32.39.52
   type: ss
 - cipher: aes-256-gcm
-  name: '7|🇷🇺 [ Configs by DukeMehdi ] SS... #22'
+  name: '10|🇷🇺 [ Configs by DukeMehdi ] SS... #22'
   password: 8ad9d72a5571df86
   port: 20880
   server: 176.32.39.52
   type: ss
 - cipher: aes-256-gcm
-  name: '7|🇷🇺 [ Configs by DukeMehdi ] SS... #23'
+  name: '10|🇷🇺 [ Configs by DukeMehdi ] SS... #23'
   password: bdb313adf74c2ede
   port: 20880
   server: 46.17.45.31
   type: ss
 - cipher: aes-256-gcm
-  name: '7|🇷🇺 [ Configs by DukeMehdi ] SS... #24'
+  name: '10|🇷🇺 [ Configs by DukeMehdi ] SS... #24'
   password: bdb313adf74c2ede
   port: 50660
   server: 46.17.45.31
   type: ss
-- alterId: 0
-  cipher: auto
-  name: 30|🇷🇺RU俄罗斯
-  network: ws
-  port: 443
-  server: renderer-stream-2-62.mirra.now
-  servername: ''
-  tls: true
-  type: vmess
-  uuid: db50a20e-7ff5-4e70-948f-17cc9ca7c154
-  ws-opts:
-    headers:
-      Host: ''
-    path: /api/v1/gpu-stream/socket

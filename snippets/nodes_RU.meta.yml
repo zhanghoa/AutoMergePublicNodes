@@ -1,150 +1,161 @@
 proxies:
 - cipher: chacha20-ietf-poly1305
-  name: '7|🇷🇺 [ Configs by DukeMehdi ] SS... #1'
+  name: '10|🇷🇺 [ Configs by DukeMehdi ] SS... #1'
   password: V7jmsA6PQsLn
   port: 444
   server: 146.185.198.44
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '7|🇷🇺 [ Configs by DukeMehdi ] SS... #2'
+  name: '10|🇷🇺 [ Configs by DukeMehdi ] SS... #2'
   password: VVlAff77CnAU43Aoc5j15Y
   port: 5112
   server: 90.156.203.62
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '7|🇷🇺 [ Configs by DukeMehdi ] SS... #3'
+  name: '10,21| By EbraSha 💣 #12'
   password: frcYfFRuQRks932EpCWvX7
   port: 57925
   server: 157.22.240.141
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '7|🇷🇺 [ Configs by DukeMehdi ] SS... #4'
+  name: '10,21| By EbraSha 🚨 #13'
   password: mX1q8sv17wA5LGDHIHD6Jo
   port: 15720
   server: 91.207.183.63
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '7|🇷🇺 [ Configs by DukeMehdi ] SS... #5'
+  name: '10,21| By EbraSha 🪖 #20'
   password: slatpifOon
   port: 444
   server: 185.221.153.52
   type: ss
 - cipher: aes-256-cfb
-  name: '7|🇷🇺 [ Configs by DukeMehdi ] SS... #6'
+  name: '10,21| By EbraSha ♠️ #18'
   password: '!!str 7620447880'
   port: 50005
   server: 92.38.139.95
   type: ss
 - cipher: aes-256-cfb
-  name: '7|🇷🇺 [ Configs by DukeMehdi ] SS... #7'
+  name: '10,21| By EbraSha 🩸 #13'
   password: EXN3S3eQpjE7EJu8
   port: 9027
   server: 213.183.41.38
   type: ss
 - cipher: aes-256-cfb
-  name: '7|🇷🇺 [ Configs by DukeMehdi ] SS... #8'
+  name: '10,21| By EbraSha 🌌 #17'
   password: KnJGad3FqTvjqbaX
   port: 9014
   server: 213.183.53.222
   type: ss
 - cipher: aes-256-cfb
-  name: '7|🇷🇺 [ Configs by DukeMehdi ] SS... #9'
+  name: '10|🇷🇺 [ Configs by DukeMehdi ] SS... #9'
   password: HSZuyJQcWe8dxNdF
   port: 9043
   server: 45.89.52.66
   type: ss
 - cipher: aes-256-cfb
-  name: '7|🇷🇺 [ Configs by DukeMehdi ] SS... #10'
+  name: '10,21| By EbraSha 🚧 #14'
   password: S7KwUu7yBy58S3Ga
   port: 9042
   server: 45.89.52.66
   type: ss
 - cipher: aes-256-cfb
-  name: '7|🇷🇺 [ Configs by DukeMehdi ] SS... #11'
+  name: '10,21| By EbraSha 🌍 #12'
   password: U6qnYRhfyDmn8sgn
   port: 9041
   server: 45.89.52.66
   type: ss
 - cipher: aes-256-cfb
-  name: '7|🇷🇺 [ Configs by DukeMehdi ] SS... #12'
+  name: '10,21| By EbraSha 🌍 #15'
   password: asdKkaskJKfnsa
   port: 443
   server: 31.172.67.43
   type: ss
 - cipher: aes-256-cfb
-  name: '7|🇷🇺 [ Configs by DukeMehdi ] SS... #13'
+  name: '10,21| By EbraSha 🔥 #13'
   password: f8f7aCzcPKbsF8p3
   port: 989
   server: 92.223.109.126
   type: ss
 - cipher: aes-256-cfb
-  name: '7|🇷🇺 [ Configs by DukeMehdi ] SS... #14'
+  name: '10|🇷🇺 [ Configs by DukeMehdi ] SS... #14'
   password: p9z5BVADH2YFs3MN
   port: 9040
   server: 45.89.52.66
   type: ss
 - cipher: aes-256-cfb
-  name: '7|🇷🇺 [ Configs by DukeMehdi ] SS... #15'
+  name: '10,21| By EbraSha 🦅 #23'
   password: qazplmn1236547dr42q
   port: 3001
   server: 45.144.176.135
   type: ss
 - cipher: aes-256-cfb
-  name: '7|🇷🇺 [ Configs by DukeMehdi ] SS... #16'
+  name: '10,21| By EbraSha 🪬 #22'
   password: vDS9G2p
   port: 21247
   server: 185.4.65.6
   type: ss
 - cipher: aes-256-gcm
-  name: '7|🇷🇺 [ Configs by DukeMehdi ] SS... #17'
+  name: '10,21| By EbraSha 🛜 #18'
   password: 1eadd4e4a37b6601
   port: 10801
   server: 45.8.158.176
   type: ss
 - cipher: aes-256-gcm
-  name: '7|🇷🇺 [ Configs by DukeMehdi ] SS... #18'
+  name: '10,21| By EbraSha ⛓️ #18'
   password: 6b39ae3234dfd68b
   port: 10808
   server: 185.22.155.162
   type: ss
 - cipher: aes-256-gcm
-  name: '7,17|🇷🇺 俄罗斯 | RUS #3'
+  name: '10,20,21| By EbraSha 🧨 #12'
   password: 6b39ae3234dfd68b
   port: 20221
   server: 46.17.42.141
   type: ss
   udp: true
 - cipher: aes-256-gcm
-  name: '7|🇷🇺 [ Configs by DukeMehdi ] SS... #20'
+  name: '10,21| By EbraSha 🔐 #12'
   password: 6b39ae3234dfd68b
   port: 20880
   server: 46.17.42.141
   type: ss
 - cipher: aes-256-gcm
-  name: '7|🇷🇺 [ Configs by DukeMehdi ] SS... #21'
+  name: '10,21| By EbraSha 🪬 #23'
   password: 8ad9d72a5571df86
   port: 10550
   server: 176.32.39.52
   type: ss
 - cipher: aes-256-gcm
-  name: '7|🇷🇺 [ Configs by DukeMehdi ] SS... #22'
+  name: '10|🇷🇺 [ Configs by DukeMehdi ] SS... #22'
   password: 8ad9d72a5571df86
   port: 20880
   server: 176.32.39.52
   type: ss
 - cipher: aes-256-gcm
-  name: '7|🇷🇺 [ Configs by DukeMehdi ] SS... #23'
+  name: '10|🇷🇺 [ Configs by DukeMehdi ] SS... #23'
   password: bdb313adf74c2ede
   port: 20880
   server: 46.17.45.31
   type: ss
 - cipher: aes-256-gcm
-  name: '7|🇷🇺 [ Configs by DukeMehdi ] SS... #24'
+  name: '10|🇷🇺 [ Configs by DukeMehdi ] SS... #24'
   password: bdb313adf74c2ede
   port: 50660
   server: 46.17.45.31
   type: ss
-- name: '14,16,26|Telegram 🆔@cnetvpn 🇷🇺 #2'
+- name: '12,15,26|@npv_vpn11 #393'
+  network: tcp
+  port: 35696
+  server: 91.107.249.108
+  tls: false
+  type: vless
+  uuid: 89238afb-0166-4ff0-85de-f7bec650a818
+  ws-opts:
+    headers:
+      Host: play.google.com
+    path: '%2F'
+- name: '17,19,21,30|Telegram 🆔@cnetvpn 🇷🇺 #2'
   obfs: salamander
   obfs-password: 09p333uviv2qal0y
   password: 617z9r1mbzbm1t5z
@@ -156,7 +167,7 @@ proxies:
   type: hysteria2
 - auth: dongtaiwang.com
   delay: 1235
-  name: 15|🇷🇺RU_1 | ⬇️ 809KB/s
+  name: 18|🇷🇺RU_1 | ⬇️ 809KB/s
   password: dongtaiwang.com
   port: 50850
   server: 45.129.2.108
@@ -166,7 +177,7 @@ proxies:
   udp: true
 - auth: dongtaiwang.com
   delay: 1074
-  name: 15|🇷🇺RU_2 | ⬇️ 2.5MB/s|33%|Youtub...
+  name: 18|🇷🇺RU_2 | ⬇️ 2.5MB/s|33%|Youtub...
   password: dongtaiwang.com
   port: 30033
   server: 46.17.41.217
@@ -178,7 +189,7 @@ proxies:
   auth-str: dongtaiwang.com
   auth_str: dongtaiwang.com
   down: 1000 Mbps
-  name: 15|🇷🇺RU_3 | ⬇️ 910KB/s|0%|Youtube
+  name: 18|🇷🇺RU_3 | ⬇️ 910KB/s|0%|Youtube
   port: 62003
   server: 176.32.35.226
   servername: apple.com
@@ -190,14 +201,14 @@ proxies:
   auth-str: dongtaiwang.com
   auth_str: dongtaiwang.com
   down: 1000 Mbps
-  name: 15|🇷🇺RU_4 | ⬇️ 1.4MB/s|33%
+  name: 18|🇷🇺RU_4 | ⬇️ 1.4MB/s|33%
   port: 10803
   server: 185.22.155.71
   skip-cert-verify: true
   sni: www.bing.com
   type: hysteria
   up: 1000 Mbps
-- name: 16|RU【机场推荐：https://a9a.xyz】34
+- name: 19|RU【机场推荐：https://a9a.xyz】34
   network: ws
   port: 8880
   server: 185.148.104.30
@@ -210,7 +221,7 @@ proxies:
     path: '%2F'
 - client-fingerprint: firefox
   flow: xtls-rprx-vision
-  name: 16|🇷🇺[www.v2nodes.com] vless-RU-1...
+  name: 19|🇷🇺[www.v2nodes.com] vless-RU-1...
   port: 443
   server: 45.152.113.206
   servername: 1.ru.oncloudnineservicestreang.com
@@ -221,7 +232,7 @@ proxies:
   encryption: none
   grpc-opts:
     grpc-service-name: grpc-ru
-  name: '16,26|🇷🇺[www.v2nodes.com] vless-RU-1... #3'
+  name: '19,30|🇷🇺[www.v2nodes.com] vless-RU-1... #3'
   network: grpc
   port: 443
   server: xsru1.ddnsfree.com
@@ -229,7 +240,7 @@ proxies:
   tls: true
   type: vless
   uuid: c90395e6-2140-47ad-a54d-9b166729d3ef
-- name: '16|🇷🇺[www.v2nodes.com] vless-RU-1... #2'
+- name: '19|🇷🇺[www.v2nodes.com] vless-RU-1... #2'
   network: ws
   port: 8443
   server: 194.87.143.165
@@ -243,7 +254,7 @@ proxies:
     path: /fp=random
 - client-fingerprint: firefox
   flow: xtls-rprx-vision
-  name: 20|🇷🇺_俄罗斯_13
+  name: 24|🇷🇺_俄罗斯_13
   port: 8443
   server: 196.240.125.251
   servername: api-v1-6ac7858f.vmagnum.win
@@ -253,7 +264,7 @@ proxies:
   udp: true
   uuid: 8de76932-518a-4ac8-ac92-be6b1f17ddd8
 - client-fingerprint: chrome
-  name: 20|🇷🇺_俄罗斯_167
+  name: 24|🇷🇺_俄罗斯_167
   network: ws
   port: 8880
   server: 185.148.104.30
@@ -267,31 +278,16 @@ proxies:
     headers:
       Host: vms.lifetime51.workers.dev
     path: /
-- name: 24|[OpenRay] 🇷🇺RU-248
-  password: 41edb44c8e
-  port: 11592
-  server: 103.88.243.142
-  sni: srv-17e124.21freedom.net
-  tls: false
-  type: hysteria2
-- name: 24|[OpenRay] 🇷🇺RU-278
+- name: 28|[OpenRay] 🇷🇺RU-278
   password: mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj
   port: 443
   server: 91.196.32.163
   skip-cert-verify: true
-  tls: false
-  type: hysteria2
-- name: 24,30|🇩🇪DE_7|2.9MB/s|A004-260618 01
-  password: mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj
-  port: 443
-  server: 91.196.32.163
-  skip-cert-verify: true
-  sni: germany3.h2corp.local
   tls: false
   type: hysteria2
 - alpn:
   - h3
-  name: 24|[OpenRay] 🇷🇺RU-134
+  name: 28|[OpenRay] 🇷🇺RU-134
   password: mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj
   port: 443
   server: 91.196.32.163
@@ -301,20 +297,20 @@ proxies:
   type: hysteria2
 - client-fingerprint: firefox
   flow: xtls-rprx-vision
-  name: 25|RU【机场推荐：https://a9a.xyz】14
+  name: 29|RU【机场推荐：https://a9a.xyz】14
   port: 8443
   server: id.tutdesignstudio.site
   tls: true
   type: vless
   uuid: b9125df6-2a60-4643-bcba-a5f78cb663a7
-- name: 25|俄罗斯
+- name: 29|俄罗斯
   password: 95e8532b-cc69-42d4-9553-e3c23292b15b
   port: 8443
   server: 176.124.222.180
   sni: j47lq.pleiades.codes
   tls: false
   type: hysteria2
-- name: 25|🇷🇺|RU|@wxgqlfx|229
+- name: 29|🇷🇺|RU|@wxgqlfx|229
   password: 921db318-1694-4408-9cc7-c93df39f7f8e
   port: 443
   server: ru-i-2.monkeyisland.xyz
@@ -325,7 +321,7 @@ proxies:
 - alpn:
   - h3
   client-fingerprint: chrome
-  name: '25,30|🇷🇺俄罗斯丨yoyapai.com #1'
+  name: '29,34|🇷🇺俄罗斯丨yoyapai.com #1'
   network: xhttp
   port: 443
   server: 104.18.32.47
@@ -341,7 +337,7 @@ proxies:
   - http/1.1
   client-fingerprint: qq
   flow: xtls-rprx-vision
-  name: 25|🇷🇺RU_2|1.2MB/s
+  name: 29|🇷🇺RU_2|1.2MB/s
   port: 52006
   server: 94.26.249.216
   servername: clode.fastaichat.ru
@@ -350,7 +346,7 @@ proxies:
   uuid: 2867c76e-3211-07d0-9b13-c528d06a29af
 - client-fingerprint: random
   encryption: none
-  name: '26|🇷🇺[www.v2nodes.com] vless-RU-1... #4'
+  name: '30|🇷🇺[www.v2nodes.com] vless-RU-1... #4'
   network: ws
   port: 8443
   server: 194.87.143.165
@@ -363,7 +359,7 @@ proxies:
       Host: 194.87.143.165
     path: /
 - client-fingerprint: firefox
-  name: 30|🇷🇺RU俄罗斯丨yoyapai.com
+  name: 34|🇷🇺RU俄罗斯丨yoyapai.com
   network: xhttp
   port: 10654
   reality-opts:
@@ -377,7 +373,7 @@ proxies:
   ws-opts:
     path: '%2Fxhttp_client_upload'
 - client-fingerprint: chrome
-  name: 30|🇷🇺俄羅斯丨yoyapai.com
+  name: 34|🇷🇺俄羅斯丨yoyapai.com
   network: ws
   port: 443
   server: 109.120.176.37
@@ -391,7 +387,7 @@ proxies:
       Host: sertraline.adaspoloandco.com
     path: '%2Fdownload.php'
 - client-fingerprint: qq
-  name: 30|🇷🇺RU俄羅斯丨yoyapai.com
+  name: 34|🇷🇺RU俄羅斯丨yoyapai.com
   network: xhttp
   port: 443
   server: 178.72.162.73
@@ -406,7 +402,7 @@ proxies:
     path: '%2Fassets%2Fbuild%2F_app%2Fimmutable%2Fchunks%2Fstream-one%2F'
 - client-fingerprint: firefox
   flow: xtls-rprx-vision
-  name: '30|🇷🇺俄羅斯丨yoyapai.com #1'
+  name: '34|🇷🇺俄羅斯丨yoyapai.com #1'
   network: tcp
   port: 443
   reality-opts:
@@ -417,7 +413,7 @@ proxies:
   tls: false
   type: vless
   uuid: 1bced29a-3051-42b8-b393-005135b97616
-- name: 30|🇷🇺俄罗斯丨yoyapai.com
+- name: 34|🇷🇺俄罗斯丨yoyapai.com
   network: ws
   port: 2200
   server: 104.171.137.176
@@ -426,7 +422,7 @@ proxies:
   uuid: 43874ef1-1f74-4b8b-bc84-1d13caabd71b
   ws-opts:
     path: '%2Fv1'
-- name: '30|🇷🇺俄罗斯丨yoyapai.com #2'
+- name: '34|🇷🇺俄罗斯丨yoyapai.com #2'
   network: ws
   port: 4100
   server: 176.98.178.17
@@ -439,7 +435,7 @@ proxies:
     path: '%2Fv1'
 - client-fingerprint: firefox
   flow: xtls-rprx-vision
-  name: '30|🇷🇺俄罗斯丨yoyapai.com #3'
+  name: '34|🇷🇺俄罗斯丨yoyapai.com #3'
   network: tcp
   port: 443
   reality-opts:
@@ -452,7 +448,7 @@ proxies:
   uuid: 23e18cb4-9db3-4eb1-93d3-26c62095159d
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: '30|🇷🇺RU俄罗斯丨yoyapai.com #1'
+  name: '34|🇷🇺RU俄罗斯丨yoyapai.com #1'
   network: tcp
   port: 2027
   reality-opts:
@@ -466,7 +462,7 @@ proxies:
   ws-opts:
     headers:
       Host: storage.yandex.net
-- name: '30|🇷🇺RU俄罗斯丨yoyapai.com #3'
+- name: '34|🇷🇺RU俄罗斯丨yoyapai.com #3'
   network: ws
   port: 2200
   server: 168.222.140.55
@@ -480,7 +476,7 @@ proxies:
 - client-fingerprint: firefox
   grpc-opts:
     grpc-service-name: grpc-tunnel
-  name: '30|🇷🇺RU俄罗斯丨yoyapai.com #4'
+  name: '34|🇷🇺RU俄罗斯丨yoyapai.com #4'
   network: grpc
   port: 9830
   reality-opts:
@@ -493,7 +489,7 @@ proxies:
   uuid: 553e3253-c454-431d-a7e6-42bc06ea5e14
 - client-fingerprint: firefox
   flow: xtls-rprx-vision
-  name: '30|🇷🇺RU俄罗斯丨yoyapai.com #5'
+  name: '34|🇷🇺RU俄罗斯丨yoyapai.com #5'
   network: tcp
   port: 5000
   reality-opts:
@@ -504,7 +500,7 @@ proxies:
   tls: false
   type: vless
   uuid: 1cf0f330-88c6-5b9b-866e-607e08cf87d6
-- name: '30|🇷🇺RU俄罗斯丨yoyapai.com #7'
+- name: '34|🇷🇺RU俄罗斯丨yoyapai.com #7'
   network: ws
   port: 4100
   server: 104.171.136.172
@@ -515,22 +511,8 @@ proxies:
     headers:
       Host: live.ok.ru
     path: '%2Fv1'
-- alterId: 0
-  cipher: auto
-  name: 30|🇷🇺RU俄罗斯
-  network: ws
-  port: 443
-  server: renderer-stream-2-62.mirra.now
-  servername: ''
-  tls: true
-  type: vmess
-  uuid: db50a20e-7ff5-4e70-948f-17cc9ca7c154
-  ws-opts:
-    headers:
-      Host: ''
-    path: /api/v1/gpu-stream/socket
 - client-fingerprint: chrome
-  name: '30|🇷🇺RU俄罗斯丨yoyapai.com #8'
+  name: '34|🇷🇺RU俄罗斯丨yoyapai.com #8'
   network: ws
   port: 8082
   server: 89.208.113.120
@@ -543,21 +525,8 @@ proxies:
     headers:
       Host: sub.mot.ip-ddns.com
     path: '%2F'
-- client-fingerprint: qq
-  flow: xtls-rprx-vision
-  name: '30|🇷🇺RU俄罗斯丨yoyapai.com #9'
-  network: tcp
-  port: 443
-  reality-opts:
-    public-key: Nb9IwEEhUHEbHSc6e5uYTjxDgN4ZExhDckM3OgYhj2o
-    short-id: 52ccb3687fe0b7ec
-  server: 200.165.235.78
-  servername: api8.eaglors.com
-  tls: false
-  type: vless
-  uuid: 238e492b-bc20-4380-92b6-135d39112ca4
 - client-fingerprint: chrome
-  name: '30|RU俄罗斯(mibei77.com 米贝节点分享) #1'
+  name: '34|RU俄罗斯(mibei77.com 米贝节点分享) #1'
   network: ws
   port: 443
   server: 185.179.82.201
@@ -570,7 +539,7 @@ proxies:
       Host: shuma.ccwu.cc
     path: '%2F'
 - client-fingerprint: chrome
-  name: '30|RU俄罗斯(mibei77.com 米贝节点分享) #2'
+  name: '34|RU俄罗斯(mibei77.com 米贝节点分享) #2'
   network: ws
   port: 443
   server: 104.128.137.133
@@ -583,7 +552,7 @@ proxies:
       Host: shuma.ccwu.cc
     path: '%2F'
 - client-fingerprint: chrome
-  name: 30|🇷🇺RU_2|294KB/s|B007-260618 01
+  name: 34|🇷🇺RU_2|294KB/s|B007-260618 01
   network: tcp
   port: 26424
   reality-opts:
