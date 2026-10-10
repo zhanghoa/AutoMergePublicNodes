@@ -1,4 +1,4 @@
-# Update: 2026-10-10 17:53
+# Update: 2026-10-10 18:01
 proxies:
 - alterId: 0
   cipher: auto
@@ -2004,7 +2004,7 @@ proxies:
   server: 144.31.243.2
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '✅ 7,16,17|🇮🇳[www.v2nodes.com] ss-IN-1587... #1'
+  name: '❌ 7,16,17|🇮🇳[www.v2nodes.com] ss-IN-1587... #1'
   password: Jeoq8ujfkqZKKvACQhoqBQ1PA3uq4242
   port: 777
   server: 45.149.114.171
@@ -2160,7 +2160,7 @@ proxies:
   server: 205.134.180.143
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: ✅ 7,30|🇺🇸US_62|1.3MB/s 01
+  name: ❌ 7,30|🇺🇸US_62|1.3MB/s 01
   password: RSo52SbxW40r
   port: 8388
   server: 108.181.57.93
@@ -2424,7 +2424,7 @@ proxies:
   server: p1tun2.greewebservices.ir
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: ❌ 7,16,17,30|🇿🇦ZA_1|853KB/s|A004-260618 01
+  name: ✅ 7,16,17,30|🇿🇦ZA_1|853KB/s|A004-260618 01
   password: aduB9HGxQHjA2SBMRjkHX6
   port: 443
   server: 102.37.156.224
@@ -2442,7 +2442,7 @@ proxies:
   server: 104.156.233.234
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '✅ 7|🇺🇸 [ Configs by DukeMehdi ] SS... #65'
+  name: '❌ 7|🇺🇸 [ Configs by DukeMehdi ] SS... #65'
   password: bQZl7HDxSabr1FurTYQHFU
   port: 443
   server: 216.105.168.18
@@ -4095,7 +4095,7 @@ proxies:
   server: 141.98.101.179
   type: ss
 - cipher: aes-256-cfb
-  name: '✅ 7|🇰🇷 [ Configs by DukeMehdi ] SS... #9'
+  name: '❌ 7|🇰🇷 [ Configs by DukeMehdi ] SS... #9'
   password: 1234!@#$
   port: 1774
   server: 49.254.204.134
@@ -4479,7 +4479,7 @@ proxies:
   server: 217.30.10.44
   type: ss
 - cipher: aes-256-cfb
-  name: '✅ 7|🇪🇸 [ Configs by DukeMehdi ] SS... #6'
+  name: '❌ 7|🇪🇸 [ Configs by DukeMehdi ] SS... #6'
   password: S7KwUu7yBy58S3Ga
   port: 9042
   server: 5.188.181.201
@@ -4539,7 +4539,7 @@ proxies:
   server: 45.89.52.66
   type: ss
 - cipher: aes-256-cfb
-  name: '❌ 7|🇪🇸 [ Configs by DukeMehdi ] SS... #8'
+  name: '✅ 7|🇪🇸 [ Configs by DukeMehdi ] SS... #8'
   password: U6qnYRhfyDmn8sgn
   port: 9041
   server: 5.188.181.201
@@ -5561,7 +5561,7 @@ proxies:
   server: 45.78.5.173
   type: ss
 - cipher: aes-256-gcm
-  name: '✅ 7|🇺🇸 [ Configs by DukeMehdi ] SS... #122'
+  name: '❌ 7|🇺🇸 [ Configs by DukeMehdi ] SS... #122'
   password: 618a13eda4b4d208a4bcdc85fcb8996df812d59dd48419f75ae3f5f5b46a94fb
   port: 8393
   server: 45.76.9.57
@@ -6516,7 +6516,7 @@ proxies:
   server: 134.195.198.95
   type: ss
 - cipher: aes-256-gcm
-  name: '❌ 7|🇰🇷 [ Configs by DukeMehdi ] SS... #22'
+  name: '✅ 7|🇰🇷 [ Configs by DukeMehdi ] SS... #22'
   password: PCnnH6SQSnfoS27
   port: 8091
   server: 141.164.45.187
@@ -8610,7 +8610,7 @@ proxies:
   server: 139.162.58.13
   type: ss
 - cipher: aes-256-gcm
-  name: '✅ 7|🇰🇷 [ Configs by DukeMehdi ] SS... #28'
+  name: '❌ 7|🇰🇷 [ Configs by DukeMehdi ] SS... #28'
   password: cdBIDV42DCwnfIN
   port: 8119
   server: 141.164.45.187
@@ -8862,7 +8862,7 @@ proxies:
   uuid: df53b6c2-8005-475c-9eb9-74e1be785dc8
 - client-fingerprint: firefox
   flow: xtls-rprx-vision
-  name: ❌ 9,12,16,20|🇳🇱_荷兰_73
+  name: ✅ 9,12,16,20|🇳🇱_荷兰_73
   network: tcp
   port: 2063
   reality-opts:
@@ -9214,7 +9214,7 @@ proxies:
   uuid: 8af93649-403b-46d8-9966-923d4c58402c
 - idle-session-check-interval: 30
   idle-session-timeout: 30
-  name: ❌ 11|A🟢🇸🇨res[🔍]_dokng.com_9f01a8ac
+  name: ✅ 11|A🟢🇸🇨res[🔍]_dokng.com_9f01a8ac
   password: 776b4834-caaf-4006-ab21-409e958867af
   port: 33091
   server: 45.202.240.4
@@ -9521,7 +9521,7 @@ proxies:
   - http/1.1
   encryption: none
   flow: xtls-rprx-vision
-  name: '❌ 11,22|@npv_vpn11 #819'
+  name: '✅ 11,22|@npv_vpn11 #819'
   network: tcp
   port: 2063
   reality-opts:
@@ -9631,7 +9631,7 @@ proxies:
 - client-fingerprint: randomized
   encryption: none
   flow: xtls-rprx-vision
-  name: '✅ 11,16,20,22|@npv_vpn11 #546'
+  name: '❌ 11,16,20,22|@npv_vpn11 #546'
   network: tcp
   port: 443
   reality-opts:
@@ -11169,7 +11169,7 @@ proxies:
   uuid: df0680ca-e43c-498d-ed86-8e196eedd012
 - alterId: 0
   cipher: auto
-  name: '❌ 12|🔥Join+Telegram:@Farah_VPN🟣 #131'
+  name: '✅ 12|🔥Join+Telegram:@Farah_VPN🟣 #131'
   network: ws
   port: 80
   server: 168.138.43.75
@@ -11724,7 +11724,7 @@ proxies:
   tls: false
   type: vless
   uuid: 7f0eb17f-c870-40d1-b227-53887811dd5c
-- name: '✅ 12,22|@npv_vpn11 #810'
+- name: '❌ 12,22|@npv_vpn11 #810'
   network: tcp
   port: 443
   reality-opts:
@@ -11759,7 +11759,7 @@ proxies:
     path: '%2Fapi%2Fv1%2Fingest%2FKczWgyXedh'
 - client-fingerprint: firefox
   flow: xtls-rprx-vision
-  name: '✅ 12,22|@npv_vpn11 #861'
+  name: '❌ 12,22|@npv_vpn11 #861'
   network: tcp
   port: 443
   reality-opts:
@@ -12973,7 +12973,7 @@ proxies:
     path: /VLESS
 - alterId: 0
   cipher: auto
-  name: '✅ 12|🔥Join+Telegram:@Farah_VPN🟣 #286'
+  name: '❌ 12|🔥Join+Telegram:@Farah_VPN🟣 #286'
   network: tcp
   port: 11100
   server: star.starnick2040.ir
@@ -14917,7 +14917,7 @@ proxies:
 - client-fingerprint: firefox
   grpc-opts:
     grpc-service-name: 8cb5baa18cd7
-  name: ❌ 12,16|🇩🇪 德国 | DEU 3
+  name: ✅ 12,16|🇩🇪 德国 | DEU 3
   network: grpc
   port: 25481
   reality-opts:
@@ -18306,7 +18306,7 @@ proxies:
   uuid: 148e82ae-5014-4a1a-a783-dd63fa9cdc9d
 - alterId: 0
   cipher: auto
-  name: '❌ 12|🔥Join+Telegram:@Farah_VPN🟣 #748'
+  name: '✅ 12|🔥Join+Telegram:@Farah_VPN🟣 #748'
   network: none
   port: 37515
   server: 119.46.51.45
@@ -18349,7 +18349,7 @@ proxies:
     headers:
       Host: mitivpn---ss--s---mitivpn-11e.global.ssl.fastly.net
     path: /---@Tarkshodeh---@Tarkshodeh/---@Tarkshodeh---@Tarkshodeh/---@Tarkshodeh---@Tarkshodeh/D-e2@Tarkshodeh---@Tarkshodeh/---@Tarkshodeh---@Tarkshodeh/---@Tarkshodeh---@Tarkshodeh
-- name: '✅ 12|🔥Join+Telegram:@Farah_VPN🟣 #752'
+- name: '❌ 12|🔥Join+Telegram:@Farah_VPN🟣 #752'
   network: xhttp
   port: 2053
   server: 78.159.250.84
@@ -18498,7 +18498,7 @@ proxies:
   type: vless
   uuid: 4d852af3-a121-41aa-9aed-4ca40a6f7b4d
 - flow: xtls-rprx-vision
-  name: '✅ 12,16,22|@npv_vpn11 #808'
+  name: '❌ 12,16,22|@npv_vpn11 #808'
   network: tcp
   port: 443
   reality-opts:
@@ -19088,7 +19088,7 @@ proxies:
     headers:
       Host: outlook.office365.com
 - flow: xtls-rprx-vision
-  name: '✅ 12|🔥Join+Telegram:@Farah_VPN🟣 #822'
+  name: '❌ 12|🔥Join+Telegram:@Farah_VPN🟣 #822'
   network: tcp
   port: 443
   reality-opts:
@@ -19107,7 +19107,7 @@ proxies:
   skip-cert-verify: true
   sni: normal-macaque.rooster465.autos
   type: trojan
-- name: '✅ 12,16|🇩🇪 德国 | DEU #5'
+- name: '❌ 12,16|🇩🇪 德国 | DEU #5'
   network: tcp
   port: 9090
   server: 91.107.152.245
@@ -19230,7 +19230,7 @@ proxies:
   - http/1.1
   client-fingerprint: firefox
   flow: ''
-  name: '✅ 12,16|🇷🇺 俄罗斯 | RUS #2'
+  name: '❌ 12,16|🇷🇺 俄罗斯 | RUS #2'
   network: xhttp
   port: 2053
   server: 78.159.246.85
@@ -23590,7 +23590,7 @@ proxies:
       Host: myket.ir
     path: '%2Fassets'
 - flow: xtls-rprx-vision
-  name: ❌ 12,22,30|🇪🇪EE_10|623KB/s|B007-260618 01
+  name: ✅ 12,22,30|🇪🇪EE_10|623KB/s|B007-260618 01
   network: raw
   port: 8443
   reality-opts:
@@ -24996,7 +24996,7 @@ proxies:
       Host: myket.ir
     path: /
 - flow: xtls-rprx-vision
-  name: '✅ 12|🔥Join+Telegram:@Farah_VPN🟣 #1350'
+  name: '❌ 12|🔥Join+Telegram:@Farah_VPN🟣 #1350'
   network: tcp
   port: 443
   reality-opts:
@@ -27525,7 +27525,7 @@ proxies:
   tls: true
   type: vless
   uuid: e4824193-4f54-453b-d037-88368e85ef0e
-- name: '✅ 12,22|@npv_vpn11 #373'
+- name: '❌ 12,22|@npv_vpn11 #373'
   network: tcp
   port: 48249
   server: 46.8.228.248
@@ -27995,7 +27995,7 @@ proxies:
   uuid: 8f502ed8-e703-4678-b5d8-885260dda802
 - alterId: 0
   cipher: auto
-  name: '✅ 12|🔥Join+Telegram:@Farah_VPN🟣 #1645'
+  name: '❌ 12|🔥Join+Telegram:@Farah_VPN🟣 #1645'
   network: ws
   port: 80
   server: 38.107.234.57
@@ -28276,7 +28276,7 @@ proxies:
   server: delicate-buck.rooster465.autos
   sni: delicate-buck.rooster465.autos
   type: trojan
-- name: '✅ 12|🔥Join+Telegram:@Farah_VPN🟣 #1671'
+- name: '❌ 12|🔥Join+Telegram:@Farah_VPN🟣 #1671'
   network: tcp
   port: 8443
   reality-opts:
@@ -30777,7 +30777,7 @@ proxies:
   tls: false
   type: vless
   uuid: cb8fbad5-4f14-55bc-a24a-3510f47f4b1b
-- name: ❌ 16|CN【机场推荐：https://a9a.xyz】4
+- name: ✅ 16|CN【机场推荐：https://a9a.xyz】4
   network: tcp
   port: 52683
   server: jp.sofast.live
@@ -30801,7 +30801,7 @@ proxies:
   uuid: df53b6c2-8005-475c-9eb9-74e1be785dc8
 - client-fingerprint: randomized
   flow: xtls-rprx-vision
-  name: ✅ 16,20|🇩🇪_德国_64
+  name: ❌ 16,20|🇩🇪_德国_64
   network: tcp
   port: 443
   reality-opts:
@@ -31422,7 +31422,7 @@ proxies:
     headers:
       Host: ccc.010304.xyz
     path: /fp=chromefp=chromesecurity=tls
-- name: '❌ 16|🇧🇬[www.v2nodes.com] vless-BG-3... #1'
+- name: '✅ 16|🇧🇬[www.v2nodes.com] vless-BG-3... #1'
   network: ws
   port: 443
   server: 203.202.232.211
@@ -31738,7 +31738,7 @@ proxies:
     headers:
       Host: de.gokonstantin.com
     path: /cdnwsfp=safari
-- name: '✅ 16,22|🇩🇪[www.v2nodes.com] vless-DE-1... #11'
+- name: '❌ 16,22|🇩🇪[www.v2nodes.com] vless-DE-1... #11'
   port: 443
   server: 179.61.145.245
   tls: false
@@ -31899,7 +31899,7 @@ proxies:
       Host: rb24.ir
     path: ws/?ed=2048/@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1/?2048
 - flow: xtls-rprx-vision
-  name: '❌ 16|🇫🇮[www.v2nodes.com] vless-FI-1... #4'
+  name: '✅ 16|🇫🇮[www.v2nodes.com] vless-FI-1... #4'
   port: 443
   server: 13.143.129.45
   servername: addons.mozilla.org
@@ -32456,7 +32456,7 @@ proxies:
   uuid: 86037609-3790-4901-bd2f-c698092fb1fc
 - client-fingerprint: ios
   flow: xtls-rprx-vision
-  name: '❌ 16|🇳🇱[www.v2nodes.com] vless-NL-1... #6'
+  name: '✅ 16|🇳🇱[www.v2nodes.com] vless-NL-1... #6'
   port: 443
   server: 45.150.33.33
   servername: amazon.de
@@ -32550,7 +32550,7 @@ proxies:
   type: vless
   uuid: 51a1fd52-fd88-4905-a976-35e44be28e4b
 - flow: xtls-rprx-vision
-  name: ✅ 16,20|🇳🇱_荷兰_70
+  name: ❌ 16,20|🇳🇱_荷兰_70
   port: 2063
   reality-opts:
     public-key: MMpt_jWc4J3oySBdf5sPDVRkiWlZmOObth6A1scM9BM
@@ -32562,7 +32562,7 @@ proxies:
   udp: true
   uuid: b18d5990-96eb-4587-a386-7f8ef7591e6a
 - flow: xtls-rprx-vision
-  name: '❌ 16,22|@npv_vpn11 #798'
+  name: '✅ 16,22|@npv_vpn11 #798'
   network: tcp
   port: 2063
   reality-opts:
@@ -32793,7 +32793,7 @@ proxies:
   tls: true
   type: vless
   uuid: 0eed6293-8cf1-4e77-ac10-9c3d50d0b2f8
-- name: ❌ 16,22,30|🇹🇼TW_27|84KB/s|F003-260618 01
+- name: ✅ 16,22,30|🇹🇼TW_27|84KB/s|F003-260618 01
   network: tcp
   port: 24215
   reality-opts:
@@ -33868,7 +33868,7 @@ proxies:
   sni: grape-test-italy.dynuddns.net
   tls: false
   type: hysteria2
-- name: ❌ 16|🇺🇸US_17|1.0MB/s
+- name: ✅ 16|🇺🇸US_17|1.0MB/s
   network: ws
   password: e20fd145-65f1-4aa3-96be-da0524bbb16e
   port: 20230
@@ -35997,7 +35997,7 @@ proxies:
       Host: 159.australiacaregroup.site
     path: /vless
 - client-fingerprint: firefox
-  name: ✅ 20|🇳🇱_荷兰_109
+  name: ❌ 20|🇳🇱_荷兰_109
   network: ws
   port: 443
   server: 193.33.153.222
@@ -40850,7 +40850,7 @@ proxies:
   tls: false
   type: vless
   uuid: e4514801-0d5a-42ba-869f-39bd605aef9e
-- name: '✅ 22|@npv_vpn11 #476'
+- name: '❌ 22|@npv_vpn11 #476'
   network: tcp
   port: 22222
   server: 15.224.129.188
@@ -40969,7 +40969,7 @@ proxies:
   tls: false
   type: vless
   uuid: e4514801-0d5a-42ba-869f-39bd605aef9e
-- name: '✅ 22|@npv_vpn11 #495'
+- name: '❌ 22|@npv_vpn11 #495'
   network: tcp
   port: 22224
   server: 15.224.129.188
@@ -41709,7 +41709,7 @@ proxies:
     path: '%2Fxh'
 - client-fingerprint: qq
   flow: xtls-rprx-vision
-  name: '❌ 22|@npv_vpn11 #649'
+  name: '✅ 22|@npv_vpn11 #649'
   network: raw
   port: 8443
   reality-opts:
@@ -41759,7 +41759,7 @@ proxies:
     path: '%2Fcdn%2Fimg%2Ftile%2F68ff3ccd'
 - client-fingerprint: edge
   flow: xtls-rprx-vision
-  name: '✅ 22|@npv_vpn11 #662'
+  name: '❌ 22|@npv_vpn11 #662'
   network: raw
   port: 7449
   reality-opts:
@@ -41799,7 +41799,7 @@ proxies:
     path: /?u%3D3e3fff3b5b
 - client-fingerprint: firefox
   flow: xtls-rprx-vision
-  name: '✅ 22|@npv_vpn11 #632'
+  name: '❌ 22|@npv_vpn11 #632'
   network: tcp
   port: 18719
   reality-opts:
@@ -41824,7 +41824,7 @@ proxies:
       Host: vimdes.save-files.online
     path: '%2F_next%2Fdata%2Fcontent%2Fb9e14c7a'
 - client-fingerprint: qq
-  name: '✅ 22|@npv_vpn11 #655'
+  name: '❌ 22|@npv_vpn11 #655'
   network: ws
   port: 6443
   server: 46.243.235.219
@@ -43099,7 +43099,7 @@ proxies:
     headers:
       Host: multipanel-production-d715.up.railway.app
     path: /ws/ae7acace-e609-9466-f9a3-a77f4d57ac28
-- name: '✅ 22|@npv_vpn11 #809'
+- name: '❌ 22|@npv_vpn11 #809'
   network: tcp
   port: 443
   reality-opts:
@@ -44098,7 +44098,7 @@ proxies:
   type: vless
   uuid: da24590d-b15a-4d8e-8648-51c40c9963e1
 - flow: xtls-rprx-vision
-  name: '✅ 22|@npv_vpn11 #934'
+  name: '❌ 22|@npv_vpn11 #934'
   network: tcp
   port: 42538
   server: sv5.nonpath.ir
@@ -64492,7 +64492,7 @@ proxies:
       Host: wkytah9k8oggj60.qzfi0skkopy875xhtc0l9pwds.workers.dev
     path: /@Marisa_kristi
 - flow: xtls-rprx-vision
-  name: ✅ 30|🇯🇵JP_19|561KB/s|A004-260618 01
+  name: ❌ 30|🇯🇵JP_19|561KB/s|A004-260618 01
   network: raw
   port: 50159
   reality-opts:
