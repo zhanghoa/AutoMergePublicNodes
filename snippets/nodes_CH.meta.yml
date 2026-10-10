@@ -39,13 +39,13 @@ proxies:
   tls: true
   type: http
   username: null
-- name: 11|D🔴🇨🇭hos[🎬🤖📺🎭]_dokng.com_a1a037...
+- name: '11,26,29|🇨🇭CH_2|2.1MB/s #1'
   port: 9443
   server: 149.88.27.46
   skip-cert-verify: true
   tls: true
   type: http
-- name: 11|C🟠🇨🇭hos[🎬🤖📺🎭]_dokng.com_a74c39...
+- name: '11,26,29|🇨🇭CH_1|2.1MB/s #1'
   password: None
   port: 443
   server: 31.7.62.50
@@ -59,7 +59,7 @@ proxies:
   skip-cert-verify: true
   tls: true
   type: http
-- name: 14|🇨🇭191339 | ⚡️Telegram = t.me/S...
+- name: '14,26|🇨🇭191339 | ⚡️Telegram = t.me/S... #1'
   obfs: salamander
   obfs-password: mbQXP2ASuHbF6ZPq
   password: capadm96216165
@@ -69,7 +69,7 @@ proxies:
   sni: vpn.local
   tls: false
   type: hysteria2
-- name: 14,16,24|[OpenRay] 🇬🇧GB-390
+- name: '14,16,24,26|[ 🇨🇭 ] | @Cfox_SerVer #2'
   password: we9_I1893UFj3149xbr1_k8qvJ8734ic_Mx82gH
   port: 8443
   server: 82.38.64.237
@@ -86,7 +86,7 @@ proxies:
   type: vless
   uuid: c0dd6d59-1573-43af-8b70-1470b2632a6d
 - cipher: chacha20-ietf-poly1305
-  name: '16,17|🇨🇭[www.v2nodes.com] ss-CH-1573... #1'
+  name: '16,17,26|🇨🇭[www.v2nodes.com] ss-CH-1573... #2'
   password: e8KgS8fD0yDqYFpgN4G5piCOt9aFyqA3
   port: 8388
   server: 132.243.175.144

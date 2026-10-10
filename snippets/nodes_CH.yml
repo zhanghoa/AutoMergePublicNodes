@@ -24,7 +24,7 @@ proxies:
   server: 212.237.210.158
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '16,17|🇨🇭[www.v2nodes.com] ss-CH-1573... #1'
+  name: '16,17,26|🇨🇭[www.v2nodes.com] ss-CH-1573... #2'
   password: e8KgS8fD0yDqYFpgN4G5piCOt9aFyqA3
   port: 8388
   server: 132.243.175.144

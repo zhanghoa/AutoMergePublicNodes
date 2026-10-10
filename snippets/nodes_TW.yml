@@ -20,28 +20,22 @@ proxies:
 - cipher: aes-256-cfb
   name: '7|🇹🇼 [ Configs by DukeMehdi ] SS... #3'
   password: qwerREWQ@@
-  port: 50701
-  server: 61.220.130.70
-  type: ss
-- cipher: aes-256-cfb
-  name: '7|🇹🇼 [ Configs by DukeMehdi ] SS... #4'
-  password: qwerREWQ@@
   port: 41632
   server: 185.189.160.105
   type: ss
 - cipher: aes-256-gcm
-  name: '7|🇹🇼 [ Configs by DukeMehdi ] SS... #5'
+  name: '7|🇹🇼 [ Configs by DukeMehdi ] SS... #4'
   password: 8n6pwAcrrv2pj6tFY2p3TbQ6
   port: 33992
   server: 2.58.242.157
   type: ss
 - cipher: aes-256-gcm
-  name: '7|🇹🇼 [ Configs by DukeMehdi ] SS... #6'
+  name: '7|🇹🇼 [ Configs by DukeMehdi ] SS... #5'
   password: 8n6pwAcrrv2pj6tFY2p3TbQ6
   port: 33992
   server: 2.58.242.43
   type: ss
-- name: '16,17,28|台湾|@ripaojiedian #2'
+- name: '16,17,26,28|台湾|@ripaojiedian #3'
   network: tcp
   password: AA885B42-133C-3828-FB69-E45105C06092
   port: 12142

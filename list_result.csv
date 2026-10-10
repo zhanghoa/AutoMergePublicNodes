@@ -8,7 +8,7 @@
 6,https://raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/wenode.txt,23
 7,https://raw.githubusercontent.com/DukeMehdi/FreeList-V2ray-Configs/main/Configs/All-DukeMehdi-Configs.txt,2000
 8,https://raw.githubusercontent.com/Huibq/TrojanLinks/master/links/vmess,0
-9,https://raw.githubusercontent.com/Pawdroid/Free-servers/refs/heads/main/sub,10
+9,https://raw.githubusercontent.com/Pawdroid/Free-servers/refs/heads/main/sub,7
 10,https://raw.githubusercontent.com/Q3dlaXpoaQ/V2rayN_Clash_Node_Getter/refs/heads/main/APIs/sc0.yaml,0
 11,https://raw.githubusercontent.com/Ruk1ng001/freeSub/main/clash.yaml,500
 12,https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/main/all_configs.txt,2000
@@ -25,12 +25,12 @@
 23,https://raw.githubusercontent.com/mahdibland/SSAggregator/master/sub/sub_merge_yaml.yml,0
 24,https://raw.githubusercontent.com/nikita29a/FreeProxyList/main/mirror/1.txt,2000
 25,https://raw.githubusercontent.com/nikita29a/FreeProxyList/main/mirror/4.txt,392
-26,https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/snippets/nodes.meta.yml,0
+26,https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/snippets/nodes.meta.yml,559
 27,https://raw.githubusercontent.com/ripaojiedian/freenode/main/clash,14
 28,https://raw.githubusercontent.com/ripaojiedian/freenode/main/sub,13
-29,https://raw.githubusercontent.com/shaoyouvip/free/refs/heads/main/all.yaml,16
+29,https://raw.githubusercontent.com/shaoyouvip/free/refs/heads/main/all.yaml,62
 30,https://raw.githubusercontent.com/xiaoji235/airport-free/main/v2ray.txt,3000
 31,https://raw.githubusercontent.com/zhangkaiitugithub/passcro/main/speednodes.yaml,141
 
-总计,,7953
-存活节点,,4843/7953
+总计,,8088
+存活节点,,4956/8088

@@ -17,13 +17,13 @@ proxies:
   port: 7307
   server: 38.180.216.114
   type: ss
-- name: '16,17|🇪🇪[www.v2nodes.com] trojan-EE-... #2'
+- name: '16,17,26|🇪🇪[www.v2nodes.com] trojan-EE-... #4'
   password: gHncxmRjWEJ7apX5XuXsHw4kGexMH_gU
   port: 2097
   server: stoniy.fytpn.com
   sni: stoniy.fytpn.com
   type: trojan
-- name: 16,17,30|🇪🇪EE_8|1.2MB/s|C002-260622 01
+- name: 16,17,26,30|🇪🇪EE_8|1.2MB/s|C002-260622 01
   network: tcp
   password: oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1
   port: 449

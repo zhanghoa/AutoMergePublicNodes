@@ -7,117 +7,117 @@ proxies:
   type: ss
 - cipher: chacha20-ietf-poly1305
   name: '7|🇫🇷 [ Configs by DukeMehdi ] SS... #1'
+  password: 97OnDEZYGja4
+  port: 443
+  server: 178.18.244.2
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: '7|🇫🇷 [ Configs by DukeMehdi ] SS... #2'
   password: 94dvoW0TdKRq
   port: 443
   server: 161.97.68.139
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '7|🇫🇷 [ Configs by DukeMehdi ] SS... #2'
+  name: '7|🇫🇷 [ Configs by DukeMehdi ] SS... #3'
   password: ytw2awn
   port: 443
   server: 54.36.174.140
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '7,16,17|🇫🇷[www.v2nodes.com] ss-FR-1536... #1'
+  name: '7,16,17,26|🇫🇷[www.v2nodes.com] ss-FR-1536... #2'
   password: BqnqToih0PbU
   port: 8388
   server: 51.255.13.232
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '7|🇫🇷 [ Configs by DukeMehdi ] SS... #4'
+  name: '7|🇫🇷 [ Configs by DukeMehdi ] SS... #5'
   password: E4gyHkKwJGyG
   port: 443
   server: 161.97.66.81
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '7|🇫🇷 [ Configs by DukeMehdi ] SS... #5'
+  name: '7|🇫🇷 [ Configs by DukeMehdi ] SS... #6'
   password: G!yBwPWH3Vao
   port: 804
   server: 51.178.87.37
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '7|🇫🇷 [ Configs by DukeMehdi ] SS... #6'
+  name: '7|🇫🇷 [ Configs by DukeMehdi ] SS... #7'
+  password: G!yBwPWH3Vao
+  port: 810
+  server: 51.178.87.37
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: '7|🇫🇷 [ Configs by DukeMehdi ] SS... #8'
   password: G!yBwPWH3Vao
   port: 800
   server: 141.95.0.23
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '7|🇫🇷 [ Configs by DukeMehdi ] SS... #7'
+  name: '7|🇫🇷 [ Configs by DukeMehdi ] SS... #9'
   password: G!yBwPWH3Vao
   port: 810
   server: 141.95.0.23
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '7|🇫🇷 [ Configs by DukeMehdi ] SS... #8'
+  name: '7|🇫🇷 [ Configs by DukeMehdi ] SS... #10'
   password: G!yBwPWH3Vao
   port: 809
   server: 163.172.110.153
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '7|🇫🇷 [ Configs by DukeMehdi ] SS... #9'
+  name: '7|🇫🇷 [ Configs by DukeMehdi ] SS... #11'
   password: G!yBwPWH3Vao
   port: 803
   server: 95.85.90.181
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '7|🇫🇷 [ Configs by DukeMehdi ] SS... #10'
+  name: '7|🇫🇷 [ Configs by DukeMehdi ] SS... #12'
   password: G!yBwPWH3Vao
   port: 804
   server: 95.85.90.181
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '7|🇫🇷 [ Configs by DukeMehdi ] SS... #11'
+  name: '7|🇫🇷 [ Configs by DukeMehdi ] SS... #13'
   password: G!yBwPWH3Vao
   port: 810
   server: 95.85.90.181
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '7|🇫🇷 [ Configs by DukeMehdi ] SS... #12'
+  name: '7|🇫🇷 [ Configs by DukeMehdi ] SS... #14'
   password: Kq3iQqtVlyPJBPcD6QpnGE
   port: 9802
   server: 92.243.27.51
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '7|🇫🇷 [ Configs by DukeMehdi ] SS... #13'
+  name: '7|🇫🇷 [ Configs by DukeMehdi ] SS... #15'
   password: diOMBU5IDvJcFqyNPbRjYR
   port: 10443
   server: 137.74.119.18
   type: ss
 - cipher: aes-128-gcm
-  name: '7|🇫🇷 [ Configs by DukeMehdi ] SS... #14'
+  name: '7|🇫🇷 [ Configs by DukeMehdi ] SS... #16'
   password: SySWDaP8rm1NEK0wdLdoaV5ClkSjFDfw
   port: 51058
   server: 173.212.251.231
   type: ss
 - cipher: aes-256-cfb
-  name: '7|🇫🇷 [ Configs by DukeMehdi ] SS... #15'
+  name: '7|🇫🇷 [ Configs by DukeMehdi ] SS... #17'
   password: '!!str 4415934295'
   port: 50004
   server: 62.210.213.6
   type: ss
 - cipher: aes-256-cfb
-  name: '7|🇫🇷 [ Configs by DukeMehdi ] SS... #16'
+  name: '7|🇫🇷 [ Configs by DukeMehdi ] SS... #18'
   password: '!!str 7122910143'
   port: 50007
   server: 135.125.236.229
   type: ss
 - cipher: aes-256-cfb
-  name: '7|🇫🇷 [ Configs by DukeMehdi ] SS... #17'
-  password: amazonskr05
-  port: 443
-  server: 13.36.167.227
-  type: ss
-- cipher: aes-256-cfb
-  name: '7|🇫🇷 [ Configs by DukeMehdi ] SS... #18'
-  password: amazonskr05
-  port: 443
-  server: 13.36.241.80
-  type: ss
-- cipher: aes-256-cfb
   name: '7|🇫🇷 [ Configs by DukeMehdi ] SS... #19'
   password: amazonskr05
   port: 443
-  server: 15.237.215.103
+  server: 13.36.241.80
   type: ss
 - cipher: aes-256-cfb
   name: '7|🇫🇷 [ Configs by DukeMehdi ] SS... #20'
@@ -167,133 +167,121 @@ proxies:
   name: '7|🇫🇷 [ Configs by DukeMehdi ] SS... #27'
   password: asdKkaskJKfnsa
   port: 443
-  server: 162.19.59.162
-  type: ss
-- cipher: aes-256-cfb
-  name: '7|🇫🇷 [ Configs by DukeMehdi ] SS... #28'
-  password: asdKkaskJKfnsa
-  port: 443
   server: 162.19.59.163
   type: ss
 - cipher: aes-256-cfb
-  name: '7|🇫🇷 [ Configs by DukeMehdi ] SS... #29'
-  password: asdKkaskJKfnsa
-  port: 443
-  server: 162.19.59.165
-  type: ss
-- cipher: aes-256-cfb
-  name: '7|🇫🇷 [ Configs by DukeMehdi ] SS... #30'
+  name: '7|🇫🇷 [ Configs by DukeMehdi ] SS... #28'
   password: f8f7aCzcPKbsF8p3
   port: 989
   server: 54.37.139.110
   type: ss
 - cipher: aes-256-gcm
-  name: '7|🇫🇷 [ Configs by DukeMehdi ] SS... #31'
+  name: '7|🇫🇷 [ Configs by DukeMehdi ] SS... #29'
   password: 7NuB0Y5m3aNzkKMKlFoMwkiajsu6F36c9ok4VKEZnB4=
   port: 2083
   server: 162.19.254.232
   type: ss
 - cipher: aes-256-gcm
-  name: '7|🇫🇷 [ Configs by DukeMehdi ] SS... #32'
+  name: '7|🇫🇷 [ Configs by DukeMehdi ] SS... #30'
   password: FWrXcxPZjJxAN89xLgqY3Acp
   port: 44236
   server: 138.199.16.135
   type: ss
 - cipher: aes-256-gcm
-  name: '7|🇫🇷 [ Configs by DukeMehdi ] SS... #33'
+  name: '7|🇫🇷 [ Configs by DukeMehdi ] SS... #31'
   password: FoOiGlkAA9yPEGP
   port: 7306
   server: 188.165.32.235
   type: ss
 - cipher: aes-256-gcm
-  name: '7|🇫🇷 [ Configs by DukeMehdi ] SS... #34'
+  name: '7|🇫🇷 [ Configs by DukeMehdi ] SS... #32'
   password: FoOiGlkAA9yPEGP
   port: 7306
   server: 54.38.72.170
   type: ss
 - cipher: aes-256-gcm
-  name: '7|🇫🇷 [ Configs by DukeMehdi ] SS... #35'
+  name: '7|🇫🇷 [ Configs by DukeMehdi ] SS... #33'
   password: FjG3IPbny+0ZYU4/p1vULP84GcKpGoZpWKAay16VhIw=
   port: 2083
   server: 51.254.128.106
   type: ss
 - cipher: aes-256-gcm
-  name: '7|🇫🇷 [ Configs by DukeMehdi ] SS... #36'
-  password: KixLvKzwjekG00rm
-  port: 5500
-  server: 149.202.82.172
-  type: ss
-- cipher: aes-256-gcm
-  name: '7|🇫🇷 [ Configs by DukeMehdi ] SS... #37'
+  name: '7|🇫🇷 [ Configs by DukeMehdi ] SS... #34'
   password: KixLvKzwjekG00rm
   port: 8080
   server: 149.202.82.172
   type: ss
 - cipher: aes-256-gcm
-  name: '7|🇫🇷 [ Configs by DukeMehdi ] SS... #38'
+  name: '7|🇫🇷 [ Configs by DukeMehdi ] SS... #35'
+  password: PCnnH6SQSnfoS27
+  port: 8091
+  server: 149.202.82.172
+  type: ss
+- cipher: aes-256-gcm
+  name: '7|🇫🇷 [ Configs by DukeMehdi ] SS... #36'
   password: RexnBgU7EV5ADxG
   port: 7001
   server: 149.202.82.172
   type: ss
 - cipher: aes-256-gcm
-  name: '7|🇫🇷 [ Configs by DukeMehdi ] SS... #39'
+  name: '7|🇫🇷 [ Configs by DukeMehdi ] SS... #37'
   password: TEzjfAYq2IjtuoS
   port: 6697
   server: 149.202.82.172
   type: ss
 - cipher: aes-256-gcm
-  name: '7|🇫🇷 [ Configs by DukeMehdi ] SS... #40'
+  name: '7|🇫🇷 [ Configs by DukeMehdi ] SS... #38'
   password: XKFKl2rULjIp74
   port: 8008
   server: 149.202.82.172
   type: ss
 - cipher: aes-256-gcm
-  name: '7|🇫🇷 [ Configs by DukeMehdi ] SS... #41'
+  name: '7|🇫🇷 [ Configs by DukeMehdi ] SS... #39'
   password: XKFKl2rULjIp74
   port: 8009
   server: 149.202.82.172
   type: ss
 - cipher: aes-256-gcm
-  name: '7|🇫🇷 [ Configs by DukeMehdi ] SS... #42'
+  name: '7|🇫🇷 [ Configs by DukeMehdi ] SS... #40'
   password: XKFKl2rULjIp74
   port: 8009
   server: 188.165.32.235
   type: ss
 - cipher: aes-256-gcm
-  name: '7|🇫🇷 [ Configs by DukeMehdi ] SS... #43'
+  name: '7|🇫🇷 [ Configs by DukeMehdi ] SS... #41'
   password: Y6R9pAtvxxzmGC
   port: 3306
   server: 149.202.82.172
   type: ss
 - cipher: aes-256-gcm
-  name: '7|🇫🇷 [ Configs by DukeMehdi ] SS... #44'
+  name: '7|🇫🇷 [ Configs by DukeMehdi ] SS... #42'
   password: Y6R9pAtvxxzmGC
   port: 3389
   server: 149.202.82.172
   type: ss
 - cipher: aes-256-gcm
-  name: '7|🇫🇷 [ Configs by DukeMehdi ] SS... #45'
-  password: Y6R9pAtvxxzmGC
-  port: 5001
-  server: 149.202.82.172
-  type: ss
-- cipher: aes-256-gcm
-  name: '7|🇫🇷 [ Configs by DukeMehdi ] SS... #46'
+  name: '7|🇫🇷 [ Configs by DukeMehdi ] SS... #43'
   password: Y6R9pAtvxxzmGC
   port: 5601
   server: 149.202.82.172
   type: ss
 - cipher: aes-256-gcm
-  name: '7|🇫🇷 [ Configs by DukeMehdi ] SS... #47'
+  name: '7|🇫🇷 [ Configs by DukeMehdi ] SS... #44'
   password: cdBIDV42DCwnfIN
   port: 8118
   server: 149.202.82.172
   type: ss
 - cipher: aes-256-gcm
-  name: '7|🇫🇷 [ Configs by DukeMehdi ] SS... #48'
+  name: '7|🇫🇷 [ Configs by DukeMehdi ] SS... #45'
   password: cdBIDV42DCwnfIN
   port: 8119
   server: 149.202.82.172
+  type: ss
+- cipher: aes-256-gcm
+  name: '7|🇫🇷 [ Configs by DukeMehdi ] SS... #46'
+  password: cdBIDV42DCwnfIN
+  port: 8119
+  server: 54.36.174.181
   type: ss
 - alterId: 2
   cipher: auto
@@ -306,11 +294,23 @@ proxies:
   udp: true
   uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
   xudp: true
-- name: '16,17|🇫🇷[www.v2nodes.com] trojan-FR-... #11'
+- name: '16,17,26|🇫🇷[www.v2nodes.com] trojan-FR-... #22'
   network: ws
   password: humanity
   port: 443
   server: 185.255.179.166
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+- name: '16,17,26|🇫🇷[www.v2nodes.com] trojan-FR-... #23'
+  network: ws
+  password: humanity
+  port: 443
+  server: 185.220.100.168
   skip-cert-verify: false
   sni: www.calmlunch.com
   type: trojan
@@ -332,7 +332,7 @@ proxies:
     headers:
       Host: www.calmlunch.com
     path: /assignment
-- name: '16,17|🇫🇷[www.v2nodes.com] trojan-FR-... #14'
+- name: '16,17,26|🇫🇷[www.v2nodes.com] trojan-FR-... #24'
   network: ws
   password: humanity
   port: 443
@@ -344,30 +344,7 @@ proxies:
     headers:
       Host: www.calmlunch.com
     path: /assignment
-- name: '16,17|🇫🇷[www.v2nodes.com] trojan-FR-... #15'
-  network: ws
-  password: humanity
-  port: 443
-  server: www.calmlunch.com
-  sni: www.calmlunch.com
-  type: trojan
-  ws-opts:
-    headers:
-      Host: www.calmlunch.com
-    path: /assignment
-- name: '16,17|🇫🇷[www.v2nodes.com] trojan-FR-... #16'
-  network: ws
-  password: humanity
-  port: 2053
-  server: 185.114.72.31
-  skip-cert-verify: false
-  sni: www.calmlunch.com
-  type: trojan
-  ws-opts:
-    headers:
-      Host: www.calmlunch.com
-    path: /assignment
-- name: '16,17|🇫🇷[www.v2nodes.com] trojan-FR-... #17'
+- name: '16,17,26|🇫🇷[www.v2nodes.com] trojan-FR-... #27'
   network: ws
   password: humanity
   port: 443
@@ -379,14 +356,14 @@ proxies:
     headers:
       Host: www.calmlunch.com
     path: '%2Fassignment'
-- name: '16,17|🇫🇷[www.v2nodes.com] trojan-FR-... #18'
+- name: '16,17,26|🇫🇷[www.v2nodes.com] trojan-FR-... #28'
   password: humanity
   port: 443
   server: 165.215.250.14
   type: trojan
   ws-opts:
     path: '%2Fassignment'
-- name: '16,17|🇫🇷[www.v2nodes.com] trojan-FR-... #19'
+- name: '16,17,26|🇫🇷[www.v2nodes.com] trojan-FR-... #29'
   network: ws
   password: humanity
   port: 443
@@ -398,7 +375,7 @@ proxies:
     headers:
       Host: www.calmlunch.com
     path: '%2Fassignment'
-- name: '16,17|🇫🇷[www.v2nodes.com] trojan-FR-... #20'
+- name: '16,17,26|🇫🇷[www.v2nodes.com] trojan-FR-... #30'
   network: ws
   password: humanity
   port: 443
@@ -410,7 +387,7 @@ proxies:
     headers:
       Host: www.calmlunch.com
     path: '%2Fassignment'
-- name: '16,17|🇫🇷[www.v2nodes.com] trojan-FR-... #21'
+- name: '16,17,26|🇫🇷[www.v2nodes.com] trojan-FR-... #31'
   network: ws
   password: humanity
   port: 443
@@ -1074,15 +1051,6 @@ proxies:
   type: trojan
   ws-opts:
     path: /assignment
-- name: 30|🇫🇷FR_570|1.6MB/s 01
-  network: ws
-  password: humanity
-  port: 443
-  server: 188.114.97.7
-  sni: www.ignitelimit.com
-  type: trojan
-  ws-opts:
-    path: /assignment
 - name: 30|🇫🇷FR_573|1.2MB/s 01
   network: ws
   password: humanity
@@ -1174,6 +1142,15 @@ proxies:
   password: humanity
   port: 443
   server: 188.114.97.6
+  sni: www.ignitelimit.com
+  type: trojan
+  ws-opts:
+    path: /assignment
+- name: 30|🇫🇷FR_640|1.0MB/s|B007-260618 0...
+  network: ws
+  password: humanity
+  port: 443
+  server: 172.67.149.60
   sni: www.ignitelimit.com
   type: trojan
   ws-opts:

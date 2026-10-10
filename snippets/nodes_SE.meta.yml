@@ -47,7 +47,7 @@ proxies:
   port: 443
   server: 37.19.222.214
   type: ss
-- name: 11,29|🇸🇪SE_1|2.8MB/s
+- name: '11,26,29|🇸🇪SE_2|1.3MB/s #1'
   port: 443
   server: 146.70.242.146
   skip-cert-verify: true
@@ -107,7 +107,7 @@ proxies:
   sni: se-house.9999231.xyz
   type: anytls
   udp: true
-- name: '14,16|Telegram 🆔@cnetvpn 🇸🇪 #1'
+- name: '14,16,26|Telegram 🆔@cnetvpn 🇸🇪 #2'
   obfs: salamander
   obfs-password: fuw2k1ddrouwxr3u
   password: vz86jgszv4zszchv
@@ -136,24 +136,11 @@ proxies:
         like Gecko) Chrome/70.0.3538.77 Safari/537.36
     path: /cf6Egz6UO8AhOjoO/emFuaS55YWVtaWtvLmdnZmYubmV0
   xudp: true
-- client-fingerprint: qq
-  flow: xtls-rprx-vision
-  name: '16,20,22|@npv_vpn11 #538'
-  network: tcp
-  port: 443
-  reality-opts:
-    public-key: MQrvfivvEfLGzDee7h0j5uC-DwaD_38_NXOY9-NhqxM
-  server: swidenlanzerotte.live
-  servername: swidenlanzerotte.live
-  skip-cert-verify: true
-  tls: false
-  type: vless
-  udp: true
-  uuid: 56de13ac-086e-4789-8e1e-1bf2bd90216b
 - client-fingerprint: firefox
+  encryption: none
   grpc-opts:
     grpc-service-name: content.v1.Feed
-  name: '16|🇸🇪[www.v2nodes.com] vless-SE-1... #2'
+  name: '16,26|🇸🇪[www.v2nodes.com] vless-SE-1... #9'
   network: grpc
   port: 443
   server: 163.245.43.50
@@ -208,7 +195,7 @@ proxies:
   tls: false
   type: vless
   uuid: 11aabba0-5fd1-4f15-8068-74c1a466cefc
-- name: '16,17|🇸🇪[www.v2nodes.com] trojan-SE-... #1'
+- name: '16,17,26|🇸🇪[www.v2nodes.com] trojan-SE-... #2'
   password: s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z
   port: 4443
   server: 77.74.123.106
@@ -247,6 +234,51 @@ proxies:
   tls: true
   type: vless
   uuid: f4dbc770-016d-4a0f-82f0-d83ee6f45da3
+- client-fingerprint: chrome
+  encryption: none
+  name: '26|🇸🇪[www.v2nodes.com] vless-SE-1... #10'
+  network: ws
+  port: 443
+  server: sub.merky.top
+  servername: sub.merky.top
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  uuid: 6e05822a-e9da-4135-a9db-71aa07a944af
+  ws-opts:
+    headers:
+      Host: sub.merky.top
+    path: /merky-connect/de6/
+- name: '26,29|🇸🇪SE_1|3.1MB/s #1'
+  password: None
+  port: 443
+  server: 146.70.242.130
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: 26|🇸🇪 瑞典 | SWE
+  password: a7c5d30b-ce9b-4e34-b5cb-66f8308790ef
+  port: 1020
+  server: 56juef1w.zf-mix.9999231.xyz
+  skip-cert-verify: true
+  sni: se-house.9999231.xyz
+  type: anytls
+  udp: true
+- name: 26|🇸🇪 瑞典 | SWE 2
+  password: a7c5d30b-ce9b-4e34-b5cb-66f8308790ef
+  port: 1020
+  server: 06nn6kxv.zf-mix.9999231.xyz
+  skip-cert-verify: true
+  sni: se-house.9999231.xyz
+  type: anytls
+- name: 26|🇸🇪 瑞典 | SWE 4
+  password: a7c5d30b-ce9b-4e34-b5cb-66f8308790ef
+  port: 1020
+  server: fkcx3zsc.zf-mix.9999231.xyz
+  skip-cert-verify: true
+  sni: se-house.9999231.xyz
+  type: anytls
+  udp: true
 - client-fingerprint: chrome
   name: 30|🇸🇪瑞典丨yoyapai.com
   network: ws
