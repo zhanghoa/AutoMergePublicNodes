@@ -45,6 +45,20 @@ def download_mihomo(dst: str = "./mihomo") -> str:
 
 
 
+def _strip_none(obj):
+    """递归移除值为 None 的项。
+
+    上游源的 YAML 里常出现 `headers: {Host: }`（值为空）这类写法，
+    PyYAML 解析成 None；mihomo 要求这些字段是字符串，
+    收到 None 会直接 fatal 退出，使整批节点都无法测活。
+    """
+    if isinstance(obj, dict):
+        return {k: _strip_none(v) for k, v in obj.items() if v is not None}
+    if isinstance(obj, list):
+        return [_strip_none(v) for v in obj if v is not None]
+    return obj
+
+
 def sanitize_node(n: dict) -> dict:
     """修正上游源里的过时/不兼容字段，避免 mihomo 因单个节点拒绝启动。
 
@@ -59,6 +73,10 @@ def sanitize_node(n: dict) -> dict:
         is_cert_pin = bool(s) and all(c in "0123456789abcdef:" for c in s) and len(s) >= 32
         if not is_cert_pin and "client-fingerprint" not in n:
             n["client-fingerprint"] = val
+    # 清掉空值字段（如 ws-opts.headers.Host = None）
+    cleaned = _strip_none(n)
+    n.clear()
+    n.update(cleaned)
     return n
 
 
@@ -133,6 +151,49 @@ def _port_free(port: int) -> bool:
             return False
 
 
+def _parse_bad_proxy_index(log_path: str):
+    """从 mihomo 日志里解析出错节点的下标。
+
+    典型报错：Parse config error: proxy 1719: filed ws-opts.headers[Host] invalid
+    下标是 0-based，与 write_conf() 写入 proxies 的顺序一致。
+    """
+    import re as _re
+    try:
+        for line in open(log_path, encoding="utf-8", errors="ignore"):
+            m = _re.search(r"Parse config error: proxy (\d+):", line)
+            if m:
+                return int(m.group(1))
+    except OSError:
+        pass
+    return None
+
+
+def start_mihomo_resilient(binary: str, nodes, max_drop: int = 40):
+    """启动 mihomo；若因个别畸形节点解析失败，则剔除该节点后重试。
+
+    上游免费源的字段质量参差（值为 None、类型不符、拼写错误等），
+    只要有一个节点解析失败，mihomo 就会 fatal 退出，导致整批无法测活。
+    这里按报错下标逐个剔除，最多剔除 max_drop 个后放弃。
+
+    返回 (proc, nodes)：nodes 是实际写入配置的节点列表（可能已被剔除若干）。
+    """
+    import re as _re
+    dropped = 0
+    for _ in range(max_drop + 1):
+        write_conf(nodes)
+        try:
+            return start_mihomo(binary, "alive_conf.yaml"), nodes
+        except RuntimeError:
+            idx = _parse_bad_proxy_index("mihomo_test.log")
+            if idx is None or idx >= len(nodes) or idx < 0:
+                raise
+            bad = nodes.pop(idx)
+            dropped += 1
+            label = bad.get("name") if isinstance(bad, dict) else bad
+            print(f"  剔除畸形节点 [{idx}] {str(label)[:48]!r}（累计 {dropped} 个）", flush=True)
+    raise RuntimeError(f"剔除 {max_drop} 个节点后 mihomo 仍无法启动")
+
+
 def start_mihomo(binary: str, conf: str, port: int = 19090, mixed: int = 17890):
     kill_stale_mihomo(binary)
     if not _port_free(port):
@@ -202,8 +263,7 @@ def main():
         print(f"去重：无重复，{len(nodes)} 个待测", flush=True)
 
     binary = download_mihomo()
-    conf = write_conf(nodes)
-    proc = start_mihomo(binary, conf)
+    proc, nodes = start_mihomo_resilient(binary, nodes)
     try:
         results = {}
         with cf.ThreadPoolExecutor(max_workers=args.workers) as ex:
