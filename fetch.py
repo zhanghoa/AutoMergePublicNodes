@@ -492,6 +492,10 @@ class Node:
             if 'server' not in self.data: return True
             if '.' not in self.data['server']: return True
             if self.data['server'] in FAKE_IPS: return True
+            # 整个 127.0.0.0/8 都是回环地址，绝不可能作为代理服务器。
+            # 上游部分源混入这类垃圾节点（如 127.0.0.53 的「防范境外势力渗透」
+            # 广告节点），FAKE_IPS 只列了 127.0.0.1/0.0.0.0，会漏掉同段其他地址。
+            if self.data['server'].startswith('127.'): return True
             if int(str(self.data['port'])) < 20: return True
             for domain in FAKE_DOMAINS:
                 if self.data['server'] == domain.lstrip('.'): return True
