@@ -26,116 +26,116 @@ proxies:
 - cipher: chacha20-ietf-poly1305
   name: '10|🇩🇪 [ Configs by DukeMehdi ] SS... #29'
   password: G!yBwPWH3Vao
-  port: 809
+  port: 804
   server: 185.104.184.78
   type: ss
 - cipher: chacha20-ietf-poly1305
   name: '10|🇩🇪 [ Configs by DukeMehdi ] SS... #30'
   password: G!yBwPWH3Vao
+  port: 811
+  server: 185.104.184.78
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: '10|🇩🇪 [ Configs by DukeMehdi ] SS... #31'
+  password: G!yBwPWH3Vao
+  port: 809
+  server: 185.104.184.78
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: '10|🇩🇪 [ Configs by DukeMehdi ] SS... #32'
+  password: G!yBwPWH3Vao
   port: 810
   server: 93.186.201.124
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10|🇩🇪 [ Configs by DukeMehdi ] SS... #31'
+  name: '10|🇩🇪 [ Configs by DukeMehdi ] SS... #33'
   password: G!yBwPWH3Vao
   port: 811
   server: 93.186.201.124
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10|🇩🇪 [ Configs by DukeMehdi ] SS... #32'
+  name: '10|🇩🇪 [ Configs by DukeMehdi ] SS... #34'
   password: IXa3ylzS_jBOAsQy071tIQ
   port: 1080
   server: 94.249.187.46
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10|🇩🇪 [ Configs by DukeMehdi ] SS... #33'
+  name: '10|🇩🇪 [ Configs by DukeMehdi ] SS... #35'
   password: IaU5uvaRZhfz
   port: 8560
   server: 167.86.95.192
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10|🇩🇪 [ Configs by DukeMehdi ] SS... #34'
+  name: '10|🇩🇪 [ Configs by DukeMehdi ] SS... #36'
   password: Jx2HKJK7kiti86e8AnQIbX
   port: 47199
   server: 46.224.2.35
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10,19,20,30|🇩🇪[www.v2nodes.com] ss-DE-1592... #2'
+  name: '10,19,20|🇩🇪[www.v2nodes.com] ss-DE-1592... #1'
   password: NcAXc0UZI6yQJE1p8QmOv8
   port: 8388
   server: 57.129.113.16
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10|🇩🇪 [ Configs by DukeMehdi ] SS... #37'
+  name: '10|🇩🇪 [ Configs by DukeMehdi ] SS... #39'
   password: adzpq0ltVHdCxO2lsW5N9C8H5B9hXnD7YyXZfP5aulw=
   port: 42800
   server: 31.76.11.83
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10|🇩🇪 [ Configs by DukeMehdi ] SS... #38'
+  name: '10|🇩🇪 [ Configs by DukeMehdi ] SS... #40'
   password: dhND0dA+kz567LDxooGeNtcCchkPtPO5XEu1f81O5O0=
   port: 2223
   server: 138.201.197.177
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10|🇩🇪 [ Configs by DukeMehdi ] SS... #39'
+  name: '10|🇩🇪 [ Configs by DukeMehdi ] SS... #41'
+  password: fdRAl4scWDTg
+  port: 18492
+  server: 164.90.234.85
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: '10|🇩🇪 [ Configs by DukeMehdi ] SS... #42'
   password: iku/Gfrt9YeEUUleXr2Ptf3uvs0hszCR0JHPqGSjs+c=
-  port: 15250
+  port: 11950
   server: 31.76.11.83
   type: ss
-- cipher: chacha20-ietf-poly1305
-  name: '10|🇩🇪 [ Configs by DukeMehdi ] SS... #40'
-  password: pryhyxya
-  port: 57824
-  server: 52.58.249.78
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  name: '10|🇩🇪 [ Configs by DukeMehdi ] SS... #41'
-  password: rIvzNCBP_t5odSW4DiMLDw
-  port: 1080
-  server: 91.107.189.98
-  type: ss
 - cipher: chacha20-ietf
-  name: '10|🇩🇪 [ Configs by DukeMehdi ] SS... #42'
+  name: '10|🇩🇪 [ Configs by DukeMehdi ] SS... #43'
   password: 5268781266f48189
   port: 5337
   server: 20.113.28.20
   type: ss
 - cipher: chacha20-ietf
-  name: '10|🇩🇪 [ Configs by DukeMehdi ] SS... #43'
+  name: '10|🇩🇪 [ Configs by DukeMehdi ] SS... #44'
   password: '!!str 3030'
   port: 3030
   server: 20.113.70.231
   type: ss
 - cipher: aes-256-cfb
-  name: '10|🇩🇪 [ Configs by DukeMehdi ] SS... #44'
+  name: '10|🇩🇪 [ Configs by DukeMehdi ] SS... #45'
   password: '!!str 7122910143'
   port: 50007
   server: 193.108.118.154
   type: ss
 - cipher: aes-256-cfb
-  name: '10|🇩🇪 [ Configs by DukeMehdi ] SS... #45'
+  name: '10|🇩🇪 [ Configs by DukeMehdi ] SS... #46'
   password: '!!str 7122910143'
   port: 50007
   server: 46.165.254.155
   type: ss
 - cipher: aes-256-cfb
-  name: '10|🇩🇪 [ Configs by DukeMehdi ] SS... #46'
+  name: '10|🇩🇪 [ Configs by DukeMehdi ] SS... #47'
   password: XPtzA9sCug3SPR4c
   port: 9025
   server: 5.183.179.146
   type: ss
 - cipher: aes-256-cfb
-  name: '10|🇩🇪 [ Configs by DukeMehdi ] SS... #47'
-  password: amazonskr05
-  port: 443
-  server: 18.159.149.158
-  type: ss
-- cipher: aes-256-cfb
   name: '10|🇩🇪 [ Configs by DukeMehdi ] SS... #48'
   password: amazonskr05
   port: 443
-  server: 18.184.136.175
+  server: 18.159.149.158
   type: ss
 - cipher: aes-256-cfb
   name: '10|🇩🇪 [ Configs by DukeMehdi ] SS... #49'
@@ -160,19 +160,19 @@ proxies:
   name: '10|🇩🇪 [ Configs by DukeMehdi ] SS... #52'
   password: amazonskr05
   port: 443
-  server: 3.75.231.76
+  server: 3.79.59.187
   type: ss
 - cipher: aes-256-cfb
   name: '10|🇩🇪 [ Configs by DukeMehdi ] SS... #53'
   password: amazonskr05
   port: 443
-  server: 3.79.59.187
+  server: 63.177.230.112
   type: ss
 - cipher: aes-256-cfb
-  name: '10|🇩🇪 [ Configs by DukeMehdi ] SS... #54'
+  name: '10|🇩🇪 [ Configs by DukeMehdi ] SS... #55'
   password: amazonskr05
   port: 443
-  server: 63.177.230.112
+  server: 3.75.231.76
   type: ss
 - cipher: aes-256-cfb
   name: '10|🇩🇪 [ Configs by DukeMehdi ] SS... #56'
@@ -214,61 +214,61 @@ proxies:
   name: '10|🇩🇪 [ Configs by DukeMehdi ] SS... #62'
   password: FoOiGlkAA9yPEGP
   port: 7306
-  server: 172.105.244.165
+  server: 145.239.1.100
   type: ss
 - cipher: aes-256-gcm
   name: '10|🇩🇪 [ Configs by DukeMehdi ] SS... #63'
+  password: FoOiGlkAA9yPEGP
+  port: 7306
+  server: 172.105.244.165
+  type: ss
+- cipher: aes-256-gcm
+  name: '10|🇩🇪 [ Configs by DukeMehdi ] SS... #64'
   password: FoOiGlkAA9yPEGP
   port: 7307
   server: 172.105.244.165
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇩🇪 [ Configs by DukeMehdi ] SS... #64'
-  password: KixLvKzwjekG00rm
-  port: 5500
-  server: 145.239.1.100
-  type: ss
-- cipher: aes-256-gcm
   name: '10|🇩🇪 [ Configs by DukeMehdi ] SS... #65'
   password: KixLvKzwjekG00rm
-  port: 8080
+  port: 8000
   server: 145.239.1.100
   type: ss
 - cipher: aes-256-gcm
   name: '10|🇩🇪 [ Configs by DukeMehdi ] SS... #66'
   password: KixLvKzwjekG00rm
   port: 8080
-  server: 193.108.117.75
+  server: 145.239.1.100
   type: ss
 - cipher: aes-256-gcm
   name: '10|🇩🇪 [ Configs by DukeMehdi ] SS... #67'
   password: KixLvKzwjekG00rm
   port: 8080
-  server: 172.105.244.165
+  server: 193.108.117.75
   type: ss
 - cipher: aes-256-gcm
   name: '10|🇩🇪 [ Configs by DukeMehdi ] SS... #68'
-  password: PCnnH6SQSnfoS27
-  port: 8090
+  password: KixLvKzwjekG00rm
+  port: 8080
   server: 172.105.244.165
   type: ss
 - cipher: aes-256-gcm
   name: '10|🇩🇪 [ Configs by DukeMehdi ] SS... #69'
   password: PCnnH6SQSnfoS27
   port: 8090
-  server: 172.105.251.193
+  server: 172.105.244.165
   type: ss
 - cipher: aes-256-gcm
   name: '10|🇩🇪 [ Configs by DukeMehdi ] SS... #70'
   password: PCnnH6SQSnfoS27
-  port: 8091
+  port: 8090
   server: 172.105.251.193
   type: ss
 - cipher: aes-256-gcm
   name: '10|🇩🇪 [ Configs by DukeMehdi ] SS... #71'
   password: PCnnH6SQSnfoS27
-  port: 8090
-  server: 193.108.117.75
+  port: 8091
+  server: 172.105.251.193
   type: ss
 - cipher: aes-256-gcm
   name: 10,34|🇩🇪DE_77|2.0MB/s|A004-260618 01
@@ -289,10 +289,10 @@ proxies:
   server: 139.162.130.101
   type: ss
 - cipher: aes-256-gcm
-  name: 10,34|🇩🇪DE_46|1.6MB/s 01
-  password: XKFKl2rULjIp74
-  port: 8008
-  server: 185.226.172.8
+  name: '10|🇩🇪 [ Configs by DukeMehdi ] SS... #75'
+  password: TEzjfAYq2IjtuoS
+  port: 6697
+  server: 145.239.1.100
   type: ss
 - cipher: aes-256-gcm
   name: '10|🇩🇪 [ Configs by DukeMehdi ] SS... #76'
@@ -302,63 +302,63 @@ proxies:
   type: ss
 - cipher: aes-256-gcm
   name: '10|🇩🇪 [ Configs by DukeMehdi ] SS... #77'
+  password: XKFKl2rULjIp74
+  port: 8009
+  server: 145.239.1.100
+  type: ss
+- cipher: aes-256-gcm
+  name: 10,34|🇩🇪DE_46|1.6MB/s 01
+  password: XKFKl2rULjIp74
+  port: 8008
+  server: 185.226.172.8
+  type: ss
+- cipher: aes-256-gcm
+  name: '10|🇩🇪 [ Configs by DukeMehdi ] SS... #79'
   password: XmQSxDCn5ehpcq6DBYms8FJf
   port: 41992
   server: 138.199.19.137
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇩🇪 [ Configs by DukeMehdi ] SS... #78'
+  name: '10|🇩🇪 [ Configs by DukeMehdi ] SS... #80'
   password: XmQSxDCn5ehpcq6DBYms8FJf
   port: 41992
   server: 193.29.106.85
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇩🇪 [ Configs by DukeMehdi ] SS... #79'
-  password: Y6R9pAtvxxzmGC
-  port: 8888
-  server: 145.239.1.100
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇩🇪 [ Configs by DukeMehdi ] SS... #80'
-  password: Y6R9pAtvxxzmGC
-  port: 5001
-  server: 193.108.117.75
-  type: ss
-- cipher: aes-256-gcm
   name: '10|🇩🇪 [ Configs by DukeMehdi ] SS... #81'
   password: Y6R9pAtvxxzmGC
   port: 5000
-  server: 213.202.208.199
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇩🇪 [ Configs by DukeMehdi ] SS... #82'
-  password: Y6R9pAtvxxzmGC
-  port: 5000
   server: 145.239.1.100
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇩🇪 [ Configs by DukeMehdi ] SS... #83'
+  name: '10|🇩🇪 [ Configs by DukeMehdi ] SS... #82'
   password: Y6R9pAtvxxzmGC
   port: 5600
   server: 145.239.1.100
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇩🇪 [ Configs by DukeMehdi ] SS... #84'
+  name: '10|🇩🇪 [ Configs by DukeMehdi ] SS... #83'
   password: Y6R9pAtvxxzmGC
   port: 5601
   server: 145.239.1.100
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇩🇪 [ Configs by DukeMehdi ] SS... #85'
+  name: '10|🇩🇪 [ Configs by DukeMehdi ] SS... #84'
   password: Y6R9pAtvxxzmGC
   port: 3306
   server: 172.105.244.165
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇩🇪 [ Configs by DukeMehdi ] SS... #86'
+  name: '10|🇩🇪 [ Configs by DukeMehdi ] SS... #85'
   password: Y6R9pAtvxxzmGC
   port: 3389
   server: 172.105.244.165
+  type: ss
+- cipher: aes-256-gcm
+  name: '10|🇩🇪 [ Configs by DukeMehdi ] SS... #86'
+  password: Y6R9pAtvxxzmGC
+  port: 5000
+  server: 213.202.208.199
   type: ss
 - cipher: aes-256-gcm
   name: '10|🇩🇪 [ Configs by DukeMehdi ] SS... #87'
@@ -374,27 +374,33 @@ proxies:
   type: ss
 - cipher: aes-256-gcm
   name: '10|🇩🇪 [ Configs by DukeMehdi ] SS... #89'
+  password: cdBIDV42DCwnfIN
+  port: 8119
+  server: 145.239.1.100
+  type: ss
+- cipher: aes-256-gcm
+  name: '10|🇩🇪 [ Configs by DukeMehdi ] SS... #90'
   password: b2jDPHUQxCNa2KmGHZjy7C4B
   port: 50024
   server: 138.199.19.167
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇩🇪 [ Configs by DukeMehdi ] SS... #90'
+  name: '10|🇩🇪 [ Configs by DukeMehdi ] SS... #91'
   password: gqtwGu9bVreJqL3FTHSVKGzy
   port: 50695
   server: 138.199.19.169
   type: ss
-- name: '16,17,19,29,30|@KAFING_2 #4'
+- name: '16,17,19,29|کانال تلگرام : Free_VPN_CH@ #2'
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
   port: 35000
   server: 181.214.99.162
-  skip-cert-verify: true
+  skip-cert-verify: false
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: '17,19,30|Telegram 🆔@cnetvpn 🇩🇪 #2'
+- name: '17,19|Telegram 🆔@cnetvpn 🇩🇪 #1'
   obfs: salamander
   obfs-password: 6cmj1dymhm79hopl
   password: 8z2e26xkqsa598s3
@@ -638,7 +644,7 @@ proxies:
     path: /?RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPSsecurity=tls
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: '19,26,30|🇩🇪[www.v2nodes.com] vless-DE-1... #17'
+  name: '19,26|@npv_vpn11 #95'
   network: tcp
   port: 443
   reality-opts:
@@ -649,6 +655,28 @@ proxies:
   tls: false
   type: vless
   uuid: a5ce10af-5e95-4eb3-ab87-bf4f95cb059b
+- client-fingerprint: qq
+  flow: xtls-rprx-vision
+  name: '19,26|@npv_vpn11 #979'
+  network: tcp
+  port: 40443
+  reality-opts:
+    public-key: w4AYHvQnQS6olDqoG9ptLOtgehaWOsv9HQhDax5bLA4
+    short-id: db46e2946fc466fd
+  server: arcturus.yokkastars.com
+  servername: deepl.com
+  tls: false
+  type: vless
+  uuid: bb0f1ed0-0298-40a1-adb1-1f5d6ab33d54
+- client-fingerprint: firefox
+  flow: xtls-rprx-vision
+  name: '19|🇩🇪[www.v2nodes.com] vless-DE-1... #4'
+  port: 443
+  server: 144.31.62.242
+  servername: de2.srv.vbuste.ru
+  tls: true
+  type: vless
+  uuid: 318c935d-c195-41d3-99ad-9bbcfdab3386
 - name: '19|🇩🇪[www.v2nodes.com] vless-DE-1... #5'
   network: ws
   port: 20202
@@ -661,41 +689,18 @@ proxies:
     headers:
       Host: wzs.echo.net.eu.org
     path: /video/HxNMGkZdGw0PRk1GVw8YF14OXkwNVVtIRg1HUlZXSwcZUQABSgMNQRoaSVhfRhoOChkDDUs=fp=chrome
-- client-fingerprint: chrome
-  flow: xtls-rprx-vision
-  name: '19,26,30|🇩🇪[www.v2nodes.com] vless-DE-1... #19'
-  network: tcp
-  port: 443
-  reality-opts:
-    public-key: 0-or5ogGhYbBgsVSrSC2Fhxyp2BN97Y9pqIdg61Qd08
-    short-id: 4be4110078ebed4a
-  server: 150.241.79.232
-  servername: de2.srv.vbuste.ru
-  tls: false
-  type: vless
-  uuid: 318c935d-c195-41d3-99ad-9bbcfdab3386
-- client-fingerprint: firefox
-  name: '19,26,30|🇩🇪[www.v2nodes.com] vless-DE-1... #20'
-  network: tcp
-  port: 443
-  server: 141.98.7.193
-  servername: 141.98.7.193
-  skip-cert-verify: false
-  tls: true
-  type: vless
-  uuid: e9e60f73-1618-491c-a85b-477bdc959ae6
-- name: '19,30|🇩🇪[www.v2nodes.com] vless-DE-1... #21'
+- name: '19|🇩🇪[www.v2nodes.com] vless-DE-1... #8'
   port: 45021
   server: 31.77.148.89
   tls: false
   type: vless
   uuid: ad263f1c-199e-4aaf-bf22-c3ad0407d377
-- name: '19,30|🇩🇪[www.v2nodes.com] vless-DE-1... #23'
+- name: '19|🇩🇪[www.v2nodes.com] vless-DE-1... #9'
   port: 443
-  server: 179.61.145.245
+  server: 31.76.35.27
   tls: false
   type: vless
-  uuid: 318c935d-c195-41d3-99ad-9bbcfdab3386
+  uuid: 4d852af3-a121-41aa-9aed-4ca40a6f7b4d
 - client-fingerprint: randomized
   flow: xtls-rprx-vision
   name: '19|🇩🇪[www.v2nodes.com] vless-DE-1... #12'
@@ -723,13 +728,13 @@ proxies:
   tls: true
   type: vless
   uuid: aef06aad-8e97-4452-9257-6142b5b1ceb7
-- name: '19,20,30|🇩🇪[www.v2nodes.com] trojan-DE-... #6'
+- name: '19,20|🇩🇪[www.v2nodes.com] trojan-DE-... #3'
   password: gHncxmRjWEJ7apX5XuXsHw4kGexMH_gU
   port: 443
   server: ger2.fytpn.com
   skip-cert-verify: false
   type: trojan
-- name: '19,20,30|🇩🇪[www.v2nodes.com] trojan-DE-... #7'
+- name: '19,20|🇩🇪[www.v2nodes.com] trojan-DE-... #4'
   password: UX82473651
   port: 443
   server: meet-goshawk.rooster465.autos
@@ -747,22 +752,6 @@ proxies:
     headers:
       Host: snip.edgeoneai.cc.cd
     path: /fdip=sstp://vpn:vpn@public-vpn-200.opengw.net:443?ed=2560
-- encryption: mlkem768x25519plus.native.0rtt.KWut9-MlmP77D3iHyRedEYXjtaAhlMfm3UHzqqQwnh4
-  http-opts:
-    headers:
-      Host:
-      - testspeed-foreign.tci.ir
-    method: GET
-    path:
-    - /@TurboConfigs---@TurboConfigs---@TurboConfigs--@TurboConfigs---@TurboConfigs---@TurboConfigs---@TurboConfigs---@TurboConfigs---@TurboConfigs--@TurboConfigs---@TurboConfigs---@TurboConfigs---@TurboConfigs---@TurboConfigs---@TurboConfigs--@TurboConfigs---@TurboConfigs---@TurboConfigs---
-  name: '19,30|🇩🇪 德国 | DEU #3 #1'
-  network: http
-  port: 2091
-  server: 65.109.215.173
-  tls: false
-  type: vless
-  udp: true
-  uuid: 44bd6953-bb51-422d-bc44-d38ce005bb6e
 - alpn:
   - h3
   - h2
@@ -778,52 +767,28 @@ proxies:
     headers:
       Host: snip.edgeoneai.cc.cd
     path: /fdip=sstp://vpn:vpn@public-vpn-200.opengw.net:443?ed=2560fp=chrome
-- http-opts:
-    headers:
-      Host:
-      - appmetrica.yandex.net
-    method: GET
-    path:
-    - /
-  name: '19,30|🇩🇪 德国 | DEU #5 #1'
-  network: http
+- name: '19|🇩🇪 德国 | DEU #5'
   port: 443
   server: 159.223.20.112
   tls: false
   type: vless
-  udp: true
   uuid: 40992c2a-513e-4837-9594-23411fd42afd
 - alpn:
   - h2
   - http/1.1
   client-fingerprint: chrome
-  http-opts:
-    headers:
-      Host:
-      - play-fe.googleapis.com
-    method: GET
-    path:
-    - /
-  name: '19,30|🇩🇪 德国 | DEU #6 #1'
-  network: http
+  name: '19|🇩🇪 德国 | DEU #6'
   port: 8443
   server: z6q1m8v3r0x7k2p9t4n5c1h8j6w3s0d.noafra.ir
   servername: z6q1m8v3r0x7k2p9t4n5c1h8j6w3s0d.noafra.ir
   tls: true
   type: vless
-  udp: true
   uuid: eb022475-2c2b-49ee-a482-56e9c71eca8c
-- http-opts:
-    method: GET
-    path:
-    - /
-  name: '19,30|🇩🇪 德国 | DEU #7 #1'
-  network: http
+- name: '19|🇩🇪 德国 | DEU #7'
   port: 443
   server: 159.89.98.213
   tls: false
   type: vless
-  udp: true
   uuid: 40992c2a-513e-4837-9594-23411fd42afd
 - name: '19|🇩🇪 德国 | DEU #8'
   network: ws
@@ -837,20 +802,11 @@ proxies:
     headers:
       Host: viksa.subsvdragontoo.online
     path: /fp=android
-- http-opts:
-    headers:
-      Host:
-      - aparat.com
-    method: GET
-    path:
-    - /
-  name: '19,30|🇩🇪 德国 | DEU #9 #1'
-  network: http
+- name: '19|🇩🇪 德国 | DEU #9'
   port: 443
   server: 139.59.157.106
   tls: false
   type: vless
-  udp: true
   uuid: 40992c2a-513e-4837-9594-23411fd42afd
 - flow: xtls-rprx-vision
   name: 22|🇩🇪_DE_德国
@@ -1045,7 +1001,7 @@ proxies:
   tls: false
   type: hysteria2
 - client-fingerprint: chrome
-  name: '29|美国+V2CROSS.COM #1'
+  name: 29|美国+V2CROSS.COM
   network: ws
   port: 443
   server: 108.138.26.70
@@ -1178,96 +1134,6 @@ proxies:
   tls: true
   type: vless
   uuid: aba8b762-e6c5-413e-b342-c132007fa767
-- encryption: none
-  name: '30|🇩🇪[www.v2nodes.com] vless-DE-1... #16'
-  network: ws
-  port: 443
-  server: 199.232.78.159
-  servername: safa.fastly.com
-  skip-cert-verify: false
-  tls: true
-  type: vless
-  uuid: 4975ba8b-7378-468b-b1be-e2f274c62e97
-  ws-opts:
-    headers:
-      Host: pannn1.global.ssl.fastly.net
-    path: /?RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS
-- client-fingerprint: chrome
-  name: '30|🇩🇪[www.v2nodes.com] vless-DE-1... #18'
-  network: ws
-  port: 20202
-  server: 209.38.238.229
-  servername: wzs.echo.net.eu.org
-  tls: true
-  type: vless
-  uuid: d18c6897-2849-456a-8c46-d7ecece47c20
-  ws-opts:
-    headers:
-      Host: wzs.echo.net.eu.org
-    path: /video/HxNMGkZdGw0PRk1GVw8YF14OXkwNVVtIRg1HUlZXSwcZUQABSgMNQRoaSVhfRhoOChkDDUs=
-- name: 30|🇩🇪DE_1|1.7MB/s
-  port: 443
-  server: 79.76.126.155
-  skip-cert-verify: true
-  tls: true
-  type: http
-- name: 30|🇩🇪DE_5|1.3MB/s
-  password: None
-  port: 443
-  server: 149.36.50.157
-  skip-cert-verify: true
-  tls: true
-  type: http
-- name: 30|🇩🇪DE_3|2.4MB/s
-  port: 9443
-  server: 79.127.156.177
-  skip-cert-verify: true
-  tls: true
-  type: http
-- name: 30|🇩🇪DE_4|1.3MB/s
-  password: None
-  port: 443
-  server: 149.36.50.1
-  skip-cert-verify: true
-  tls: true
-  type: http
-- name: 30|🇩🇪DE_6|2.3MB/s
-  port: 443
-  server: 152.233.20.206
-  skip-cert-verify: true
-  tls: true
-  type: http
-- alpn:
-  - h3
-  - h2
-  client-fingerprint: chrome
-  name: '30|🇩🇪 德国 | DEU #4 #1'
-  network: ws
-  port: 443
-  server: saas.sin.fan
-  servername: snip.edgeoneai.cc.cd
-  tls: true
-  type: vless
-  udp: true
-  uuid: 495c7195-85b8-498a-bf20-2ea9ce9175b5
-  ws-opts:
-    headers:
-      Host: snip.edgeoneai.cc.cd
-    path: /fdip=sstp://vpn:vpn@public-vpn-200.opengw.net:443?ed=2560
-- client-fingerprint: android
-  name: '30|🇩🇪 德国 | DEU #8 #1'
-  network: ws
-  port: 6443
-  server: viksa.subsvdragontoo.online
-  servername: viksa.subsvdragontoo.online
-  tls: true
-  type: vless
-  udp: true
-  uuid: d1004cfe-c279-e865-d865-71964dbdf85d
-  ws-opts:
-    headers:
-      Host: viksa.subsvdragontoo.online
-    path: /
 - name: 34|DE德国(mibei77.com 米贝节点分享)
   network: ws
   password: humanity
@@ -1691,6 +1557,17 @@ proxies:
   sni: hopp-romania-new.roxa.org
   tls: false
   type: hysteria2
+- client-fingerprint: chrome
+  name: 34|🇩🇪DE_78|773KB/s|B007-260618 01
+  network: ws
+  port: 443
+  server: rubifen.adaspoloandco.com
+  servername: rubifen.adaspoloandco.com
+  tls: true
+  type: vless
+  uuid: cf39fab0-bb85-42cb-9945-2ad69d78e575
+  ws-opts:
+    path: /GOrbEh
 - name: 34|🇩🇪DE_34|2.0MB/s|A001-260618 01
   password: Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0
   port: 8080
@@ -1835,6 +1712,25 @@ proxies:
   sni: hopp-germany-new.ddnsguru.com
   tls: false
   type: hysteria2
+- name: 34|🇩🇪DE_66|726KB/s|F003-260618 01
+  network: ws
+  port: 2087
+  server: 163.8.195.241
+  servername: /?--v2rayNplus--v2rayNplus--v2rayNplus--
+  tls: false
+  type: vless
+  uuid: 56ba5d34-ef22-4ba6-8090-4188b807df54
+  ws-opts:
+    path: /29c8fed7ca22
+- name: 34|🇩🇪DE_52|317KB/s|B007-260618 01
+  network: ws
+  port: 2087
+  server: 82.24.203.20
+  tls: false
+  type: vless
+  uuid: 5fcdc9b7-e70f-4a5c-85c3-e018ad818326
+  ws-opts:
+    path: /fd5ba98a3970
 - name: 34|🇩🇪DE_53|3.7MB/s|B007-260618 01
   network: tcp
   port: 443

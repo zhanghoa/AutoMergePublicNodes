@@ -69,13 +69,13 @@ proxies:
   name: '10|🇸🇬 [ Configs by DukeMehdi ] SS... #8'
   password: 7e68e32f-8015-4f37-9082-70e8b0b58043
   port: 8443
-  server: 54.169.240.70
+  server: 13.212.109.205
   type: ss
 - cipher: chacha20-ietf-poly1305
   name: '10|🇸🇬 [ Configs by DukeMehdi ] SS... #9'
   password: 7e68e32f-8015-4f37-9082-70e8b0b58043
   port: 8443
-  server: 13.212.109.205
+  server: 13.212.173.211
   type: ss
 - cipher: chacha20-ietf-poly1305
   name: '10|🇸🇬 [ Configs by DukeMehdi ] SS... #10'
@@ -90,39 +90,39 @@ proxies:
   server: 47.129.152.126
   type: ss
 - cipher: chacha20-ietf-poly1305
+  name: '10|🇸🇬 [ Configs by DukeMehdi ] SS... #12'
+  password: 7e68e32f-8015-4f37-9082-70e8b0b58043
+  port: 8443
+  server: 54.169.240.70
+  type: ss
+- cipher: chacha20-ietf-poly1305
   name: 10,20|🇸🇬[www.v2nodes.com] ss-SG-1581...
   password: 9epp3o9ng8ej59uv
   port: 14249
   server: 45.128.12.20
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10|🇸🇬 [ Configs by DukeMehdi ] SS... #13'
+  name: '10|🇸🇬 [ Configs by DukeMehdi ] SS... #14'
   password: 24Wk2NSszrfHn22zem1lYV
   port: 37708
   server: 188.166.220.70
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10|🇸🇬 [ Configs by DukeMehdi ] SS... #14'
+  name: '10|🇸🇬 [ Configs by DukeMehdi ] SS... #15'
   password: 2db985f6-21bf-40c2-a4f1-4ce2cf90b1c2
   port: 8443
   server: 13.229.204.74
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10|🇸🇬 [ Configs by DukeMehdi ] SS... #15'
+  name: '10|🇸🇬 [ Configs by DukeMehdi ] SS... #16'
   password: DAl6fKaoiAVK64kyuaYFaQ
   port: 443
   server: 45.130.165.90
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10|🇸🇬 [ Configs by DukeMehdi ] SS... #16'
-  password: G!yBwPWH3Vao
-  port: 801
-  server: 217.197.161.136
-  type: ss
-- cipher: chacha20-ietf-poly1305
   name: '10|🇸🇬 [ Configs by DukeMehdi ] SS... #17'
   password: G!yBwPWH3Vao
-  port: 803
+  port: 801
   server: 217.197.161.136
   type: ss
 - cipher: chacha20-ietf-poly1305
@@ -140,7 +140,7 @@ proxies:
 - cipher: chacha20-ietf-poly1305
   name: '10|🇸🇬 [ Configs by DukeMehdi ] SS... #20'
   password: G!yBwPWH3Vao
-  port: 807
+  port: 808
   server: 217.197.161.136
   type: ss
 - cipher: chacha20-ietf-poly1305
@@ -158,25 +158,25 @@ proxies:
 - cipher: chacha20-ietf-poly1305
   name: '10|🇸🇬 [ Configs by DukeMehdi ] SS... #23'
   password: G!yBwPWH3Vao
-  port: 804
+  port: 800
   server: 217.197.161.138
   type: ss
 - cipher: chacha20-ietf-poly1305
   name: '10|🇸🇬 [ Configs by DukeMehdi ] SS... #24'
   password: G!yBwPWH3Vao
-  port: 805
+  port: 802
   server: 217.197.161.138
   type: ss
 - cipher: chacha20-ietf-poly1305
   name: '10|🇸🇬 [ Configs by DukeMehdi ] SS... #25'
   password: G!yBwPWH3Vao
-  port: 807
+  port: 804
   server: 217.197.161.138
   type: ss
 - cipher: chacha20-ietf-poly1305
   name: '10|🇸🇬 [ Configs by DukeMehdi ] SS... #26'
   password: G!yBwPWH3Vao
-  port: 811
+  port: 805
   server: 217.197.161.138
   type: ss
 - cipher: chacha20-ietf-poly1305
@@ -223,235 +223,224 @@ proxies:
   type: ss
 - cipher: aes-256-cfb
   name: '10|🇸🇬 [ Configs by DukeMehdi ] SS... #34'
-  password: 1e5111699c45496da84112f35db665c4
-  port: 29332
-  server: 165.232.169.142
-  type: ss
-- cipher: aes-256-cfb
-  name: '10|🇸🇬 [ Configs by DukeMehdi ] SS... #35'
   password: '!!str 4415934295'
   port: 50004
   server: 51.79.157.58
   type: ss
 - cipher: aes-256-cfb
-  name: '10|🇸🇬 [ Configs by DukeMehdi ] SS... #36'
+  name: '10|🇸🇬 [ Configs by DukeMehdi ] SS... #35'
   password: '!!str 4415934295'
   port: 50004
   server: 51.79.166.171
   type: ss
 - cipher: aes-256-cfb
-  name: '10|🇸🇬 [ Configs by DukeMehdi ] SS... #37'
+  name: '10|🇸🇬 [ Configs by DukeMehdi ] SS... #36'
   password: KBGjZYcy4SyRShmA
   port: 9044
   server: 103.172.116.79
   type: ss
 - cipher: aes-256-cfb
-  name: '10|🇸🇬 [ Configs by DukeMehdi ] SS... #38'
+  name: '10|🇸🇬 [ Configs by DukeMehdi ] SS... #37'
   password: KnJGad3FqTvjqbaX
   port: 9014
   server: 103.172.116.6
   type: ss
 - cipher: aes-256-cfb
+  name: '10|🇸🇬 [ Configs by DukeMehdi ] SS... #38'
+  password: HSZuyJQcWe8dxNdF
+  port: 9043
+  server: 103.172.116.6
+  type: ss
+- cipher: aes-256-cfb
   name: '10|🇸🇬 [ Configs by DukeMehdi ] SS... #39'
-  password: QWDDvVE9npNurQfA
-  port: 9026
+  password: UWZQeLRWnkqgkseq
+  port: 9032
   server: 103.172.116.5
   type: ss
 - cipher: aes-256-cfb
   name: '10|🇸🇬 [ Configs by DukeMehdi ] SS... #40'
-  password: UWZQeLRWnkqgkseq
-  port: 9032
+  password: aLpQtfEZe445QyHk
+  port: 9098
   server: 103.172.116.5
   type: ss
 - cipher: aes-256-cfb
   name: '10|🇸🇬 [ Configs by DukeMehdi ] SS... #41'
-  password: UWZQeLRWnkqgkseq
-  port: 9032
-  server: 103.172.116.6
-  type: ss
-- cipher: aes-256-cfb
-  name: '10|🇸🇬 [ Configs by DukeMehdi ] SS... #42'
-  password: amazonskr05
-  port: 443
-  server: 13.213.2.160
-  type: ss
-- cipher: aes-256-cfb
-  name: '10|🇸🇬 [ Configs by DukeMehdi ] SS... #43'
-  password: amazonskr05
-  port: 443
-  server: 13.213.44.183
-  type: ss
-- cipher: aes-256-cfb
-  name: '10|🇸🇬 [ Configs by DukeMehdi ] SS... #44'
   password: amazonskr05
   port: 443
   server: 13.213.46.196
   type: ss
 - cipher: aes-256-cfb
-  name: '10|🇸🇬 [ Configs by DukeMehdi ] SS... #45'
-  password: amazonskr05
-  port: 443
-  server: 13.214.212.124
-  type: ss
-- cipher: aes-256-cfb
-  name: '10|🇸🇬 [ Configs by DukeMehdi ] SS... #46'
-  password: amazonskr05
-  port: 443
-  server: 13.215.173.2
-  type: ss
-- cipher: aes-256-cfb
-  name: '10|🇸🇬 [ Configs by DukeMehdi ] SS... #47'
+  name: '10|🇸🇬 [ Configs by DukeMehdi ] SS... #42'
   password: amazonskr05
   port: 443
   server: 13.215.174.243
   type: ss
 - cipher: aes-256-cfb
-  name: '10|🇸🇬 [ Configs by DukeMehdi ] SS... #48'
-  password: amazonskr05
-  port: 443
-  server: 13.215.177.216
-  type: ss
-- cipher: aes-256-cfb
-  name: '10|🇸🇬 [ Configs by DukeMehdi ] SS... #49'
+  name: '10|🇸🇬 [ Configs by DukeMehdi ] SS... #43'
   password: amazonskr05
   port: 443
   server: 13.215.191.190
   type: ss
 - cipher: aes-256-cfb
-  name: '10|🇸🇬 [ Configs by DukeMehdi ] SS... #50'
+  name: '10|🇸🇬 [ Configs by DukeMehdi ] SS... #44'
   password: amazonskr05
   port: 443
-  server: 13.215.200.86
+  server: 13.215.49.89
   type: ss
 - cipher: aes-256-cfb
-  name: '10|🇸🇬 [ Configs by DukeMehdi ] SS... #51'
-  password: amazonskr05
-  port: 443
-  server: 13.229.105.31
-  type: ss
-- cipher: aes-256-cfb
-  name: '10|🇸🇬 [ Configs by DukeMehdi ] SS... #52'
+  name: '10|🇸🇬 [ Configs by DukeMehdi ] SS... #45'
   password: amazonskr05
   port: 443
   server: 13.250.46.178
   type: ss
 - cipher: aes-256-cfb
-  name: '10|🇸🇬 [ Configs by DukeMehdi ] SS... #53'
+  name: '10|🇸🇬 [ Configs by DukeMehdi ] SS... #46'
   password: amazonskr05
   port: 443
   server: 13.250.54.18
   type: ss
 - cipher: aes-256-cfb
-  name: '10|🇸🇬 [ Configs by DukeMehdi ] SS... #54'
+  name: '10|🇸🇬 [ Configs by DukeMehdi ] SS... #47'
+  password: amazonskr05
+  port: 443
+  server: 18.141.183.204
+  type: ss
+- cipher: aes-256-cfb
+  name: '10|🇸🇬 [ Configs by DukeMehdi ] SS... #48'
   password: amazonskr05
   port: 443
   server: 18.142.183.235
   type: ss
 - cipher: aes-256-cfb
-  name: '10|🇸🇬 [ Configs by DukeMehdi ] SS... #55'
+  name: '10|🇸🇬 [ Configs by DukeMehdi ] SS... #49'
   password: amazonskr05
   port: 443
   server: 3.0.148.195
   type: ss
 - cipher: aes-256-cfb
-  name: '10|🇸🇬 [ Configs by DukeMehdi ] SS... #56'
+  name: '10|🇸🇬 [ Configs by DukeMehdi ] SS... #50'
+  password: amazonskr05
+  port: 443
+  server: 54.179.221.54
+  type: ss
+- cipher: aes-256-cfb
+  name: '10|🇸🇬 [ Configs by DukeMehdi ] SS... #51'
+  password: amazonskr05
+  port: 443
+  server: 54.251.168.143
+  type: ss
+- cipher: aes-256-cfb
+  name: '10|🇸🇬 [ Configs by DukeMehdi ] SS... #52'
   password: amazonskr05
   port: 443
   server: 54.254.129.246
   type: ss
 - cipher: aes-256-cfb
-  name: '10|🇸🇬 [ Configs by DukeMehdi ] SS... #57'
+  name: '10|🇸🇬 [ Configs by DukeMehdi ] SS... #53'
+  password: amazonskr05
+  port: 443
+  server: 54.254.199.122
+  type: ss
+- cipher: aes-256-cfb
+  name: '10|🇸🇬 [ Configs by DukeMehdi ] SS... #54'
   password: f8f7aCzcPKbsF8p3
   port: 989
   server: 194.233.65.67
   type: ss
 - cipher: aes-256-cfb
-  name: '10|🇸🇬 [ Configs by DukeMehdi ] SS... #58'
+  name: '10|🇸🇬 [ Configs by DukeMehdi ] SS... #55'
   password: y9VURyNzJWNRYEGQ
   port: 9008
   server: 103.172.116.5
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇸🇬 [ Configs by DukeMehdi ] SS... #59'
+  name: '10|🇸🇬 [ Configs by DukeMehdi ] SS... #56'
   password: TEzjfAYq2IjtuoS
   port: 6679
   server: 172.104.44.88
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇸🇬 [ Configs by DukeMehdi ] SS... #60'
+  name: '10|🇸🇬 [ Configs by DukeMehdi ] SS... #57'
   password: XKFKl2rULjIp74
   port: 8009
   server: 172.104.44.88
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇸🇬 [ Configs by DukeMehdi ] SS... #61'
+  name: '10|🇸🇬 [ Configs by DukeMehdi ] SS... #58'
   password: XKFKl2rULjIp74
   port: 8009
   server: 172.104.50.106
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇸🇬 [ Configs by DukeMehdi ] SS... #62'
+  name: '10|🇸🇬 [ Configs by DukeMehdi ] SS... #59'
   password: Y6R9pAtvxxzmGC
   port: 9090
   server: 103.106.229.69
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇸🇬 [ Configs by DukeMehdi ] SS... #63'
+  name: '10|🇸🇬 [ Configs by DukeMehdi ] SS... #60'
   password: Y6R9pAtvxxzmGC
   port: 8888
   server: 139.162.24.50
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇸🇬 [ Configs by DukeMehdi ] SS... #64'
+  name: '10|🇸🇬 [ Configs by DukeMehdi ] SS... #61'
   password: Y6R9pAtvxxzmGC
   port: 3389
   server: 139.162.58.13
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇸🇬 [ Configs by DukeMehdi ] SS... #65'
+  name: '10|🇸🇬 [ Configs by DukeMehdi ] SS... #62'
   password: Y6R9pAtvxxzmGC
   port: 5000
   server: 139.99.9.51
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇸🇬 [ Configs by DukeMehdi ] SS... #66'
+  name: '10|🇸🇬 [ Configs by DukeMehdi ] SS... #63'
   password: Y6R9pAtvxxzmGC
   port: 3306
   server: 51.79.178.63
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇸🇬 [ Configs by DukeMehdi ] SS... #67'
+  name: '10|🇸🇬 [ Configs by DukeMehdi ] SS... #64'
   password: cdBIDV42DCwnfIN
   port: 8119
   server: 139.162.58.13
   type: ss
-- name: '19,20,30|🇸🇬[www.v2nodes.com] trojan-SG-... #41'
+- name: '19,20|🇸🇬[www.v2nodes.com] trojan-SG-... #22'
+  password: UX82473651
+  port: 443
+  server: present-ram.rooster465.autos
+  skip-cert-verify: true
+  sni: present-ram.rooster465.autos
+  type: trojan
+- name: '19,20|🇸🇬[www.v2nodes.com] trojan-SG-... #23'
   password: UX82473651
   port: 443
   server: real-werewolf.rooster465.autos
   skip-cert-verify: true
   sni: real-werewolf.rooster465.autos
   type: trojan
-- name: '19,20,26,30|🇸🇬[www.v2nodes.com] trojan-SG-... #43'
+- name: '19,20,26|@npv_vpn11 #740'
   password: UX82473651
   port: 443
   server: holy-lamb.rooster465.autos
   sni: holy-lamb.rooster465.autos
   type: trojan
-- name: '19,20,30|🇸🇬[www.v2nodes.com] trojan-SG-... #45'
+- name: '19,20|🇸🇬[www.v2nodes.com] trojan-SG-... #28'
   password: UX82473651
   port: 443
   server: desired-boxer.rooster465.autos
   sni: desired-boxer.rooster465.autos
   type: trojan
-- name: '19,30|🇸🇬[www.v2nodes.com] trojan-SG-... #46'
+- name: '19|🇸🇬[www.v2nodes.com] trojan-SG-... #15'
   password: UX82473651
   port: 443
   server: 52.221.218.179
   type: trojan
 - alterId: 0
   cipher: auto
-  name: '19,31|🇸🇬 新加坡|@ripaojiedian #3'
+  name: '19,31|🇸🇬 新加坡|@ripaojiedian #2'
   network: ws
   port: 443
   server: ASaqYIDZa9WDQ9Kq.v.3dns.vip
@@ -466,7 +455,7 @@ proxies:
     path: /ws-vmess
 - alterId: 0
   cipher: auto
-  name: '19,31|🇸🇬 新加坡2|@ripaojiedian #3'
+  name: '19,31|🇸🇬 新加坡2|@ripaojiedian #2'
   network: ws
   port: 443
   server: 6JiziO8PxQAXBAtZ.v.3dns.vip
@@ -479,7 +468,7 @@ proxies:
     headers:
       Host: 6JiziO8PxQAXBAtZ.v.3dns.vip
     path: /ws-vmess
-- name: '19,20,30,32|新加坡|@ripaojiedian #4'
+- name: '19,20,32|新加坡|@ripaojiedian #3'
   network: tcp
   password: AA885B42-133C-3828-FB69-E45105C06092
   port: 10135
@@ -487,7 +476,7 @@ proxies:
   skip-cert-verify: true
   sni: m.ctrip.com
   type: trojan
-- name: '19,30|🇸🇬 新加坡 | SGP 3 #1'
+- name: 19|🇸🇬 新加坡 | SGP 3
   network: ws
   password: trojan
   port: 8443
@@ -495,12 +484,11 @@ proxies:
   skip-cert-verify: true
   sni: longwanghen.pages.dev
   type: trojan
-  udp: true
   ws-opts:
     headers:
       Host: longwanghen.pages.dev
     path: /
-- name: '19,30|🇸🇬 新加坡 | SGP #2 #1'
+- name: '19|🇸🇬 新加坡 | SGP #2'
   password: trojan
   port: 8443
   server: 104.18.35.86
@@ -516,7 +504,7 @@ proxies:
   type: trojan
 - alterId: 0
   cipher: auto
-  name: '20,30|🇸🇬 新加坡|@ripaojiedian #2'
+  name: '20|🇸🇬 新加坡|@ripaojiedian #1'
   network: ws
   port: 443
   server: ASaqYIDZa9WDQ9Kq.v.3dns.vip
@@ -531,7 +519,7 @@ proxies:
     path: /ws-vmess
 - alterId: 0
   cipher: auto
-  name: '20,30|🇸🇬 新加坡2|@ripaojiedian #2'
+  name: '20|🇸🇬 新加坡2|@ripaojiedian #1'
   network: ws
   port: 443
   server: 6JiziO8PxQAXBAtZ.v.3dns.vip

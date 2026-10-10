@@ -29,12 +29,12 @@
 27,https://raw.githubusercontent.com/mahdibland/SSAggregator/master/sub/sub_merge_yaml.yml,0
 28,https://raw.githubusercontent.com/nikita29a/FreeProxyList/main/mirror/1.txt,2000
 29,https://raw.githubusercontent.com/nikita29a/FreeProxyList/main/mirror/4.txt,392
-30,https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/snippets/nodes.meta.yml,559
+30,https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/snippets/nodes.meta.yml,0
 31,https://raw.githubusercontent.com/ripaojiedian/freenode/main/clash,14
 32,https://raw.githubusercontent.com/ripaojiedian/freenode/main/sub,13
 33,https://raw.githubusercontent.com/shaoyouvip/free/refs/heads/main/all.yaml,1
 34,https://raw.githubusercontent.com/xiaoji235/airport-free/main/v2ray.txt,3000
 35,https://raw.githubusercontent.com/zhangkaiitugithub/passcro/main/speednodes.yaml,141
 
-总计,,8166
-存活节点,,4939/8166
+总计,,8076
+存活节点,,4848/8076

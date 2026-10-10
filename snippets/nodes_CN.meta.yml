@@ -1,123 +1,159 @@
 proxies:
-- cipher: chacha20-ietf-poly1305
+- cipher: aes-128-cfb
   name: 10|🇨🇳 [ Configs by DukeMehdi ] SS...
-  password: a5a0a8d9-ab2c-407f-89a4-bf027d216184
-  port: 870
-  server: 183.240.222.15
-  type: ss
-- cipher: aes-128-cfb
-  name: '10|🇨🇳 [ Configs by DukeMehdi ] SS... #1'
-  password: QazEdcTgb159@$*
-  port: 24002
-  server: 14.29.124.168
-  type: ss
-- cipher: aes-128-cfb
-  name: '10|🇨🇳 [ Configs by DukeMehdi ] SS... #2'
   password: QazEdcTgb159@$*
   port: 24003
   server: 14.29.124.168
   type: ss
 - cipher: aes-128-cfb
-  name: '10|🇨🇳 [ Configs by DukeMehdi ] SS... #3'
+  name: '10|🇨🇳 [ Configs by DukeMehdi ] SS... #1'
   password: QazEdcTgb159@$*
   port: 24006
   server: 14.29.124.168
   type: ss
 - cipher: aes-128-cfb
+  name: '10|🇨🇳 [ Configs by DukeMehdi ] SS... #2'
+  password: QazEdcTgb159@$*
+  port: 24007
+  server: 14.29.124.168
+  type: ss
+- cipher: aes-128-cfb
+  name: '10|🇨🇳 [ Configs by DukeMehdi ] SS... #3'
+  password: QazEdcTgb159@$*
+  port: 24009
+  server: 14.29.124.168
+  type: ss
+- cipher: aes-128-cfb
   name: '10|🇨🇳 [ Configs by DukeMehdi ] SS... #4'
   password: QazEdcTgb159@$*
-  port: 24008
+  port: 25207
   server: 14.29.124.168
   type: ss
 - cipher: aes-128-cfb
   name: '10|🇨🇳 [ Configs by DukeMehdi ] SS... #5'
   password: QazEdcTgb159@$*
-  port: 25217
+  port: 25219
   server: 14.29.124.168
   type: ss
 - cipher: aes-128-cfb
   name: '10|🇨🇳 [ Configs by DukeMehdi ] SS... #6'
   password: QazEdcTgb159@$*
-  port: 25218
+  port: 25226
   server: 14.29.124.168
   type: ss
 - cipher: aes-128-cfb
   name: '10|🇨🇳 [ Configs by DukeMehdi ] SS... #7'
   password: QazEdcTgb159@$*
-  port: 25219
+  port: 25230
   server: 14.29.124.168
   type: ss
 - cipher: aes-128-cfb
   name: '10|🇨🇳 [ Configs by DukeMehdi ] SS... #8'
   password: QazEdcTgb159@$*
-  port: 25220
+  port: 25231
   server: 14.29.124.168
   type: ss
 - cipher: aes-128-cfb
   name: '10|🇨🇳 [ Configs by DukeMehdi ] SS... #9'
   password: QazEdcTgb159@$*
-  port: 25226
+  port: 25233
   server: 14.29.124.168
   type: ss
 - cipher: aes-128-cfb
   name: '10|🇨🇳 [ Configs by DukeMehdi ] SS... #10'
   password: QazEdcTgb159@$*
-  port: 25238
+  port: 25235
   server: 14.29.124.168
   type: ss
 - cipher: aes-128-cfb
   name: '10|🇨🇳 [ Configs by DukeMehdi ] SS... #11'
   password: QazEdcTgb159@$*
-  port: 25251
+  port: 25241
   server: 14.29.124.168
   type: ss
 - cipher: aes-128-cfb
   name: '10|🇨🇳 [ Configs by DukeMehdi ] SS... #12'
   password: QazEdcTgb159@$*
-  port: 25252
+  port: 25245
   server: 14.29.124.168
   type: ss
 - cipher: aes-128-cfb
   name: '10|🇨🇳 [ Configs by DukeMehdi ] SS... #13'
   password: QazEdcTgb159@$*
-  port: 25259
+  port: 25247
   server: 14.29.124.168
   type: ss
 - cipher: aes-128-cfb
   name: '10|🇨🇳 [ Configs by DukeMehdi ] SS... #14'
   password: QazEdcTgb159@$*
-  port: 25261
+  port: 25251
   server: 14.29.124.168
   type: ss
 - cipher: aes-128-cfb
   name: '10|🇨🇳 [ Configs by DukeMehdi ] SS... #15'
   password: QazEdcTgb159@$*
-  port: 25266
+  port: 25252
   server: 14.29.124.168
   type: ss
 - cipher: aes-128-cfb
   name: '10|🇨🇳 [ Configs by DukeMehdi ] SS... #16'
   password: QazEdcTgb159@$*
-  port: 25267
+  port: 25254
   server: 14.29.124.168
   type: ss
 - cipher: aes-128-cfb
   name: '10|🇨🇳 [ Configs by DukeMehdi ] SS... #17'
   password: QazEdcTgb159@$*
-  port: 25272
+  port: 25267
   server: 14.29.124.168
   type: ss
 - cipher: aes-128-cfb
   name: '10|🇨🇳 [ Configs by DukeMehdi ] SS... #18'
   password: QazEdcTgb159@$*
-  port: 25284
+  port: 25279
   server: 14.29.124.168
   type: ss
 - cipher: aes-128-cfb
   name: '10|🇨🇳 [ Configs by DukeMehdi ] SS... #19'
   password: QazEdcTgb159@$*
-  port: 25289
+  port: 25284
   server: 14.29.124.168
+  type: ss
+- cipher: aes-128-cfb
+  name: '10|🇨🇳 [ Configs by DukeMehdi ] SS... #20'
+  password: QazEdcTgb159@$*
+  port: 25286
+  server: 14.29.124.168
+  type: ss
+- cipher: aes-128-cfb
+  name: '10|🇨🇳 [ Configs by DukeMehdi ] SS... #21'
+  password: QazEdcTgb159@$*
+  port: 25294
+  server: 14.29.124.168
+  type: ss
+- cipher: aes-128-cfb
+  name: '10|🇨🇳 [ Configs by DukeMehdi ] SS... #22'
+  password: QazEdcTgb159@$*
+  port: 11048
+  server: 14.29.124.174
+  type: ss
+- cipher: aes-256-cfb
+  name: '10|🇨🇳 [ Configs by DukeMehdi ] SS... #23'
+  password: RsDk3peCSuo76B68
+  port: 10068
+  server: 180.101.193.226
+  type: ss
+- cipher: aes-256-gcm
+  name: '10|🇨🇳 [ Configs by DukeMehdi ] SS... #24'
+  password: BGX8OXD6P10X53LY
+  port: 17001
+  server: 219.135.227.209
+  type: ss
+- cipher: aes-256-gcm
+  name: '10|🇨🇳 [ Configs by DukeMehdi ] SS... #25'
+  password: QM1BB5SMWC47IVWA
+  port: 15010
+  server: 219.135.227.209
   type: ss
 - name: 19|CN【机场推荐：https://a9a.xyz】4
   network: tcp
@@ -176,6 +212,16 @@ proxies:
   type: vless
   udp: true
   uuid: aec8e5e3-bb81-4b22-8802-0b88c54997b3
+- client-fingerprint: chrome
+  name: 24|🇨🇳_中国_48
+  port: 23202
+  server: sh.polymarket.party
+  servername: jp2.australiacaregroup.site
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: aec8e5e3-bb81-4b22-8802-0b88c54997b3
 - name: 24|🇨🇳_中国_51
   password: aec8e5e3-bb81-4b22-8802-0b88c54997b3
   port: 23203
@@ -194,6 +240,16 @@ proxies:
   type: vless
   udp: true
   uuid: aec8e5e3-bb81-4b22-8802-0b88c54997b3
+- client-fingerprint: chrome
+  name: 24|🇨🇳_中国_63
+  port: 36032
+  server: gz2.vatilon.cc
+  servername: us2.australiacaregroup.site
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: aec8e5e3-bb81-4b22-8802-0b88c54997b3
 - name: 24|🇨🇳_中国_191
   password: aec8e5e3-bb81-4b22-8802-0b88c54997b3
   port: 23823
@@ -206,17 +262,6 @@ proxies:
     headers:
       Host: us4.australiacaregroup.site
     path: /trojan
-- alterId: 0
-  cipher: auto
-  name: 24|🇨🇳_中国_214
-  network: ws
-  port: 10086
-  server: 120.48.133.162
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  udp: true
-  uuid: fde10e39-48bb-4dcf-b3ba-71d711323a54
 - flow: ''
   name: 29|广东省广州市+腾讯云
   network: tcp

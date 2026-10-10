@@ -11,11 +11,11 @@ proxies:
   port: 1443
   server: 45.138.103.4
   type: ss
-- cipher: chacha20-ietf-poly1305
+- cipher: aes-256-cfb
   name: '10|🇸🇪 [ Configs by DukeMehdi ] SS... #2'
-  password: pydQILh06AvJ
-  port: 27092
-  server: 13.49.241.14
+  password: asdKkaskJKfnsa
+  port: 443
+  server: 37.19.222.211
   type: ss
 - cipher: aes-256-cfb
   name: '10|🇸🇪 [ Configs by DukeMehdi ] SS... #3'
@@ -35,7 +35,13 @@ proxies:
   port: 443
   server: 37.19.222.214
   type: ss
-- name: '19,20,30|🇸🇪[www.v2nodes.com] trojan-SE-... #2'
+- cipher: aes-256-cfb
+  name: '10|🇸🇪 [ Configs by DukeMehdi ] SS... #6'
+  password: f8f7aCzcPKbsF8p3
+  port: 989
+  server: 121.127.46.147
+  type: ss
+- name: '19,20|🇸🇪[www.v2nodes.com] trojan-SE-... #1'
   password: s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z
   port: 4443
   server: 77.74.123.106

@@ -1,29 +1,23 @@
 proxies:
-- cipher: aes-128-cfb
-  name: 10|🇨🇭 [ Configs by DukeMehdi ] SS...
-  password: shadowsocks
-  port: 443
-  server: 156.146.62.160
-  type: ss
 - cipher: aes-128-gcm
-  name: '10|🇨🇭 [ Configs by DukeMehdi ] SS... #1'
+  name: 10|🇨🇭 [ Configs by DukeMehdi ] SS...
   password: shadowsocks
   port: 443
   server: 156.146.62.162
   type: ss
 - cipher: aes-256-cfb
-  name: '10|🇨🇭 [ Configs by DukeMehdi ] SS... #2'
+  name: '10|🇨🇭 [ Configs by DukeMehdi ] SS... #1'
   password: '!!str 4415934295'
   port: 50004
   server: 37.120.213.230
   type: ss
 - cipher: aes-256-cfb
-  name: '10|🇨🇭 [ Configs by DukeMehdi ] SS... #3'
+  name: '10|🇨🇭 [ Configs by DukeMehdi ] SS... #2'
   password: f8f7aCzcPKbsF8p3
   port: 989
   server: 212.237.210.158
   type: ss
-- name: '17,19,30|🇨🇭191339 | ⚡️Telegram = t.me/S... #1'
+- name: 17,19|🇨🇭191339 | ⚡️Telegram = t.me/S...
   obfs: salamander
   obfs-password: mbQXP2ASuHbF6ZPq
   password: capadm96216165
@@ -34,21 +28,11 @@ proxies:
   tls: false
   type: hysteria2
 - cipher: chacha20-ietf-poly1305
-  name: '19,20,30|🇨🇭[www.v2nodes.com] ss-CH-1573... #2'
+  name: '19,20|🇨🇭[www.v2nodes.com] ss-CH-1573... #1'
   password: e8KgS8fD0yDqYFpgN4G5piCOt9aFyqA3
   port: 8388
   server: 132.243.175.144
   type: ss
-- alterId: 0
-  cipher: auto
-  name: '26|کانال تلگرام : Free_VPN_CH@'
-  network: tcp
-  port: 9119
-  server: GR1-Public-IR.g2gstore.ir
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: ae56511d-6b39-454b-847b-b711782d18cb
 - alterId: 0
   cipher: auto
   name: '26|کانال تلگرام : Free_VPN_CH@ #1'
@@ -71,19 +55,6 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: 30|🇨🇭CH_1|2.1MB/s
-  password: None
-  port: 443
-  server: 31.7.62.50
-  skip-cert-verify: true
-  tls: true
-  type: http
-- name: 30|🇨🇭CH_2|2.1MB/s
-  port: 9443
-  server: 149.88.27.46
-  skip-cert-verify: true
-  tls: true
-  type: http
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
   name: 34|🇨🇭CH瑞士丨yoyapai.com

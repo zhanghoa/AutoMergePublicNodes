@@ -67,306 +67,264 @@ proxies:
   type: ss
 - cipher: chacha20-ietf-poly1305
   name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #11'
+  password: 5db34ad7-3f1e-4a79-b078-2e56321e4fde
+  port: 158
+  server: 216.107.21.231
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #12'
   password: 6054f059036c3ff1e907aeb51377b2ac54e61ceb666226fd
   port: 8389
   server: 45.76.9.57
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #12'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #13'
   password: 6g8n89NARNcuTH2XvUtZ
   port: 8389
   server: 66.55.92.75
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #13'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #14'
   password: 74cf7gsXJgd9Z4MAW42L
   port: 8389
   server: 169.62.109.140
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #15'
-  password: 9Bvkw5aupNy8
-  port: 443
-  server: 205.134.180.147
-  type: ss
-- cipher: chacha20-ietf-poly1305
   name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #16'
-  password: )1N1E6v0SU_rGTpg
-  port: 1035
-  server: 38.64.138.53
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #17'
   password: )1N1E6v0SU_rGTpg
   port: 1036
   server: 79.133.109.56
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #18'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #17'
   password: '!!str 2818'
   port: 2818
   server: 20.120.24.20
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #19'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #18'
   password: '!!str 2818'
   port: 2818
   server: 20.124.221.217
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #20'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #19'
   password: 3Q5yYEGGMu8jU2p25aWL
   port: 8389
   server: 169.57.35.97
   type: ss
 - cipher: chacha20-ietf-poly1305
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #20'
+  password: G!yBwPWH3Vao
+  port: 806
+  server: 162.251.61.221
+  type: ss
+- cipher: chacha20-ietf-poly1305
   name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #21'
   password: G!yBwPWH3Vao
-  port: 800
+  port: 808
   server: 162.251.61.221
   type: ss
 - cipher: chacha20-ietf-poly1305
   name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #22'
   password: G!yBwPWH3Vao
-  port: 802
+  port: 809
   server: 162.251.61.221
   type: ss
 - cipher: chacha20-ietf-poly1305
   name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #23'
   password: G!yBwPWH3Vao
-  port: 803
+  port: 812
   server: 162.251.61.221
   type: ss
 - cipher: chacha20-ietf-poly1305
   name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #24'
   password: G!yBwPWH3Vao
-  port: 804
-  server: 162.251.61.221
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #25'
-  password: G!yBwPWH3Vao
-  port: 809
-  server: 162.251.61.221
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #26'
-  password: G!yBwPWH3Vao
-  port: 812
-  server: 162.251.61.221
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #27'
-  password: G!yBwPWH3Vao
   port: 805
   server: 162.251.61.47
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #28'
-  password: G!yBwPWH3Vao
-  port: 806
-  server: 162.251.61.47
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #29'
-  password: G!yBwPWH3Vao
-  port: 808
-  server: 162.251.61.47
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #30'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #25'
   password: G!yBwPWH3Vao
   port: 810
   server: 162.251.61.47
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #31'
-  password: G!yBwPWH3Vao
-  port: 802
-  server: 167.88.61.236
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #32'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #26'
   password: G!yBwPWH3Vao
   port: 801
   server: 167.88.61.2
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #33'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #27'
   password: G!yBwPWH3Vao
-  port: 804
+  port: 802
   server: 167.88.61.2
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #34'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #28'
   password: G!yBwPWH3Vao
-  port: 805
+  port: 803
   server: 167.88.61.2
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #35'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #29'
   password: G!yBwPWH3Vao
   port: 806
   server: 167.88.61.2
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #36'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #30'
   password: G!yBwPWH3Vao
   port: 809
   server: 167.88.61.2
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #37'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #31'
   password: G!yBwPWH3Vao
   port: 810
   server: 167.88.61.2
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #38'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #32'
+  password: G!yBwPWH3Vao
+  port: 800
+  server: 172.245.218.162
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #33'
+  password: G!yBwPWH3Vao
+  port: 801
+  server: 172.245.218.162
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #34'
   password: G!yBwPWH3Vao
   port: 809
   server: 172.245.218.162
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #39'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #35'
   password: G!yBwPWH3Vao
-  port: 804
+  port: 800
   server: 37.120.147.230
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #40'
-  password: G!yBwPWH3Vao
-  port: 805
-  server: 37.120.147.230
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #41'
-  password: G!yBwPWH3Vao
-  port: 809
-  server: 37.120.219.218
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #42'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #36'
   password: G!yBwPWH3Vao
   port: 812
   server: 37.120.219.218
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #43'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #37'
   password: G!yBwPWH3Vao
   port: 809
   server: 38.68.134.135
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #44'
-  password: G!yBwPWH3Vao
-  port: 800
-  server: 38.68.134.196
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #45'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #38'
   password: G!yBwPWH3Vao
   port: 802
   server: 38.68.134.196
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #46'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #39'
+  password: G!yBwPWH3Vao
+  port: 805
+  server: 38.68.134.196
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #40'
   password: G!yBwPWH3Vao
   port: 808
   server: 38.68.134.196
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #47'
-  password: G!yBwPWH3Vao
-  port: 810
-  server: 38.68.134.196
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #48'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #41'
   password: G!yBwPWH3Vao
   port: 800
   server: 38.91.107.225
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #49'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #42'
   password: G!yBwPWH3Vao
-  port: 802
+  port: 805
   server: 38.91.107.225
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #50'
-  password: G!yBwPWH3Vao
-  port: 809
-  server: 38.91.107.225
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #51'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #43'
   password: G!yBwPWH3Vao
   port: 809
   server: 5.181.234.254
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #52'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #44'
   password: G!yBwPWH3Vao
   port: 800
   server: 5.188.0.151
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #53'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #45'
+  password: G!yBwPWH3Vao
+  port: 804
+  server: 162.251.61.221
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #46'
   password: G!yBwPWH3Vao
   port: 812
   server: 45.144.112.162
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #54'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #47'
   password: G5p6ww4o67HB
   port: 8388
   server: 108.181.0.177
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #55'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #48'
   password: GyZ5Xo0ht41vYmW3H4
   port: 816
   server: 149.28.255.6
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #56'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #49'
   password: H5S0hvcxRi#YLmgU
   port: 1230
   server: 38.107.226.146
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #57'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #50'
   password: J1InuU6QRT5JOh1mQfkjU2
   port: 16015
   server: 144.31.243.2
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #58'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #51'
   password: N0KSFR6alSxjgp7T8Aa9Ce8DnCaAOYqz5lFZxe3O2I3uycYZXEDp3S34RyCDwB
   port: 18335
   server: 154.17.2.112
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #59'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #52'
   password: NK4wZejCzDfPdWXTK4FW
   port: 8389
   server: 45.152.182.82
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #60'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #53'
   password: QKyLzp5JUG6XEGy2wbEE
   port: 8389
   server: 104.223.91.146
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #61'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #54'
   password: QTmLViU4VEmuwbOxUw4IXd
   port: 59556
   server: 107.172.250.161
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #62'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #55'
   password: R9Xc4dHXGv3c
   port: 443
   server: 205.134.180.143
@@ -378,49 +336,37 @@ proxies:
   server: 108.181.57.93
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #64'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #57'
   password: XF0klw7870vXn3uQIxe19Q
   port: 1080
   server: 193.42.38.209
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #65'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #58'
   password: XkH8z99cQguQ8ywK5jhV
   port: 8389
   server: 70.39.71.2
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #66'
-  password: Z3YS0KxB8u5jgp736e834y3DaXwSOYzxlFDFqpNCaalDA9CEIRceZOCAnR2yTS
-  port: 18334
-  server: 154.17.1.251
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #67'
-  password: Z3YS0KxB8u5jgp736e834y3DaXwSOYzxlFDFqpNCaalDA9CEIRceZOCAnR2yTS
-  port: 18334
-  server: 154.17.2.153
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #68'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #59'
   password: Z3YS0KxB8u5jgp736e834y3DaXwSOYzxlFDFqpNCaalDA9CEIRceZOCAnR2yTS
   port: 18333
   server: 154.17.2.31
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #69'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #60'
   password: Z3YS0KxB8u5jgp736e834y3DaXwSOYzxlFDFqpNCaalDA9CEIRceZOCAnR2yTS
   port: 18331
   server: 154.17.5.184
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #71'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #62'
   password: bQZl7HDxSabr1FurTYQHFU
   port: 443
   server: 216.105.168.18
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #72'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #63'
   password: c3462d3f6020528d
   port: 16309
   server: 85.239.239.182
@@ -432,2405 +378,2309 @@ proxies:
   server: 198.98.53.130
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #74'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #65'
+  password: f8f7aCzcPKbsF8p3
+  port: 990
+  server: 104.192.225.138
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #66'
   password: g13S7doXar0A
   port: 443
   server: 205.134.180.137
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #75'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #67'
   password: hgLCgfLRgB6d
   port: 443
   server: 205.134.180.145
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #76'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #68'
   password: jiUTzfdPo7fW
   port: 42747
   server: 70.39.178.204
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #77'
-  password: lWaGPVFjmnag
-  port: 443
-  server: 205.134.180.139
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #78'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #69'
   password: q8gsJVLZ5eYXU3uhmnbH
   port: 8389
   server: 170.130.15.34
   type: ss
-- cipher: chacha20-ietf-poly1305
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #79'
-  password: sF43Xt2gONqcgFX563
-  port: 826
-  server: 5.188.111.182
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #80'
-  password: sF43Xt2gONqcgFX563
-  port: 826
-  server: 92.38.169.196
-  type: ss
 - cipher: chacha20-ietf
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #81'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #70'
   password: '!!str 5008'
   port: 5008
   server: 20.106.241.226
   type: ss
 - cipher: chacha20-ietf
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #82'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #71'
   password: '!!str 5008'
   port: 5008
   server: 20.120.24.20
   type: ss
 - cipher: chacha20-ietf
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #83'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #72'
   password: '!!str 9806'
   port: 9806
   server: 20.106.241.226
   type: ss
 - cipher: chacha20-ietf
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #84'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #73'
   password: '!!str 9806'
   port: 9806
   server: 20.120.24.20
   type: ss
 - cipher: aes-128-cfb
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #85'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #74'
   password: shadowsocks
   port: 443
   server: 156.146.38.163
   type: ss
-- cipher: aes-128-cfb
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #86'
-  password: shadowsocks
-  port: 443
-  server: 184.170.241.194
-  type: ss
 - cipher: aes-128-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #87'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #75'
   password: 1377d5cfafc9279a904deb3bfa4f3de2
   port: 14680
   server: 74.201.177.54
   type: ss
 - cipher: aes-128-gcm
-  name: '10,19,20,30|🇨🇦[www.v2nodes.com] ss-CA-1584... #2'
+  name: '10,19,20|🇨🇦[www.v2nodes.com] ss-CA-1584... #1'
   password: 1cbb3e347ee86e1980a7c731e9dd00a0
   port: 17200
   server: 64.74.161.147
   type: ss
 - cipher: aes-128-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #89'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #77'
   password: 1cbb3e347ee86e1980a7c731e9dd00a0
   port: 17201
   server: 64.74.161.148
   type: ss
 - cipher: aes-128-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #90'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #78'
   password: 1cbb3e347ee86e1980a7c731e9dd00a0
   port: 17202
   server: 64.74.161.149
   type: ss
 - cipher: aes-128-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #92'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #79'
+  password: 2591a42af498878e47d881cd1ed1fa9d
+  port: 10676
+  server: 66.23.204.219
+  type: ss
+- cipher: aes-128-gcm
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #81'
   password: 7f02b717406f2c5d4a7e287aa1d87a3dba9feacb5776c33f
   port: 8392
   server: 45.76.9.57
   type: ss
 - cipher: aes-128-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #93'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #82'
   password: 404243f1f29932014b81216208f96031
   port: 11332
   server: 216.105.168.158
   type: ss
 - cipher: aes-128-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #95'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #84'
+  password: 4efe1af272e7292139b889f6a63ee071
+  port: 18764
+  server: 64.74.163.67
+  type: ss
+- cipher: aes-128-gcm
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #85'
   password: 50ce2ac177d8d8cdad6b4a68739e2ea0
   port: 13627
   server: 66.23.202.54
   type: ss
 - cipher: aes-128-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #96'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #86'
   password: 56806e1f518b161950dd19f5960aafbe
   port: 10689
   server: 167.160.90.106
   type: ss
 - cipher: aes-128-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #97'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #87'
   password: 62dd75ba944947d4ca983cf1679b3797
   port: 15240
   server: 173.234.25.90
   type: ss
 - cipher: aes-128-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #99'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #89'
   password: 87e9cb62706b5cd08da95b8b423cb673
   port: 16469
   server: 103.214.111.162
   type: ss
 - cipher: aes-128-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #100'
-  password: 89d3a0375a279f6e743fea76e72952a8
-  port: 16995
-  server: 66.23.204.210
-  type: ss
-- cipher: aes-128-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #101'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #90'
   password: 89d3a0375a279f6e743fea76e72952a8
   port: 16999
   server: 66.23.204.214
   type: ss
 - cipher: aes-128-gcm
-  name: 10,34|🇺🇸US_63|1.0MB/s|A004-260618 01
-  password: shadowsocks
-  port: 443
-  server: 173.244.56.9
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #91'
+  password: 89d3a0375a279f6e743fea76e72952a8
+  port: 16995
+  server: 66.23.204.210
   type: ss
 - cipher: aes-128-gcm
-  name: 10,34|🇺🇸US_61|1.1MB/s 01
-  password: shadowsocks
-  port: 443
-  server: 37.19.198.160
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #92'
+  password: bc7d6364944140ea4e922dfc064d92e0
+  port: 18853
+  server: 69.10.61.53
   type: ss
 - cipher: aes-256-cfb
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #112'
-  password: amazonskr05
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #105'
+  password: 9d6cceaa373bf2c8acb22e60b6a58be6
   port: 443
-  server: 100.48.94.91
+  server: 45.79.111.214
   type: ss
 - cipher: aes-256-cfb
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #113'
-  password: amazonskr05
-  port: 443
-  server: 18.208.223.39
-  type: ss
-- cipher: aes-256-cfb
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #114'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #106'
   password: amazonskr05
   port: 443
   server: 18.237.109.159
   type: ss
 - cipher: aes-256-cfb
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #115'
-  password: amazonskr05
-  port: 443
-  server: 23.22.158.187
-  type: ss
-- cipher: aes-256-cfb
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #116'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #107'
   password: amazonskr05
   port: 443
   server: 3.80.84.187
   type: ss
 - cipher: aes-256-cfb
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #117'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #108'
   password: amazonskr05
   port: 443
   server: 34.208.170.155
   type: ss
 - cipher: aes-256-cfb
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #118'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #109'
   password: amazonskr05
   port: 443
   server: 34.219.40.74
   type: ss
 - cipher: aes-256-cfb
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #119'
-  password: amazonskr05
-  port: 443
-  server: 34.223.228.213
-  type: ss
-- cipher: aes-256-cfb
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #120'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #110'
   password: amazonskr05
   port: 443
   server: 34.228.79.192
   type: ss
 - cipher: aes-256-cfb
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #121'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #111'
+  password: amazonskr05
+  port: 443
+  server: 35.94.178.238
+  type: ss
+- cipher: aes-256-cfb
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #112'
+  password: amazonskr05
+  port: 443
+  server: 52.13.16.81
+  type: ss
+- cipher: aes-256-cfb
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #113'
   password: amazonskr05
   port: 443
   server: 52.88.161.5
   type: ss
 - cipher: aes-256-cfb
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #122'
-  password: amazonskr05
-  port: 443
-  server: 54.187.181.151
-  type: ss
-- cipher: aes-256-cfb
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #123'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #114'
   password: amazonskr05
   port: 443
   server: 54.221.120.243
   type: ss
 - cipher: aes-256-cfb
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #124'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #115'
   password: amazonskr05
   port: 443
-  server: 54.83.117.150
+  server: 54.245.219.99
   type: ss
 - cipher: aes-256-cfb
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #125'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #116'
   password: amazonskr05
   port: 443
   server: 98.91.210.43
   type: ss
 - cipher: aes-256-cfb
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #126'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #117'
   password: amazonskr05
   port: 443
   server: 18.189.171.163
   type: ss
 - cipher: aes-256-cfb
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #127'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #118'
   password: amazonskr05
   port: 443
   server: 18.222.166.251
   type: ss
 - cipher: aes-256-cfb
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #128'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #119'
+  password: amazonskr05
+  port: 443
+  server: 54.83.117.150
+  type: ss
+- cipher: aes-256-cfb
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #120'
+  password: bwhskrskr03
+  port: 253
+  server: 104.243.25.95
+  type: ss
+- cipher: aes-256-cfb
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #121'
   password: bwhskrskr03
   port: 252
   server: 144.168.60.70
   type: ss
 - cipher: aes-256-cfb
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #129'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #122'
   password: bwhskrskr03
   port: 247
   server: 97.64.31.80
   type: ss
 - cipher: aes-256-cfb
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #130'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #123'
   password: bwhskrskr05
-  port: 254
-  server: 144.168.58.170
+  port: 246
+  server: 172.96.192.100
   type: ss
 - cipher: aes-256-cfb
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #131'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #124'
   password: bwhskrskr05
   port: 238
   server: 198.181.56.163
   type: ss
 - cipher: aes-256-cfb
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #132'
-  password: bwhskrskr05
-  port: 253
-  server: 97.64.122.63
-  type: ss
-- cipher: aes-256-cfb
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #133'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #125'
   password: bwhskrskr06
   port: 253
   server: 93.179.112.70
   type: ss
-- cipher: aes-256-cfb
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #134'
-  password: f8f7aCzcPKbsF8p3
-  port: 989
-  server: 74.121.191.98
-  type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #135'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #126'
   password: 618a13eda4b4d208a4bcdc85fcb8996df812d59dd48419f75ae3f5f5b46a94fb
   port: 8393
   server: 45.76.9.57
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #136'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #127'
   password: 8JCsPssfgS8tiRwiMlhARg==
   port: 12000
   server: 15.204.254.187
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #137'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #128'
   password: 8c009bb6-08b3-4526-a86b-5af7ddfc567a-4c757b72-6eec-4faf-8c2e-09fd1c7fa936
   port: 43579
   server: 192.3.247.109
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #138'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #129'
   password: CMduaFXddcQbwNAAs7xFDnc8
   port: 33148
   server: 199.58.187.67
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #139'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #130'
   password: CMduaFXddcQbwNAAs7xFDnc8
   port: 33148
   server: 45.43.19.82
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #140'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #131'
   password: CTK8GXFQgKYQErrghPJfZ6tk
   port: 47121
   server: 154.16.171.215
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #141'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #132'
   password: CUndSZnYsPKcu6Kj8THVMBHD
   port: 39772
   server: 45.43.14.75
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #142'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #133'
   password: FWrXcxPZjJxAN89xLgqY3Acp
   port: 44236
   server: 79.110.53.205
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #143'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #134'
   password: FoOiGlkAA9yPEGP
-  port: 7307
+  port: 7306
   server: 142.202.48.34
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #144'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #135'
+  password: FoOiGlkAA9yPEGP
+  port: 7306
+  server: 142.202.48.52
+  type: ss
+- cipher: aes-256-gcm
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #136'
   password: FoOiGlkAA9yPEGP
   port: 7307
   server: 142.202.48.52
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #145'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #137'
   password: FoOiGlkAA9yPEGP
   port: 7306
   server: 142.202.48.58
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #146'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #138'
   password: FoOiGlkAA9yPEGP
   port: 7306
   server: 142.202.48.74
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #147'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #139'
+  password: FoOiGlkAA9yPEGP
+  port: 7306
+  server: 142.202.48.7
+  type: ss
+- cipher: aes-256-gcm
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #140'
   password: FoOiGlkAA9yPEGP
   port: 7306
   server: 142.202.48.99
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #149'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #142'
   password: FoOiGlkAA9yPEGP
   port: 7306
   server: 167.88.61.14
+  type: ss
+- cipher: aes-256-gcm
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #143'
+  password: FoOiGlkAA9yPEGP
+  port: 7306
+  server: 167.88.61.175
+  type: ss
+- cipher: aes-256-gcm
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #144'
+  password: FoOiGlkAA9yPEGP
+  port: 7306
+  server: 167.88.61.60
+  type: ss
+- cipher: aes-256-gcm
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #145'
+  password: FoOiGlkAA9yPEGP
+  port: 7307
+  server: 167.88.61.60
+  type: ss
+- cipher: aes-256-gcm
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #146'
+  password: FoOiGlkAA9yPEGP
+  port: 7307
+  server: 167.88.62.62
+  type: ss
+- cipher: aes-256-gcm
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #147'
+  password: FoOiGlkAA9yPEGP
+  port: 7307
+  server: 167.88.62.68
+  type: ss
+- cipher: aes-256-gcm
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #148'
+  password: FoOiGlkAA9yPEGP
+  port: 7306
+  server: 167.88.63.82
+  type: ss
+- cipher: aes-256-gcm
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #149'
+  password: FoOiGlkAA9yPEGP
+  port: 7307
+  server: 167.88.63.99
   type: ss
 - cipher: aes-256-gcm
   name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #150'
   password: FoOiGlkAA9yPEGP
   port: 7306
-  server: 167.88.61.50
+  server: 169.197.142.187
   type: ss
 - cipher: aes-256-gcm
   name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #151'
-  password: FoOiGlkAA9yPEGP
-  port: 7307
-  server: 167.88.62.62
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #152'
-  password: FoOiGlkAA9yPEGP
-  port: 7307
-  server: 167.88.63.59
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #153'
-  password: FoOiGlkAA9yPEGP
-  port: 7306
-  server: 167.88.63.79
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #154'
-  password: FoOiGlkAA9yPEGP
-  port: 7306
-  server: 167.88.63.82
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #155'
-  password: FoOiGlkAA9yPEGP
-  port: 7307
-  server: 167.88.63.82
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #156'
-  password: FoOiGlkAA9yPEGP
-  port: 7307
-  server: 167.88.63.99
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #157'
-  password: FoOiGlkAA9yPEGP
-  port: 7306
-  server: 169.197.142.187
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #158'
-  password: FoOiGlkAA9yPEGP
-  port: 7307
-  server: 169.197.142.187
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #159'
-  password: FoOiGlkAA9yPEGP
-  port: 7307
-  server: 169.197.143.232
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #160'
   password: FoOiGlkAA9yPEGP
   port: 7306
   server: 38.107.226.132
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #161'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #152'
   password: FoOiGlkAA9yPEGP
   port: 7306
   server: 38.107.226.146
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #162'
-  password: FoOiGlkAA9yPEGP
-  port: 7307
-  server: 38.107.226.146
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #163'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #153'
   password: FoOiGlkAA9yPEGP
   port: 7307
   server: 38.107.226.159
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #164'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #154'
+  password: FoOiGlkAA9yPEGP
+  port: 7307
+  server: 38.107.226.241
+  type: ss
+- cipher: aes-256-gcm
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #155'
   password: FoOiGlkAA9yPEGP
   port: 7306
   server: 38.107.226.48
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #165'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #156'
   password: FoOiGlkAA9yPEGP
   port: 7306
-  server: 38.107.226.49
+  server: 38.114.114.104
+  type: ss
+- cipher: aes-256-gcm
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #157'
+  password: FoOiGlkAA9yPEGP
+  port: 7306
+  server: 38.114.114.19
+  type: ss
+- cipher: aes-256-gcm
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #158'
+  password: FoOiGlkAA9yPEGP
+  port: 7307
+  server: 38.114.114.19
+  type: ss
+- cipher: aes-256-gcm
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #159'
+  password: FoOiGlkAA9yPEGP
+  port: 7306
+  server: 38.114.114.67
+  type: ss
+- cipher: aes-256-gcm
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #160'
+  password: FoOiGlkAA9yPEGP
+  port: 7307
+  server: 38.114.114.67
+  type: ss
+- cipher: aes-256-gcm
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #161'
+  password: FoOiGlkAA9yPEGP
+  port: 7307
+  server: 38.114.114.69
+  type: ss
+- cipher: aes-256-gcm
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #162'
+  password: FoOiGlkAA9yPEGP
+  port: 7306
+  server: 38.143.66.55
+  type: ss
+- cipher: aes-256-gcm
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #163'
+  password: FoOiGlkAA9yPEGP
+  port: 7307
+  server: 38.64.138.145
+  type: ss
+- cipher: aes-256-gcm
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #164'
+  password: FoOiGlkAA9yPEGP
+  port: 7306
+  server: 38.68.134.85
+  type: ss
+- cipher: aes-256-gcm
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #165'
+  password: FoOiGlkAA9yPEGP
+  port: 7307
+  server: 38.68.134.85
   type: ss
 - cipher: aes-256-gcm
   name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #166'
   password: FoOiGlkAA9yPEGP
-  port: 7307
-  server: 38.114.114.19
+  port: 7306
+  server: 38.68.135.123
   type: ss
 - cipher: aes-256-gcm
   name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #167'
   password: FoOiGlkAA9yPEGP
   port: 7306
-  server: 38.114.114.49
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #168'
-  password: FoOiGlkAA9yPEGP
-  port: 7307
-  server: 38.114.114.67
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #169'
-  password: FoOiGlkAA9yPEGP
-  port: 7306
-  server: 38.114.114.69
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #170'
-  password: FoOiGlkAA9yPEGP
-  port: 7307
-  server: 38.114.114.69
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #171'
-  password: FoOiGlkAA9yPEGP
-  port: 7306
-  server: 38.121.43.142
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #172'
-  password: FoOiGlkAA9yPEGP
-  port: 7307
-  server: 38.121.43.71
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #173'
-  password: FoOiGlkAA9yPEGP
-  port: 7307
-  server: 38.143.66.55
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #174'
-  password: FoOiGlkAA9yPEGP
-  port: 7307
-  server: 38.64.138.145
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #175'
-  password: FoOiGlkAA9yPEGP
-  port: 7307
-  server: 38.68.134.85
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #176'
-  password: FoOiGlkAA9yPEGP
-  port: 7306
   server: 38.68.135.18
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #177'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #168'
   password: FoOiGlkAA9yPEGP
   port: 7306
   server: 38.68.135.19
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #178'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #169'
   password: FoOiGlkAA9yPEGP
   port: 7307
   server: 38.68.135.239
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #179'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #170'
   password: FoOiGlkAA9yPEGP
   port: 7306
   server: 38.75.136.102
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #180'
-  password: FoOiGlkAA9yPEGP
-  port: 7306
-  server: 38.75.136.135
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #181'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #171'
   password: FoOiGlkAA9yPEGP
   port: 7307
   server: 38.75.136.21
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #182'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #172'
+  password: FoOiGlkAA9yPEGP
+  port: 7306
+  server: 38.75.137.9
+  type: ss
+- cipher: aes-256-gcm
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #173'
+  password: FoOiGlkAA9yPEGP
+  port: 7307
+  server: 38.86.135.169
+  type: ss
+- cipher: aes-256-gcm
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #174'
   password: FoOiGlkAA9yPEGP
   port: 7307
   server: 38.86.135.27
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #183'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #175'
   password: FoOiGlkAA9yPEGP
   port: 7306
   server: 38.86.135.36
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #184'
-  password: FoOiGlkAA9yPEGP
-  port: 7307
-  server: 38.86.135.36
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #185'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #176'
   password: FoOiGlkAA9yPEGP
   port: 7306
   server: 38.91.100.207
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #186'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #177'
+  password: FoOiGlkAA9yPEGP
+  port: 7307
+  server: 38.91.100.27
+  type: ss
+- cipher: aes-256-gcm
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #178'
   password: FoOiGlkAA9yPEGP
   port: 7306
-  server: 38.91.100.27
+  server: 38.91.107.16
+  type: ss
+- cipher: aes-256-gcm
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #179'
+  password: FoOiGlkAA9yPEGP
+  port: 7307
+  server: 38.91.107.43
+  type: ss
+- cipher: aes-256-gcm
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #180'
+  password: KixLvKzwjekG00rm
+  port: 8080
+  server: 142.202.48.34
+  type: ss
+- cipher: aes-256-gcm
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #181'
+  password: KixLvKzwjekG00rm
+  port: 8080
+  server: 142.202.48.52
+  type: ss
+- cipher: aes-256-gcm
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #182'
+  password: KixLvKzwjekG00rm
+  port: 8080
+  server: 142.202.48.74
+  type: ss
+- cipher: aes-256-gcm
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #183'
+  password: KixLvKzwjekG00rm
+  port: 8080
+  server: 142.202.48.83
+  type: ss
+- cipher: aes-256-gcm
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #184'
+  password: KixLvKzwjekG00rm
+  port: 5500
+  server: 167.88.61.14
+  type: ss
+- cipher: aes-256-gcm
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #185'
+  password: KixLvKzwjekG00rm
+  port: 8000
+  server: 167.88.61.14
+  type: ss
+- cipher: aes-256-gcm
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #186'
+  password: KixLvKzwjekG00rm
+  port: 8080
+  server: 167.88.61.14
   type: ss
 - cipher: aes-256-gcm
   name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #187'
-  password: FoOiGlkAA9yPEGP
-  port: 7307
-  server: 38.91.100.27
+  password: KixLvKzwjekG00rm
+  port: 8080
+  server: 167.88.61.175
   type: ss
 - cipher: aes-256-gcm
   name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #188'
-  password: FoOiGlkAA9yPEGP
-  port: 7306
-  server: 38.91.102.30
+  password: KixLvKzwjekG00rm
+  port: 5500
+  server: 167.88.61.60
   type: ss
 - cipher: aes-256-gcm
   name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #189'
-  password: FoOiGlkAA9yPEGP
-  port: 7307
-  server: 38.91.107.16
+  password: KixLvKzwjekG00rm
+  port: 8080
+  server: 167.88.62.62
   type: ss
 - cipher: aes-256-gcm
   name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #190'
   password: KixLvKzwjekG00rm
   port: 8080
-  server: 142.202.48.52
+  server: 167.88.62.68
   type: ss
 - cipher: aes-256-gcm
   name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #191'
   password: KixLvKzwjekG00rm
-  port: 5500
-  server: 142.202.48.83
+  port: 8080
+  server: 169.197.142.187
   type: ss
 - cipher: aes-256-gcm
   name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #192'
   password: KixLvKzwjekG00rm
-  port: 8080
-  server: 142.202.48.99
+  port: 8000
+  server: 23.157.40.120
   type: ss
 - cipher: aes-256-gcm
   name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #193'
   password: KixLvKzwjekG00rm
-  port: 5500
-  server: 167.88.61.14
+  port: 8080
+  server: 23.157.40.120
   type: ss
 - cipher: aes-256-gcm
   name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #194'
   password: KixLvKzwjekG00rm
-  port: 5500
-  server: 167.88.61.175
+  port: 8080
+  server: 38.107.226.146
   type: ss
 - cipher: aes-256-gcm
   name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #195'
   password: KixLvKzwjekG00rm
   port: 8080
-  server: 167.88.61.175
+  server: 38.107.226.49
   type: ss
 - cipher: aes-256-gcm
   name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #196'
   password: KixLvKzwjekG00rm
-  port: 5500
-  server: 167.88.61.60
+  port: 8080
+  server: 38.114.114.49
   type: ss
 - cipher: aes-256-gcm
   name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #197'
   password: KixLvKzwjekG00rm
-  port: 8000
-  server: 167.88.61.60
+  port: 8080
+  server: 38.114.114.67
   type: ss
 - cipher: aes-256-gcm
   name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #198'
   password: KixLvKzwjekG00rm
-  port: 8080
-  server: 167.88.62.62
+  port: 5500
+  server: 38.114.114.69
   type: ss
 - cipher: aes-256-gcm
   name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #199'
   password: KixLvKzwjekG00rm
   port: 8000
-  server: 167.88.62.68
+  server: 38.114.114.69
   type: ss
 - cipher: aes-256-gcm
   name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #200'
   password: KixLvKzwjekG00rm
   port: 8080
-  server: 167.88.62.68
+  server: 38.114.114.69
   type: ss
 - cipher: aes-256-gcm
   name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #201'
   password: KixLvKzwjekG00rm
   port: 5500
-  server: 167.88.63.59
+  server: 38.121.43.71
   type: ss
 - cipher: aes-256-gcm
   name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #202'
   password: KixLvKzwjekG00rm
   port: 8000
-  server: 167.88.63.59
+  server: 38.121.43.71
   type: ss
 - cipher: aes-256-gcm
   name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #203'
   password: KixLvKzwjekG00rm
   port: 8080
-  server: 167.88.63.59
+  server: 38.121.43.97
   type: ss
 - cipher: aes-256-gcm
   name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #204'
   password: KixLvKzwjekG00rm
   port: 8080
-  server: 169.197.142.187
+  server: 38.68.134.191
   type: ss
 - cipher: aes-256-gcm
   name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #205'
   password: KixLvKzwjekG00rm
-  port: 8000
-  server: 23.157.40.120
+  port: 5500
+  server: 38.68.134.85
   type: ss
 - cipher: aes-256-gcm
   name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #206'
   password: KixLvKzwjekG00rm
   port: 8080
-  server: 23.157.40.120
+  server: 38.68.134.85
   type: ss
 - cipher: aes-256-gcm
   name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #207'
   password: KixLvKzwjekG00rm
-  port: 8080
-  server: 38.107.226.49
+  port: 5500
+  server: 38.68.135.18
   type: ss
 - cipher: aes-256-gcm
   name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #208'
   password: KixLvKzwjekG00rm
-  port: 5500
-  server: 38.114.114.19
+  port: 8080
+  server: 38.75.136.135
   type: ss
 - cipher: aes-256-gcm
   name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #209'
   password: KixLvKzwjekG00rm
-  port: 8000
-  server: 38.114.114.67
+  port: 5500
+  server: 38.75.136.21
   type: ss
 - cipher: aes-256-gcm
   name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #210'
   password: KixLvKzwjekG00rm
   port: 8080
-  server: 38.114.114.69
+  server: 38.75.136.34
   type: ss
 - cipher: aes-256-gcm
   name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #211'
   password: KixLvKzwjekG00rm
-  port: 5500
-  server: 38.121.43.71
+  port: 8080
+  server: 38.75.137.9
   type: ss
 - cipher: aes-256-gcm
   name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #212'
   password: KixLvKzwjekG00rm
   port: 5500
-  server: 38.143.66.20
+  server: 38.86.135.169
   type: ss
 - cipher: aes-256-gcm
   name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #213'
-  password: KixLvKzwjekG00rm
-  port: 5500
-  server: 38.64.138.145
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #214'
-  password: KixLvKzwjekG00rm
-  port: 8000
-  server: 38.64.138.145
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #215'
-  password: KixLvKzwjekG00rm
-  port: 8080
-  server: 38.68.134.191
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #216'
-  password: KixLvKzwjekG00rm
-  port: 5500
-  server: 38.68.134.85
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #217'
-  password: KixLvKzwjekG00rm
-  port: 8080
-  server: 38.68.134.85
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #218'
-  password: KixLvKzwjekG00rm
-  port: 5500
-  server: 38.75.136.135
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #219'
-  password: KixLvKzwjekG00rm
-  port: 8000
-  server: 38.75.136.135
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #220'
-  password: KixLvKzwjekG00rm
-  port: 5500
-  server: 38.75.136.21
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #221'
-  password: KixLvKzwjekG00rm
-  port: 8080
-  server: 38.75.137.9
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #222'
   password: KixLvKzwjekG00rm
   port: 8000
   server: 38.86.135.169
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #223'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #214'
+  password: KixLvKzwjekG00rm
+  port: 8080
+  server: 38.86.135.169
+  type: ss
+- cipher: aes-256-gcm
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #215'
   password: KixLvKzwjekG00rm
   port: 5500
   server: 38.86.135.27
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #224'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #216'
   password: KixLvKzwjekG00rm
   port: 8000
   server: 38.86.135.27
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #225'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #217'
   password: KixLvKzwjekG00rm
   port: 5500
   server: 38.86.135.36
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #226'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #218'
   password: KixLvKzwjekG00rm
   port: 8080
   server: 38.86.135.36
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #227'
-  password: KixLvKzwjekG00rm
-  port: 8080
-  server: 38.91.100.207
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #228'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #219'
   password: KixLvKzwjekG00rm
   port: 5500
   server: 38.91.102.30
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #229'
-  password: KixLvKzwjekG00rm
-  port: 8080
-  server: 38.91.102.30
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #230'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #220'
   password: KixLvKzwjekG00rm
   port: 5500
   server: 38.91.107.16
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #231'
-  password: KixLvKzwjekG00rm
-  port: 8080
-  server: 38.91.107.16
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #232'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #221'
   password: KixLvKzwjekG00rm
   port: 5500
   server: 38.91.107.72
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #233'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #222'
   password: KixLvKzwjekG00rm
   port: 8080
   server: 23.157.40.53
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #234'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #223'
   password: KixLvKzwjekG00rm
   port: 8080
   server: 38.91.100.134
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #235'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #224'
+  password: PCnnH6SQSnfoS27
+  port: 8090
+  server: 142.202.48.52
+  type: ss
+- cipher: aes-256-gcm
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #225'
   password: PCnnH6SQSnfoS27
   port: 8091
   server: 142.202.48.52
+  type: ss
+- cipher: aes-256-gcm
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #226'
+  password: PCnnH6SQSnfoS27
+  port: 8090
+  server: 142.202.48.74
+  type: ss
+- cipher: aes-256-gcm
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #227'
+  password: PCnnH6SQSnfoS27
+  port: 8091
+  server: 142.202.48.7
+  type: ss
+- cipher: aes-256-gcm
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #228'
+  password: PCnnH6SQSnfoS27
+  port: 8091
+  server: 142.202.48.99
+  type: ss
+- cipher: aes-256-gcm
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #229'
+  password: PCnnH6SQSnfoS27
+  port: 8091
+  server: 167.88.61.14
+  type: ss
+- cipher: aes-256-gcm
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #230'
+  password: PCnnH6SQSnfoS27
+  port: 8090
+  server: 167.88.61.175
+  type: ss
+- cipher: aes-256-gcm
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #231'
+  password: PCnnH6SQSnfoS27
+  port: 8091
+  server: 167.88.61.50
+  type: ss
+- cipher: aes-256-gcm
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #232'
+  password: PCnnH6SQSnfoS27
+  port: 8090
+  server: 167.88.61.60
+  type: ss
+- cipher: aes-256-gcm
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #233'
+  password: PCnnH6SQSnfoS27
+  port: 8090
+  server: 167.88.63.59
+  type: ss
+- cipher: aes-256-gcm
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #234'
+  password: PCnnH6SQSnfoS27
+  port: 8090
+  server: 167.88.63.79
+  type: ss
+- cipher: aes-256-gcm
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #235'
+  password: PCnnH6SQSnfoS27
+  port: 8091
+  server: 167.88.63.79
   type: ss
 - cipher: aes-256-gcm
   name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #236'
   password: PCnnH6SQSnfoS27
   port: 8090
-  server: 142.202.48.58
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #237'
-  password: PCnnH6SQSnfoS27
-  port: 8091
-  server: 142.202.48.58
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #238'
-  password: PCnnH6SQSnfoS27
-  port: 8091
-  server: 142.202.48.7
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #239'
-  password: PCnnH6SQSnfoS27
-  port: 8091
-  server: 142.202.48.99
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #240'
-  password: PCnnH6SQSnfoS27
-  port: 8091
-  server: 167.88.61.14
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #241'
-  password: PCnnH6SQSnfoS27
-  port: 8090
-  server: 167.88.61.175
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #242'
-  password: PCnnH6SQSnfoS27
-  port: 8091
-  server: 167.88.61.213
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #243'
-  password: PCnnH6SQSnfoS27
-  port: 8091
-  server: 167.88.61.50
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #244'
-  password: PCnnH6SQSnfoS27
-  port: 8090
-  server: 167.88.61.60
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #245'
-  password: PCnnH6SQSnfoS27
-  port: 8090
-  server: 167.88.62.62
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #246'
-  password: PCnnH6SQSnfoS27
-  port: 8091
-  server: 167.88.62.68
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #247'
-  password: PCnnH6SQSnfoS27
-  port: 8090
-  server: 167.88.63.59
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #248'
-  password: PCnnH6SQSnfoS27
-  port: 8090
-  server: 167.88.63.79
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #249'
-  password: PCnnH6SQSnfoS27
-  port: 8090
-  server: 167.88.63.82
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #250'
-  password: PCnnH6SQSnfoS27
-  port: 8091
-  server: 167.88.63.82
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #251'
-  password: PCnnH6SQSnfoS27
-  port: 8090
-  server: 167.88.63.99
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #252'
-  password: PCnnH6SQSnfoS27
-  port: 8091
-  server: 167.88.63.99
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #253'
-  password: PCnnH6SQSnfoS27
-  port: 8090
   server: 23.157.40.53
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #254'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #237'
   password: PCnnH6SQSnfoS27
   port: 8090
   server: 38.107.226.132
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #255'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #238'
+  password: PCnnH6SQSnfoS27
+  port: 8090
+  server: 38.107.226.146
+  type: ss
+- cipher: aes-256-gcm
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #239'
   password: PCnnH6SQSnfoS27
   port: 8091
   server: 38.107.226.146
   type: ss
 - cipher: aes-256-gcm
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #240'
+  password: PCnnH6SQSnfoS27
+  port: 8091
+  server: 38.107.226.241
+  type: ss
+- cipher: aes-256-gcm
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #241'
+  password: PCnnH6SQSnfoS27
+  port: 8090
+  server: 38.107.226.48
+  type: ss
+- cipher: aes-256-gcm
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #242'
+  password: PCnnH6SQSnfoS27
+  port: 8090
+  server: 38.114.114.49
+  type: ss
+- cipher: aes-256-gcm
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #243'
+  password: PCnnH6SQSnfoS27
+  port: 8090
+  server: 38.114.114.67
+  type: ss
+- cipher: aes-256-gcm
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #244'
+  password: PCnnH6SQSnfoS27
+  port: 8091
+  server: 38.114.114.67
+  type: ss
+- cipher: aes-256-gcm
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #245'
+  password: PCnnH6SQSnfoS27
+  port: 8091
+  server: 38.121.43.97
+  type: ss
+- cipher: aes-256-gcm
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #246'
+  password: PCnnH6SQSnfoS27
+  port: 8090
+  server: 38.143.66.55
+  type: ss
+- cipher: aes-256-gcm
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #247'
+  password: PCnnH6SQSnfoS27
+  port: 8090
+  server: 38.64.138.145
+  type: ss
+- cipher: aes-256-gcm
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #248'
+  password: PCnnH6SQSnfoS27
+  port: 8091
+  server: 38.64.138.145
+  type: ss
+- cipher: aes-256-gcm
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #249'
+  password: PCnnH6SQSnfoS27
+  port: 8090
+  server: 38.68.134.191
+  type: ss
+- cipher: aes-256-gcm
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #250'
+  password: PCnnH6SQSnfoS27
+  port: 8091
+  server: 38.68.134.191
+  type: ss
+- cipher: aes-256-gcm
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #251'
+  password: PCnnH6SQSnfoS27
+  port: 8090
+  server: 38.68.134.85
+  type: ss
+- cipher: aes-256-gcm
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #252'
+  password: PCnnH6SQSnfoS27
+  port: 8091
+  server: 38.68.134.85
+  type: ss
+- cipher: aes-256-gcm
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #253'
+  password: PCnnH6SQSnfoS27
+  port: 8090
+  server: 38.68.135.18
+  type: ss
+- cipher: aes-256-gcm
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #254'
+  password: PCnnH6SQSnfoS27
+  port: 8090
+  server: 38.68.135.19
+  type: ss
+- cipher: aes-256-gcm
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #255'
+  password: PCnnH6SQSnfoS27
+  port: 8090
+  server: 38.75.136.135
+  type: ss
+- cipher: aes-256-gcm
   name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #256'
   password: PCnnH6SQSnfoS27
   port: 8090
-  server: 38.107.226.241
+  server: 38.75.136.21
   type: ss
 - cipher: aes-256-gcm
   name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #257'
   password: PCnnH6SQSnfoS27
   port: 8090
-  server: 38.107.226.48
+  server: 38.75.136.34
   type: ss
 - cipher: aes-256-gcm
   name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #258'
   password: PCnnH6SQSnfoS27
   port: 8090
-  server: 38.107.226.49
+  server: 38.75.137.9
   type: ss
 - cipher: aes-256-gcm
   name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #259'
   password: PCnnH6SQSnfoS27
-  port: 8090
-  server: 38.114.114.67
+  port: 8091
+  server: 38.91.100.27
   type: ss
 - cipher: aes-256-gcm
   name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #260'
   password: PCnnH6SQSnfoS27
-  port: 8091
-  server: 38.114.114.67
+  port: 8090
+  server: 38.91.102.30
   type: ss
 - cipher: aes-256-gcm
   name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #261'
   password: PCnnH6SQSnfoS27
-  port: 8091
-  server: 38.114.114.69
+  port: 8090
+  server: 38.91.107.16
   type: ss
 - cipher: aes-256-gcm
   name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #262'
   password: PCnnH6SQSnfoS27
   port: 8091
-  server: 38.121.43.71
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #263'
-  password: PCnnH6SQSnfoS27
-  port: 8091
-  server: 38.143.66.55
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #264'
-  password: PCnnH6SQSnfoS27
-  port: 8091
-  server: 38.64.138.145
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #265'
-  password: PCnnH6SQSnfoS27
-  port: 8091
-  server: 38.68.134.191
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #266'
-  password: PCnnH6SQSnfoS27
-  port: 8091
-  server: 38.68.134.85
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #267'
-  password: PCnnH6SQSnfoS27
-  port: 8090
-  server: 38.68.135.19
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #268'
-  password: PCnnH6SQSnfoS27
-  port: 8090
-  server: 38.75.136.102
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #269'
-  password: PCnnH6SQSnfoS27
-  port: 8090
-  server: 38.75.136.135
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #270'
-  password: PCnnH6SQSnfoS27
-  port: 8091
-  server: 38.75.136.135
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #271'
-  password: PCnnH6SQSnfoS27
-  port: 8090
-  server: 38.75.136.21
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #272'
-  password: PCnnH6SQSnfoS27
-  port: 8090
-  server: 38.75.136.34
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #273'
-  password: PCnnH6SQSnfoS27
-  port: 8090
-  server: 38.75.137.9
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #274'
-  password: PCnnH6SQSnfoS27
-  port: 8091
-  server: 38.86.135.27
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #275'
-  password: PCnnH6SQSnfoS27
-  port: 8091
-  server: 38.86.135.36
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #276'
-  password: PCnnH6SQSnfoS27
-  port: 8090
-  server: 38.91.100.207
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #277'
-  password: PCnnH6SQSnfoS27
-  port: 8090
-  server: 38.91.102.30
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #278'
-  password: PCnnH6SQSnfoS27
-  port: 8090
   server: 38.91.107.16
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #279'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #263'
   password: PCnnH6SQSnfoS27
   port: 8090
   server: 38.91.107.66
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #280'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #264'
   password: Pvvaw486867D2w4yctL2ULTQ
   port: 40282
   server: 87.239.255.109
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #281'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #265'
   password: RexnBgU7EV5ADxG
   port: 7001
   server: 142.202.48.83
+  type: ss
+- cipher: aes-256-gcm
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #266'
+  password: RexnBgU7EV5ADxG
+  port: 7001
+  server: 142.202.48.99
+  type: ss
+- cipher: aes-256-gcm
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #267'
+  password: RexnBgU7EV5ADxG
+  port: 7002
+  server: 167.88.61.60
+  type: ss
+- cipher: aes-256-gcm
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #268'
+  password: RexnBgU7EV5ADxG
+  port: 7001
+  server: 169.197.142.187
+  type: ss
+- cipher: aes-256-gcm
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #269'
+  password: RexnBgU7EV5ADxG
+  port: 7002
+  server: 38.114.114.19
+  type: ss
+- cipher: aes-256-gcm
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #270'
+  password: RexnBgU7EV5ADxG
+  port: 7001
+  server: 38.114.114.49
+  type: ss
+- cipher: aes-256-gcm
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #271'
+  password: RexnBgU7EV5ADxG
+  port: 7002
+  server: 38.114.114.69
+  type: ss
+- cipher: aes-256-gcm
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #272'
+  password: RexnBgU7EV5ADxG
+  port: 7001
+  server: 38.121.43.71
+  type: ss
+- cipher: aes-256-gcm
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #273'
+  password: RexnBgU7EV5ADxG
+  port: 7002
+  server: 38.68.135.123
+  type: ss
+- cipher: aes-256-gcm
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #274'
+  password: RexnBgU7EV5ADxG
+  port: 7002
+  server: 38.68.135.18
+  type: ss
+- cipher: aes-256-gcm
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #275'
+  password: RexnBgU7EV5ADxG
+  port: 7001
+  server: 38.68.135.19
+  type: ss
+- cipher: aes-256-gcm
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #276'
+  password: RexnBgU7EV5ADxG
+  port: 7001
+  server: 38.75.136.102
+  type: ss
+- cipher: aes-256-gcm
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #277'
+  password: RexnBgU7EV5ADxG
+  port: 7002
+  server: 38.75.136.102
+  type: ss
+- cipher: aes-256-gcm
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #278'
+  password: RexnBgU7EV5ADxG
+  port: 7002
+  server: 38.86.135.27
+  type: ss
+- cipher: aes-256-gcm
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #279'
+  password: RexnBgU7EV5ADxG
+  port: 7002
+  server: 38.86.135.36
+  type: ss
+- cipher: aes-256-gcm
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #280'
+  password: RexnBgU7EV5ADxG
+  port: 7001
+  server: 38.91.107.16
+  type: ss
+- cipher: aes-256-gcm
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #281'
+  password: RexnBgU7EV5ADxG
+  port: 7002
+  server: 38.91.107.16
   type: ss
 - cipher: aes-256-gcm
   name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #282'
   password: RexnBgU7EV5ADxG
   port: 7001
-  server: 142.202.48.99
+  server: 38.91.107.37
   type: ss
 - cipher: aes-256-gcm
   name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #283'
-  password: RexnBgU7EV5ADxG
-  port: 7002
-  server: 167.88.61.50
+  password: WCuz7yrfZSCQQXSNrtGPz2HT
+  port: 50168
+  server: 66.115.175.37
   type: ss
 - cipher: aes-256-gcm
   name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #284'
-  password: RexnBgU7EV5ADxG
-  port: 7002
-  server: 167.88.61.60
+  password: TEzjfAYq2IjtuoS
+  port: 6679
+  server: 167.88.61.14
   type: ss
 - cipher: aes-256-gcm
   name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #285'
-  password: RexnBgU7EV5ADxG
-  port: 7001
-  server: 169.197.142.187
+  password: TEzjfAYq2IjtuoS
+  port: 6697
+  server: 167.88.61.14
   type: ss
 - cipher: aes-256-gcm
   name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #286'
-  password: RexnBgU7EV5ADxG
-  port: 7002
-  server: 38.114.114.19
+  password: TEzjfAYq2IjtuoS
+  port: 6679
+  server: 167.88.61.175
   type: ss
 - cipher: aes-256-gcm
   name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #287'
-  password: RexnBgU7EV5ADxG
-  port: 7001
-  server: 38.114.114.49
+  password: TEzjfAYq2IjtuoS
+  port: 6679
+  server: 167.88.63.44
   type: ss
 - cipher: aes-256-gcm
   name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #288'
-  password: RexnBgU7EV5ADxG
-  port: 7001
-  server: 38.114.114.67
+  password: TEzjfAYq2IjtuoS
+  port: 6697
+  server: 167.88.63.59
   type: ss
 - cipher: aes-256-gcm
   name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #289'
-  password: RexnBgU7EV5ADxG
-  port: 7002
-  server: 38.114.114.67
+  password: TEzjfAYq2IjtuoS
+  port: 6679
+  server: 167.88.63.82
   type: ss
 - cipher: aes-256-gcm
   name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #290'
-  password: RexnBgU7EV5ADxG
-  port: 7001
-  server: 38.121.43.71
+  password: TEzjfAYq2IjtuoS
+  port: 6697
+  server: 169.197.142.187
   type: ss
 - cipher: aes-256-gcm
   name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #291'
-  password: RexnBgU7EV5ADxG
-  port: 7002
-  server: 38.121.43.71
+  password: TEzjfAYq2IjtuoS
+  port: 6679
+  server: 38.114.114.19
   type: ss
 - cipher: aes-256-gcm
   name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #292'
-  password: RexnBgU7EV5ADxG
-  port: 7001
-  server: 38.68.134.48
+  password: TEzjfAYq2IjtuoS
+  port: 6679
+  server: 38.114.114.49
   type: ss
 - cipher: aes-256-gcm
   name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #293'
-  password: RexnBgU7EV5ADxG
-  port: 7001
-  server: 38.68.134.85
+  password: TEzjfAYq2IjtuoS
+  port: 6697
+  server: 38.114.114.67
   type: ss
 - cipher: aes-256-gcm
   name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #294'
-  password: RexnBgU7EV5ADxG
-  port: 7002
-  server: 38.68.135.123
+  password: TEzjfAYq2IjtuoS
+  port: 6697
+  server: 38.114.114.69
   type: ss
 - cipher: aes-256-gcm
   name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #295'
-  password: RexnBgU7EV5ADxG
-  port: 7001
-  server: 38.68.135.19
+  password: TEzjfAYq2IjtuoS
+  port: 6679
+  server: 38.121.43.71
   type: ss
 - cipher: aes-256-gcm
   name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #296'
-  password: RexnBgU7EV5ADxG
-  port: 7001
-  server: 38.75.136.102
+  password: TEzjfAYq2IjtuoS
+  port: 6697
+  server: 38.121.43.71
   type: ss
 - cipher: aes-256-gcm
   name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #297'
-  password: RexnBgU7EV5ADxG
-  port: 7002
-  server: 38.75.136.102
+  password: TEzjfAYq2IjtuoS
+  port: 6697
+  server: 38.121.43.97
   type: ss
 - cipher: aes-256-gcm
   name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #298'
-  password: RexnBgU7EV5ADxG
-  port: 7002
-  server: 38.75.136.135
+  password: TEzjfAYq2IjtuoS
+  port: 6679
+  server: 38.143.66.20
   type: ss
 - cipher: aes-256-gcm
   name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #299'
-  password: RexnBgU7EV5ADxG
-  port: 7002
-  server: 38.86.135.36
+  password: TEzjfAYq2IjtuoS
+  port: 6679
+  server: 38.64.138.145
   type: ss
 - cipher: aes-256-gcm
   name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #300'
-  password: RexnBgU7EV5ADxG
-  port: 7001
-  server: 38.91.102.30
+  password: TEzjfAYq2IjtuoS
+  port: 6697
+  server: 38.68.134.85
   type: ss
 - cipher: aes-256-gcm
   name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #301'
-  password: RexnBgU7EV5ADxG
-  port: 7001
-  server: 38.91.107.37
+  password: TEzjfAYq2IjtuoS
+  port: 6679
+  server: 38.75.136.21
   type: ss
 - cipher: aes-256-gcm
   name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #302'
   password: TEzjfAYq2IjtuoS
-  port: 6679
-  server: 142.202.48.74
+  port: 6697
+  server: 38.75.136.21
   type: ss
 - cipher: aes-256-gcm
   name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #303'
   password: TEzjfAYq2IjtuoS
   port: 6679
-  server: 167.88.61.14
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #304'
-  password: TEzjfAYq2IjtuoS
-  port: 6697
-  server: 167.88.61.14
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #305'
-  password: TEzjfAYq2IjtuoS
-  port: 6679
-  server: 167.88.61.175
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #306'
-  password: TEzjfAYq2IjtuoS
-  port: 6679
-  server: 167.88.61.60
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #307'
-  password: TEzjfAYq2IjtuoS
-  port: 6679
-  server: 167.88.62.68
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #308'
-  password: TEzjfAYq2IjtuoS
-  port: 6679
-  server: 167.88.63.44
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #309'
-  password: TEzjfAYq2IjtuoS
-  port: 6679
-  server: 167.88.63.59
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #310'
-  password: TEzjfAYq2IjtuoS
-  port: 6679
-  server: 169.197.142.187
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #311'
-  password: TEzjfAYq2IjtuoS
-  port: 6697
-  server: 169.197.142.187
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #312'
-  password: TEzjfAYq2IjtuoS
-  port: 6697
-  server: 38.114.114.19
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #313'
-  password: TEzjfAYq2IjtuoS
-  port: 6679
-  server: 38.114.114.49
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #314'
-  password: TEzjfAYq2IjtuoS
-  port: 6679
-  server: 38.114.114.69
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #315'
-  password: TEzjfAYq2IjtuoS
-  port: 6697
-  server: 38.114.114.69
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #316'
-  password: TEzjfAYq2IjtuoS
-  port: 6697
-  server: 38.121.43.71
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #317'
-  password: TEzjfAYq2IjtuoS
-  port: 6697
-  server: 38.143.66.87
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #318'
-  password: TEzjfAYq2IjtuoS
-  port: 6679
-  server: 38.68.134.85
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #319'
-  password: TEzjfAYq2IjtuoS
-  port: 6697
-  server: 38.68.134.85
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #320'
-  password: TEzjfAYq2IjtuoS
-  port: 6697
-  server: 38.68.135.18
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #321'
-  password: TEzjfAYq2IjtuoS
-  port: 6679
-  server: 38.75.136.102
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #322'
-  password: TEzjfAYq2IjtuoS
-  port: 6697
-  server: 38.75.136.102
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #323'
-  password: TEzjfAYq2IjtuoS
-  port: 6697
-  server: 38.75.136.135
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #324'
-  password: TEzjfAYq2IjtuoS
-  port: 6679
-  server: 38.86.135.36
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #325'
-  password: TEzjfAYq2IjtuoS
-  port: 6679
   server: 38.91.107.16
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #326'
-  password: VJw0ehrreo
-  port: 16219
-  server: 98.142.141.198
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #304'
+  password: XKFKl2rULjIp74
+  port: 8009
+  server: 142.202.48.34
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #327'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #305'
   password: XKFKl2rULjIp74
   port: 8009
   server: 142.202.48.7
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #328'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #306'
   password: XKFKl2rULjIp74
   port: 8008
   server: 142.202.48.99
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #329'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #307'
   password: XKFKl2rULjIp74
   port: 8008
   server: 15.204.247.175
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #330'
-  password: XKFKl2rULjIp74
-  port: 8009
-  server: 167.88.61.119
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #331'
-  password: XKFKl2rULjIp74
-  port: 8008
-  server: 167.88.61.175
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #332'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #308'
   password: XKFKl2rULjIp74
   port: 8008
   server: 167.88.61.60
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #333'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #309'
   password: XKFKl2rULjIp74
   port: 8009
   server: 167.88.62.68
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #334'
-  password: XKFKl2rULjIp74
-  port: 8009
-  server: 167.88.63.59
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #335'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #310'
   password: XKFKl2rULjIp74
   port: 8008
   server: 169.197.142.187
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #336'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #311'
+  password: XKFKl2rULjIp74
+  port: 8009
+  server: 169.197.142.99
+  type: ss
+- cipher: aes-256-gcm
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #312'
   password: XKFKl2rULjIp74
   port: 8008
   server: 23.157.40.120
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #337'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #313'
   password: XKFKl2rULjIp74
   port: 8009
   server: 23.157.40.120
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #338'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #314'
   password: XKFKl2rULjIp74
   port: 8008
   server: 38.114.114.19
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #339'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #315'
+  password: XKFKl2rULjIp74
+  port: 8009
+  server: 38.114.114.19
+  type: ss
+- cipher: aes-256-gcm
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #316'
   password: XKFKl2rULjIp74
   port: 8009
   server: 38.114.114.67
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #340'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #317'
   password: XKFKl2rULjIp74
   port: 8008
-  server: 38.121.43.71
+  server: 38.114.114.69
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #341'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #318'
   password: XKFKl2rULjIp74
-  port: 8009
+  port: 8008
   server: 38.64.138.145
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #342'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #319'
   password: XKFKl2rULjIp74
   port: 8008
   server: 38.68.134.191
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #343'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #320'
   password: XKFKl2rULjIp74
   port: 8009
   server: 38.68.134.191
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #344'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #321'
   password: XKFKl2rULjIp74
   port: 8008
   server: 38.68.134.85
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #345'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #322'
   password: XKFKl2rULjIp74
   port: 8009
   server: 38.68.134.85
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #346'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #323'
   password: XKFKl2rULjIp74
   port: 8009
   server: 38.68.134.9
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #347'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #324'
   password: XKFKl2rULjIp74
-  port: 8009
-  server: 38.68.135.18
+  port: 8008
+  server: 38.75.136.102
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #348'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #325'
+  password: XKFKl2rULjIp74
+  port: 8009
+  server: 38.75.136.102
+  type: ss
+- cipher: aes-256-gcm
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #326'
   password: XKFKl2rULjIp74
   port: 8008
   server: 38.75.136.135
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #349'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #327'
   password: XKFKl2rULjIp74
-  port: 8009
-  server: 38.75.136.135
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #350'
-  password: XKFKl2rULjIp74
-  port: 8009
-  server: 38.75.136.21
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #351'
-  password: XKFKl2rULjIp74
-  port: 8009
+  port: 8008
   server: 38.86.135.27
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #352'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #328'
   password: XKFKl2rULjIp74
   port: 8008
-  server: 38.86.135.36
+  server: 38.91.102.30
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #353'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #329'
   password: XKFKl2rULjIp74
-  port: 8009
-  server: 38.86.135.36
+  port: 8008
+  server: 38.91.107.16
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #354'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #330'
   password: XKFKl2rULjIp74
   port: 8009
   server: 38.91.107.16
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #355'
-  password: Y6R9pAtvxxzmGC
-  port: 3389
-  server: 142.202.48.52
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #331'
+  password: XKFKl2rULjIp74
+  port: 8008
+  server: 38.121.43.71
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #356'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #332'
+  password: Y6R9pAtvxxzmGC
+  port: 3306
+  server: 142.202.48.34
+  type: ss
+- cipher: aes-256-gcm
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #333'
   password: Y6R9pAtvxxzmGC
   port: 3389
+  server: 142.202.48.34
+  type: ss
+- cipher: aes-256-gcm
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #334'
+  password: Y6R9pAtvxxzmGC
+  port: 5601
+  server: 142.202.48.34
+  type: ss
+- cipher: aes-256-gcm
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #335'
+  password: Y6R9pAtvxxzmGC
+  port: 3306
   server: 142.202.48.58
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #357'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #336'
   password: Y6R9pAtvxxzmGC
-  port: 3389
+  port: 3306
   server: 142.202.48.74
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #358'
-  password: Y6R9pAtvxxzmGC
-  port: 3306
-  server: 142.202.48.7
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #359'
-  password: Y6R9pAtvxxzmGC
-  port: 3389
-  server: 142.202.48.7
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #360'
-  password: Y6R9pAtvxxzmGC
-  port: 3306
-  server: 142.202.48.83
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #361'
-  password: Y6R9pAtvxxzmGC
-  port: 3389
-  server: 142.202.48.83
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #362'
-  password: Y6R9pAtvxxzmGC
-  port: 3306
-  server: 142.202.48.99
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #363'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #337'
   password: Y6R9pAtvxxzmGC
   port: 8888
   server: 15.204.246.107
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #364'
-  password: Y6R9pAtvxxzmGC
-  port: 5000
-  server: 167.88.61.14
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #365'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #338'
   password: Y6R9pAtvxxzmGC
   port: 5001
   server: 167.88.61.14
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #366'
-  password: Y6R9pAtvxxzmGC
-  port: 5600
-  server: 167.88.61.14
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #367'
-  password: Y6R9pAtvxxzmGC
-  port: 5601
-  server: 167.88.61.14
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #368'
-  password: Y6R9pAtvxxzmGC
-  port: 8888
-  server: 167.88.61.14
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #369'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #339'
   password: Y6R9pAtvxxzmGC
   port: 3306
   server: 167.88.61.175
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #370'
-  password: Y6R9pAtvxxzmGC
-  port: 5000
-  server: 167.88.61.175
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #371'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #340'
   password: Y6R9pAtvxxzmGC
   port: 5001
   server: 167.88.61.175
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #372'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #341'
   password: Y6R9pAtvxxzmGC
   port: 5600
   server: 167.88.61.175
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #373'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #342'
   password: Y6R9pAtvxxzmGC
   port: 8888
   server: 167.88.61.175
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #374'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #343'
   password: Y6R9pAtvxxzmGC
   port: 3389
   server: 167.88.61.50
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #375'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #344'
   password: Y6R9pAtvxxzmGC
   port: 3306
   server: 167.88.61.60
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #376'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #345'
   password: Y6R9pAtvxxzmGC
   port: 3389
   server: 167.88.61.60
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #377'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #346'
   password: Y6R9pAtvxxzmGC
-  port: 5000
+  port: 5600
   server: 167.88.61.60
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #378'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #347'
   password: Y6R9pAtvxxzmGC
-  port: 8888
+  port: 5601
   server: 167.88.61.60
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #379'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #348'
   password: Y6R9pAtvxxzmGC
   port: 3389
   server: 167.88.62.62
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #380'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #349'
   password: Y6R9pAtvxxzmGC
   port: 3306
   server: 167.88.62.68
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #381'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #350'
   password: Y6R9pAtvxxzmGC
-  port: 3306
-  server: 167.88.63.44
+  port: 5600
+  server: 167.88.62.68
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #382'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #351'
   password: Y6R9pAtvxxzmGC
   port: 5001
   server: 167.88.63.44
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #383'
-  password: Y6R9pAtvxxzmGC
-  port: 3306
-  server: 167.88.63.59
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #384'
-  password: Y6R9pAtvxxzmGC
-  port: 3389
-  server: 167.88.63.59
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #385'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #352'
   password: Y6R9pAtvxxzmGC
   port: 5601
+  server: 167.88.63.44
+  type: ss
+- cipher: aes-256-gcm
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #353'
+  password: Y6R9pAtvxxzmGC
+  port: 5000
   server: 167.88.63.59
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #386'
-  password: Y6R9pAtvxxzmGC
-  port: 3306
-  server: 167.88.63.79
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #387'
-  password: Y6R9pAtvxxzmGC
-  port: 3389
-  server: 167.88.63.79
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #388'
-  password: Y6R9pAtvxxzmGC
-  port: 5601
-  server: 167.88.63.79
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #389'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #354'
   password: Y6R9pAtvxxzmGC
   port: 3306
   server: 167.88.63.82
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #390'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #355'
   password: Y6R9pAtvxxzmGC
   port: 3389
   server: 167.88.63.82
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #391'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #356'
   password: Y6R9pAtvxxzmGC
-  port: 5600
-  server: 167.88.63.82
+  port: 3306
+  server: 169.197.141.5
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #392'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #357'
   password: Y6R9pAtvxxzmGC
   port: 5001
   server: 169.197.142.187
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #393'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #358'
   password: Y6R9pAtvxxzmGC
-  port: 3306
+  port: 5600
+  server: 169.197.142.187
+  type: ss
+- cipher: aes-256-gcm
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #359'
+  password: Y6R9pAtvxxzmGC
+  port: 5601
+  server: 169.197.142.187
+  type: ss
+- cipher: aes-256-gcm
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #360'
+  password: Y6R9pAtvxxzmGC
+  port: 3389
+  server: 38.107.226.146
+  type: ss
+- cipher: aes-256-gcm
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #361'
+  password: Y6R9pAtvxxzmGC
+  port: 3389
   server: 38.107.226.48
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #394'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #362'
+  password: Y6R9pAtvxxzmGC
+  port: 5001
+  server: 38.107.226.48
+  type: ss
+- cipher: aes-256-gcm
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #363'
   password: Y6R9pAtvxxzmGC
   port: 5601
   server: 38.107.226.48
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #395'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #364'
   password: Y6R9pAtvxxzmGC
   port: 3306
   server: 38.107.226.49
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #396'
-  password: Y6R9pAtvxxzmGC
-  port: 5601
-  server: 38.114.114.19
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #397'
-  password: Y6R9pAtvxxzmGC
-  port: 8888
-  server: 38.114.114.19
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #398'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #365'
   password: Y6R9pAtvxxzmGC
   port: 3306
   server: 38.114.114.49
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #399'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #366'
   password: Y6R9pAtvxxzmGC
   port: 3389
   server: 38.114.114.49
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #400'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #367'
+  password: Y6R9pAtvxxzmGC
+  port: 3306
+  server: 38.114.114.67
+  type: ss
+- cipher: aes-256-gcm
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #368'
   password: Y6R9pAtvxxzmGC
   port: 5000
   server: 38.114.114.67
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #401'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #369'
+  password: Y6R9pAtvxxzmGC
+  port: 5001
+  server: 38.114.114.67
+  type: ss
+- cipher: aes-256-gcm
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #370'
   password: Y6R9pAtvxxzmGC
   port: 3389
   server: 38.114.114.69
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #402'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #371'
   password: Y6R9pAtvxxzmGC
-  port: 5001
-  server: 38.114.114.69
+  port: 3389
+  server: 38.121.43.71
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #403'
-  password: Y6R9pAtvxxzmGC
-  port: 5601
-  server: 38.114.114.69
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #404'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #372'
   password: Y6R9pAtvxxzmGC
   port: 5000
   server: 38.121.43.71
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #405'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #373'
   password: Y6R9pAtvxxzmGC
   port: 5600
   server: 38.121.43.71
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #406'
-  password: Y6R9pAtvxxzmGC
-  port: 8888
-  server: 38.121.43.71
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #407'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #374'
   password: Y6R9pAtvxxzmGC
   port: 5000
   server: 38.143.66.20
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #408'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #375'
   password: Y6R9pAtvxxzmGC
   port: 3389
   server: 38.143.66.87
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #409'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #376'
+  password: Y6R9pAtvxxzmGC
+  port: 5000
+  server: 38.143.66.87
+  type: ss
+- cipher: aes-256-gcm
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #377'
   password: Y6R9pAtvxxzmGC
   port: 5001
   server: 38.143.66.99
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #410'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #378'
+  password: Y6R9pAtvxxzmGC
+  port: 5600
+  server: 38.143.66.99
+  type: ss
+- cipher: aes-256-gcm
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #379'
   password: Y6R9pAtvxxzmGC
   port: 3306
   server: 38.64.138.145
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #411'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #380'
   password: Y6R9pAtvxxzmGC
   port: 5000
   server: 38.64.138.145
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #412'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #381'
   password: Y6R9pAtvxxzmGC
   port: 5001
   server: 38.64.138.145
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #413'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #382'
   password: Y6R9pAtvxxzmGC
-  port: 5600
-  server: 38.64.138.145
+  port: 3306
+  server: 38.68.134.191
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #414'
-  password: Y6R9pAtvxxzmGC
-  port: 5601
-  server: 38.64.138.145
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #415'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #383'
   password: Y6R9pAtvxxzmGC
   port: 3389
   server: 38.68.134.48
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #416'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #384'
+  password: Y6R9pAtvxxzmGC
+  port: 5001
+  server: 38.68.134.85
+  type: ss
+- cipher: aes-256-gcm
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #385'
+  password: Y6R9pAtvxxzmGC
+  port: 5600
+  server: 38.68.134.85
+  type: ss
+- cipher: aes-256-gcm
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #386'
+  password: Y6R9pAtvxxzmGC
+  port: 5601
+  server: 38.68.134.85
+  type: ss
+- cipher: aes-256-gcm
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #387'
+  password: Y6R9pAtvxxzmGC
+  port: 5601
+  server: 38.68.135.18
+  type: ss
+- cipher: aes-256-gcm
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #388'
+  password: Y6R9pAtvxxzmGC
+  port: 3389
+  server: 38.68.135.19
+  type: ss
+- cipher: aes-256-gcm
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #389'
+  password: Y6R9pAtvxxzmGC
+  port: 5001
+  server: 38.68.135.19
+  type: ss
+- cipher: aes-256-gcm
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #390'
+  password: Y6R9pAtvxxzmGC
+  port: 5601
+  server: 38.68.135.19
+  type: ss
+- cipher: aes-256-gcm
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #391'
+  password: Y6R9pAtvxxzmGC
+  port: 3306
+  server: 38.68.135.239
+  type: ss
+- cipher: aes-256-gcm
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #392'
+  password: Y6R9pAtvxxzmGC
+  port: 5001
+  server: 38.75.136.102
+  type: ss
+- cipher: aes-256-gcm
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #393'
+  password: Y6R9pAtvxxzmGC
+  port: 3306
+  server: 38.75.136.135
+  type: ss
+- cipher: aes-256-gcm
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #394'
+  password: Y6R9pAtvxxzmGC
+  port: 5001
+  server: 38.75.136.135
+  type: ss
+- cipher: aes-256-gcm
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #395'
   password: Y6R9pAtvxxzmGC
   port: 8888
-  server: 38.68.134.48
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #417'
-  password: Y6R9pAtvxxzmGC
-  port: 5000
-  server: 38.68.134.85
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #418'
-  password: Y6R9pAtvxxzmGC
-  port: 5001
-  server: 38.68.134.85
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #419'
-  password: Y6R9pAtvxxzmGC
-  port: 5600
-  server: 38.68.134.85
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #420'
-  password: Y6R9pAtvxxzmGC
-  port: 5601
-  server: 38.68.134.85
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #421'
-  password: Y6R9pAtvxxzmGC
-  port: 3389
-  server: 38.68.135.18
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #422'
-  password: Y6R9pAtvxxzmGC
-  port: 5601
-  server: 38.68.135.18
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #423'
-  password: Y6R9pAtvxxzmGC
-  port: 3389
-  server: 38.68.135.19
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #424'
-  password: Y6R9pAtvxxzmGC
-  port: 5001
-  server: 38.68.135.19
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #425'
-  password: Y6R9pAtvxxzmGC
-  port: 5601
-  server: 38.68.135.19
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #426'
-  password: Y6R9pAtvxxzmGC
-  port: 3389
-  server: 38.75.136.102
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #427'
-  password: Y6R9pAtvxxzmGC
-  port: 5601
-  server: 38.75.136.102
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #428'
-  password: Y6R9pAtvxxzmGC
-  port: 3306
   server: 38.75.136.135
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #429'
-  password: Y6R9pAtvxxzmGC
-  port: 3389
-  server: 38.75.136.135
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #430'
-  password: Y6R9pAtvxxzmGC
-  port: 5000
-  server: 38.75.136.135
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #431'
-  password: Y6R9pAtvxxzmGC
-  port: 5001
-  server: 38.75.136.135
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #432'
-  password: Y6R9pAtvxxzmGC
-  port: 5601
-  server: 38.75.136.135
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #433'
-  password: Y6R9pAtvxxzmGC
-  port: 3306
-  server: 38.75.136.21
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #434'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #396'
   password: Y6R9pAtvxxzmGC
   port: 3389
   server: 38.75.136.21
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #435'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #397'
   password: Y6R9pAtvxxzmGC
   port: 5000
   server: 38.75.136.21
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #436'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #398'
   password: Y6R9pAtvxxzmGC
-  port: 3306
+  port: 5001
+  server: 38.75.136.21
+  type: ss
+- cipher: aes-256-gcm
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #399'
+  password: Y6R9pAtvxxzmGC
+  port: 5601
+  server: 38.75.136.21
+  type: ss
+- cipher: aes-256-gcm
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #400'
+  password: Y6R9pAtvxxzmGC
+  port: 8888
+  server: 38.75.136.21
+  type: ss
+- cipher: aes-256-gcm
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #401'
+  password: Y6R9pAtvxxzmGC
+  port: 5000
   server: 38.86.135.27
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #437'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #402'
   password: Y6R9pAtvxxzmGC
   port: 3306
   server: 38.86.135.36
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #438'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #403'
   password: Y6R9pAtvxxzmGC
   port: 5000
   server: 38.86.135.36
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #439'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #404'
+  password: Y6R9pAtvxxzmGC
+  port: 5600
+  server: 38.86.135.36
+  type: ss
+- cipher: aes-256-gcm
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #405'
+  password: Y6R9pAtvxxzmGC
+  port: 8888
+  server: 38.86.135.36
+  type: ss
+- cipher: aes-256-gcm
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #406'
   password: Y6R9pAtvxxzmGC
   port: 3389
   server: 38.91.100.207
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #440'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #407'
   password: Y6R9pAtvxxzmGC
   port: 3306
   server: 38.91.100.27
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #441'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #408'
   password: Y6R9pAtvxxzmGC
-  port: 5000
-  server: 38.91.102.30
+  port: 3389
+  server: 38.91.100.27
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #442'
-  password: Y6R9pAtvxxzmGC
-  port: 5601
-  server: 38.91.102.30
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #443'
-  password: Y6R9pAtvxxzmGC
-  port: 8888
-  server: 38.91.102.30
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #444'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #409'
   password: Y6R9pAtvxxzmGC
   port: 3306
+  server: 38.91.102.30
+  type: ss
+- cipher: aes-256-gcm
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #410'
+  password: Y6R9pAtvxxzmGC
+  port: 5000
+  server: 38.91.102.30
+  type: ss
+- cipher: aes-256-gcm
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #411'
+  password: Y6R9pAtvxxzmGC
+  port: 5600
+  server: 38.91.102.30
+  type: ss
+- cipher: aes-256-gcm
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #412'
+  password: Y6R9pAtvxxzmGC
+  port: 3389
   server: 38.91.107.16
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #445'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #413'
   password: Y6R9pAtvxxzmGC
   port: 5000
   server: 38.91.107.16
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #446'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #414'
   password: Y6R9pAtvxxzmGC
   port: 5001
   server: 38.91.107.16
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #447'
-  password: Y6R9pAtvxxzmGC
-  port: 5601
-  server: 38.91.107.16
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #448'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #415'
   password: Y6R9pAtvxxzmGC
   port: 5001
   server: 23.157.40.10
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #449'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #416'
   password: Y6R9pAtvxxzmGC
   port: 9090
   server: 23.157.40.10
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #450'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #417'
   password: Y6R9pAtvxxzmGC
   port: 9090
   server: 23.157.40.53
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #451'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #418'
   password: ZKEsXkFbUZ2z667YA8A7cEDP
   port: 48970
   server: 212.102.44.87
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #452'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #419'
   password: cdBIDV42DCwnfIN
-  port: 8119
-  server: 167.88.61.14
+  port: 8118
+  server: 142.202.48.74
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #453'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #420'
+  password: cdBIDV42DCwnfIN
+  port: 8118
+  server: 167.88.61.175
+  type: ss
+- cipher: aes-256-gcm
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #421'
+  password: cdBIDV42DCwnfIN
+  port: 8119
+  server: 167.88.61.175
+  type: ss
+- cipher: aes-256-gcm
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #422'
+  password: cdBIDV42DCwnfIN
+  port: 8119
+  server: 167.88.61.50
+  type: ss
+- cipher: aes-256-gcm
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #423'
   password: cdBIDV42DCwnfIN
   port: 8119
   server: 167.88.62.68
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #454'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #424'
+  password: cdBIDV42DCwnfIN
+  port: 8118
+  server: 167.88.63.79
+  type: ss
+- cipher: aes-256-gcm
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #425'
+  password: cdBIDV42DCwnfIN
+  port: 8119
+  server: 167.88.63.79
+  type: ss
+- cipher: aes-256-gcm
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #426'
   password: cdBIDV42DCwnfIN
   port: 8119
   server: 169.197.142.187
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #455'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #427'
   password: cdBIDV42DCwnfIN
   port: 8119
   server: 23.157.40.10
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #456'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #428'
   password: cdBIDV42DCwnfIN
   port: 8118
   server: 23.157.40.53
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #457'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #429'
+  password: cdBIDV42DCwnfIN
+  port: 8118
+  server: 38.114.114.49
+  type: ss
+- cipher: aes-256-gcm
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #430'
   password: cdBIDV42DCwnfIN
   port: 8118
   server: 38.114.114.67
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #458'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #431'
+  password: cdBIDV42DCwnfIN
+  port: 8119
+  server: 38.121.43.71
+  type: ss
+- cipher: aes-256-gcm
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #432'
   password: cdBIDV42DCwnfIN
   port: 8119
   server: 38.143.66.55
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #459'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #433'
   password: cdBIDV42DCwnfIN
   port: 8119
   server: 38.68.134.85
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #460'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #434'
   password: cdBIDV42DCwnfIN
   port: 8118
   server: 38.68.135.123
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #461'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #435'
   password: cdBIDV42DCwnfIN
   port: 8119
   server: 38.68.135.18
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #462'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #436'
   password: cdBIDV42DCwnfIN
-  port: 8119
+  port: 8118
   server: 38.68.135.19
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #463'
-  password: cdBIDV42DCwnfIN
-  port: 8118
-  server: 38.75.136.102
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #464'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #437'
   password: cdBIDV42DCwnfIN
   port: 8118
   server: 38.75.136.135
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #465'
-  password: cdBIDV42DCwnfIN
-  port: 8119
-  server: 38.75.136.135
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #466'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #438'
   password: cdBIDV42DCwnfIN
   port: 8118
   server: 38.75.136.21
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #467'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #439'
   password: cdBIDV42DCwnfIN
-  port: 8118
+  port: 8119
   server: 38.86.135.27
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #468'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #440'
   password: cdBIDV42DCwnfIN
   port: 8118
   server: 38.86.135.36
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #469'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #441'
   password: cdBIDV42DCwnfIN
   port: 8119
   server: 38.86.135.36
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #470'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #442'
+  password: cdBIDV42DCwnfIN
+  port: 8119
+  server: 38.91.102.30
+  type: ss
+- cipher: aes-256-gcm
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #443'
   password: cdBIDV42DCwnfIN
   port: 8118
   server: 38.91.107.16
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #471'
-  password: cdBIDV42DCwnfIN
-  port: 8119
-  server: 38.91.107.16
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #472'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #444'
   password: cdBIDV42DCwnfIN
   port: 8118
   server: 38.91.107.37
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #473'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #445'
   password: b2jDPHUQxCNa2KmGHZjy7C4B
   port: 50024
   server: 154.16.168.186
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #474'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #446'
   password: b2jDPHUQxCNa2KmGHZjy7C4B
   port: 50024
   server: 212.102.46.71
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #475'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #447'
   password: b2jDPHUQxCNa2KmGHZjy7C4B
   port: 50024
   server: 64.44.42.195
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #476'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #448'
   password: gqtwGu9bVreJqL3FTHSVKGzy
   port: 50695
   server: 45.43.19.68
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #477'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #449'
   password: dongtaiwang.com
   port: 10077
   server: 167.160.91.118
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #478'
-  password: e4FCWrgpkji3QY
-  port: 9101
-  server: 167.88.61.14
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #479'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #450'
   password: e4FCWrgpkji3QY
   port: 9102
   server: 167.88.61.14
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #480'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #451'
   password: e4FCWrgpkji3QY
   port: 9102
   server: 167.88.61.50
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #481'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #452'
   password: e4FCWrgpkji3QY
-  port: 9101
+  port: 9102
   server: 167.88.61.60
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #482'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #453'
+  password: e4FCWrgpkji3QY
+  port: 9101
+  server: 167.88.63.59
+  type: ss
+- cipher: aes-256-gcm
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #454'
+  password: e4FCWrgpkji3QY
+  port: 9102
+  server: 167.88.63.59
+  type: ss
+- cipher: aes-256-gcm
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #455'
   password: e4FCWrgpkji3QY
   port: 9102
   server: 167.88.63.79
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #483'
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #456'
   password: e4FCWrgpkji3QY
   port: 9101
-  server: 169.197.141.14
+  server: 38.114.114.49
   type: ss
-- name: 12|美国+CloudFlare节点
-  network: ws
-  password: humanity
-  port: 443
-  server: 104.18.12.149
-  skip-cert-verify: true
-  sni: www.calmlunch.com
-  type: trojan
-  ws-opts:
-    headers:
-      Host: www.calmlunch.com
-    path: '%2Fassignment'
+- cipher: aes-256-gcm
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #457'
+  password: e4FCWrgpkji3QY
+  port: 9101
+  server: 38.114.114.67
+  type: ss
+- cipher: aes-256-gcm
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #458'
+  password: e4FCWrgpkji3QY
+  port: 9101
+  server: 38.114.114.69
+  type: ss
+- cipher: aes-256-gcm
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #459'
+  password: e4FCWrgpkji3QY
+  port: 9101
+  server: 38.121.43.142
+  type: ss
+- cipher: aes-256-gcm
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #460'
+  password: e4FCWrgpkji3QY
+  port: 9101
+  server: 38.121.43.71
+  type: ss
+- cipher: aes-256-gcm
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #461'
+  password: e4FCWrgpkji3QY
+  port: 9101
+  server: 38.143.66.99
+  type: ss
+- cipher: aes-256-gcm
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #462'
+  password: e4FCWrgpkji3QY
+  port: 9101
+  server: 38.68.134.85
+  type: ss
+- cipher: aes-256-gcm
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #463'
+  password: e4FCWrgpkji3QY
+  port: 9102
+  server: 38.68.134.85
+  type: ss
+- cipher: aes-256-gcm
+  name: '10|🇺🇸 [ Configs by DukeMehdi ] SS... #464'
+  password: e4FCWrgpkji3QY
+  port: 9102
+  server: 38.68.134.9
+  type: ss
 - client-fingerprint: chrome
   name: 18|🇺🇸US_3 | ⬇️ 6.1MB/s|0%|Netflix
   password: 2b1ed981-6547-4094-998b-06a3323d6f6c
@@ -2892,7 +2742,7 @@ proxies:
     headers:
       Host: www.pleadcourt.org
     path: /assignment
-- name: '19,20,30|🇺🇸[www.v2nodes.com] trojan-US-... #4'
+- name: '19,20|🇺🇸[www.v2nodes.com] trojan-US-... #1'
   password: aec8e5e3-bb81-4b22-8802-0b88c54997b3
   port: 10013
   server: us2.australiacaregroup.site
@@ -2901,7 +2751,7 @@ proxies:
   type: trojan
 - alterId: 0
   cipher: auto
-  name: '19,31|🇺🇸 美国|@ripaojiedian #3'
+  name: '19,31|🇺🇸 美国|@ripaojiedian #2'
   network: ws
   port: 443
   server: 53vXOVarmgcreAsv.v.3dns.vip
@@ -2916,7 +2766,7 @@ proxies:
     path: /ws-vmess
 - alterId: 0
   cipher: auto
-  name: '19,31|🇺🇸 美国2|@ripaojiedian #3'
+  name: '19,31|🇺🇸 美国2|@ripaojiedian #2'
   network: ws
   port: 443
   server: bJ1Aa2ZyJxYamYuK.v.3dns.vip
@@ -2929,7 +2779,7 @@ proxies:
     headers:
       Host: bJ1Aa2ZyJxYamYuK.v.3dns.vip
     path: /ws-vmess
-- name: '19,20,30,32|美国|@ripaojiedian #4'
+- name: '19,20,32|美国|@ripaojiedian #3'
   network: tcp
   password: AA885B42-133C-3828-FB69-E45105C06092
   port: 10155
@@ -2937,7 +2787,7 @@ proxies:
   skip-cert-verify: true
   sni: m.ctrip.com
   type: trojan
-- name: '19,20,30,32|美国2|@ripaojiedian #4'
+- name: '19,20,32|美国2|@ripaojiedian #3'
   network: tcp
   password: AA885B42-133C-3828-FB69-E45105C06092
   port: 12122
@@ -2945,7 +2795,7 @@ proxies:
   skip-cert-verify: true
   sni: m.ctrip.com
   type: trojan
-- name: '19,30|🇺🇸 美国 | USA 2 #1'
+- name: 19|🇺🇸 美国 | USA 2
   network: ws
   password: humanity
   port: 443
@@ -2953,12 +2803,11 @@ proxies:
   skip-cert-verify: true
   sni: www.calmlunch.com
   type: trojan
-  udp: true
   ws-opts:
     headers:
       Host: www.calmlunch.com
     path: /assignment
-- name: '19,30|🇺🇸 美国 | USA #2 #1'
+- name: '19|🇺🇸 美国 | USA #2'
   password: humanity
   port: 443
   server: 162.159.91.211
@@ -2974,7 +2823,7 @@ proxies:
   type: trojan
 - alterId: 0
   cipher: auto
-  name: '20,30|🇺🇸 美国|@ripaojiedian #2'
+  name: '20|🇺🇸 美国|@ripaojiedian #1'
   network: ws
   port: 443
   server: 53vXOVarmgcreAsv.v.3dns.vip
@@ -2989,7 +2838,7 @@ proxies:
     path: /ws-vmess
 - alterId: 0
   cipher: auto
-  name: '20,30|🇺🇸 美国2|@ripaojiedian #2'
+  name: '20|🇺🇸 美国2|@ripaojiedian #1'
   network: ws
   port: 443
   server: bJ1Aa2ZyJxYamYuK.v.3dns.vip
@@ -3158,6 +3007,18 @@ proxies:
   type: trojan
   ws-opts:
     path: '%2Fassignment'
+- name: '29|美国+CloudFlare节点 #10'
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.16.174.44
+  skip-cert-verify: false
+  sni: www.ignitelimit.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.ignitelimit.com
+    path: /assignment
 - name: '29,34|US美国(mibei77.com 米贝节点分享) #38'
   network: ws
   password: humanity
@@ -3169,7 +3030,7 @@ proxies:
     headers:
       Host: www.ignitelimit.com
     path: '%2Fassignment'
-- name: '29|美国+CloudFlare节点 #15'
+- name: '29|美国+CloudFlare节点 #13'
   network: ws
   password: humanity
   port: 443
