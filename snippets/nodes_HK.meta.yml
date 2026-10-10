@@ -21,7 +21,7 @@ proxies:
   type: trojan
 - alterId: 2
   cipher: auto
-  name: '3,12,16,17,25,28|香港|@ripaojiedian #3'
+  name: '3,16,17,25,28|香港|@ripaojiedian #3'
   network: tcp
   port: 30807
   server: v10.hdacd.com
@@ -140,1142 +140,6 @@ proxies:
   port: 41632
   server: 112.213.102.188
   type: ss
-- name: 7|🇭🇰 [ Configs by DukeMehdi ] TJ...
-  password: 265f092f-418b-30c9-a479-4800fd44dd19mielink
-  port: 443
-  server: 103.135.103.229
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #84'
-  network: tcp
-  password: 6ec301428255a78a1d826988d86cc87e
-  port: 50887
-  server: 95.40.110.184
-  skip-cert-verify: false
-  sni: 'www.nintendogames.net '
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #85'
-  network: tcp
-  password: 6ec301428255a78a1d826988d86cc87e
-  port: 50887
-  server: 95.40.43.135
-  skip-cert-verify: false
-  sni: 'www.nintendogames.net '
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #3'
-  network: tcp
-  password: 72d8e820-7926-4ce3-a87c-b6969f425c79
-  port: 443
-  server: 103.235.46.40
-  skip-cert-verify: true
-  sni: www.baidu.com
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #4'
-  password: 73658d71-be45-4495-bc3e-e69d36ce73b5
-  port: 50014
-  server: 103.234.53.23
-  sni: 'telewebion.com '
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #5'
-  network: tcp
-  password: 7e70223b-f331-41d5-9313-02b8d2df2885
-  port: 20001
-  server: 45.67.201.210
-  skip-cert-verify: true
-  sni: hk.catxstar.com
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #6'
-  network: tcp
-  password: 7e70223b-f331-41d5-9313-02b8d2df2885
-  port: 20004
-  server: 45.67.201.210
-  skip-cert-verify: true
-  sni: hk.catxstar.com
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #7'
-  network: tcp
-  password: 7e70223b-f331-41d5-9313-02b8d2df2885
-  port: 20006
-  server: 45.67.201.210
-  skip-cert-verify: true
-  sni: hk.catxstar.com
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #8'
-  network: tcp
-  password: 7e70223b-f331-41d5-9313-02b8d2df2885
-  port: 20007
-  server: 45.67.201.210
-  skip-cert-verify: true
-  sni: US.catxstar.com
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #9'
-  network: tcp
-  password: 7e70223b-f331-41d5-9313-02b8d2df2885
-  port: 20012
-  server: 45.67.201.210
-  skip-cert-verify: true
-  sni: hk.catxstar.com
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #10'
-  network: tcp
-  password: 7e70223b-f331-41d5-9313-02b8d2df2885
-  port: 20013
-  server: 45.67.201.210
-  skip-cert-verify: true
-  sni: hk.catxstar.com
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #11'
-  network: tcp
-  password: 7e70223b-f331-41d5-9313-02b8d2df2885
-  port: 20014
-  server: 45.67.201.210
-  skip-cert-verify: true
-  sni: hk.catxstar.com
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #12'
-  network: tcp
-  password: 7e70223b-f331-41d5-9313-02b8d2df2885
-  port: 20015
-  server: 45.67.201.210
-  skip-cert-verify: true
-  sni: hk.catxstar.com
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #13'
-  network: tcp
-  password: 7e70223b-f331-41d5-9313-02b8d2df2885
-  port: 20017
-  server: 45.67.201.210
-  skip-cert-verify: true
-  sni: hk.catxstar.com
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #14'
-  network: tcp
-  password: 7e70223b-f331-41d5-9313-02b8d2df2885
-  port: 20018
-  server: 45.67.201.210
-  skip-cert-verify: true
-  sni: hk.catxstar.com
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #15'
-  network: tcp
-  password: 7e70223b-f331-41d5-9313-02b8d2df2885
-  port: 20019
-  server: 45.67.201.210
-  skip-cert-verify: true
-  sni: hk.catxstar.com
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #16'
-  network: tcp
-  password: 7e70223b-f331-41d5-9313-02b8d2df2885
-  port: 20022
-  server: 45.67.201.210
-  skip-cert-verify: true
-  sni: hk.catxstar.com
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #17'
-  network: tcp
-  password: 7e70223b-f331-41d5-9313-02b8d2df2885
-  port: 20024
-  server: 45.67.201.210
-  skip-cert-verify: true
-  sni: hk.catxstar.com
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #18'
-  network: tcp
-  password: 7e70223b-f331-41d5-9313-02b8d2df2885
-  port: 20025
-  server: 45.67.201.210
-  skip-cert-verify: true
-  sni: tw.catxstar.com
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #19'
-  network: tcp
-  password: 7e70223b-f331-41d5-9313-02b8d2df2885
-  port: 20029
-  server: 45.67.201.210
-  skip-cert-verify: true
-  sni: hk.catxstar.com
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #20'
-  network: tcp
-  password: 7e70223b-f331-41d5-9313-02b8d2df2885
-  port: 20030
-  server: 45.67.201.210
-  skip-cert-verify: true
-  sni: hk.catxstar.com
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #21'
-  network: tcp
-  password: 7e70223b-f331-41d5-9313-02b8d2df2885
-  port: 20031
-  server: 45.67.201.210
-  skip-cert-verify: true
-  sni: hk.catxstar.com
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #22'
-  network: tcp
-  password: 7e70223b-f331-41d5-9313-02b8d2df2885
-  port: 20032
-  server: 45.67.201.210
-  skip-cert-verify: true
-  sni: hk.catxstar.com
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #23'
-  network: tcp
-  password: 7e70223b-f331-41d5-9313-02b8d2df2885
-  port: 20034
-  server: 45.67.201.210
-  skip-cert-verify: true
-  sni: hk.catxstar.com
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #24'
-  network: tcp
-  password: 7e70223b-f331-41d5-9313-02b8d2df2885
-  port: 20036
-  server: 45.67.201.210
-  skip-cert-verify: true
-  sni: SG.catxstar.com
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #25'
-  network: tcp
-  password: 7e70223b-f331-41d5-9313-02b8d2df2885
-  port: 20039
-  server: 45.67.201.210
-  skip-cert-verify: true
-  sni: SG.catxstar.com
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #26'
-  network: tcp
-  password: 7e70223b-f331-41d5-9313-02b8d2df2885
-  port: 20041
-  server: 45.67.201.210
-  skip-cert-verify: true
-  sni: de.catxstar.com
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #27'
-  network: tcp
-  password: 7e70223b-f331-41d5-9313-02b8d2df2885
-  port: 20044
-  server: 45.67.201.210
-  skip-cert-verify: true
-  sni: TW.catxstar.com
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #28'
-  network: tcp
-  password: 7e70223b-f331-41d5-9313-02b8d2df2885
-  port: 20045
-  server: 45.67.201.210
-  skip-cert-verify: true
-  sni: TW.catxstar.com
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #29'
-  network: tcp
-  password: 7e70223b-f331-41d5-9313-02b8d2df2885
-  port: 20046
-  server: 45.67.201.210
-  skip-cert-verify: true
-  sni: hk.catxstar.com
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #30'
-  network: tcp
-  password: 7e70223b-f331-41d5-9313-02b8d2df2885
-  port: 20047
-  server: 45.67.201.210
-  skip-cert-verify: true
-  sni: hk.catxstar.com
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #31'
-  network: tcp
-  password: 7e70223b-f331-41d5-9313-02b8d2df2885
-  port: 20048
-  server: 45.67.201.210
-  skip-cert-verify: true
-  sni: hk.catxstar.com
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #32'
-  network: tcp
-  password: 7e70223b-f331-41d5-9313-02b8d2df2885
-  port: 20049
-  server: 45.67.201.210
-  skip-cert-verify: true
-  sni: hk.catxstar.com
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #33'
-  network: tcp
-  password: 7e70223b-f331-41d5-9313-02b8d2df2885
-  port: 20050
-  server: 45.67.201.210
-  skip-cert-verify: true
-  sni: us.catxstar.com
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #34'
-  network: tcp
-  password: 7e70223b-f331-41d5-9313-02b8d2df2885
-  port: 20051
-  server: 45.67.201.210
-  skip-cert-verify: true
-  sni: ng.catxstar.com
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #35'
-  network: tcp
-  password: 7e70223b-f331-41d5-9313-02b8d2df2885
-  port: 20052
-  server: 45.67.201.210
-  skip-cert-verify: true
-  sni: hk.catxstar.com
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #36'
-  network: tcp
-  password: 7e70223b-f331-41d5-9313-02b8d2df2885
-  port: 20056
-  server: 45.67.201.210
-  skip-cert-verify: true
-  sni: hk.catxstar.com
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #37'
-  network: tcp
-  password: 7e70223b-f331-41d5-9313-02b8d2df2885
-  port: 20058
-  server: 45.67.201.210
-  skip-cert-verify: true
-  sni: hk.catxstar.com
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #38'
-  network: tcp
-  password: 7e70223b-f331-41d5-9313-02b8d2df2885
-  port: 20060
-  server: 45.67.201.210
-  skip-cert-verify: true
-  sni: SG.catxstar.com
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #39'
-  network: tcp
-  password: 7e70223b-f331-41d5-9313-02b8d2df2885
-  port: 20061
-  server: 45.67.201.210
-  skip-cert-verify: true
-  sni: hk.catxstar.com
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #40'
-  network: tcp
-  password: 7e70223b-f331-41d5-9313-02b8d2df2885
-  port: 20063
-  server: 45.67.201.210
-  skip-cert-verify: true
-  sni: hk.catxstar.com
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #41'
-  network: tcp
-  password: 7e70223b-f331-41d5-9313-02b8d2df2885
-  port: 20064
-  server: 45.67.201.210
-  skip-cert-verify: true
-  sni: hk.catxstar.com
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #42'
-  network: tcp
-  password: 7e70223b-f331-41d5-9313-02b8d2df2885
-  port: 20065
-  server: 45.67.201.210
-  skip-cert-verify: true
-  sni: hk.catxstar.com
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #43'
-  network: tcp
-  password: 7e70223b-f331-41d5-9313-02b8d2df2885
-  port: 20068
-  server: 45.67.201.210
-  skip-cert-verify: true
-  sni: hk.catxstar.com
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #44'
-  network: tcp
-  password: 7e70223b-f331-41d5-9313-02b8d2df2885
-  port: 20072
-  server: 45.67.201.210
-  skip-cert-verify: true
-  sni: SG.catxstar.com
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #45'
-  network: tcp
-  password: 7e70223b-f331-41d5-9313-02b8d2df2885
-  port: 20077
-  server: 45.67.201.210
-  skip-cert-verify: true
-  sni: hk.catxstar.com
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #46'
-  network: tcp
-  password: 7e70223b-f331-41d5-9313-02b8d2df2885
-  port: 20083
-  server: 45.67.201.210
-  skip-cert-verify: true
-  sni: SG.catxstar.com
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #47'
-  network: tcp
-  password: 7e70223b-f331-41d5-9313-02b8d2df2885
-  port: 20085
-  server: 45.67.201.210
-  skip-cert-verify: true
-  sni: hk.catxstar.com
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #48'
-  network: tcp
-  password: 7e70223b-f331-41d5-9313-02b8d2df2885
-  port: 20086
-  server: 45.67.201.210
-  skip-cert-verify: true
-  sni: hk.catxstar.com
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #49'
-  network: tcp
-  password: 7e70223b-f331-41d5-9313-02b8d2df2885
-  port: 20088
-  server: 45.67.201.210
-  skip-cert-verify: true
-  sni: hk.catxstar.com
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #50'
-  network: tcp
-  password: 7e70223b-f331-41d5-9313-02b8d2df2885
-  port: 20089
-  server: 45.67.201.210
-  skip-cert-verify: true
-  sni: SG.catxstar.com
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #51'
-  network: tcp
-  password: 7e70223b-f331-41d5-9313-02b8d2df2885
-  port: 20092
-  server: 45.67.201.210
-  skip-cert-verify: true
-  sni: hk.catxstar.com
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #52'
-  network: tcp
-  password: 7e70223b-f331-41d5-9313-02b8d2df2885
-  port: 20098
-  server: 45.67.201.210
-  skip-cert-verify: true
-  sni: hk.catxstar.com
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #53'
-  network: tcp
-  password: 7e70223b-f331-41d5-9313-02b8d2df2885
-  port: 20103
-  server: 45.67.201.210
-  skip-cert-verify: true
-  sni: ng.catxstar.com
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #54'
-  network: tcp
-  password: 7e70223b-f331-41d5-9313-02b8d2df2885
-  port: 20104
-  server: 45.67.201.210
-  skip-cert-verify: true
-  sni: hk.catxstar.com
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #55'
-  network: tcp
-  password: 7e70223b-f331-41d5-9313-02b8d2df2885
-  port: 20109
-  server: 45.67.201.210
-  skip-cert-verify: true
-  sni: TW.catxstar.com
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #56'
-  network: tcp
-  password: 7e70223b-f331-41d5-9313-02b8d2df2885
-  port: 20112
-  server: 45.67.201.210
-  skip-cert-verify: true
-  sni: ca.catxstar.com
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #57'
-  network: tcp
-  password: 7e70223b-f331-41d5-9313-02b8d2df2885
-  port: 20113
-  server: 45.67.201.210
-  skip-cert-verify: true
-  sni: ca.catxstar.com
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #58'
-  network: tcp
-  password: 7e70223b-f331-41d5-9313-02b8d2df2885
-  port: 20114
-  server: 45.67.201.210
-  skip-cert-verify: true
-  sni: hk.catxstar.com
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #59'
-  network: tcp
-  password: 7e70223b-f331-41d5-9313-02b8d2df2885
-  port: 20117
-  server: 45.67.201.210
-  skip-cert-verify: true
-  sni: hk.catxstar.com
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #60'
-  network: tcp
-  password: 7e70223b-f331-41d5-9313-02b8d2df2885
-  port: 20118
-  server: 45.67.201.210
-  skip-cert-verify: true
-  sni: hk.catxstar.com
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #61'
-  network: tcp
-  password: 7e70223b-f331-41d5-9313-02b8d2df2885
-  port: 20119
-  server: 45.67.201.210
-  skip-cert-verify: true
-  sni: hk.catxstar.com
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #62'
-  network: tcp
-  password: 7e70223b-f331-41d5-9313-02b8d2df2885
-  port: 20120
-  server: 45.67.201.210
-  skip-cert-verify: true
-  sni: hk.catxstar.com
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #63'
-  network: tcp
-  password: 7e70223b-f331-41d5-9313-02b8d2df2885
-  port: 20123
-  server: 45.67.201.210
-  skip-cert-verify: true
-  sni: hk.catxstar.com
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #64'
-  network: tcp
-  password: 7e70223b-f331-41d5-9313-02b8d2df2885
-  port: 20126
-  server: 45.67.201.210
-  skip-cert-verify: true
-  sni: hk.catxstar.com
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #65'
-  network: tcp
-  password: 8aab51da-6b67-4bd2-b6e6-5ab3008cf53e
-  port: 443
-  server: 20.255.74.102
-  skip-cert-verify: true
-  sni: jp.iamnotagoodman.com
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #66'
-  password: 8fe3b905-b933-4a3f-aa33-40a73ec93c69
-  port: 28443
-  server: 103.135.102.156
-  sni: 'glc.hruqoaw.cn '
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #67'
-  password: 8fe3b905-b933-4a3f-aa33-40a73ec93c69
-  port: 28443
-  server: 210.0.158.220
-  sni: 'glc.hruqoaw.cn '
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #68'
-  password: 8fe3b905-b933-4a3f-aa33-40a73ec93c69
-  port: 28443
-  server: 43.198.12.229
-  sni: 'glc.hruqoaw.cn '
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #69'
-  password: 8fe3b905-b933-4a3f-aa33-40a73ec93c69
-  port: 28443
-  server: 5.181.4.104
-  sni: 'glc.hruqoaw.cn '
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #70'
-  network: tcp
-  password: 8r<[9'l6hAO#8ZQi
-  port: 443
-  server: 154.92.9.253
-  sni: 'Koma-YT.PAGeS.Dev '
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #71'
-  network: tcp
-  password: 8r<[9'l6hAO#8ZQi
-  port: 443
-  server: 154.92.9.25
-  sni: 'Koma-YT.PAGeS.Dev '
-  type: trojan
-- name: '7,12|🔥Join+Telegram:@Farah_VPN🟣 #5074'
-  network: tcp
-  password: BxceQaOe
-  port: 52951
-  server: 16.163.102.116
-  skip-cert-verify: true
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #73'
-  network: tcp
-  password: BxceQaOe
-  port: 443
-  server: 219.79.214.159
-  sni: 't.me%252Fripaojiedian '
-  type: trojan
-- name: '7,12|🔥Join+Telegram:@Farah_VPN🟣 #3734'
-  password: BxceQaOe
-  port: 41973
-  server: 43.198.13.210
-  skip-cert-verify: true
-  sni: t.me/ripaojiedian
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #75'
-  password: BxceQaOe
-  port: 44265
-  server: 95.40.58.154
-  skip-cert-verify: true
-  sni: 't.me%2Fripaojiedian '
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #76'
-  password: SyOxpKxC8u5jgNa3DCZ34y3D9CRenFcaABpYATEeqI2RSaXD76zS8YF0Owl3lZ
-  port: 443
-  server: 219.76.13.181
-  sni: 'arbettp.freetrade.link '
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #77'
-  network: tcp
-  password: XuMweB2PWs
-  port: 45464
-  server: 2.27.109.179
-  skip-cert-verify: false
-  sni: '2.27.109.179.sslip.io '
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #78'
-  password: b26e31e5-eac1-45b0-9069-83830bd69521
-  port: 443
-  server: 20.187.85.198
-  sni: 'hkt.iamnotagoodman.com '
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #79'
-  network: tcp
-  password: c85761bc-5d74-4ae5-b525-0d32443182fa
-  port: 443
-  server: 45.149.92.71
-  skip-cert-verify: true
-  sni: uk.mjt000.com
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #80'
-  password: ca2345ba-46e7-3991-b1b7-45d18954caf1
-  port: 20712
-  server: 20.24.192.3
-  sni: 'ssl.ssl12.xyz '
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #81'
-  password: ceaea123-1b4b-469b-8358-bcd5f5529305
-  port: 443
-  server: 104.208.100.101
-  sni: 'uk.liangyuandian.top '
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #82'
-  password: d4e41ff772c7fd45
-  port: 3389
-  server: 45.11.104.94
-  sni: 'sbank.ir '
-  type: trojan
-- name: 7,17|🇹🇼[www.v2nodes.com] trojan-TW-...
-  password: i99Cef
-  port: 28101
-  server: 209.248.32.116
-  type: trojan
-- client-fingerprint: chrome
-  flow: xtls-rprx-vision
-  name: '7,12|🔥Join+Telegram:@Farah_VPN🟣 #6414'
-  network: tcp
-  port: 443
-  reality-opts:
-    public-key: WNifT0qNHWrUsvC6cuvej0rzZe6qPijopbmJyRADOF0
-    short-id: f713561d
-  server: 207.56.137.51
-  servername: www.cloudflare.com
-  tls: false
-  type: vless
-  uuid: 01ada9fb-fa2f-45da-a0d0-bce80cdf433b
-  ws-opts:
-    headers:
-      Host: JOIN_BEDE_TELEGRAM@leviconfigs
-- alpn:
-  - h2
-  - http/1.1
-  client-fingerprint: chrome
-  name: 7,16,24|[OpenRay] 🇬🇧GB-189
-  network: raw
-  port: 11907
-  server: 195.58.144.56
-  skip-cert-verify: false
-  tls: true
-  type: vless
-  uuid: 07cb07b9-0c4d-46c1-a15a-b147511b6b07
-- client-fingerprint: chrome
-  flow: xtls-rprx-vision
-  name: '7|🇭🇰 [ Configs by DukeMehdi ] VL... #2'
-  network: raw
-  port: 10011
-  reality-opts:
-    public-key: 82bbZIdU-0s8fydncIhp9_sNDYQQH9ZY_7RVI5apXnk
-    short-id: '447f3a05ace2b748 '
-  server: 103.123.162.50
-  servername: www.microsoft.com
-  tls: false
-  type: vless
-  uuid: 17011a43-97e2-44b0-b0da-a2ea151ad75c
-- client-fingerprint: firefox
-  flow: xtls-rprx-vision
-  name: 7,24|[OpenRay] 🇭🇰HK-196
-  network: tcp
-  port: 39179
-  reality-opts:
-    public-key: Lk5nwDxC2tr3J7hT8emhUUiMX8cHyKX9TiRj_EnAiik
-    short-id: 28f5c1f8f98a
-  server: 103.214.173.122
-  servername: www.lamer.com.sg
-  tls: false
-  type: vless
-  uuid: 57beeeb0-03fc-4fc9-94da-7604488a7134
-- client-fingerprint: firefox
-  flow: xtls-rprx-vision
-  name: 7,12,22,24|[OpenRay] 🇭🇰HK-82
-  network: tcp
-  port: 41705
-  reality-opts:
-    public-key: KfOrtENkHAXDFlsCluw6fv62Q-WuJXCKI98XZihtemA
-    short-id: e51285e3
-  server: 103.214.173.62
-  servername: us1p1.xn--ghq880n3na965a.com
-  tls: false
-  type: vless
-  uuid: 57beeeb0-03fc-4fc9-94da-7604488a7134
-- client-fingerprint: firefox
-  flow: xtls-rprx-vision
-  name: 7,12,24|[OpenRay] 🇭🇰HK-9
-  network: tcp
-  port: 44988
-  reality-opts:
-    public-key: f6Tj8-uvWsLv3V-lGLuPciArp5oKqUImBg-U7-WJ-0A
-    short-id: bb82c8
-  server: 103.30.76.65
-  servername: www.tesla.com
-  tls: false
-  type: vless
-  uuid: 57beeeb0-03fc-4fc9-94da-7604488a7134
-- client-fingerprint: chrome
-  flow: xtls-rprx-vision
-  name: '7,12|🔥Join+Telegram:@Farah_VPN🟣 #3285'
-  network: tcp
-  port: 39179
-  reality-opts:
-    public-key: Lk5nwDxC2tr3J7hT8emhUUiMX8cHyKX9TiRj_EnAiik
-    short-id: 28f5c1f8f98a
-  server: 103.30.78.13
-  servername: www.lamer.com.sg
-  tls: false
-  type: vless
-  uuid: 57beeeb0-03fc-4fc9-94da-7604488a7134
-- client-fingerprint: firefox
-  flow: xtls-rprx-vision
-  name: 7,24|[OpenRay] 🇭🇰HK-107
-  network: tcp
-  port: 41563
-  reality-opts:
-    public-key: HrcXRHtsitc_AVlN-_8fZuRgaP-Mqa_9JJotI9OnkVc
-    short-id: 25c79e5856c7
-  server: 103.39.79.4
-  servername: iosapps.itunes.apple.com
-  tls: false
-  type: vless
-  uuid: 57beeeb0-03fc-4fc9-94da-7604488a7134
-- client-fingerprint: firefox
-  flow: xtls-rprx-vision
-  name: 7,24|[OpenRay] 🇭🇰HK-17
-  network: tcp
-  port: 41563
-  reality-opts:
-    public-key: HrcXRHtsitc_AVlN-_8fZuRgaP-Mqa_9JJotI9OnkVc
-    short-id: 25c79e5856c7
-  server: 103.39.79.77
-  servername: iosapps.itunes.apple.com
-  tls: false
-  type: vless
-  uuid: 57beeeb0-03fc-4fc9-94da-7604488a7134
-- client-fingerprint: firefox
-  flow: xtls-rprx-vision
-  name: 7,24|[OpenRay] 🇭🇰HK-43
-  network: tcp
-  port: 21033
-  reality-opts:
-    public-key: EG-jzQw1RyOwAM4L9rMKondSx7cyFmPyv1OP7xXkIk4
-    short-id: cbd39bea0805e2
-  server: 154.21.203.106
-  servername: www.kaidee.com
-  tls: false
-  type: vless
-  uuid: 57beeeb0-03fc-4fc9-94da-7604488a7134
-- client-fingerprint: firefox
-  flow: xtls-rprx-vision
-  name: 7,24|[OpenRay] 🇭🇰HK-123
-  network: tcp
-  port: 46984
-  reality-opts:
-    public-key: XBntt77MdH3EMkPXibOAO_NSBrL_aqwiLItU98rqlHE
-    short-id: 9c3c0f8ec8b4af12
-  server: 154.21.203.106
-  servername: www.lamer.com.sg
-  tls: false
-  type: vless
-  uuid: 57beeeb0-03fc-4fc9-94da-7604488a7134
-- client-fingerprint: firefox
-  flow: xtls-rprx-vision
-  name: 7,24|[OpenRay] 🇭🇰HK-163
-  network: tcp
-  port: 21033
-  reality-opts:
-    public-key: EG-jzQw1RyOwAM4L9rMKondSx7cyFmPyv1OP7xXkIk4
-    short-id: cbd39bea0805e2
-  server: 154.64.251.118
-  servername: www.kaidee.com
-  tls: false
-  type: vless
-  uuid: 57beeeb0-03fc-4fc9-94da-7604488a7134
-- client-fingerprint: firefox
-  flow: xtls-rprx-vision
-  name: 7,24|[OpenRay] 🇭🇰HK-2
-  network: tcp
-  port: 46984
-  reality-opts:
-    public-key: XBntt77MdH3EMkPXibOAO_NSBrL_aqwiLItU98rqlHE
-    short-id: 9c3c0f8ec8b4af12
-  server: 154.64.251.118
-  servername: www.lamer.com.sg
-  tls: false
-  type: vless
-  uuid: 57beeeb0-03fc-4fc9-94da-7604488a7134
-- client-fingerprint: firefox
-  flow: xtls-rprx-vision
-  name: 7,24|[OpenRay] 🇭🇰HK-170
-  network: tcp
-  port: 47592
-  reality-opts:
-    public-key: WIQGJ43m8ym13-VZ57mAtWY5vOwHMHEpnLV8caw2-kA
-    short-id: f38326f99edf
-  server: 154.64.251.118
-  servername: www.lamer.com.sg
-  tls: false
-  type: vless
-  uuid: 57beeeb0-03fc-4fc9-94da-7604488a7134
-- client-fingerprint: chrome
-  flow: xtls-rprx-vision
-  name: '7,12|🔥Join+Telegram:@Farah_VPN🟣 #6480'
-  network: tcp
-  port: 21263
-  reality-opts:
-    public-key: YinI5MijeZpRatg6QNDvP0qXEif-6VHC6gV5yoji4i4
-    short-id: 3d31326f95
-  server: 43.255.156.101
-  servername: us1p1.xn--ghq880n3na965a.com
-  tls: false
-  type: vless
-  uuid: 57beeeb0-03fc-4fc9-94da-7604488a7134
-- client-fingerprint: firefox
-  flow: xtls-rprx-vision
-  name: 7,24|[OpenRay] 🇭🇰HK-118
-  network: tcp
-  port: 21263
-  reality-opts:
-    public-key: YinI5MijeZpRatg6QNDvP0qXEif-6VHC6gV5yoji4i4
-    short-id: 3d31326f95
-  server: 43.255.156.166
-  servername: us1p1.xn--ghq880n3na965a.com
-  skip-cert-verify: true
-  tls: false
-  type: vless
-  uuid: 57beeeb0-03fc-4fc9-94da-7604488a7134
-- client-fingerprint: chrome
-  flow: xtls-rprx-vision
-  name: '7,12|🔥Join+Telegram:@Farah_VPN🟣 #8429'
-  network: tcp
-  port: 25102
-  reality-opts:
-    public-key: EG-jzQw1RyOwAM4L9rMKondSx7cyFmPyv1OP7xXkIk4
-    short-id: cbd39bea0805e2
-  server: 45.153.130.153
-  servername: www.kaidee.com
-  tls: false
-  type: vless
-  uuid: 57beeeb0-03fc-4fc9-94da-7604488a7134
-- client-fingerprint: firefox
-  flow: xtls-rprx-vision
-  name: 7,12,24|[OpenRay] 🇭🇰HK-83
-  network: tcp
-  port: 39179
-  reality-opts:
-    public-key: Lk5nwDxC2tr3J7hT8emhUUiMX8cHyKX9TiRj_EnAiik
-    short-id: 28f5c1f8f98a
-  server: 45.153.130.153
-  servername: www.lamer.com.sg
-  tls: false
-  type: vless
-  uuid: 57beeeb0-03fc-4fc9-94da-7604488a7134
-- client-fingerprint: chrome
-  name: 7,24,30|香港 45
-  network: ws
-  port: 443
-  server: 156.224.76.205
-  servername: vp10.pages.dev
-  tls: true
-  type: vless
-  uuid: 7b102311-43fd-4e8f-877e-8090623c101d
-  ws-opts:
-    headers:
-      Host: vp10.pages.dev
-    path: /
-- client-fingerprint: random
-  flow: xtls-rprx-vision
-  name: 7,24|[OpenRay] 🇭🇰HK-65
-  network: tcp
-  port: 443
-  reality-opts:
-    public-key: wet3gh-OtTXd6G20ic3hdldK4wEbwtI1WGr4bvXtVmQ
-    short-id: 3467b2ee
-  server: 8.217.110.53
-  servername: www.amazon.com
-  tls: false
-  type: vless
-  uuid: 91ad30e9-ab06-4b4c-9fb9-1c2aa97d8b3a
-- client-fingerprint: chrome
-  flow: ''
-  name: 7,16,22,24,30|未知 VLESS-893 | free-nodes
-  network: tcp
-  port: 13779
-  reality-opts:
-    public-key: llTyp52oRXnJmQ3I9UUrmlwbMA79B-wLCRHCu-8dLGg
-    short-id: af1bdd293097b664
-  server: 47.238.210.5
-  servername: tesla.com
-  tls: false
-  type: vless
-  uuid: 928e6cce-8ced-4243-9a48-a6642edd09b0
-- client-fingerprint: chrome
-  flow: xtls-rprx-vision
-  name: '7,12|🔥Join+Telegram:@Farah_VPN🟣 #3117'
-  network: tcp
-  port: 9443
-  reality-opts:
-    public-key: 0hIFPaEn4RdFib8_eP8HYxMywR5izEwM3JA2W1Zo8U4
-    short-id: b390142456517acc
-  server: 45.207.157.8
-  servername: www.amazon.com
-  tls: false
-  type: vless
-  uuid: 966990b5-5868-4af1-add6-011c72b4a443
-- client-fingerprint: chrome
-  flow: xtls-rprx-vision
-  name: '7|🇭🇰 [ Configs by DukeMehdi ] VL... #22'
-  network: tcp
-  port: 10001
-  reality-opts:
-    public-key: D_kMOsg1KCtT0tudPFVDXGuEcSqZGtUYqBB-BiIxmls
-    short-id: 'f7223dab '
-  server: 156.224.78.8
-  servername: www.icloud.com
-  tls: false
-  type: vless
-  uuid: 9c79aceb-4649-44ea-9698-b5e9ecf6d6da
-- client-fingerprint: chrome
-  name: '7|🇭🇰 [ Configs by DukeMehdi ] VL... #23'
-  network: tcp
-  port: 443
-  reality-opts:
-    public-key: pEDPvfCw_TPVn0Yn6q9nS7VSGy1z1XEF0jbMZSfTsTM
-    short-id: 'b0d4 '
-  server: 43.198.153.243
-  servername: www.amazon.com
-  tls: false
-  type: vless
-  uuid: 9cd358d7-7888-4c03-a431-c0de9a2090d2
-- client-fingerprint: chrome
-  flow: xtls-rprx-vision
-  name: '7|🇭🇰 [ Configs by DukeMehdi ] VL... #24'
-  network: tcp
-  port: 19107
-  reality-opts:
-    public-key: rdfVgNqwK528X1X4ZdKe9abvTm7yMICZ5FRUmdYLF14
-    short-id: 'bedc231e12dd39 '
-  server: 64.49.44.87
-  servername: www.intel.com
-  tls: false
-  type: vless
-  uuid: 9e13f74e-3ad7-437d-aba6-5def3c42b046
-- client-fingerprint: chrome
-  flow: xtls-rprx-vision
-  name: '7|🇭🇰 [ Configs by DukeMehdi ] VL... #25'
-  network: raw
-  port: 59750
-  reality-opts:
-    public-key: W9BjX6YmCIVsjhKMlz233Yoe0xcf0SVHfvPKqbf3vCg
-    short-id: ' '
-  server: 47.83.153.19
-  servername: www.amd.com
-  tls: false
-  type: vless
-  uuid: 9e76cfb8-b7a6-40f6-c2aa-9905aa19f31b
-- client-fingerprint: chrome
-  name: 7,24|[OpenRay] 🇭🇰HK-159
-  network: ws
-  port: 443
-  server: 203.9.150.220
-  servername: asia.csmaster.site
-  tls: true
-  type: vless
-  uuid: a853e120-3570-462b-aec1-e8f3d4f92d24
-  ws-opts:
-    headers:
-      Host: asia.csmaster.site
-    path: '%2F'
-- client-fingerprint: chrome
-  name: 7,24|[OpenRay] 🇭🇰HK-193
-  network: ws
-  port: 443
-  server: 45.136.12.21
-  servername: asia.csmaster.site
-  tls: true
-  type: vless
-  uuid: a853e120-3570-462b-aec1-e8f3d4f92d24
-  ws-opts:
-    headers:
-      Host: asia.csmaster.site
-    path: '%2F'
-- client-fingerprint: chrome
-  flow: xtls-rprx-vision
-  name: 7,12,24|[OpenRay] 🇭🇰HK-145
-  network: tcp
-  port: 443
-  reality-opts:
-    public-key: 0i_xAxYgSNx5NMpK2lOaWGS-CvAiD_LneYPO0MF0owo
-    short-id: 1a
-  server: 42.200.173.5
-  servername: s3.ap-east-1.amazonaws.com
-  tls: false
-  type: vless
-  uuid: b98d4c6e-6770-4a31-8256-a4750cdea0e7
-- client-fingerprint: chrome
-  flow: xtls-rprx-vision
-  name: '7,12|🔥Join+Telegram:@Farah_VPN🟣 #1635'
-  network: tcp
-  port: 443
-  reality-opts:
-    public-key: -Ngz1wsLiTc5fP1MdkFMS2oor1jRoFLAYD8oOgybGFw
-    short-id: e6d2c443d8f7702a
-  server: 118.26.59.85
-  servername: www.bing.com
-  tls: false
-  type: vless
-  uuid: cdc86ade-9bc3-41eb-a7b9-879130378820
-- client-fingerprint: chrome
-  flow: xtls-rprx-vision
-  name: '7,12|🔥Join+Telegram:@Farah_VPN🟣 #779'
-  network: tcp
-  port: 443
-  reality-opts:
-    public-key: BF9aCRIeWaFADnCRCeEKsX1SSRaqAPrXttdD9eFCl0k
-    short-id: 96b6483bfb4ac526
-  server: 128.1.12.19
-  servername: www.bing.com
-  tls: false
-  type: vless
-  uuid: daf0c4cb-3541-4f20-bc71-cc9d94bb17bc
-- client-fingerprint: chrome
-  flow: xtls-rprx-vision
-  name: '7,12|🔥Join+Telegram:@Farah_VPN🟣 #4165'
-  network: tcp
-  port: 443
-  reality-opts:
-    public-key: Z41OxiwFrf0VAEv7_qXoEMKSmLJPjEPPJzXpP1s6gGk
-    short-id: 977a84fa5512be5a
-  server: 128.1.12.164
-  servername: www.cloudflare.com
-  tls: false
-  type: vless
-  uuid: e01b5875-0b0b-4056-bbf5-0b0ecdc97937
-- client-fingerprint: chrome
-  encryption: none
-  flow: xtls-rprx-vision
-  http-opts:
-    headers: {}
-    path:
-    - /
-  name: 7,11,24|[OpenRay] 🇭🇰HK-37
-  network: tcp
-  port: 443
-  reality-opts:
-    public-key: KkSH2hoA6PuNJL5ZNUDGuWoAYe5kIwcGbrbCYuxHTx8
-    short-id: f39ad9d9eb26df47
-  server: 154.37.216.186
-  servername: www.bing.com
-  tls: false
-  type: vless
-  udp: true
-  uuid: ebdec762-050b-4d54-b7bf-0406ce22f734
-  xudp: true
-- client-fingerprint: firefox
-  name: '7|🇭🇰 [ Configs by DukeMehdi ] VL... #33'
-  network: ws
-  port: 443
-  server: 154.92.9.46
-  servername: simorgh.hpcode.ir
-  tls: true
-  type: vless
-  uuid: ec8a65ad-aafc-4095-9b8c-ea10890ca629
-  ws-opts:
-    headers:
-      Host: simorgh.hpcode.ir
-    path: '%2FJavid-SHAH-KingRezaPahlavi%2F%3Fed%3D2560%2F%3FJOKERRVPNTELEGRAM '
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] VL... #34'
-  network: tcp
-  port: 45678
-  server: 103.252.119.61
-  tls: false
-  type: vless
-  uuid: f978f967-5726-42f1-e023-58e0b01abb93
-- client-fingerprint: random
-  flow: xtls-rprx-vision
-  name: 7,16,24|[OpenRay] 🇭🇰HK-114
-  network: tcp
-  port: 9443
-  reality-opts:
-    public-key: 0hIFPaEn4RdFib8_eP8HYxMywR5izEwM3JA2W1Zo8U4
-    short-id: b390142456517acc
-  server: 156.224.77.171
-  servername: www.amazon.com
-  tls: false
-  type: vless
-  uuid: fe0721ac-c577-4938-b7ca-8ab5f43bb8da
-- client-fingerprint: firefox
-  flow: xtls-rprx-vision
-  name: 7,11,12,24|[OpenRay] 🇭🇰HK-201
-  network: tcp
-  port: 26480
-  reality-opts:
-    public-key: thefrz26hPQjCrKszJ6m_41nLmThPGkTEKBjYVDGM0E
-  server: 20.205.14.234
-  servername: addons.mozilla.org
-  skip-cert-verify: true
-  tls: false
-  type: vless
-  uuid: 01de63ee-d2d6-4842-b2f0-d54c7eca267a
-- client-fingerprint: chrome
-  name: 7,12,24,30|香港 65
-  network: raw
-  port: 11907
-  server: 195.58.144.56
-  skip-cert-verify: false
-  tls: true
-  type: vless
-  uuid: 07cb07b9-0c4d-46c1-a15a-b147511b6b07
-  ws-opts:
-    headers:
-      Host: /?telegram--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI
 - client-fingerprint: chrome
   name: 11,20|🇭🇰_香港_76
   port: 443
@@ -1289,6 +153,26 @@ proxies:
   type: vless
   udp: true
   uuid: 90153538-ef08-4942-b8e1-41e7c523e659
+- client-fingerprint: chrome
+  encryption: none
+  flow: xtls-rprx-vision
+  http-opts:
+    headers: {}
+    path:
+    - /
+  name: 11|A🟢🇭🇰res[🎬📺🎭🎪]_dokng.com_4d3ce0...
+  network: tcp
+  port: 443
+  reality-opts:
+    public-key: KkSH2hoA6PuNJL5ZNUDGuWoAYe5kIwcGbrbCYuxHTx8
+    short-id: f39ad9d9eb26df47
+  server: 154.37.216.186
+  servername: www.bing.com
+  tls: true
+  type: vless
+  udp: true
+  uuid: ebdec762-050b-4d54-b7bf-0406ce22f734
+  xudp: true
 - name: 11|C🟠🇭🇰hos_dokng.com_099454ad
   password: '!!str 111'
   port: 11211
@@ -1308,6 +192,17 @@ proxies:
   port: 10808
   server: 123.58.219.171
   type: socks5
+- client-fingerprint: firefox
+  flow: xtls-rprx-vision
+  name: 11|C🟠🇭🇰hos[📺🎭✨🎞️]_dokng.com_66f65...
+  port: 26480
+  reality-opts:
+    public-key: thefrz26hPQjCrKszJ6m_41nLmThPGkTEKBjYVDGM0E
+  server: 20.205.14.234
+  servername: addons.mozilla.org
+  tls: true
+  type: vless
+  uuid: 01de63ee-d2d6-4842-b2f0-d54c7eca267a
 - name: 11|A🟢🇭🇰res[🎬🤖📺🎭]_dokng.com_2166ff...
   password: 6725d134ee80
   port: 443
@@ -1323,6 +218,18 @@ proxies:
   sni: fan.240104.xyz
   tls: true
   type: http
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: 11|C🟠🇭🇰hos[✨📦]_dokng.com_3089daf3
+  port: 32134
+  reality-opts:
+    public-key: OdTELUjAUKO_qr-O-uihaAZJAhA8GyIWVI6CpozVCU4
+    short-id: 6c6c7c97
+  server: 3696b38bsg.murphyweb.sbs
+  servername: buylite.music.apple.com
+  tls: true
+  type: vless
+  uuid: 5b01dc2d-6892-49b8-8289-3f73a32e00e4
 - name: 11|D🔴🇭🇰hos[🎬📺🎭🎪]_dokng.com_06cf58...
   password: a7c5d30b-ce9b-4e34-b5cb-66f8308790ef
   port: 1003
@@ -1374,6 +281,44 @@ proxies:
   tls: false
   type: vmess
   uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
+- alpn:
+  - h2
+  - http/1.1
+  client-fingerprint: chrome
+  name: 16|🇭🇰[www.v2nodes.com] vless-HK-1...
+  port: 11907
+  server: 195.58.144.56
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  uuid: 07cb07b9-0c4d-46c1-a15a-b147511b6b07
+- alpn:
+  - http/1.1
+  name: 16|Telegram---PLANB_NET---PLANB_N...
+  network: ws
+  port: 443
+  server: 188.114.97.6
+  servername: lucasjow.us.ci
+  skip-cert-verify: false
+  tls: false
+  type: vless
+  uuid: e6df2095-a73c-4043-8693-8d5a03686870
+  ws-opts:
+    headers:
+      Host: lucasjow.us.ci
+    path: /cart/docs/www/proxyip=108.160.132.132?ed
+- client-fingerprint: chrome
+  name: '16,22|@npv_vpn11 #780'
+  network: tcp
+  port: 13779
+  reality-opts:
+    public-key: llTyp52oRXnJmQ3I9UUrmlwbMA79B-wLCRHCu-8dLGg
+    short-id: af1bdd293097b664
+  server: 47.238.210.5
+  servername: tesla.com
+  tls: false
+  type: vless
+  uuid: 928e6cce-8ced-4243-9a48-a6642edd09b0
 - name: '16|🇭🇰[www.v2nodes.com] vless-HK-1... #2'
   network: ws
   port: 8443
@@ -1386,12 +331,27 @@ proxies:
     headers:
       Host: ty986gfazs.cainiaohub.xyz
     path: /81574b6b-c9d7-44a0-b83d-dad56e8cb530fp=chrome
-- name: 16,17,24|[OpenRay] 🌐XX-1375
+- name: '16,17|🇭🇰[www.v2nodes.com] trojan-HK-... #1'
   password: UX82473651
   port: 443
   server: strong-haddock.rooster465.autos
   sni: strong-haddock.rooster465.autos
   type: trojan
+- alterId: 0
+  cipher: auto
+  name: '16,27|🇭🇰 香港3|@ripaojiedian #2'
+  network: ws
+  port: 443
+  server: ADncdOvLHR4M1P36.v.3dns.vip
+  servername: ADncdOvLHR4M1P36.v.3dns.vip
+  skip-cert-verify: false
+  tls: true
+  type: vmess
+  uuid: 88888888-8888-8888-8888-888888888888
+  ws-opts:
+    headers:
+      Host: ADncdOvLHR4M1P36.v.3dns.vip
+    path: /ws-vmess
 - alterId: 0
   cipher: auto
   name: '16,27|🇭🇰 香港2|@ripaojiedian #2'
@@ -1406,6 +366,21 @@ proxies:
   ws-opts:
     headers:
       Host: kBONDXW9liFCi4h4.v.3dns.vip
+    path: /ws-vmess
+- alterId: 0
+  cipher: auto
+  name: '16,27|🇭🇰 香港4|@ripaojiedian #2'
+  network: ws
+  port: 443
+  server: aZW0eunYVdvRe73k.v.3dns.vip
+  servername: aZW0eunYVdvRe73k.v.3dns.vip
+  skip-cert-verify: false
+  tls: true
+  type: vmess
+  uuid: 88888888-8888-8888-8888-888888888888
+  ws-opts:
+    headers:
+      Host: aZW0eunYVdvRe73k.v.3dns.vip
     path: /ws-vmess
 - name: '16,17,28|香港2|@ripaojiedian #2'
   network: tcp
@@ -1439,6 +414,85 @@ proxies:
   skip-cert-verify: true
   sni: m.ctrip.com
   type: trojan
+- client-fingerprint: random
+  flow: xtls-rprx-vision
+  name: '16|🇭🇰 香港 | HKG #4'
+  port: 9443
+  server: 156.224.77.171
+  servername: www.amazon.com
+  tls: true
+  type: vless
+  uuid: fe0721ac-c577-4938-b7ca-8ab5f43bb8da
+- alterId: 0
+  cipher: auto
+  name: '16,17|🇭🇰 香港 | HKG #1 #1'
+  network: ws
+  port: 443
+  server: 8.217.13.103
+  servername: qtkdr8jxe3wefxjm.v.3dns.vip
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  udp: true
+  uuid: f23bb427-c1f9-4373-876c-2f43e9f790f3
+  ws-opts:
+    headers:
+      Host: qtkdr8jxe3wefxjm.v.3dns.vip
+    path: /ws-vmess
+- alterId: 0
+  cipher: auto
+  name: '16|🇭🇰 香港 | HKG #2'
+  network: ws
+  port: 443
+  server: 47.76.44.32
+  tls: true
+  type: vmess
+  uuid: f23bb427-c1f9-4373-876c-2f43e9f790f3
+  ws-opts:
+    headers:
+      Host: 93ucrn4i0pffuabk.v.3dns.vip
+    path: /ws-vmess
+- alterId: 0
+  cipher: auto
+  name: '16|🇭🇰 香港 | HKG #3'
+  network: ws
+  port: 443
+  server: 47.83.207.148
+  tls: true
+  type: vmess
+  uuid: f23bb427-c1f9-4373-876c-2f43e9f790f3
+  ws-opts:
+    headers:
+      Host: VAH4URdZL3jDX5r2.v.3dns.vip
+    path: /ws-vmess
+- alterId: 0
+  cipher: auto
+  name: 16|🇭🇰 香港 | HKG 5
+  network: ws
+  port: 443
+  server: 6jdvarazgu3qqr6q.v.3dns.vip
+  servername: 6JDvArazgU3qQR6Q.v.3dns.vip
+  tls: true
+  type: vmess
+  uuid: f23bb427-c1f9-4373-876c-2f43e9f790f3
+  ws-opts:
+    headers:
+      Host: 6JDvArazgU3qQR6Q.v.3dns.vip
+    path: /ws-vmess
+- alterId: 0
+  cipher: auto
+  name: '16|🇭🇰 香港 | HKG #6'
+  network: ws
+  port: 443
+  server: 8.218.195.61
+  servername: EX1oGt73NzPQKAc2.v.3dns.vip
+  tls: true
+  type: vmess
+  uuid: f23bb427-c1f9-4373-876c-2f43e9f790f3
+  ws-opts:
+    headers:
+      Host: EX1oGt73NzPQKAc2.v.3dns.vip
+    path: /ws-vmess
 - client-fingerprint: safari
   flow: xtls-rprx-vision
   name: '16|🇭🇰 香港 | HKG #7'
@@ -1520,19 +574,16 @@ proxies:
     path: /ws-vmess
 - alterId: 0
   cipher: auto
-  name: 17,24|[OpenRay] 🇭🇰HK-103
+  name: '17|🇭🇰 香港 | HKG #2 #1'
   network: ws
   port: 36703
   server: 47.244.120.197
-  servername: ''
   skip-cert-verify: true
   tls: false
   type: vmess
   udp: true
   uuid: 45b83519-9c4f-4052-a11b-02e017b636d4
   ws-opts:
-    headers:
-      Host: ''
     path: /arki
 - client-fingerprint: firefox
   flow: xtls-rprx-vision
@@ -1595,218 +646,6 @@ proxies:
   sni: 202.146.222.29
   tls: false
   type: hysteria2
-- client-fingerprint: firefox
-  name: 24|[OpenRay] 🇭🇰HK-143
-  network: ws
-  port: 443
-  server: 45.192.201.140
-  servername: argo6.5671234.xyz
-  tls: true
-  type: vless
-  uuid: 08aaab35-a42d-4755-a03e-20c18cb1b3e8
-  ws-opts:
-    headers:
-      Host: argo6.5671234.xyz
-    path: '%2Fe8e2cecb6188f7fb'
-- name: 24|[OpenRay] 🇭🇰HK-158
-  network: ws
-  port: 8443
-  server: 43.129.80.179
-  servername: jp3.yohototo.top
-  tls: true
-  type: vless
-  uuid: 4e4f1f70-5e56-4a76-bb9d-db087f4690c4
-  ws-opts:
-    headers:
-      Host: jp3.yohototo.top
-    path: '%2Ftyxyws'
-- name: 24|[OpenRay] 🇭🇰HK-166
-  network: ws
-  port: 8443
-  server: 43.129.80.179
-  servername: jp3.yohototo.top
-  skip-cert-verify: false
-  tls: true
-  type: vless
-  uuid: 4e4f1f70-5e56-4a76-bb9d-db087f4690c4
-  ws-opts:
-    headers:
-      Host: jp3.yohototo.top
-    path: /tyxyws
-- client-fingerprint: chrome
-  flow: xtls-rprx-vision
-  name: 24|[OpenRay] 🇭🇰HK-26
-  network: tcp
-  port: 21263
-  reality-opts:
-    public-key: YinI5MijeZpRatg6QNDvP0qXEif-6VHC6gV5yoji4i4
-    short-id: 3d31326f95
-  server: 103.30.76.197
-  servername: us1p1.xn--ghq880n3na965a.com
-  skip-cert-verify: true
-  tls: false
-  type: vless
-  uuid: 57beeeb0-03fc-4fc9-94da-7604488a7134
-- client-fingerprint: random
-  flow: xtls-rprx-vision
-  name: 24|[OpenRay] 🇭🇰HK-171
-  network: tcp
-  port: 21263
-  reality-opts:
-    public-key: YinI5MijeZpRatg6QNDvP0qXEif-6VHC6gV5yoji4i4
-    short-id: 3d31326f95
-  server: 103.30.76.65
-  servername: us1p1.xn--ghq880n3na965a.com
-  skip-cert-verify: true
-  tls: false
-  type: vless
-  uuid: 57beeeb0-03fc-4fc9-94da-7604488a7134
-- client-fingerprint: firefox
-  flow: xtls-rprx-vision
-  name: 24|[OpenRay] 🇭🇰HK-100
-  network: tcp
-  port: 21263
-  reality-opts:
-    public-key: YinI5MijeZpRatg6QNDvP0qXEif-6VHC6gV5yoji4i4
-    short-id: 3d31326f95
-  server: 45.153.130.119
-  servername: us1p1.xn--ghq880n3na965a.com
-  skip-cert-verify: true
-  tls: false
-  type: vless
-  uuid: 57beeeb0-03fc-4fc9-94da-7604488a7134
-- client-fingerprint: safari
-  flow: xtls-rprx-vision
-  name: 24|[OpenRay] 🇭🇰HK-192
-  network: tcp
-  port: 44988
-  reality-opts:
-    public-key: f6Tj8-uvWsLv3V-lGLuPciArp5oKqUImBg-U7-WJ-0A
-    short-id: bb82c8
-  server: 45.153.130.119
-  servername: www.tesla.com
-  tls: false
-  type: vless
-  uuid: 57beeeb0-03fc-4fc9-94da-7604488a7134
-- alterId: 0
-  cipher: auto
-  name: 24|[OpenRay] 🇭🇰HK-79
-  network: ws
-  port: 443
-  server: ex1ogt73nzpqkac2.v.3dns.vip
-  servername: ex1ogt73nzpqkac2.v.3dns.vip
-  tls: true
-  type: vmess
-  uuid: 88888888-8888-8888-8888-888888888888
-  ws-opts:
-    path: /ws-vmess
-- alterId: 0
-  cipher: auto
-  name: 24|[OpenRay] 🇭🇰HK-168
-  network: ws
-  port: 443
-  server: 8.217.254.88
-  servername: 2b9hwy8ocx7q74nm.v.3dns.vip
-  tls: true
-  type: vmess
-  uuid: f23bb427-c1f9-4373-876c-2f43e9f790f3
-  ws-opts:
-    headers:
-      Host: 2b9hwY8oCx7Q74NM.v.3dns.vip
-    path: /ws-vmess
-- alterId: 0
-  cipher: auto
-  name: 24|[OpenRay] 🇭🇰HK-67
-  network: ws
-  port: 36703
-  server: 47.244.120.197
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 45b83519-9c4f-4052-a11b-02e017b636d4
-  ws-opts:
-    headers:
-      Host: google.com
-    path: /arki?ed=2048
-- alterId: 0
-  cipher: auto
-  name: 24|[OpenRay] 🇭🇰HK-24
-  network: ws
-  port: 36703
-  server: 47.244.120.197
-  servername: google.com
-  tls: false
-  type: vmess
-  uuid: 45b83519-9c4f-4052-a11b-02e017b636d4
-  ws-opts:
-    headers:
-      Host: google.com
-    path: /arki
-- alterId: 0
-  cipher: auto
-  name: 24|[OpenRay] 🇭🇰HK-39
-  network: ws
-  port: 443
-  server: nycqg19zkwacpm1b.v.3dns.vip
-  servername: nycqg19zkwacpm1b.v.3dns.vip
-  tls: true
-  type: vmess
-  uuid: f23bb427-c1f9-4373-876c-2f43e9f790f3
-  ws-opts:
-    headers:
-      Host: nycqg19zkwacpm1b.v.3dns.vip
-    path: /ws-vmess
-- alterId: 0
-  cipher: auto
-  name: 24|[OpenRay] 🇭🇰HK-94
-  network: ws
-  port: 443
-  server: 8.217.254.88
-  servername: 2b9hwy8ocx7q74nm.v.3dns.vip
-  tls: true
-  type: vmess
-  uuid: 88888888-8888-8888-8888-888888888888
-  ws-opts:
-    headers:
-      Host: ''
-    path: /ws-vmess
-- alterId: 0
-  cipher: auto
-  name: 24|[OpenRay] 🇭🇰HK-38
-  network: raw
-  port: 800
-  server: 47.86.167.194
-  tls: false
-  type: vmess
-  uuid: f2c67cae-c09d-4739-947d-f5302d87a3c0
-- alterId: 0
-  cipher: auto
-  name: 24|[OpenRay] 🇭🇰HK-105
-  network: ws
-  port: 36703
-  server: 47.244.120.197
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 45b83519-9c4f-4052-a11b-02e017b636d4
-  ws-opts:
-    headers:
-      Host: 47.244.120.197
-    path: /arki?ed=2048
-- alterId: 0
-  cipher: auto
-  name: 24|[OpenRay] 🇭🇰HK-176
-  network: ws
-  port: 36703
-  server: 47.244.120.197
-  servername: 47.244.120.197
-  tls: false
-  type: vmess
-  uuid: 45b83519-9c4f-4052-a11b-02e017b636d4
-  ws-opts:
-    headers:
-      Host: 47.244.120.197
-    path: /arki
 - name: 25|香港+阿里云
   password: c2601f6c59ed832f9129533608eea8eb
   port: 50160
@@ -2038,7 +877,7 @@ proxies:
       Host: auto.cendora.ru
 - alterId: 0
   cipher: auto
-  name: 30|未知 VMESS-1198 | free-nodes
+  name: 30|🇭🇰HK香港丨
   network: tcp
   port: 800
   server: 47.83.247.150
@@ -2046,6 +885,20 @@ proxies:
   tls: false
   type: vmess
   uuid: 59c06976-3009-48d5-89f3-bd94d4a120a0
+- alterId: 0
+  cipher: auto
+  name: '30|🇭🇰HK香港丨 #1'
+  network: ws
+  port: 443
+  server: u2frxj0g13vdi0wo.v.3dns.vip
+  servername: ''
+  tls: true
+  type: vmess
+  uuid: 88888888-8888-8888-8888-888888888888
+  ws-opts:
+    headers:
+      Host: U2FRxj0G13vDI0Wo.v.3dns.vip
+    path: /ws-vmess
 - client-fingerprint: chrome
   name: '30|HK香港(mibei77.com 米贝节点分享) #1'
   network: ws
@@ -2085,7 +938,7 @@ proxies:
       Host: shuma.ccwu.cc
     path: '%2F'
 - client-fingerprint: chrome
-  name: '30|🇭🇰_HK_中国香港 #5'
+  name: '30|HK香港(mibei77.com 米贝节点分享) #4'
   network: ws
   port: 443
   server: 103.101.0.73
@@ -2196,7 +1049,7 @@ proxies:
   type: vless
   uuid: 032b96c6-752f-4cff-88d1-fad817b0dad3
 - client-fingerprint: chrome
-  name: '30|🇭🇰_HK_中国香港->🇸🇬_SG_新加坡 #5'
+  name: '30|HK香港(mibei77.com 米贝节点分享) #13'
   network: ws
   port: 443
   server: 103.143.81.178
@@ -2387,9 +1240,9 @@ proxies:
   sni: https%253a%252f%252ft.me%252fclashv8%25f0%259f%2587%25a8%25f0%259f%2587%25b3
   tls: false
   type: hysteria2
-- client-fingerprint: chrome
+- client-fingerprint: firefox
   flow: xtls-rprx-vision
-  name: 30|未知 VLESS-847 | free-nodes
+  name: 30|香港 24
   network: tcp
   port: 443
   reality-opts:
@@ -2522,6 +1375,19 @@ proxies:
   sni: https://t.me/wangcai2рҹүёрҹүі
   tls: false
   type: hysteria2
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: 30|香港 42
+  network: raw
+  port: 35193
+  reality-opts:
+    public-key: d_pn_DMaIxhCkNh80h0Mc7nP94hrlN--I8liOIREDxE
+    short-id: e8daed2d
+  server: 156.226.168.221
+  servername: www.apple.com
+  tls: false
+  type: vless
+  uuid: 35cbae61-ee10-4cb9-abb8-4950b35e9851
 - name: 30|香港 40
   password: H7mP2xY9kJ4nQ8wR5tF6vB3z
   port: 443
@@ -2538,6 +1404,32 @@ proxies:
   sni: whatsapp.com
   tls: false
   type: hysteria2
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: 30|香港 43
+  network: tcp
+  port: 35193
+  reality-opts:
+    public-key: d_pn_DMaIxhCkNh80h0Mc7nP94hrlN--I8liOIREDxE
+    short-id: e8daed2d
+  server: hk3n.wxgqlfx.vip
+  servername: www.apple.com
+  tls: false
+  type: vless
+  uuid: 35cbae61-ee10-4cb9-abb8-4950b35e9851
+- client-fingerprint: chrome
+  name: 30|香港 45
+  network: ws
+  port: 443
+  server: 156.224.76.205
+  servername: vp10.pages.dev
+  tls: true
+  type: vless
+  uuid: 7b102311-43fd-4e8f-877e-8090623c101d
+  ws-opts:
+    headers:
+      Host: vp10.pages.dev
+    path: /
 - name: 30|香港 46
   obfs: salamander
   obfs-password: c8827ab99e316c5bd414e21afa915ddf
@@ -2668,6 +1560,15 @@ proxies:
     headers:
       Host: cdn8848.776676.xyz
     path: /mall/china/doc?ed=2560fp=chrome
+- client-fingerprint: chrome
+  name: 30|香港 64
+  network: tcp
+  port: 11907
+  server: 195.58.144.56
+  servername: 195.58.144.56
+  tls: true
+  type: vless
+  uuid: 07cb07b9-0c4d-46c1-a15a-b147511b6b07
 - name: 30|香港 66
   password: dCwrni
   port: 7008

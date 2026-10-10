@@ -144,7 +144,7 @@ proxies:
   server: 72.140.224.197
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: 7,24|[OpenRay] 🇺🇸US-2802
+  name: '7|🇨🇦 [ Configs by DukeMehdi ] SS... #25'
   password: G5p6ww4o67HB
   port: 8388
   server: 108.181.118.10
@@ -156,7 +156,7 @@ proxies:
   server: 138.197.166.205
   type: ss
 - cipher: aes-128-gcm
-  name: 7,24,30|🇨🇦CA_1|1.0MB/s|A004-260618 01
+  name: 7,30|🇨🇦CA_1|1.0MB/s|A004-260618 01
   password: shadowsocks
   port: 443
   server: 149.22.95.183
@@ -366,13 +366,13 @@ proxies:
   server: 134.195.196.149
   type: ss
 - cipher: aes-256-gcm
-  name: 7,16,17,24,30|❓Other_28|251KB/s|B007-260618 ...
+  name: 7,16,17,30|❓Other_28|251KB/s|B007-260618 ...
   password: Y6R9pAtvxxzmGC
   port: 5601
   server: 51.222.155.113
   type: ss
 - cipher: aes-256-gcm
-  name: 7,16,17,24,30|未知 SS-597 | free-nodes
+  name: 7,16,17,30|🇨🇦CA_25|1.3MB/s|V001-260618 01
   password: Y6R9pAtvxxzmGC
   port: 5000
   server: 51.222.200.165
@@ -431,245 +431,6 @@ proxies:
   port: 8119
   server: 38.111.114.246
   type: ss
-- cipher: aes-256-gcm
-  name: 7,16,17,24,30|🇨🇦CA_15|1.3MB/s|B007-260618 01
-  password: cdBIDV42DCwnfIN
-  port: 8119
-  server: 51.79.64.198
-  type: ss
-- cipher: aes-256-gcm
-  name: 7,16,17,30|未知 SS-598 | free-nodes
-  password: cdBIDV42DCwnfIN
-  port: 8118
-  server: 51.79.85.185
-  type: ss
-- cipher: aes-256-gcm
-  name: '7|🇨🇦 [ Configs by DukeMehdi ] SS... #75'
-  password: cdBIDV42DCwnfIN
-  port: 8119
-  server: 85.208.108.59
-  type: ss
-- cipher: aes-256-gcm
-  name: '7|🇨🇦 [ Configs by DukeMehdi ] SS... #76'
-  password: cdBIDV42DCwnfIN
-  port: 8119
-  server: 85.208.108.60
-  type: ss
-- cipher: aes-256-gcm
-  name: '7|🇨🇦 [ Configs by DukeMehdi ] SS... #77'
-  password: gqtwGu9bVreJqL3FTHSVKGzy
-  port: 50695
-  server: 37.19.211.114
-  type: ss
-- cipher: aes-256-gcm
-  name: '7|🇨🇦 [ Configs by DukeMehdi ] SS... #78'
-  password: e4FCWrgpkji3QY
-  port: 9102
-  server: 85.208.108.21
-  type: ss
-- cipher: aes-256-gcm
-  name: '7|🇨🇦 [ Configs by DukeMehdi ] SS... #79'
-  password: e4FCWrgpkji3QY
-  port: 9102
-  server: 85.208.108.59
-  type: ss
-- cipher: aes-256-gcm
-  name: '7|🇨🇦 [ Configs by DukeMehdi ] SS... #80'
-  password: e4FCWrgpkji3QY
-  port: 9101
-  server: 85.208.108.60
-  type: ss
-- cipher: aes-256-gcm
-  name: 7,30|🇨🇦CA_44|1.1MB/s|A004-260618 01
-  password: eveaaTOb8ji8yntw2Z9yWUG0d6Ir8Ld8m3ymH8THdC5egiTH1mXCiBc0Skr7FibH
-  port: 9443
-  server: 185.156.47.97
-  type: ss
-- cipher: aes-256-gcm
-  name: '7|🇨🇦 [ Configs by DukeMehdi ] SS... #82'
-  password: faBAoD54k87UJG7
-  port: 2375
-  server: 85.208.108.59
-  type: ss
-- cipher: aes-256-gcm
-  name: '7|🇨🇦 [ Configs by DukeMehdi ] SS... #83'
-  password: faBAoD54k87UJG7
-  port: 2376
-  server: 85.208.108.59
-  type: ss
-- cipher: aes-256-gcm
-  name: '7|🇨🇦 [ Configs by DukeMehdi ] SS... #84'
-  password: faBAoD54k87UJG7
-  port: 2375
-  server: 85.208.108.60
-  type: ss
-- cipher: aes-256-gcm
-  name: '7|🇨🇦 [ Configs by DukeMehdi ] SS... #85'
-  password: g5MeD6Ft3CWlJId
-  port: 5003
-  server: 134.195.196.149
-  type: ss
-- cipher: aes-256-gcm
-  name: 7,16,17,24,30|🇨🇦CA_36|233KB/s|M003-260806 01
-  password: g5MeD6Ft3CWlJId
-  port: 5003
-  server: 51.222.155.32
-  type: ss
-- cipher: aes-256-gcm
-  name: '7|🇨🇦 [ Configs by DukeMehdi ] SS... #87'
-  password: g5MeD6Ft3CWlJId
-  port: 5004
-  server: 85.208.108.59
-  type: ss
-- cipher: aes-256-gcm
-  name: '7|🇨🇦 [ Configs by DukeMehdi ] SS... #88'
-  password: g5MeD6Ft3CWlJId
-  port: 5003
-  server: 85.208.108.60
-  type: ss
-- cipher: aes-256-gcm
-  name: '7|🇨🇦 [ Configs by DukeMehdi ] SS... #89'
-  password: kDWvXYZoTBcGkC4
-  port: 8882
-  server: 134.195.196.149
-  type: ss
-- cipher: aes-256-gcm
-  name: '7|🇨🇦 [ Configs by DukeMehdi ] SS... #90'
-  password: kDWvXYZoTBcGkC4
-  port: 8882
-  server: 38.111.114.246
-  type: ss
-- cipher: aes-256-gcm
-  name: 7,16,17,24,30|未知 SS-603 | free-nodes
-  password: kDWvXYZoTBcGkC4
-  port: 8882
-  server: 51.222.136.236
-  type: ss
-- cipher: aes-256-gcm
-  name: 7,16,17,24,30|🇨🇦CA_39|1.2MB/s|B007-260618 01
-  password: kDWvXYZoTBcGkC4
-  port: 8882
-  server: 51.79.49.116
-  type: ss
-- cipher: aes-256-gcm
-  name: '7|🇨🇦 [ Configs by DukeMehdi ] SS... #93'
-  password: kDWvXYZoTBcGkC4
-  port: 8882
-  server: 85.208.108.60
-  type: ss
-- cipher: aes-256-gcm
-  name: '7|🇨🇦 [ Configs by DukeMehdi ] SS... #94'
-  password: pKEW8JPByTVTLtM
-  port: 443
-  server: 85.208.108.59
-  type: ss
-- cipher: aes-256-gcm
-  name: '7|🇨🇦 [ Configs by DukeMehdi ] SS... #95'
-  password: pKEW8JPByTVTLtM
-  port: 443
-  server: 85.208.108.60
-  type: ss
-- cipher: aes-256-gcm
-  name: '7|🇨🇦 [ Configs by DukeMehdi ] SS... #96'
-  password: pKEW8JPByTVTLtM
-  port: 4444
-  server: 85.208.108.60
-  type: ss
-- cipher: aes-256-gcm
-  name: '7|🇨🇦 [ Configs by DukeMehdi ] SS... #97'
-  password: pKEW8JPByTVTLtM
-  port: 443
-  server: 85.208.108.61
-  type: ss
-- cipher: aes-256-gcm
-  name: '7|🇨🇦 [ Configs by DukeMehdi ] SS... #98'
-  password: ugyBkSEFxVEmUYSHyvxmWNj9
-  port: 40220
-  server: 198.8.92.84
-  type: ss
-- cipher: aes-256-gcm
-  name: '7|🇨🇦 [ Configs by DukeMehdi ] SS... #99'
-  password: zDNVedRFPQexG9v
-  port: 6379
-  server: 134.195.196.230
-  type: ss
-- cipher: aes-256-gcm
-  name: 7,16,17,24,30|🇨🇦CA_11|507KB/s|A004-260618 01
-  password: zDNVedRFPQexG9v
-  port: 445
-  server: 51.222.12.127
-  type: ss
-- cipher: aes-256-gcm
-  name: 7,16,17,24,30|未知 SS-609 | free-nodes
-  password: zDNVedRFPQexG9v
-  port: 445
-  server: 51.222.141.125
-  type: ss
-- cipher: aes-256-gcm
-  name: '7|🇨🇦 [ Configs by DukeMehdi ] SS... #102'
-  password: zDNVedRFPQexG9v
-  port: 6379
-  server: 85.208.108.59
-  type: ss
-- cipher: aes-256-gcm
-  name: '7|🇨🇦 [ Configs by DukeMehdi ] SS... #103'
-  password: zDNVedRFPQexG9v
-  port: 6379
-  server: 85.208.108.90
-  type: ss
-- cipher: rc4-md5
-  name: 7,24,30|🇨🇦CA_2|1.2MB/s|A004-260618 01
-  password: 14fFPrbezE3HDZzsMOr6
-  port: 8080
-  server: 137.184.174.93
-  type: ss
-- name: 7|🇨🇦 [ Configs by DukeMehdi ] TJ...
-  password: 8b6daf15-8342-482d-b894-1239fd98ce7f
-  port: 443
-  server: 149.56.141.11
-  type: trojan
-- name: '7|🇨🇦 [ Configs by DukeMehdi ] TJ... #1'
-  password: HdsUZmsHQW
-  port: 443
-  server: 148.113.141.99
-  type: trojan
-- name: '7|🇨🇦 [ Configs by DukeMehdi ] TJ... #2'
-  network: tcp
-  password: acfef609-b3c7-4e52-b292-8921d5fca90d
-  port: 443
-  server: 159.203.22.227
-  skip-cert-verify: true
-  sni: ca-full.privateip.net
-  type: trojan
-- name: '7|🇨🇦 [ Configs by DukeMehdi ] TJ... #3'
-  network: tcp
-  password: b17fa17d-13a0-4e8a-a398-8e549ea8b208
-  port: 443
-  server: 23.227.38.11
-  skip-cert-verify: true
-  sni: syndication-statutes-wanted-logo.trycloudflare.com
-  type: trojan
-- name: '7|🇨🇦 [ Configs by DukeMehdi ] TJ... #4'
-  network: tcp
-  password: bpb-trojan
-  port: 443
-  server: 23.227.60.8
-  type: trojan
-- alpn:
-  - http/1.1
-  name: '7|🇨🇦 [ Configs by DukeMehdi ] TJ... #7'
-  network: tcp
-  password: telegram-id-directvpn
-  port: 22222
-  server: 15.223.8.8
-  sni: 'trojan.burgerip.co.uk '
-  type: trojan
-- name: '7|🇨🇦 [ Configs by DukeMehdi ] TJ... #6'
-  password: telegram-id-directvpn
-  port: 22222
-  server: 3.96.217.9
-  sni: 'trj.rollingnext.co.uk '
-  type: trojan
 - name: 16|CA【机场推荐：https://a9a.xyz】44
   network: ws
   password: ec1fa47d-4eac-4b3f-8cae-4a2982d43e2f
@@ -681,308 +442,48 @@ proxies:
     headers:
       Host: jiangjc.pages.dev
     path: '%2F'
-- name: 24|[OpenRay] 🇨🇦CA-306
-  network: ws
-  password: 018b8e7b-7813-4dcb-84a5-3c98f1521e00
-  port: 443
-  server: 188.114.97.6
-  sni: id1.nathaya.web.id
-  type: trojan
-  ws-opts:
-    headers:
-      Host: id1.nathaya.web.id
-    path: '%2Ftrojan'
-- name: 24|[OpenRay] 🇨🇦CA-455
-  network: ws
-  password: '!!str 1710442808'
-  port: 443
-  server: 188.114.97.6
-  sni: subb.nrshop198.workers.dev
-  type: trojan
-  ws-opts:
-    headers:
-      Host: subb.nrshop198.workers.dev
-    path: '%2F'
-- alpn:
-  - http/1.1
-  name: 24|[OpenRay] 🇨🇦CA-554
-  network: ws
-  password: A4u^p(_UR*F6
-  port: 443
-  server: 104.17.148.22
-  sni: 027.electrocellco-cf-027.workers.dev
-  type: trojan
-  ws-opts:
-    headers:
-      Host: 027.electrocellco-cf-027.workers.dev
-    path: /eyJqdW5rIjoidlhnMXN5OXFUSiIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D2560
-- name: 24|[OpenRay] 🇨🇦CA-381
-  network: ws
-  password: A4u^p(_UR*F6
-  port: 8080
-  server: 104.21.70.21
-  type: trojan
-  ws-opts:
-    headers:
-      Host: 027.electrocellco-cf-027.workers.dev
-    path: '%2FeyJqdW5rIjoidlhnMXN5OXFUSiIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D2560'
-- alpn:
-  - http/1.1
-  name: 24|[OpenRay] 🇨🇦CA-254
-  network: ws
-  password: A4u^p(_UR*F6
-  port: 443
-  server: 188.114.97.6
-  sni: 027.electrocellco-cf-027.workers.dev
-  type: trojan
-  ws-opts:
-    headers:
-      Host: 027.electrocellco-cf-027.workers.dev
-    path: '%2FeyJqdW5rIjoidlhnMXN5OXFUSiIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D2560'
-- alpn:
-  - http/1.1
-  name: 24|[OpenRay] 🇨🇦CA-113
-  network: ws
-  password: Telegram_healer_config
-  port: 443
-  server: 188.114.96.3
-  sni: cdtfrgmtcsbaarmz-9owpz7g4.f9w96pzky6un-covzx6b-hzlm80woj2.workers.dev
-  type: trojan
-  ws-opts:
-    headers:
-      Host: cdtfrgmtcsbaarmz-9owpz7g4.f9w96pzky6un-covzx6b-hzlm80woj2.workers.dev
-    path: /tr/3F3fUAGJks9doKvjt8AREH4QR%3Fed%3D2560
-- name: 24|[OpenRay] 🇨🇦CA-321
-  network: ws
-  password: humanity
-  port: 443
-  server: 104.16.72.50
-  skip-cert-verify: false
-  sni: www.calmlunch.com
-  type: trojan
-  ws-opts:
-    headers:
-      Host: www.calmlunch.com
-    path: '%2Fassignment'
-- alpn:
-  - http/1.1
-  name: 24|[OpenRay] 🇨🇦CA-399
-  network: ws
-  password: humanity
-  port: 443
-  server: 104.16.85.85
-  skip-cert-verify: false
-  sni: www.volumeroot.com
-  type: trojan
-  ws-opts:
-    headers:
-      Host: www.volumeroot.com
-    path: '%2Fassignment'
-- name: 24|[OpenRay] 🇨🇦CA-366
-  network: ws
-  password: humanity
-  port: 443
-  server: 104.17.148.22
-  skip-cert-verify: false
-  sni: www.calmlunch.com
-  type: trojan
-  ws-opts:
-    headers:
-      Host: www.calmlunch.com
-    path: '%2Fassignment'
-- name: 24|[OpenRay] 🇨🇦CA-249
-  network: ws
-  password: humanity
-  port: 443
-  server: 188.114.96.3
-  sni: www.calmlunch.com
-  type: trojan
-  ws-opts:
-    headers:
-      Host: www.calmlunch.com
-    path: '%2Fassignment'
-- name: 24|[OpenRay] 🇨🇦CA-153
-  network: ws
-  password: humanity
-  port: 443
-  server: 188.114.97.6
-  skip-cert-verify: false
-  sni: www.ignitelimit.com
-  type: trojan
-  ws-opts:
-    headers:
-      Host: www.ignitelimit.com
-    path: '%2F%2Fassignment%23Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET%3Fed%3D512'
-- alpn:
-  - http/1.1
-  name: 24|[OpenRay] 🌐XX-1863
-  network: ws
-  password: humanity
-  port: 443
-  server: 188.114.97.6
-  skip-cert-verify: false
-  sni: www.volumerOot.coM.
-  type: trojan
-  ws-opts:
-    headers:
-      Host: www.volumerOot.coM.
-    path: '%2Fassignment'
-- alpn:
-  - http/1.1
-  name: 24|[OpenRay] 🇨🇦CA-382
-  network: ws
-  password: humanity
-  port: 443
-  server: 188.114.97.6
-  skip-cert-verify: false
-  sni: www.ignitelimit.com
-  type: trojan
-  ws-opts:
-    headers:
-      Host: www.ignitelimit.com
-    path: '%2F%2Fassignment'
-- name: 24|[OpenRay] 🇨🇦CA-468
-  network: ws
-  password: humanity
-  port: 443
-  server: 188.114.97.6
-  skip-cert-verify: false
-  sni: www.ignitelimit.com
-  type: trojan
-  ws-opts:
-    headers:
-      Host: www.ignitelimit.com
-    path: '%2F%2Fassignment'
-- alpn:
-  - http/1.1
-  name: 24|[OpenRay] 🇨🇦CA-111
-  network: ws
-  password: humanity
-  port: 443
-  server: 188.114.97.6
-  skip-cert-verify: false
-  sni: www.pleadcourt.org
-  type: trojan
-  ws-opts:
-    headers:
-      Host: www.pleadcourt.org
-    path: '%2Fassignment%23Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET'
-- alpn:
-  - http/1.1
-  name: 24|[OpenRay] 🇨🇦CA-55
-  network: ws
-  password: humanity
-  port: 443
-  server: 188.114.97.6
-  skip-cert-verify: false
-  sni: www.ignitelimit.com
-  type: trojan
-  ws-opts:
-    headers:
-      Host: www.ignitelimit.com
-    path: '%2Fassignment'
-- name: 24|[OpenRay] 🇨🇦CA-473
-  network: ws
-  password: humanity
-  port: 443
-  server: 188.114.97.6
-  sni: www.calmlunch.com
-  type: trojan
-  ws-opts:
-    headers:
-      Host: www.calmlunch.com
-    path: '%2F%2Fassignment'
-- name: 24|[OpenRay] 🇨🇦CA-200
-  network: ws
-  password: humanity
-  port: 443
-  server: 188.114.97.7
-  skip-cert-verify: false
-  sni: www.ignitelimit.com
-  type: trojan
-  ws-opts:
-    path: '%2Fassignment%23Telegram---MTMVPN---MTMVPN---MTMVPN---MTMVPN'
-- name: 24|[OpenRay] 🇨🇦CA-121
-  network: ws
-  password: humanity
-  port: 443
-  server: 188.114.97.7
-  skip-cert-verify: false
-  sni: www.ignitelimit.com
-  type: trojan
-  ws-opts:
-    path: '%2Fassignment%23Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET'
-- name: 24|[OpenRay] 🇨🇦CA-190
-  network: ws
-  password: humanity
-  port: 443
-  server: 188.114.97.7
-  skip-cert-verify: false
-  sni: www.ignitelimit.com
-  type: trojan
-  ws-opts:
-    path: '%2Fassignment%23Telegram---bored_vpn'
-- alpn:
-  - 'null'
-  name: 24|[OpenRay] 🇨🇦CA-451
-  network: ws
-  password: humanity
-  port: 443
-  server: 188.114.98.0
-  skip-cert-verify: true
-  sni: www.calmlunch.com
-  type: trojan
-  ws-opts:
-    headers:
-      Host: www.calmlunch.com
-    path: '%2Fassignment'
-- name: 24|[OpenRay] 🇨🇦CA-22
-  network: ws
-  password: humanity
-  port: 443
-  server: 188.114.98.0
-  sni: www.calmlunch.com
-  type: trojan
-  ws-opts:
-    headers:
-      Host: www.calmlunch.com
-    path: '%2Fassignment'
-- alterId: 0
-  cipher: auto
-  name: 24|[OpenRay] 🇨🇦CA-266
-  network: raw
-  port: 18000
-  server: 134.195.196.211
-  tls: false
-  type: vmess
-  uuid: f8c8dc3d-0d37-46b0-8b34-a7232882fcfe
-- alterId: 0
-  cipher: auto
-  name: 24|[OpenRay] 🇨🇦CA-394
-  network: raw
-  port: 22324
-  server: 158.51.123.42
-  tls: false
-  type: vmess
-  uuid: 04621bae-ab36-11ec-b909-0242ac120002
-- alterId: 0
-  cipher: auto
-  name: 24|[OpenRay] 🇨🇦CA-36
-  network: raw
-  port: 22324
-  server: 198.57.27.190
-  tls: false
-  type: vmess
-  uuid: 04621bae-ab36-11ec-b909-0242ac120002
-- alterId: 0
-  cipher: auto
-  name: 24|[OpenRay] 🇨🇦CA-168
-  network: raw
-  port: 18000
-  server: 23.162.200.198
-  tls: false
-  type: vmess
-  uuid: f8c8dc3d-0d37-46b0-8b34-a7232882fcfe
+- cipher: aes-256-gcm
+  name: 16,17,30|🇨🇦CA_30|502KB/s|A004-260618 01
+  password: zDNVedRFPQexG9v
+  port: 445
+  server: 51.222.141.125
+  type: ss
+- cipher: aes-256-gcm
+  name: 16,17,30|🇨🇦CA_32|225KB/s|A004-260618 01
+  password: cdBIDV42DCwnfIN
+  port: 8118
+  server: 51.79.85.185
+  type: ss
+- cipher: aes-256-gcm
+  name: 16,17,30|🇨🇦CA_31|259KB/s|B007-260618 01
+  password: kDWvXYZoTBcGkC4
+  port: 8882
+  server: 51.222.136.236
+  type: ss
+- cipher: aes-256-gcm
+  name: '16,17|🇨🇦[www.v2nodes.com] ss-CA-1546... #3'
+  password: g5MeD6Ft3CWlJId
+  port: 5003
+  server: 51.222.155.32
+  type: ss
+- cipher: aes-256-gcm
+  name: 16,17,30|🇨🇦CA_15|1.3MB/s|B007-260618 01
+  password: cdBIDV42DCwnfIN
+  port: 8119
+  server: 51.79.64.198
+  type: ss
+- cipher: aes-256-gcm
+  name: 16,17|🏳[www.v2nodes.com] ss-
+  password: kDWvXYZoTBcGkC4
+  port: 8882
+  server: 51.79.49.116
+  type: ss
+- cipher: aes-256-gcm
+  name: 16,17,30|🇨🇦CA_11|507KB/s|A004-260618 01
+  password: zDNVedRFPQexG9v
+  port: 445
+  server: 51.222.12.127
+  type: ss
 - name: 25,30|CA加拿大(mibei77.com 米贝节点分享)
   network: ws
   password: humanity
@@ -1185,6 +686,15 @@ proxies:
   type: trojan
   ws-opts:
     path: '%2Fassignment'
+- name: '25,30|FR法国(mibei77.com 米贝节点分享) #3'
+  network: ws
+  password: humanity
+  port: 443
+  server: www.ignitelimit.com
+  sni: www.ignitelimit.com
+  type: trojan
+  ws-opts:
+    path: '%2Fassignment'
 - name: '30|🇨🇦CA加拿大丨yoyapai.com #1'
   network: ws
   password: humanity
@@ -1263,14 +773,14 @@ proxies:
       Host: www.ignitelimit.com
     path: '%2Fassignment'
 - cipher: rc4-md5
+  name: 30|🇨🇦CA_2|1.2MB/s|A004-260618 01
+  password: 14fFPrbezE3HDZzsMOr6
+  port: 8080
+  server: 137.184.174.93
+  type: ss
+- cipher: rc4-md5
   name: 30|🇨🇦CA_10|1.2MB/s|A004-260618 01
   password: 14fFPrbezE3HDZzsMOr6
   port: 8080
   server: 138.197.141.58
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  name: 30|🇨🇦CA_43|1.3MB/s|A004-260618 01
-  password: mrs2e9a
-  port: 443
-  server: 142.4.216.225
   type: ss

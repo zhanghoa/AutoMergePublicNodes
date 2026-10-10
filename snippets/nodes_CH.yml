@@ -6,7 +6,7 @@ proxies:
   server: 156.146.62.160
   type: ss
 - cipher: aes-128-gcm
-  name: '7|🇨🇭 [ Configs by DukeMehdi ] SS... #4'
+  name: '7|🇨🇭 [ Configs by DukeMehdi ] SS... #1'
   password: shadowsocks
   port: 443
   server: 156.146.62.162
@@ -23,114 +23,19 @@ proxies:
   port: 989
   server: 212.237.210.158
   type: ss
-- name: '7|🇨🇭 [ Configs by DukeMehdi ] TJ... #7'
-  network: tcp
-  password: Masir_Sefid
-  port: 443
-  server: 84.234.31.249
-  sni: 'store.steampowered.com '
-  type: trojan
-- name: 7,12,24|[OpenRay] 🇨🇭CH-3
-  network: raw
-  password: ea4y8s7qdshp547j
-  port: 4455
-  server: 195.15.202.111
-  sni: play-apps-features.googleusercontent.com
-  type: trojan
-- name: '7|🇨🇭 [ Configs by DukeMehdi ] TJ... #2'
-  network: tcp
-  password: humanity
-  port: 443
-  server: 185.18.250.245
-  sni: 'www.calmlunch.com '
-  type: trojan
-- name: 7,24|[OpenRay] 🇨🇭CH-6
-  network: ws
-  password: humanity
-  port: 443
-  server: 185.18.250.252
-  skip-cert-verify: true
-  sni: www.calmlunch.com
-  type: trojan
-  ws-opts:
-    headers:
-      Host: www.calmlunch.com
-    path: '%2Fassignment'
-- name: '7|🇨🇭 [ Configs by DukeMehdi ] TJ... #4'
-  network: ws
-  password: humanity
-  port: 2053
-  server: 91.245.225.79
-  skip-cert-verify: false
-  sni: 'www.calmlunch.com '
-  type: trojan
-  ws-opts:
-    headers:
-      Host: www.calmlunch.com
-    path: '%2Fassignment'
-- name: '7,12|🔥Join+Telegram:@Farah_VPN🟣 #6274'
-  network: tcp
-  password: l6R5znJSPJ
-  port: 16350
-  server: 179.237.75.190
-  skip-cert-verify: true
-  sni: rd.autos.yahoo.com:40069
-  type: trojan
-  ws-opts:
-    headers:
-      Host: rd.autos.yahoo.com:41636
-    path: /5747463414152474635353366347474334
-- name: '7,12|🔥Join+Telegram:@Farah_VPN🟣 #5299'
-  network: tcp
-  password: uCzwXi06tusoiP5kAUKrsg
-  port: 80
-  server: 195.15.202.111
-  type: trojan
-  ws-opts:
-    headers:
-      Host: www.upwork.com
-- name: 7,12,24|[OpenRay] 🇨🇭CH-22
-  network: raw
-  password: g44i2hzwivmm7r29
-  port: 4455
-  server: 195.15.202.111
-  sni: play-apps-features.googleusercontent.com
-  type: trojan
-- name: '7,12|🔥Join+Telegram:@Farah_VPN🟣 #7874'
-  network: tcp
-  password: uRkZYGid1r
-  port: 41464
-  server: 179.237.75.190
-  sni: rd.autos.yahoo.com:40069
-  type: trojan
-  ws-opts:
-    headers:
-      Host: rd.autos.yahoo.com:41636
-    path: /5747463414152474635353366347474334?ed=2048?@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn
 - cipher: chacha20-ietf-poly1305
-  name: 16,17,30|未知 SS-506 | free-nodes
+  name: '16,17|🇨🇭[www.v2nodes.com] ss-CH-1573... #1'
   password: e8KgS8fD0yDqYFpgN4G5piCOt9aFyqA3
   port: 8388
   server: 132.243.175.144
   type: ss
-- name: 24|[OpenRay] 🇨🇭CH-35
-  network: ws
-  password: humanity
-  port: 2053
-  server: 91.245.225.79
-  skip-cert-verify: false
-  sni: www.calmlunch.com
-  type: trojan
-  ws-opts:
-    headers:
-      Host: www.calmlunch.com
-    path: '%2Fassignment'
 - alterId: 0
   cipher: auto
-  name: 24|[OpenRay] 🇨🇭CH-33
-  network: raw
-  port: 22324
-  server: 167.17.68.89
+  name: '22|کانال تلگرام : Free_VPN_CH@'
+  network: tcp
+  port: 9119
+  server: GR1-Public-IR.g2gstore.ir
+  servername: ''
   tls: false
   type: vmess
-  uuid: 04621bae-ab36-11ec-b909-0242ac120002
+  uuid: ae56511d-6b39-454b-847b-b711782d18cb

@@ -1,6 +1,6 @@
 proxies:
 - cipher: chacha20-ietf-poly1305
-  name: 7,24|[OpenRay] 🇰🇷KR-124
+  name: '7|🇰🇷 [ Configs by DukeMehdi ] SS... #1'
   password: 7e68e32f-8015-4f37-9082-70e8b0b58043
   port: 8443
   server: 13.124.117.110
@@ -12,13 +12,13 @@ proxies:
   server: 3.35.131.135
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: 7,24|[OpenRay] 🇰🇷KR-51
+  name: '7|🇰🇷 [ Configs by DukeMehdi ] SS... #3'
   password: 7e68e32f-8015-4f37-9082-70e8b0b58043
   port: 8443
   server: 43.201.250.101
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: 7,24|[OpenRay] 🇰🇷KR-121
+  name: '7|🇰🇷 [ Configs by DukeMehdi ] SS... #4'
   password: 7e68e32f-8015-4f37-9082-70e8b0b58043
   port: 8443
   server: 43.202.53.247
@@ -30,13 +30,13 @@ proxies:
   server: 3.35.54.161
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: 7,24|[OpenRay] 🇰🇷KR-19
+  name: '7|🇰🇷 [ Configs by DukeMehdi ] SS... #6'
   password: 7e68e32f-8015-4f37-9082-70e8b0b58043
   port: 8443
   server: 52.78.216.116
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: 7,24|[OpenRay] 🇰🇷KR-71
+  name: '7|🇰🇷 [ Configs by DukeMehdi ] SS... #7'
   password: 7e68e32f-8015-4f37-9082-70e8b0b58043
   port: 8443
   server: 52.78.59.52
@@ -48,7 +48,7 @@ proxies:
   server: 129.154.222.205
   type: ss
 - cipher: aes-256-cfb
-  name: 7,24|[OpenRay] 🇰🇷KR-27
+  name: '7|🇰🇷 [ Configs by DukeMehdi ] SS... #9'
   password: 1234!@#$
   port: 1774
   server: 49.254.204.134
@@ -102,7 +102,7 @@ proxies:
   server: 125.141.26.5
   type: ss
 - cipher: aes-256-cfb
-  name: 7,24|[OpenRay] 🇰🇷KR-47
+  name: '7|🇰🇷 [ Configs by DukeMehdi ] SS... #18'
   password: qwerREWQ@@
   port: 6123
   server: 211.178.105.134
@@ -150,7 +150,7 @@ proxies:
   server: 141.164.45.187
   type: ss
 - cipher: aes-256-gcm
-  name: 7,24|[OpenRay] 🇰🇷KR-118
+  name: '7|🇰🇷 [ Configs by DukeMehdi ] SS... #26'
   password: Y6R9pAtvxxzmGC
   port: 9090
   server: 141.164.45.187
@@ -162,319 +162,19 @@ proxies:
   server: 158.247.205.87
   type: ss
 - cipher: aes-256-gcm
-  name: 7,24|[OpenRay] 🇰🇷KR-22
+  name: '7|🇰🇷 [ Configs by DukeMehdi ] SS... #28'
   password: cdBIDV42DCwnfIN
   port: 8119
   server: 141.164.45.187
   type: ss
-- cipher: aes-256-gcm
-  name: '7|🇰🇷 [ Configs by DukeMehdi ] SS... #29'
-  password: ac9c0a7b
-  port: 49642
-  server: 211.174.113.172
-  type: ss
-- cipher: aes-256-gcm
-  name: '7|🇰🇷 [ Configs by DukeMehdi ] SS... #30'
-  password: e4FCWrgpkji3QY
-  port: 9101
-  server: 141.164.45.187
-  type: ss
-- cipher: aes-256-gcm
-  name: '7|🇰🇷 [ Configs by DukeMehdi ] SS... #31'
-  password: lGqs95QkFHo2NV
-  port: 5498
-  server: 141.164.45.187
-  type: ss
-- cipher: aes-256-gcm
-  name: '7|🇰🇷 [ Configs by DukeMehdi ] SS... #32'
-  password: pKEW8JPByTVTLtM
+- name: '11,16,17,22|@npv_vpn11 #876'
+  password: UX82473651
   port: 443
-  server: 158.247.205.87
-  type: ss
-- name: 7|🇰🇷 [ Configs by DukeMehdi ] TJ...
-  password: 7118b5f4-0ea4-4c11-be7f-11471cb91e4a
-  port: 443
-  server: 144.24.72.126
-  type: trojan
-- name: '7|🇰🇷 [ Configs by DukeMehdi ] TJ... #1'
-  network: tcp
-  password: 81d93f62-15a2-4994-adb9-0b5d906aac7e
-  port: 443
-  server: 138.2.114.255
+  server: pure-kodiak.rooster465.autos
   skip-cert-verify: true
+  sni: pure-kodiak.rooster465.autos
   type: trojan
-- name: '7|🇰🇷 [ Configs by DukeMehdi ] TJ... #2'
-  password: 8fe3b905-b933-4a3f-aa33-40a73ec93c69
-  port: 28443
-  server: 144.24.69.60
-  sni: 'glc.hruqoaw.cn '
-  type: trojan
-- name: '7|🇰🇷 [ Configs by DukeMehdi ] TJ... #3'
-  password: 8fe3b905-b933-4a3f-aa33-40a73ec93c69
-  port: 28443
-  server: 43.200.164.211
-  sni: 'glc.hruqoaw.cn '
-  type: trojan
-- name: '7|🇰🇷 [ Configs by DukeMehdi ] TJ... #4'
-  password: 9c822f05-cfdc-479a-9534-60f3d4127435
-  port: 443
-  server: 138.2.113.248
-  type: trojan
-- name: '7|🇰🇷 [ Configs by DukeMehdi ] TJ... #5'
-  network: tcp
-  password: GKHWMe2R4qwNcNxu6l3KMkdd
-  port: 26214
-  server: 121.178.83.161
-  sni: 'vpn1.rnmcnm.com '
-  type: trojan
-- name: '7|🇰🇷 [ Configs by DukeMehdi ] TJ... #6'
-  network: tcp
-  password: GKHWMe2R4qwNcNxu6l3KMkdd
-  port: 11371
-  server: 125.141.32.222
-  skip-cert-verify: true
-  sni: vpn1.rnmcnm.com
-  type: trojan
-- name: '7|🇰🇷 [ Configs by DukeMehdi ] TJ... #7'
-  network: tcp
-  password: GKHWMe2R4qwNcNxu6l3KMkdd
-  port: 18853
-  server: 221.158.4.230
-  skip-cert-verify: true
-  sni: vpn1.rnmcnm.com
-  type: trojan
-- name: '7|🇰🇷 [ Configs by DukeMehdi ] TJ... #8'
-  password: KLF0qOU0ZZGw5Tnu
-  port: 443
-  server: 121.78.213.3
-  sni: 'swift.protocolbuffer.com '
-  type: trojan
-- name: '7|🇰🇷 [ Configs by DukeMehdi ] TJ... #9'
-  network: tcp
-  password: ND91608427
-  port: 443
-  server: 13.125.239.182
-  sni: 'saving-octopus.rooster465.autos '
-  type: trojan
-- name: '7|🇰🇷 [ Configs by DukeMehdi ] TJ... #10'
-  network: tcp
-  password: ND91608427
-  port: 443
-  server: 3.35.140.99
-  sni: 'moved-meerkat.rooster465.autos '
-  type: trojan
-- name: '7|🇰🇷 [ Configs by DukeMehdi ] TJ... #11'
-  network: tcp
-  password: ND91608427
-  port: 443
-  server: 3.36.59.34
-  sni: select-ferret.rooster465.autos
-  type: trojan
-- name: '7|🇰🇷 [ Configs by DukeMehdi ] TJ... #12'
-  network: tcp
-  password: ND91608427
-  port: 443
-  server: 3.38.106.2
-  sni: communal-sunbird.rooster465.autos
-  type: trojan
-- name: '7|🇰🇷 [ Configs by DukeMehdi ] TJ... #13'
-  network: tcp
-  password: ND91608427
-  port: 443
-  server: 43.201.103.8
-  sni: intimate-moray.rooster465.autos
-  type: trojan
-- name: '7|🇰🇷 [ Configs by DukeMehdi ] TJ... #14'
-  network: tcp
-  password: ND91608427
-  port: 443
-  server: 43.201.46.108
-  sni: exotic-chow.rooster465.autos
-  type: trojan
-- name: '7|🇰🇷 [ Configs by DukeMehdi ] TJ... #15'
-  network: tcp
-  password: ND91608427
-  port: 443
-  server: 43.201.56.44
-  sni: distinct-llama.rooster465.autos
-  type: trojan
-- name: '7|🇰🇷 [ Configs by DukeMehdi ] TJ... #16'
-  network: tcp
-  password: ND91608427
-  port: 443
-  server: 43.203.203.244
-  sni: main-whippet.rooster465.autos
-  type: trojan
-- name: '7|🇰🇷 [ Configs by DukeMehdi ] TJ... #17'
-  network: tcp
-  password: ND91608427
-  port: 443
-  server: 43.203.244.203
-  sni: 'grateful-owl.rooster465.autos '
-  type: trojan
-- name: '7|🇰🇷 [ Configs by DukeMehdi ] TJ... #18'
-  network: tcp
-  password: ND91608427
-  port: 443
-  server: 43.203.247.197
-  sni: 'definite-malamute.rooster465.autos '
-  type: trojan
-- name: '7|🇰🇷 [ Configs by DukeMehdi ] TJ... #19'
-  network: tcp
-  password: ND91608427
-  port: 443
-  server: 52.78.13.238
-  sni: 'upward-puma.rooster465.autos '
-  type: trojan
-- name: '7|🇰🇷 [ Configs by DukeMehdi ] TJ... #20'
-  network: tcp
-  password: ND91608427
-  port: 443
-  server: 52.79.210.229
-  sni: 'chief-bluegill.rooster465.autos '
-  type: trojan
-- name: '7|🇰🇷 [ Configs by DukeMehdi ] TJ... #21'
-  network: tcp
-  password: ND91608427
-  port: 443
-  server: 54.180.228.238
-  sni: pure-ram.rooster465.autos
-  type: trojan
-- name: '7|🇰🇷 [ Configs by DukeMehdi ] TJ... #22'
-  network: tcp
-  password: UX82473651
-  port: 443
-  server: 13.125.69.162
-  skip-cert-verify: false
-  sni: 'engaging-toucan.rooster465.autos '
-  type: trojan
-- name: '7|🇰🇷 [ Configs by DukeMehdi ] TJ... #23'
-  network: tcp
-  password: UX82473651
-  port: 443
-  server: 3.34.131.153
-  skip-cert-verify: false
-  sni: 'pretty-rat.rooster465.autos '
-  type: trojan
-- name: '7|🇰🇷 [ Configs by DukeMehdi ] TJ... #24'
-  password: UX82473651
-  port: 443
-  server: 3.35.168.225
-  skip-cert-verify: true
-  sni: 'noted-cougar.rooster465.autos '
-  type: trojan
-- name: '7|🇰🇷 [ Configs by DukeMehdi ] TJ... #25'
-  network: tcp
-  password: UX82473651
-  port: 443
-  server: 3.35.207.188
-  skip-cert-verify: false
-  sni: 'main-fawn.rooster465.autos '
-  type: trojan
-- name: '7|🇰🇷 [ Configs by DukeMehdi ] TJ... #26'
-  network: tcp
-  password: UX82473651
-  port: 443
-  server: 3.35.217.113
-  skip-cert-verify: false
-  sni: 'amazing-peacock.rooster465.autos '
-  type: trojan
-- name: '7|🇰🇷 [ Configs by DukeMehdi ] TJ... #27'
-  network: tcp
-  password: UX82473651
-  port: 443
-  server: 3.39.225.215
-  skip-cert-verify: false
-  sni: 'kind-stork.rooster465.autos '
-  type: trojan
-- name: '7|🇰🇷 [ Configs by DukeMehdi ] TJ... #28'
-  network: tcp
-  password: UX82473651
-  port: 443
-  server: 43.201.100.203
-  skip-cert-verify: false
-  sni: 'optimum-snapper.rooster465.autos '
-  type: trojan
-- name: 7,24|[OpenRay] 🇰🇷KR-116
-  network: tcp
-  password: UX82473651
-  port: 443
-  server: 43.201.252.164
-  sni: balanced-stag.rooster465.autos
-  type: trojan
-  ws-opts:
-    path: /
-- name: 7,24|[OpenRay] 🇰🇷KR-129
-  network: tcp
-  password: UX82473651
-  port: 443
-  server: 43.203.172.96
-  skip-cert-verify: true
-  sni: neutral-quail.rooster465.autos
-  type: trojan
-  ws-opts:
-    path: '%2f'
-- name: '7|🇰🇷 [ Configs by DukeMehdi ] TJ... #31'
-  network: tcp
-  password: UX82473651
-  port: 443
-  server: 52.78.203.191
-  skip-cert-verify: false
-  sni: 'delicate-buck.rooster465.autos '
-  type: trojan
-- name: '7|🇰🇷 [ Configs by DukeMehdi ] TJ... #32'
-  password: b291d129-ee55-4801-a9b8-b5316e5c37b7
-  port: 443
-  server: 138.2.113.84
-  type: trojan
-- name: '7|🇰🇷 [ Configs by DukeMehdi ] TJ... #33'
-  password: cc05b267-2e17-4e73-92f0-2cf603aa5997
-  port: 40005
-  server: 146.56.179.67
-  type: trojan
-- name: '7|🇰🇷 [ Configs by DukeMehdi ] TJ... #34'
-  password: cd27884b-c5af-34ec-b75f-8248077818fe
-  port: 8443
-  server: 144.24.76.54
-  sni: '2.hg.kr.cat77.cloud '
-  type: trojan
-- name: '7|🇰🇷 [ Configs by DukeMehdi ] TJ... #35'
-  network: tcp
-  password: eeb6823c-b926-4ea2-866a-5542edd26e59
-  port: 443
-  server: 132.226.23.185
-  sni: 'hhcm.hhxaf.cc.cd '
-  type: trojan
-- name: '7|🇰🇷 [ Configs by DukeMehdi ] TJ... #36'
-  password: f2117e99-9b6e-47fd-b0a9-634a0b15b998
-  port: 443
-  server: 146.56.189.146
-  type: trojan
-- name: '7,12|🔥Join+Telegram:@Farah_VPN🟣 #6147'
-  password: moist
-  port: 27335
-  server: 116.47.10.236
-  skip-cert-verify: true
-  sni: trojan.freenods.sbs
-  type: trojan
-- name: '7|🇰🇷 [ Configs by DukeMehdi ] TJ... #38'
-  network: tcp
-  password: rYuChHcwQZskq9E0zdoR
-  port: 35342
-  server: 119.195.0.158
-  sni: 'vpn5.rnmcnm.com '
-  type: trojan
-- name: '7|🇰🇷 [ Configs by DukeMehdi ] TJ... #39'
-  network: tcp
-  password: t5FsyeQXkNCY6eVGiqBXmPu4..jBEpNbak
-  port: 443
-  server: 38.60.220.65
-  type: trojan
-- name: '7|🇰🇷 [ Configs by DukeMehdi ] TJ... #40'
-  password: xxoo
-  port: 443
-  server: 3.34.6.217
-  type: trojan
+  udp: true
 - alterId: 2
   cipher: auto
   name: 11|C🟠🇰🇷hos[📺🎪✨🔍]_dokng.com_1ab4b9...
@@ -489,13 +189,94 @@ proxies:
     method: GET
     path:
     - /
-  name: 11,24|[OpenRay] 🇰🇷KR-108
+  name: 11|C🟠🇰🇷hos[🤖📺🎪✨]_dokng.com_3012d4...
   network: http
   port: 123
   server: 43.108.103.167
   tls: false
   type: vmess
   uuid: 35aa0fda-175a-4aec-c468-0231dee1a121
+- cipher: aes-256-gcm
+  name: '16,17|🇰🇷[www.v2nodes.com] ss-KR-1580... #1'
+  password: ac9c0a7b
+  port: 49642
+  server: ce1fc2d8.krkt.hkssip.com
+  type: ss
+- name: '16,17|🇰🇷[www.v2nodes.com] trojan-KR-... #17'
+  password: UX82473651
+  port: 443
+  server: fancy-skink.rooster465.autos
+  skip-cert-verify: true
+  sni: fancy-skink.rooster465.autos
+  type: trojan
+- name: '16,17,22|@npv_vpn11 #839'
+  password: UX82473651
+  port: 443
+  server: glorious-lark.rooster465.autos
+  skip-cert-verify: true
+  sni: glorious-lark.rooster465.autos
+  type: trojan
+- country: 🇰🇷KR
+  delay: 388
+  name: '16,17,21,22|@npv_vpn11 #926'
+  password: UX82473651
+  port: 443
+  server: inviting-rabbit.rooster465.autos
+  skip-cert-verify: true
+  sni: inviting-rabbit.rooster465.autos
+  type: trojan
+  udp: true
+- name: '16,17|🇰🇷[www.v2nodes.com] trojan-KR-... #21'
+  password: UX82473651
+  port: 443
+  server: central-jawfish.rooster465.autos
+  skip-cert-verify: true
+  sni: central-jawfish.rooster465.autos
+  type: trojan
+- name: '16,17|🇰🇷[www.v2nodes.com] trojan-KR-... #22'
+  password: UX82473651
+  port: 443
+  server: working-tomcat.rooster465.autos
+  skip-cert-verify: true
+  sni: working-tomcat.rooster465.autos
+  type: trojan
+- name: '16,17|🇰🇷[www.v2nodes.com] trojan-KR-... #23'
+  password: UX82473651
+  port: 443
+  server: full-egret.rooster465.autos
+  skip-cert-verify: true
+  sni: full-egret.rooster465.autos
+  type: trojan
+- name: '16,17|🇰🇷[www.v2nodes.com] trojan-KR-... #24'
+  password: UX82473651
+  port: 443
+  server: neutral-quail.rooster465.autos
+  sni: neutral-quail.rooster465.autos
+  type: trojan
+- name: '16,17|🇰🇷[www.v2nodes.com] trojan-KR-... #26'
+  password: UX82473651
+  port: 443
+  server: amazing-peacock.rooster465.autos
+  sni: amazing-peacock.rooster465.autos
+  type: trojan
+- name: '16,17|🇰🇷[www.v2nodes.com] trojan-KR-... #27'
+  password: UX82473651
+  port: 443
+  server: kind-stork.rooster465.autos
+  sni: kind-stork.rooster465.autos
+  type: trojan
+- name: '16,17|🇰🇷[www.v2nodes.com] trojan-KR-... #28'
+  password: UX82473651
+  port: 443
+  server: noted-cougar.rooster465.autos
+  sni: noted-cougar.rooster465.autos
+  type: trojan
+- name: '16,17|🇰🇷[www.v2nodes.com] trojan-KR-... #29'
+  password: UX82473651
+  port: 443
+  server: optimum-snapper.rooster465.autos
+  sni: optimum-snapper.rooster465.autos
+  type: trojan
 - name: '16,17|🇰🇷[www.v2nodes.com] trojan-KR-... #30'
   password: UX82473651
   port: 443
@@ -505,6 +286,12 @@ proxies:
   password: UX82473651
   port: 443
   server: 3.34.131.153
+  type: trojan
+- name: '16,17|🇰🇷[www.v2nodes.com] trojan-KR-... #32'
+  password: UX82473651
+  port: 443
+  server: main-fawn.rooster465.autos
+  sni: main-fawn.rooster465.autos
   type: trojan
 - name: '16,17|🇰🇷[www.v2nodes.com] trojan-KR-... #33'
   password: UX82473651
@@ -540,7 +327,7 @@ proxies:
   port: 443
   server: 52.78.203.191
   type: trojan
-- name: 17,24|[OpenRay] 🇰🇷KR-128
+- name: '17|🇰🇷[www.v2nodes.com] trojan-KR-... #31'
   network: tcp
   password: UX82473651
   port: 443
@@ -548,8 +335,6 @@ proxies:
   skip-cert-verify: false
   sni: pretty-rat.rooster465.autos
   type: trojan
-  ws-opts:
-    path: /
 - alterId: 0
   cipher: auto
   name: '17|🇰🇷 韩国|@ripaojiedian #1'
@@ -565,7 +350,7 @@ proxies:
     headers:
       Host: 8nTzyR5KNivfabaT.v.3dns.vip
     path: /ws-vmess
-- name: 17,24|[OpenRay] 🌐XX-1201
+- name: '17|🇰🇷 韩国 | KOR #1 #1'
   password: UX82473651
   port: 443
   server: cunning-grub.rooster465.autos
@@ -573,104 +358,6 @@ proxies:
   sni: cunning-grub.rooster465.autos
   type: trojan
   udp: true
-- name: 24|[OpenRay] 🇰🇷KR-69
-  network: tcp
-  password: UX82473651
-  port: 443
-  server: 13.125.69.162
-  skip-cert-verify: false
-  sni: engaging-toucan.rooster465.autos
-  type: trojan
-  ws-opts:
-    path: /
-- name: 24|[OpenRay] 🇰🇷KR-91
-  network: tcp
-  password: UX82473651
-  port: 443
-  server: 3.35.168.225
-  skip-cert-verify: false
-  sni: noted-cougar.rooster465.autos
-  type: trojan
-  ws-opts:
-    path: '%2f'
-- name: 24|[OpenRay] 🇰🇷KR-58
-  network: tcp
-  password: UX82473651
-  port: 443
-  server: 3.35.207.188
-  skip-cert-verify: false
-  sni: main-fawn.rooster465.autos
-  type: trojan
-  ws-opts:
-    path: /
-- name: 24|[OpenRay] 🇰🇷KR-75
-  network: tcp
-  password: UX82473651
-  port: 443
-  server: 3.35.217.113
-  skip-cert-verify: true
-  sni: amazing-peacock.rooster465.autos
-  type: trojan
-  ws-opts:
-    path: '%2f'
-- name: 24|[OpenRay] 🇰🇷KR-38
-  network: tcp
-  password: UX82473651
-  port: 443
-  server: 3.39.225.215
-  skip-cert-verify: true
-  sni: kind-stork.rooster465.autos
-  type: trojan
-  ws-opts:
-    path: '%2f'
-- name: 24|[OpenRay] 🇰🇷KR-105
-  network: tcp
-  password: UX82473651
-  port: 443
-  server: 43.201.100.203
-  skip-cert-verify: true
-  sni: optimum-snapper.rooster465.autos
-  type: trojan
-  ws-opts:
-    path: '%2f'
-- name: 24|[OpenRay] 🇰🇷KR-11
-  network: tcp
-  password: UX82473651
-  port: 443
-  server: 52.78.203.191
-  skip-cert-verify: false
-  sni: delicate-buck.rooster465.autos
-  type: trojan
-  ws-opts:
-    path: /
-- alterId: 0
-  cipher: auto
-  name: 24|[OpenRay] 🇰🇷KR-80
-  network: tcp
-  port: 123
-  server: 43.108.103.167
-  tls: false
-  type: vmess
-  uuid: 35aa0fda-175a-4aec-c468-0231dee1a121
-- alterId: 0
-  cipher: auto
-  name: 24|[OpenRay] 🇰🇷KR-62
-  network: tcp
-  port: 443
-  server: 140.238.2.250
-  servername: null
-  tls: false
-  type: vmess
-  uuid: 41a7089a-040b-4538-8b8d-010902405bde
-- alterId: 0
-  cipher: auto
-  name: 24|[OpenRay] 🇰🇷KR-49
-  network: raw
-  port: 443
-  server: 140.238.2.250
-  tls: false
-  type: vmess
-  uuid: 41a7089a-040b-4538-8b8d-010902405bde
 - name: 25|🇰🇷KR_2|4.7MB/s
   password: HC04361579
   port: 443

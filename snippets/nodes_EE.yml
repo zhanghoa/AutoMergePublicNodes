@@ -17,38 +17,14 @@ proxies:
   port: 7307
   server: 38.180.216.114
   type: ss
-- name: 7|🇪🇪 [ Configs by DukeMehdi ] TJ...
+- name: '16,17|🇪🇪[www.v2nodes.com] trojan-EE-... #2'
   network: tcp
-  password: bpb-trojan
-  port: 443
-  server: 185.159.247.248
-  skip-cert-verify: true
-  sni: bpb.my79801.com
+  password: gHncxmRjWEJ7apX5XuXsHw4kGexMH_gU
+  port: 2097
+  server: stoniy.fytpn.com
+  sni: stoniy.fytpn.com
   type: trojan
-- name: '7|🇪🇪 [ Configs by DukeMehdi ] TJ... #1'
-  network: tcp
-  password: bpb-trojan
-  port: 443
-  server: 45.80.110.224
-  sni: 'bpb.my79801.com '
-  type: trojan
-- name: '7|🇪🇪 [ Configs by DukeMehdi ] TJ... #2'
-  password: oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1
-  port: 449
-  server: 109.206.241.10
-  sni: 'russiapower.accesscam.org '
-  type: trojan
-- name: '7|🇪🇪 [ Configs by DukeMehdi ] TJ... #3'
-  password: xxoo
-  port: 443
-  server: 138.124.183.216
-  type: trojan
-- name: '7|🇪🇪 [ Configs by DukeMehdi ] TJ... #4'
-  password: xxoo
-  port: 443
-  server: 138.124.183.226
-  type: trojan
-- name: 16,17,24,30|🇪🇪EE_8|1.2MB/s|C002-260622 01
+- name: 16,17,30|🇪🇪EE_8|1.2MB/s|C002-260622 01
   network: tcp
   password: oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1
   port: 449

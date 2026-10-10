@@ -21,7 +21,7 @@ proxies:
   type: trojan
 - alterId: 2
   cipher: auto
-  name: '3,12,16,17,25,28|香港|@ripaojiedian #3'
+  name: '3,16,17,25,28|香港|@ripaojiedian #3'
   network: tcp
   port: 30807
   server: v10.hdacd.com
@@ -140,646 +140,6 @@ proxies:
   port: 41632
   server: 112.213.102.188
   type: ss
-- name: 7|🇭🇰 [ Configs by DukeMehdi ] TJ...
-  password: 265f092f-418b-30c9-a479-4800fd44dd19mielink
-  port: 443
-  server: 103.135.103.229
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #84'
-  network: tcp
-  password: 6ec301428255a78a1d826988d86cc87e
-  port: 50887
-  server: 95.40.110.184
-  skip-cert-verify: false
-  sni: 'www.nintendogames.net '
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #85'
-  network: tcp
-  password: 6ec301428255a78a1d826988d86cc87e
-  port: 50887
-  server: 95.40.43.135
-  skip-cert-verify: false
-  sni: 'www.nintendogames.net '
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #3'
-  network: tcp
-  password: 72d8e820-7926-4ce3-a87c-b6969f425c79
-  port: 443
-  server: 103.235.46.40
-  skip-cert-verify: true
-  sni: www.baidu.com
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #4'
-  password: 73658d71-be45-4495-bc3e-e69d36ce73b5
-  port: 50014
-  server: 103.234.53.23
-  sni: 'telewebion.com '
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #5'
-  network: tcp
-  password: 7e70223b-f331-41d5-9313-02b8d2df2885
-  port: 20001
-  server: 45.67.201.210
-  skip-cert-verify: true
-  sni: hk.catxstar.com
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #6'
-  network: tcp
-  password: 7e70223b-f331-41d5-9313-02b8d2df2885
-  port: 20004
-  server: 45.67.201.210
-  skip-cert-verify: true
-  sni: hk.catxstar.com
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #7'
-  network: tcp
-  password: 7e70223b-f331-41d5-9313-02b8d2df2885
-  port: 20006
-  server: 45.67.201.210
-  skip-cert-verify: true
-  sni: hk.catxstar.com
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #8'
-  network: tcp
-  password: 7e70223b-f331-41d5-9313-02b8d2df2885
-  port: 20007
-  server: 45.67.201.210
-  skip-cert-verify: true
-  sni: US.catxstar.com
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #9'
-  network: tcp
-  password: 7e70223b-f331-41d5-9313-02b8d2df2885
-  port: 20012
-  server: 45.67.201.210
-  skip-cert-verify: true
-  sni: hk.catxstar.com
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #10'
-  network: tcp
-  password: 7e70223b-f331-41d5-9313-02b8d2df2885
-  port: 20013
-  server: 45.67.201.210
-  skip-cert-verify: true
-  sni: hk.catxstar.com
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #11'
-  network: tcp
-  password: 7e70223b-f331-41d5-9313-02b8d2df2885
-  port: 20014
-  server: 45.67.201.210
-  skip-cert-verify: true
-  sni: hk.catxstar.com
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #12'
-  network: tcp
-  password: 7e70223b-f331-41d5-9313-02b8d2df2885
-  port: 20015
-  server: 45.67.201.210
-  skip-cert-verify: true
-  sni: hk.catxstar.com
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #13'
-  network: tcp
-  password: 7e70223b-f331-41d5-9313-02b8d2df2885
-  port: 20017
-  server: 45.67.201.210
-  skip-cert-verify: true
-  sni: hk.catxstar.com
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #14'
-  network: tcp
-  password: 7e70223b-f331-41d5-9313-02b8d2df2885
-  port: 20018
-  server: 45.67.201.210
-  skip-cert-verify: true
-  sni: hk.catxstar.com
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #15'
-  network: tcp
-  password: 7e70223b-f331-41d5-9313-02b8d2df2885
-  port: 20019
-  server: 45.67.201.210
-  skip-cert-verify: true
-  sni: hk.catxstar.com
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #16'
-  network: tcp
-  password: 7e70223b-f331-41d5-9313-02b8d2df2885
-  port: 20022
-  server: 45.67.201.210
-  skip-cert-verify: true
-  sni: hk.catxstar.com
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #17'
-  network: tcp
-  password: 7e70223b-f331-41d5-9313-02b8d2df2885
-  port: 20024
-  server: 45.67.201.210
-  skip-cert-verify: true
-  sni: hk.catxstar.com
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #18'
-  network: tcp
-  password: 7e70223b-f331-41d5-9313-02b8d2df2885
-  port: 20025
-  server: 45.67.201.210
-  skip-cert-verify: true
-  sni: tw.catxstar.com
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #19'
-  network: tcp
-  password: 7e70223b-f331-41d5-9313-02b8d2df2885
-  port: 20029
-  server: 45.67.201.210
-  skip-cert-verify: true
-  sni: hk.catxstar.com
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #20'
-  network: tcp
-  password: 7e70223b-f331-41d5-9313-02b8d2df2885
-  port: 20030
-  server: 45.67.201.210
-  skip-cert-verify: true
-  sni: hk.catxstar.com
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #21'
-  network: tcp
-  password: 7e70223b-f331-41d5-9313-02b8d2df2885
-  port: 20031
-  server: 45.67.201.210
-  skip-cert-verify: true
-  sni: hk.catxstar.com
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #22'
-  network: tcp
-  password: 7e70223b-f331-41d5-9313-02b8d2df2885
-  port: 20032
-  server: 45.67.201.210
-  skip-cert-verify: true
-  sni: hk.catxstar.com
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #23'
-  network: tcp
-  password: 7e70223b-f331-41d5-9313-02b8d2df2885
-  port: 20034
-  server: 45.67.201.210
-  skip-cert-verify: true
-  sni: hk.catxstar.com
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #24'
-  network: tcp
-  password: 7e70223b-f331-41d5-9313-02b8d2df2885
-  port: 20036
-  server: 45.67.201.210
-  skip-cert-verify: true
-  sni: SG.catxstar.com
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #25'
-  network: tcp
-  password: 7e70223b-f331-41d5-9313-02b8d2df2885
-  port: 20039
-  server: 45.67.201.210
-  skip-cert-verify: true
-  sni: SG.catxstar.com
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #26'
-  network: tcp
-  password: 7e70223b-f331-41d5-9313-02b8d2df2885
-  port: 20041
-  server: 45.67.201.210
-  skip-cert-verify: true
-  sni: de.catxstar.com
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #27'
-  network: tcp
-  password: 7e70223b-f331-41d5-9313-02b8d2df2885
-  port: 20044
-  server: 45.67.201.210
-  skip-cert-verify: true
-  sni: TW.catxstar.com
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #28'
-  network: tcp
-  password: 7e70223b-f331-41d5-9313-02b8d2df2885
-  port: 20045
-  server: 45.67.201.210
-  skip-cert-verify: true
-  sni: TW.catxstar.com
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #29'
-  network: tcp
-  password: 7e70223b-f331-41d5-9313-02b8d2df2885
-  port: 20046
-  server: 45.67.201.210
-  skip-cert-verify: true
-  sni: hk.catxstar.com
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #30'
-  network: tcp
-  password: 7e70223b-f331-41d5-9313-02b8d2df2885
-  port: 20047
-  server: 45.67.201.210
-  skip-cert-verify: true
-  sni: hk.catxstar.com
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #31'
-  network: tcp
-  password: 7e70223b-f331-41d5-9313-02b8d2df2885
-  port: 20048
-  server: 45.67.201.210
-  skip-cert-verify: true
-  sni: hk.catxstar.com
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #32'
-  network: tcp
-  password: 7e70223b-f331-41d5-9313-02b8d2df2885
-  port: 20049
-  server: 45.67.201.210
-  skip-cert-verify: true
-  sni: hk.catxstar.com
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #33'
-  network: tcp
-  password: 7e70223b-f331-41d5-9313-02b8d2df2885
-  port: 20050
-  server: 45.67.201.210
-  skip-cert-verify: true
-  sni: us.catxstar.com
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #34'
-  network: tcp
-  password: 7e70223b-f331-41d5-9313-02b8d2df2885
-  port: 20051
-  server: 45.67.201.210
-  skip-cert-verify: true
-  sni: ng.catxstar.com
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #35'
-  network: tcp
-  password: 7e70223b-f331-41d5-9313-02b8d2df2885
-  port: 20052
-  server: 45.67.201.210
-  skip-cert-verify: true
-  sni: hk.catxstar.com
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #36'
-  network: tcp
-  password: 7e70223b-f331-41d5-9313-02b8d2df2885
-  port: 20056
-  server: 45.67.201.210
-  skip-cert-verify: true
-  sni: hk.catxstar.com
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #37'
-  network: tcp
-  password: 7e70223b-f331-41d5-9313-02b8d2df2885
-  port: 20058
-  server: 45.67.201.210
-  skip-cert-verify: true
-  sni: hk.catxstar.com
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #38'
-  network: tcp
-  password: 7e70223b-f331-41d5-9313-02b8d2df2885
-  port: 20060
-  server: 45.67.201.210
-  skip-cert-verify: true
-  sni: SG.catxstar.com
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #39'
-  network: tcp
-  password: 7e70223b-f331-41d5-9313-02b8d2df2885
-  port: 20061
-  server: 45.67.201.210
-  skip-cert-verify: true
-  sni: hk.catxstar.com
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #40'
-  network: tcp
-  password: 7e70223b-f331-41d5-9313-02b8d2df2885
-  port: 20063
-  server: 45.67.201.210
-  skip-cert-verify: true
-  sni: hk.catxstar.com
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #41'
-  network: tcp
-  password: 7e70223b-f331-41d5-9313-02b8d2df2885
-  port: 20064
-  server: 45.67.201.210
-  skip-cert-verify: true
-  sni: hk.catxstar.com
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #42'
-  network: tcp
-  password: 7e70223b-f331-41d5-9313-02b8d2df2885
-  port: 20065
-  server: 45.67.201.210
-  skip-cert-verify: true
-  sni: hk.catxstar.com
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #43'
-  network: tcp
-  password: 7e70223b-f331-41d5-9313-02b8d2df2885
-  port: 20068
-  server: 45.67.201.210
-  skip-cert-verify: true
-  sni: hk.catxstar.com
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #44'
-  network: tcp
-  password: 7e70223b-f331-41d5-9313-02b8d2df2885
-  port: 20072
-  server: 45.67.201.210
-  skip-cert-verify: true
-  sni: SG.catxstar.com
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #45'
-  network: tcp
-  password: 7e70223b-f331-41d5-9313-02b8d2df2885
-  port: 20077
-  server: 45.67.201.210
-  skip-cert-verify: true
-  sni: hk.catxstar.com
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #46'
-  network: tcp
-  password: 7e70223b-f331-41d5-9313-02b8d2df2885
-  port: 20083
-  server: 45.67.201.210
-  skip-cert-verify: true
-  sni: SG.catxstar.com
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #47'
-  network: tcp
-  password: 7e70223b-f331-41d5-9313-02b8d2df2885
-  port: 20085
-  server: 45.67.201.210
-  skip-cert-verify: true
-  sni: hk.catxstar.com
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #48'
-  network: tcp
-  password: 7e70223b-f331-41d5-9313-02b8d2df2885
-  port: 20086
-  server: 45.67.201.210
-  skip-cert-verify: true
-  sni: hk.catxstar.com
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #49'
-  network: tcp
-  password: 7e70223b-f331-41d5-9313-02b8d2df2885
-  port: 20088
-  server: 45.67.201.210
-  skip-cert-verify: true
-  sni: hk.catxstar.com
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #50'
-  network: tcp
-  password: 7e70223b-f331-41d5-9313-02b8d2df2885
-  port: 20089
-  server: 45.67.201.210
-  skip-cert-verify: true
-  sni: SG.catxstar.com
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #51'
-  network: tcp
-  password: 7e70223b-f331-41d5-9313-02b8d2df2885
-  port: 20092
-  server: 45.67.201.210
-  skip-cert-verify: true
-  sni: hk.catxstar.com
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #52'
-  network: tcp
-  password: 7e70223b-f331-41d5-9313-02b8d2df2885
-  port: 20098
-  server: 45.67.201.210
-  skip-cert-verify: true
-  sni: hk.catxstar.com
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #53'
-  network: tcp
-  password: 7e70223b-f331-41d5-9313-02b8d2df2885
-  port: 20103
-  server: 45.67.201.210
-  skip-cert-verify: true
-  sni: ng.catxstar.com
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #54'
-  network: tcp
-  password: 7e70223b-f331-41d5-9313-02b8d2df2885
-  port: 20104
-  server: 45.67.201.210
-  skip-cert-verify: true
-  sni: hk.catxstar.com
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #55'
-  network: tcp
-  password: 7e70223b-f331-41d5-9313-02b8d2df2885
-  port: 20109
-  server: 45.67.201.210
-  skip-cert-verify: true
-  sni: TW.catxstar.com
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #56'
-  network: tcp
-  password: 7e70223b-f331-41d5-9313-02b8d2df2885
-  port: 20112
-  server: 45.67.201.210
-  skip-cert-verify: true
-  sni: ca.catxstar.com
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #57'
-  network: tcp
-  password: 7e70223b-f331-41d5-9313-02b8d2df2885
-  port: 20113
-  server: 45.67.201.210
-  skip-cert-verify: true
-  sni: ca.catxstar.com
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #58'
-  network: tcp
-  password: 7e70223b-f331-41d5-9313-02b8d2df2885
-  port: 20114
-  server: 45.67.201.210
-  skip-cert-verify: true
-  sni: hk.catxstar.com
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #59'
-  network: tcp
-  password: 7e70223b-f331-41d5-9313-02b8d2df2885
-  port: 20117
-  server: 45.67.201.210
-  skip-cert-verify: true
-  sni: hk.catxstar.com
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #60'
-  network: tcp
-  password: 7e70223b-f331-41d5-9313-02b8d2df2885
-  port: 20118
-  server: 45.67.201.210
-  skip-cert-verify: true
-  sni: hk.catxstar.com
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #61'
-  network: tcp
-  password: 7e70223b-f331-41d5-9313-02b8d2df2885
-  port: 20119
-  server: 45.67.201.210
-  skip-cert-verify: true
-  sni: hk.catxstar.com
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #62'
-  network: tcp
-  password: 7e70223b-f331-41d5-9313-02b8d2df2885
-  port: 20120
-  server: 45.67.201.210
-  skip-cert-verify: true
-  sni: hk.catxstar.com
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #63'
-  network: tcp
-  password: 7e70223b-f331-41d5-9313-02b8d2df2885
-  port: 20123
-  server: 45.67.201.210
-  skip-cert-verify: true
-  sni: hk.catxstar.com
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #64'
-  network: tcp
-  password: 7e70223b-f331-41d5-9313-02b8d2df2885
-  port: 20126
-  server: 45.67.201.210
-  skip-cert-verify: true
-  sni: hk.catxstar.com
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #65'
-  network: tcp
-  password: 8aab51da-6b67-4bd2-b6e6-5ab3008cf53e
-  port: 443
-  server: 20.255.74.102
-  skip-cert-verify: true
-  sni: jp.iamnotagoodman.com
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #66'
-  password: 8fe3b905-b933-4a3f-aa33-40a73ec93c69
-  port: 28443
-  server: 103.135.102.156
-  sni: 'glc.hruqoaw.cn '
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #67'
-  password: 8fe3b905-b933-4a3f-aa33-40a73ec93c69
-  port: 28443
-  server: 210.0.158.220
-  sni: 'glc.hruqoaw.cn '
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #68'
-  password: 8fe3b905-b933-4a3f-aa33-40a73ec93c69
-  port: 28443
-  server: 43.198.12.229
-  sni: 'glc.hruqoaw.cn '
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #69'
-  password: 8fe3b905-b933-4a3f-aa33-40a73ec93c69
-  port: 28443
-  server: 5.181.4.104
-  sni: 'glc.hruqoaw.cn '
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #70'
-  network: tcp
-  password: 8r<[9'l6hAO#8ZQi
-  port: 443
-  server: 154.92.9.253
-  sni: 'Koma-YT.PAGeS.Dev '
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #71'
-  network: tcp
-  password: 8r<[9'l6hAO#8ZQi
-  port: 443
-  server: 154.92.9.25
-  sni: 'Koma-YT.PAGeS.Dev '
-  type: trojan
-- name: '7,12|🔥Join+Telegram:@Farah_VPN🟣 #5074'
-  network: tcp
-  password: BxceQaOe
-  port: 52951
-  server: 16.163.102.116
-  skip-cert-verify: true
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #73'
-  network: tcp
-  password: BxceQaOe
-  port: 443
-  server: 219.79.214.159
-  sni: 't.me%252Fripaojiedian '
-  type: trojan
-- name: '7,12|🔥Join+Telegram:@Farah_VPN🟣 #3734'
-  password: BxceQaOe
-  port: 41973
-  server: 43.198.13.210
-  skip-cert-verify: true
-  sni: t.me/ripaojiedian
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #75'
-  password: BxceQaOe
-  port: 44265
-  server: 95.40.58.154
-  skip-cert-verify: true
-  sni: 't.me%2Fripaojiedian '
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #76'
-  password: SyOxpKxC8u5jgNa3DCZ34y3D9CRenFcaABpYATEeqI2RSaXD76zS8YF0Owl3lZ
-  port: 443
-  server: 219.76.13.181
-  sni: 'arbettp.freetrade.link '
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #77'
-  network: tcp
-  password: XuMweB2PWs
-  port: 45464
-  server: 2.27.109.179
-  skip-cert-verify: false
-  sni: '2.27.109.179.sslip.io '
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #78'
-  password: b26e31e5-eac1-45b0-9069-83830bd69521
-  port: 443
-  server: 20.187.85.198
-  sni: 'hkt.iamnotagoodman.com '
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #79'
-  network: tcp
-  password: c85761bc-5d74-4ae5-b525-0d32443182fa
-  port: 443
-  server: 45.149.92.71
-  skip-cert-verify: true
-  sni: uk.mjt000.com
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #80'
-  password: ca2345ba-46e7-3991-b1b7-45d18954caf1
-  port: 20712
-  server: 20.24.192.3
-  sni: 'ssl.ssl12.xyz '
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #81'
-  password: ceaea123-1b4b-469b-8358-bcd5f5529305
-  port: 443
-  server: 104.208.100.101
-  sni: 'uk.liangyuandian.top '
-  type: trojan
-- name: '7|🇭🇰 [ Configs by DukeMehdi ] TJ... #82'
-  password: d4e41ff772c7fd45
-  port: 3389
-  server: 45.11.104.94
-  sni: 'sbank.ir '
-  type: trojan
-- name: 7,17|🇹🇼[www.v2nodes.com] trojan-TW-...
-  password: i99Cef
-  port: 28101
-  server: 209.248.32.116
-  type: trojan
 - alterId: 2
   cipher: auto
   name: 11|C🟠🇭🇰hos_dokng.com_533a58aa
@@ -814,12 +174,27 @@ proxies:
   tls: false
   type: vmess
   uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
-- name: 16,17,24|[OpenRay] 🌐XX-1375
+- name: '16,17|🇭🇰[www.v2nodes.com] trojan-HK-... #1'
   password: UX82473651
   port: 443
   server: strong-haddock.rooster465.autos
   sni: strong-haddock.rooster465.autos
   type: trojan
+- alterId: 0
+  cipher: auto
+  name: '16,27|🇭🇰 香港3|@ripaojiedian #2'
+  network: ws
+  port: 443
+  server: ADncdOvLHR4M1P36.v.3dns.vip
+  servername: ADncdOvLHR4M1P36.v.3dns.vip
+  skip-cert-verify: false
+  tls: true
+  type: vmess
+  uuid: 88888888-8888-8888-8888-888888888888
+  ws-opts:
+    headers:
+      Host: ADncdOvLHR4M1P36.v.3dns.vip
+    path: /ws-vmess
 - alterId: 0
   cipher: auto
   name: '16,27|🇭🇰 香港2|@ripaojiedian #2'
@@ -834,6 +209,21 @@ proxies:
   ws-opts:
     headers:
       Host: kBONDXW9liFCi4h4.v.3dns.vip
+    path: /ws-vmess
+- alterId: 0
+  cipher: auto
+  name: '16,27|🇭🇰 香港4|@ripaojiedian #2'
+  network: ws
+  port: 443
+  server: aZW0eunYVdvRe73k.v.3dns.vip
+  servername: aZW0eunYVdvRe73k.v.3dns.vip
+  skip-cert-verify: false
+  tls: true
+  type: vmess
+  uuid: 88888888-8888-8888-8888-888888888888
+  ws-opts:
+    headers:
+      Host: aZW0eunYVdvRe73k.v.3dns.vip
     path: /ws-vmess
 - name: '16,17,28|香港2|@ripaojiedian #2'
   network: tcp
@@ -867,6 +257,76 @@ proxies:
   skip-cert-verify: true
   sni: m.ctrip.com
   type: trojan
+- alterId: 0
+  cipher: auto
+  name: '16,17|🇭🇰 香港 | HKG #1 #1'
+  network: ws
+  port: 443
+  server: 8.217.13.103
+  servername: qtkdr8jxe3wefxjm.v.3dns.vip
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  udp: true
+  uuid: f23bb427-c1f9-4373-876c-2f43e9f790f3
+  ws-opts:
+    headers:
+      Host: qtkdr8jxe3wefxjm.v.3dns.vip
+    path: /ws-vmess
+- alterId: 0
+  cipher: auto
+  name: '16|🇭🇰 香港 | HKG #2'
+  network: ws
+  port: 443
+  server: 47.76.44.32
+  tls: true
+  type: vmess
+  uuid: f23bb427-c1f9-4373-876c-2f43e9f790f3
+  ws-opts:
+    headers:
+      Host: 93ucrn4i0pffuabk.v.3dns.vip
+    path: /ws-vmess
+- alterId: 0
+  cipher: auto
+  name: '16|🇭🇰 香港 | HKG #3'
+  network: ws
+  port: 443
+  server: 47.83.207.148
+  tls: true
+  type: vmess
+  uuid: f23bb427-c1f9-4373-876c-2f43e9f790f3
+  ws-opts:
+    headers:
+      Host: VAH4URdZL3jDX5r2.v.3dns.vip
+    path: /ws-vmess
+- alterId: 0
+  cipher: auto
+  name: 16|🇭🇰 香港 | HKG 5
+  network: ws
+  port: 443
+  server: 6jdvarazgu3qqr6q.v.3dns.vip
+  servername: 6JDvArazgU3qQR6Q.v.3dns.vip
+  tls: true
+  type: vmess
+  uuid: f23bb427-c1f9-4373-876c-2f43e9f790f3
+  ws-opts:
+    headers:
+      Host: 6JDvArazgU3qQR6Q.v.3dns.vip
+    path: /ws-vmess
+- alterId: 0
+  cipher: auto
+  name: '16|🇭🇰 香港 | HKG #6'
+  network: ws
+  port: 443
+  server: 8.218.195.61
+  servername: EX1oGt73NzPQKAc2.v.3dns.vip
+  tls: true
+  type: vmess
+  uuid: f23bb427-c1f9-4373-876c-2f43e9f790f3
+  ws-opts:
+    headers:
+      Host: EX1oGt73NzPQKAc2.v.3dns.vip
+    path: /ws-vmess
 - alterId: 2
   cipher: auto
   name: '17,20,27|🇭🇰 香港|@ripaojiedian #3'
@@ -939,138 +399,16 @@ proxies:
     path: /ws-vmess
 - alterId: 0
   cipher: auto
-  name: 17,24|[OpenRay] 🇭🇰HK-103
+  name: '17|🇭🇰 香港 | HKG #2 #1'
   network: ws
   port: 36703
   server: 47.244.120.197
-  servername: ''
   skip-cert-verify: true
   tls: false
   type: vmess
   udp: true
   uuid: 45b83519-9c4f-4052-a11b-02e017b636d4
   ws-opts:
-    headers:
-      Host: ''
-    path: /arki
-- alterId: 0
-  cipher: auto
-  name: 24|[OpenRay] 🇭🇰HK-79
-  network: ws
-  port: 443
-  server: ex1ogt73nzpqkac2.v.3dns.vip
-  servername: ex1ogt73nzpqkac2.v.3dns.vip
-  tls: true
-  type: vmess
-  uuid: 88888888-8888-8888-8888-888888888888
-  ws-opts:
-    path: /ws-vmess
-- alterId: 0
-  cipher: auto
-  name: 24|[OpenRay] 🇭🇰HK-168
-  network: ws
-  port: 443
-  server: 8.217.254.88
-  servername: 2b9hwy8ocx7q74nm.v.3dns.vip
-  tls: true
-  type: vmess
-  uuid: f23bb427-c1f9-4373-876c-2f43e9f790f3
-  ws-opts:
-    headers:
-      Host: 2b9hwY8oCx7Q74NM.v.3dns.vip
-    path: /ws-vmess
-- alterId: 0
-  cipher: auto
-  name: 24|[OpenRay] 🇭🇰HK-67
-  network: ws
-  port: 36703
-  server: 47.244.120.197
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 45b83519-9c4f-4052-a11b-02e017b636d4
-  ws-opts:
-    headers:
-      Host: google.com
-    path: /arki?ed=2048
-- alterId: 0
-  cipher: auto
-  name: 24|[OpenRay] 🇭🇰HK-24
-  network: ws
-  port: 36703
-  server: 47.244.120.197
-  servername: google.com
-  tls: false
-  type: vmess
-  uuid: 45b83519-9c4f-4052-a11b-02e017b636d4
-  ws-opts:
-    headers:
-      Host: google.com
-    path: /arki
-- alterId: 0
-  cipher: auto
-  name: 24|[OpenRay] 🇭🇰HK-39
-  network: ws
-  port: 443
-  server: nycqg19zkwacpm1b.v.3dns.vip
-  servername: nycqg19zkwacpm1b.v.3dns.vip
-  tls: true
-  type: vmess
-  uuid: f23bb427-c1f9-4373-876c-2f43e9f790f3
-  ws-opts:
-    headers:
-      Host: nycqg19zkwacpm1b.v.3dns.vip
-    path: /ws-vmess
-- alterId: 0
-  cipher: auto
-  name: 24|[OpenRay] 🇭🇰HK-94
-  network: ws
-  port: 443
-  server: 8.217.254.88
-  servername: 2b9hwy8ocx7q74nm.v.3dns.vip
-  tls: true
-  type: vmess
-  uuid: 88888888-8888-8888-8888-888888888888
-  ws-opts:
-    headers:
-      Host: ''
-    path: /ws-vmess
-- alterId: 0
-  cipher: auto
-  name: 24|[OpenRay] 🇭🇰HK-38
-  network: raw
-  port: 800
-  server: 47.86.167.194
-  tls: false
-  type: vmess
-  uuid: f2c67cae-c09d-4739-947d-f5302d87a3c0
-- alterId: 0
-  cipher: auto
-  name: 24|[OpenRay] 🇭🇰HK-105
-  network: ws
-  port: 36703
-  server: 47.244.120.197
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 45b83519-9c4f-4052-a11b-02e017b636d4
-  ws-opts:
-    headers:
-      Host: 47.244.120.197
-    path: /arki?ed=2048
-- alterId: 0
-  cipher: auto
-  name: 24|[OpenRay] 🇭🇰HK-176
-  network: ws
-  port: 36703
-  server: 47.244.120.197
-  servername: 47.244.120.197
-  tls: false
-  type: vmess
-  uuid: 45b83519-9c4f-4052-a11b-02e017b636d4
-  ws-opts:
-    headers:
-      Host: 47.244.120.197
     path: /arki
 - name: '25|香港3|@ripaojiedian #2'
   password: 6ec301428255a78a1d826988d86cc87e
@@ -1119,7 +457,7 @@ proxies:
     path: '%2Fassignment'
 - alterId: 0
   cipher: auto
-  name: 30|未知 VMESS-1198 | free-nodes
+  name: 30|🇭🇰HK香港丨
   network: tcp
   port: 800
   server: 47.83.247.150
@@ -1127,6 +465,20 @@ proxies:
   tls: false
   type: vmess
   uuid: 59c06976-3009-48d5-89f3-bd94d4a120a0
+- alterId: 0
+  cipher: auto
+  name: '30|🇭🇰HK香港丨 #1'
+  network: ws
+  port: 443
+  server: u2frxj0g13vdi0wo.v.3dns.vip
+  servername: ''
+  tls: true
+  type: vmess
+  uuid: 88888888-8888-8888-8888-888888888888
+  ws-opts:
+    headers:
+      Host: U2FRxj0G13vDI0Wo.v.3dns.vip
+    path: /ws-vmess
 - name: 30|香港 14
   network: tcp
   password: BxceQaOe

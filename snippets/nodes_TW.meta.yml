@@ -6,7 +6,7 @@ proxies:
   server: 36.224.141.124
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: 7,30|未知 SS-293 | free-nodes
+  name: '7|🇹🇼 [ Configs by DukeMehdi ] SS... #1'
   password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4
   port: 50099
   server: 36.224.152.189
@@ -41,165 +41,6 @@ proxies:
   port: 33992
   server: 2.58.242.43
   type: ss
-- cipher: aes-256-gcm
-  name: '7|🇹🇼 [ Configs by DukeMehdi ] SS... #7'
-  password: xpQwyV4W5FdA6NMANJJx73US
-  port: 38033
-  server: 2.58.241.45
-  type: ss
-- name: 7|🇹🇼 [ Configs by DukeMehdi ] TJ...
-  network: tcp
-  password: 6e1b9a65-884f-3aa9-9469-bf6ec0f08610
-  port: 3462
-  server: 60.250.152.229
-  skip-cert-verify: true
-  sni: a03.taipeicitygovernment.cn.ua
-  type: trojan
-- name: '7|🇹🇼 [ Configs by DukeMehdi ] TJ... #1'
-  network: tcp
-  password: 6e1b9a65-884f-3aa9-9469-bf6ec0f08610
-  port: 3462
-  server: 60.250.152.230
-  skip-cert-verify: true
-  sni: a03.taipeicitygovernment.cn.ua
-  type: trojan
-- name: '7|🇹🇼 [ Configs by DukeMehdi ] TJ... #2'
-  network: tcp
-  password: 6e1b9a65-884f-3aa9-9469-bf6ec0f08610
-  port: 3462
-  server: 61.222.160.199
-  skip-cert-verify: true
-  sni: a03.taipeicitygovernment.cn.ua
-  type: trojan
-- name: '7|🇹🇼 [ Configs by DukeMehdi ] TJ... #3'
-  network: tcp
-  password: 736cd94d-7b94-3e44-8106-3419f64eaf09
-  port: 3462
-  server: 60.250.152.209
-  skip-cert-verify: true
-  sni: a12.taipeicitygovernment.org.ua
-  type: trojan
-- name: '7|🇹🇼 [ Configs by DukeMehdi ] TJ... #4'
-  password: 7ac49a893e0bd10c
-  port: 3389
-  server: 60.249.3.226
-  type: trojan
-- name: '7|🇹🇼 [ Configs by DukeMehdi ] TJ... #5'
-  password: 7ac49a893e0bd10c
-  port: 3389
-  server: 60.249.3.228
-  type: trojan
-- name: '7|🇹🇼 [ Configs by DukeMehdi ] TJ... #6'
-  password: 7b06d22a8a7c764f
-  port: 3389
-  server: 211.72.35.153
-  type: trojan
-- name: '7|🇹🇼 [ Configs by DukeMehdi ] TJ... #7'
-  password: 7b06d22a8a7c764f
-  port: 3389
-  server: 211.72.35.154
-  type: trojan
-- name: '7|🇹🇼 [ Configs by DukeMehdi ] TJ... #8'
-  password: 7b06d22a8a7c764f
-  port: 3389
-  server: 211.72.35.156
-  type: trojan
-- name: '7|🇹🇼 [ Configs by DukeMehdi ] TJ... #9'
-  password: 8b475d9e868e43e0
-  port: 3389
-  server: 211.72.35.157
-  type: trojan
-- name: '7|🇹🇼 [ Configs by DukeMehdi ] TJ... #10'
-  network: tcp
-  password: 96983eb4-c8f1-316e-ab00-500014ed3d8b
-  port: 8443
-  server: 60.250.152.209
-  skip-cert-verify: true
-  sni: official.taipeicitygovernment.net.ua
-  type: trojan
-- name: '7|🇹🇼 [ Configs by DukeMehdi ] TJ... #11'
-  network: tcp
-  password: 96983eb4-c8f1-316e-ab00-500014ed3d8b
-  port: 8443
-  server: 60.250.152.230
-  skip-cert-verify: true
-  sni: official.taipeicitygovernment.ivano-frankivsk.ua
-  type: trojan
-- name: '7|🇹🇼 [ Configs by DukeMehdi ] TJ... #12'
-  password: YWVzLTI1Ni1nY206eHBRd3lWNFc1RmRBNk5NQU5KSng3M1VT
-  port: 443
-  server: 2.58.242.43
-  type: trojan
-- name: '7|🇹🇼 [ Configs by DukeMehdi ] TJ... #13'
-  password: b09d2aaa443af97a
-  port: 3389
-  server: 211.72.35.155
-  type: trojan
-- name: '7|🇹🇼 [ Configs by DukeMehdi ] TJ... #14'
-  password: b84d16a244460e09
-  port: 3389
-  server: 211.72.35.152
-  type: trojan
-- client-fingerprint: firefox
-  name: 7,24|[OpenRay] 🇹🇼TW-19
-  network: tcp
-  port: 24215
-  reality-opts:
-    public-key: mdWKUPMVTtTbDqK10BPb89OcqBC2-Lx-4NOYtqc1GWE
-  server: 61.230.162.88
-  servername: addons.mozilla.org
-  tls: false
-  type: vless
-  uuid: 19d5a678-8396-4e3b-93da-ece618d0e83a
-- client-fingerprint: chrome
-  name: 7,24|[OpenRay] 🇹🇼TW-15
-  network: tcp
-  port: 24215
-  reality-opts:
-    public-key: mdWKUPMVTtTbDqK10BPb89OcqBC2-Lx-4NOYtqc1GWE
-  server: 61.230.172.241
-  servername: addons.mozilla.org
-  tls: false
-  type: vless
-  uuid: 19d5a678-8396-4e3b-93da-ece618d0e83a
-- client-fingerprint: firefox
-  flow: xtls-rprx-vision
-  name: 7,24|[OpenRay] 🇹🇼TW-5
-  network: tcp
-  port: 32134
-  reality-opts:
-    public-key: OdTELUjAUKO_qr-O-uihaAZJAhA8GyIWVI6CpozVCU4
-    short-id: 6c6c7c97
-  server: 111.243.83.19
-  servername: buylite.music.apple.com
-  tls: false
-  type: vless
-  uuid: 5b01dc2d-6892-49b8-8289-3f73a32e00e4
-- client-fingerprint: chrome
-  name: '7,12|🔥Join+Telegram:@Farah_VPN🟣 #2974'
-  network: tcp
-  port: 15570
-  reality-opts:
-    public-key: 59-0Y1oblZGcZajVn0IAMba0RNh8yNv-jhvKni1eZDY
-    short-id: 945974883e
-  server: 45.64.74.100
-  servername: www.cloudflare.com
-  tls: false
-  type: vless
-  uuid: 931220c8-15ac-41f4-ba7b-8736a82a3ba2
-- client-fingerprint: chrome
-  flow: xtls-rprx-vision
-  name: '7|🇹🇼 [ Configs by DukeMehdi ] VL... #4'
-  network: tcp
-  port: 443
-  reality-opts:
-    public-key: q42m1wg11kZLyRtjaKus8T-NNl1vriRG3V1eVTL6ICc
-    short-id: '37e6f3e4339e '
-  server: 46.249.109.128
-  servername: www.microsoft.com
-  tls: false
-  type: vless
-  uuid: 9f1b677f-aeea-43a9-9927-12188cdc1249
 - client-fingerprint: chrome
   name: 11|C🟠🇹🇼hos[🎬📺🎭🎪]_dokng.com_155680...
   network: tcp
@@ -229,6 +70,17 @@ proxies:
   tls: true
   type: http
   username: mrwdfNTD8M79LCukCieldrqZWqs=
+- client-fingerprint: chrome
+  name: 16,22,30|🇹🇼TW_27|84KB/s|F003-260618 01
+  network: tcp
+  port: 24215
+  reality-opts:
+    public-key: mdWKUPMVTtTbDqK10BPb89OcqBC2-Lx-4NOYtqc1GWE
+  server: hinet1.2yly.com
+  servername: addons.mozilla.org
+  tls: false
+  type: vless
+  uuid: 19d5a678-8396-4e3b-93da-ece618d0e83a
 - name: '16|🇹🇼[www.v2nodes.com] vless-TW-1... #1'
   network: ws
   port: 443
@@ -262,6 +114,11 @@ proxies:
   skip-cert-verify: true
   sni: m.ctrip.com
   type: trojan
+- name: 17|🇹🇼[www.v2nodes.com] trojan-TW-...
+  password: i99Cef
+  port: 28101
+  server: 209.248.32.116
+  type: trojan
 - name: 24|[OpenRay] 🇹🇼TW-23
   password: H7mP2xY9kJ4nQ8wR5tF6vB3z
   port: 443
@@ -286,25 +143,6 @@ proxies:
   sni: https%3a%2f%2ft.me%2foneclickvpnkeys
   tls: false
   type: hysteria2
-- alterId: 0
-  cipher: auto
-  name: 24|[OpenRay] 🇹🇼TW-13
-  network: tcp
-  port: 10037
-  server: 114.41.172.68
-  tls: false
-  type: vmess
-  uuid: 1dc73529-f030-3ac5-ad64-f7666b9a51bc
-- alterId: 0
-  cipher: auto
-  name: 24|[OpenRay] 🇹🇼TW-4
-  network: raw
-  port: 35034
-  server: 165.154.195.38
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 959a8caf-4cea-43d0-a548-3628e7ddfafc
 - name: 25|台湾
   password: 85a88b70b5f2f73d0dcac92bd3934a5e
   port: 50160
@@ -312,6 +150,15 @@ proxies:
   sni: 211-22-154-26.liao.kdns.fr
   tls: false
   type: hysteria2
+- alterId: 0
+  cipher: auto
+  name: 25|🇹🇼TW_5|5.5MB/s
+  network: none
+  port: 31172
+  server: 202.153.4.171
+  tls: false
+  type: vmess
+  uuid: 2bb735a0-b26e-4628-9f1a-23a6661b1275
 - client-fingerprint: chrome
   name: 30|TW台湾(mibei77.com 米贝节点分享)
   network: ws
@@ -539,68 +386,3 @@ proxies:
   tls: false
   type: vless
   uuid: 3a62a0c2-ba80-43a9-b757-9aca88b0552e
-- name: 30|🇹🇼TW_29|474KB/s|A004-260618 01
-  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
-  port: 443
-  server: vpn-tw-002.fastervpn.world
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: false
-  type: hysteria2
-- name: 30|🇹🇼TW_30|411KB/s 01
-  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
-  port: 443
-  server: vpn-tw-002.fastervpn.world
-  skip-cert-verify: true
-  sni: vpn-tw-002.fastervpn.world
-  tls: false
-  type: hysteria2
-- name: 30|🇹🇼TW_31|496KB/s|A004-260618 01
-  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
-  port: 443
-  server: 160.187.100.109
-  skip-cert-verify: true
-  sni: vpn-tw-002.fastervpn.world
-  tls: false
-  type: hysteria2
-- name: 30|🇹🇼TW_32|502KB/s|A004-260618 01
-  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
-  port: 443
-  server: vpn-tw-002.fastervpn.world
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: false
-  type: hysteria2
-- client-fingerprint: chrome
-  flow: xtls-rprx-vision
-  name: 30|🇹🇼TW_38|77KB/s|A004-260618 01
-  network: raw
-  port: 443
-  reality-opts:
-    public-key: Uq9Q8VXK9VkVOJ1M5PfORTqMhjjGoIS40-V0tAG_1FM
-    short-id: 5e13a6d43d0644c9
-  server: 35.201.230.136
-  servername: www.cloudflare.com
-  tls: false
-  type: vless
-  uuid: 18eef0d3-35b3-4a5f-97a1-7b5264530dd8
-- name: 30|🇹🇼TW_37|682KB/s|P002-260618 01
-  password: 9sK2mP8xQ7vL3nZ6
-  port: 443
-  server: 6ivh.pnuqcnp.cn
-  skip-cert-verify: true
-  sni: images.ctfassets.net
-  type: anytls
-- client-fingerprint: chrome
-  name: 30|🇹🇼TW_44|121KB/s|F003-260618 01
-  network: ws
-  port: 443
-  server: 140.235.39.19
-  servername: shuma.ccwu.cc
-  tls: true
-  type: vless
-  uuid: c18b978e-1c4e-415c-8bea-07942b563a64
-  ws-opts:
-    headers:
-      Host: shuma.ccwu.cc
-    path: /

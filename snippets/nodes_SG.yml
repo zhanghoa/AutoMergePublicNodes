@@ -47,19 +47,19 @@ proxies:
   server: 51.79.161.232
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: 7,24|[OpenRay] 🇸🇬SG-103
+  name: '7|🇸🇬 [ Configs by DukeMehdi ] SS... #5'
   password: 7e68e32f-8015-4f37-9082-70e8b0b58043
   port: 8443
   server: 13.212.141.33
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: 7,24|[OpenRay] 🇸🇬SG-85
+  name: '7|🇸🇬 [ Configs by DukeMehdi ] SS... #6'
   password: 7e68e32f-8015-4f37-9082-70e8b0b58043
   port: 8443
   server: 13.229.58.5
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: 7,24|[OpenRay] 🇸🇬SG-102
+  name: '7|🇸🇬 [ Configs by DukeMehdi ] SS... #7'
   password: 7e68e32f-8015-4f37-9082-70e8b0b58043
   port: 8443
   server: 54.169.240.70
@@ -77,13 +77,13 @@ proxies:
   server: 13.212.248.1
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: 7,24|[OpenRay] 🇸🇬SG-4
+  name: '7|🇸🇬 [ Configs by DukeMehdi ] SS... #10'
   password: 7e68e32f-8015-4f37-9082-70e8b0b58043
   port: 8443
   server: 47.129.152.126
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: 7,16,17,24|[OpenRay] 🇸🇬SG-203
+  name: '7,16,17|🇸🇬[www.v2nodes.com] ss-SG-1581... #1'
   password: 9epp3o9ng8ej59uv
   port: 14249
   server: 45.128.12.20
@@ -149,7 +149,7 @@ proxies:
   server: 81.90.189.57
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: 7,30|未知 SS-347 | free-nodes
+  name: '7|🇸🇬 [ Configs by DukeMehdi ] SS... #22'
   password: I-bP3lFh.dTG3XitF7XtVK83CZ7rI2Ut=n
   port: 23027
   server: 45.32.122.179
@@ -161,7 +161,7 @@ proxies:
   server: 176.97.64.144
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: 7,30|未知 SS-454 | free-nodes
+  name: '7|🇸🇬 [ Configs by DukeMehdi ] SS... #24'
   password: XV4bvaJIWoxl3IYEC1e6W7
   port: 2342
   server: 194.233.74.160
@@ -358,342 +358,64 @@ proxies:
   port: 8119
   server: 139.162.58.13
   type: ss
-- cipher: aes-256-gcm
-  name: '7|🇸🇬 [ Configs by DukeMehdi ] SS... #57'
-  password: pKEW8JPByTVTLtM
-  port: 443
-  server: 139.162.58.13
-  type: ss
-- cipher: aes-256-gcm
-  name: 7,24,30|❓Other_49|936KB/s|A004-260618 ...
-  password: qpSevKaUXYQKvSjp
-  port: 8388
-  server: 139.180.220.175
-  type: ss
-- cipher: aes-256-gcm
-  name: '7|🇸🇬 [ Configs by DukeMehdi ] SS... #59'
-  password: x23Z4LGkGDkThZ9Kaz4DURQp
-  port: 40093
-  server: 156.146.56.137
-  type: ss
-- cipher: aes-256-gcm
-  name: '7|🇸🇬 [ Configs by DukeMehdi ] SS... #60'
-  password: zDNVedRFPQexG9v
-  port: 6379
-  server: 139.99.68.21
-  type: ss
-- cipher: rc4-md5
-  name: 7,24|[OpenRay] 🇸🇬SG-179
-  password: 14fFPrbezE3HDZzsMOr6
-  port: 8080
-  server: 68.183.227.4
-  type: ss
-- name: 7|🇸🇬 [ Configs by DukeMehdi ] TJ...
-  password: 0c6a3341e8d5ab17
-  port: 3389
-  server: 103.172.116.196
-  type: trojan
-- name: '7|🇸🇬 [ Configs by DukeMehdi ] TJ... #1'
-  network: tcp
-  password: '!!str 123456'
-  port: 443
-  server: 194.233.88.107
-  skip-cert-verify: true
-  sni: trojan-ctb-sg01.globalssh.xyz
-  type: trojan
-- alpn:
-  - http/1.1
-  name: '7|🇸🇬 [ Configs by DukeMehdi ] TJ... #2'
-  network: tcp
-  password: '!!str 123456'
-  port: 443
-  server: 194.233.88.109
-  skip-cert-verify: true
-  sni: 194.233.88.109
-  type: trojan
-- name: '7|🇸🇬 [ Configs by DukeMehdi ] TJ... #3'
-  password: 16bcc187-a1a0-4b8a-8b69-627f38b7cc0d
-  port: 80
-  server: 15.235.197.4
-  sni: '15.235.197.4 '
-  type: trojan
-- name: '7|🇸🇬 [ Configs by DukeMehdi ] TJ... #4'
-  network: tcp
-  password: 4c3164ee-abcf-4091-abea-d1cd4937a68d
-  port: 443
-  server: 8.219.155.125
-  sni: 'jy.hhllfly.kdns.fr '
-  type: trojan
-- name: '7|🇸🇬 [ Configs by DukeMehdi ] TJ... #5'
-  network: ws
-  password: 5JKj82yC2BNxy8LAZha8Gsj2BAexJJU7ttTfeFcuHzmLjAiZ
-  port: 443
-  server: 46.137.202.140
-  sni: 'node1.bw8848.org '
-  type: trojan
-  ws-opts:
-    headers:
-      Host: node1.bw8848.org
-    path: '%2Fnode1-node1-5sczzi'
-- name: '7|🇸🇬 [ Configs by DukeMehdi ] TJ... #6'
-  password: 6f0a9d0fa39d65fa
-  port: 3389
-  server: 5.44.249.43
-  type: trojan
-- name: '7|🇸🇬 [ Configs by DukeMehdi ] TJ... #7'
-  network: tcp
-  password: 8r%3C%5B9%27l6hAO%238ZQi
-  port: 443
-  server: 154.26.128.147
-  sni: 'Koma-YT.PAGeS.Dev '
-  type: trojan
-- name: '7|🇸🇬 [ Configs by DukeMehdi ] TJ... #8'
-  network: tcp
-  password: 8r<[9'l6hAO#8ZQi
-  port: 443
-  server: 146.190.102.51
-  sni: 'Koma-YT.PAGeS.Dev '
-  type: trojan
-- name: '7|🇸🇬 [ Configs by DukeMehdi ] TJ... #9'
-  network: tcp
-  password: 8r<[9'l6hAO#8ZQi
-  port: 443
-  server: 165.22.104.36
-  sni: 'Koma-YT.PAGeS.Dev '
-  type: trojan
-- name: '7|🇸🇬 [ Configs by DukeMehdi ] TJ... #10'
-  network: tcp
-  password: 8r<[9'l6hAO#8ZQi
-  port: 443
-  server: 172.236.154.50
-  sni: 'Koma-YT.PAGeS.Dev '
-  type: trojan
-- name: '7|🇸🇬 [ Configs by DukeMehdi ] TJ... #11'
-  network: tcp
-  password: 8r<[9'l6hAO#8ZQi
-  port: 443
-  server: 178.128.60.89
-  sni: 'Koma-YT.PAGeS.Dev '
-  type: trojan
-- name: '7|🇸🇬 [ Configs by DukeMehdi ] TJ... #12'
-  network: tcp
-  password: 8r<[9'l6hAO#8ZQi
-  port: 443
-  server: 178.128.97.53
-  skip-cert-verify: true
-  sni: Koma-YT.PAGeS.Dev
-  type: trojan
-- name: '7|🇸🇬 [ Configs by DukeMehdi ] TJ... #13'
-  network: tcp
-  password: 8r<[9'l6hAO#8ZQi
-  port: 443
-  server: 188.239.9.91
-  sni: 'Koma-YT.PAGeS.Dev '
-  type: trojan
-- name: '7|🇸🇬 [ Configs by DukeMehdi ] TJ... #14'
-  network: tcp
-  password: 8r<[9'l6hAO#8ZQi
-  port: 443
-  server: 194.233.67.84
-  sni: 'Koma-YT.PAGeS.Dev '
-  type: trojan
-- name: '7|🇸🇬 [ Configs by DukeMehdi ] TJ... #15'
-  network: tcp
-  password: 8r<[9'l6hAO#8ZQi
-  port: 443
-  server: 209.97.170.177
-  sni: 'Koma-YT.PAGeS.Dev '
-  type: trojan
-- name: '7|🇸🇬 [ Configs by DukeMehdi ] TJ... #16'
-  network: tcp
-  password: 8r<[9'l6hAO#8ZQi
-  port: 443
-  server: 209.97.171.87
-  sni: 'Koma-YT.PAGeS.Dev '
-  type: trojan
-- name: '7|🇸🇬 [ Configs by DukeMehdi ] TJ... #17'
-  network: tcp
-  password: I4bO2YDEgs
-  port: 443
-  server: 188.166.252.91
-  skip-cert-verify: true
-  sni: aka.ms
-  type: trojan
-- name: '7|🇸🇬 [ Configs by DukeMehdi ] TJ... #18'
-  network: tcp
-  password: ND91608427
-  port: 443
-  server: 54.255.35.23
-  sni: tidy-gelding.rooster465.autos
-  type: trojan
-- name: '7|🇸🇬 [ Configs by DukeMehdi ] TJ... #19'
-  network: tcp
+- name: '11,16,17,22|@npv_vpn11 #928'
   password: UX82473651
   port: 443
-  server: 13.212.81.3
-  skip-cert-verify: false
-  sni: 'holy-lamb.rooster465.autos '
+  server: ace-liger.rooster465.autos
+  skip-cert-verify: true
+  sni: ace-liger.rooster465.autos
   type: trojan
-- name: '7|🇸🇬 [ Configs by DukeMehdi ] TJ... #20'
+  udp: true
+- country: 🇸🇬SG
+  delay: 292
+  name: '11,16,17,21,22|@npv_vpn11 #843'
   password: UX82473651
   port: 443
-  server: 18.143.92.167
-  skip-cert-verify: false
-  sni: 'glowing-marmoset.rooster465.autos '
+  server: rested-seahorse.rooster465.autos
+  skip-cert-verify: true
+  sni: rested-seahorse.rooster465.autos
   type: trojan
-- name: '7|🇸🇬 [ Configs by DukeMehdi ] TJ... #21'
+  udp: true
+- name: '11,16,17,22|@npv_vpn11 #842'
   password: UX82473651
   port: 443
-  server: 52.221.218.179
+  server: musical-mouse.rooster465.autos
   skip-cert-verify: true
-  sni: 'real-cardinal.rooster465.autos '
+  sni: musical-mouse.rooster465.autos
   type: trojan
-- name: '7|🇸🇬 [ Configs by DukeMehdi ] TJ... #22'
-  network: tcp
+  udp: true
+- country: 🇸🇬SG
+  delay: 298
+  name: 16,17,21|新加坡 - 新加坡 - 3
   password: UX82473651
   port: 443
-  server: 52.221.220.227
-  skip-cert-verify: false
-  sni: 'pet-antelope.rooster465.autos '
+  server: moral-basilisk.rooster465.autos
+  skip-cert-verify: true
+  sni: moral-basilisk.rooster465.autos
   type: trojan
-- name: 7,24|[OpenRay] 🇸🇬SG-167
-  network: tcp
+  udp: true
+- name: '16,17|🇸🇬[www.v2nodes.com] trojan-SG-... #17'
   password: UX82473651
   port: 443
-  server: 54.254.59.149
-  sni: desired-boxer.rooster465.autos
+  server: fond-mammoth.rooster465.autos
+  skip-cert-verify: true
+  sni: fond-mammoth.rooster465.autos
   type: trojan
-  ws-opts:
-    path: /
-- name: '7|🇸🇬 [ Configs by DukeMehdi ] TJ... #24'
-  network: tcp
+- name: '16,17|🇸🇬[www.v2nodes.com] trojan-SG-... #21'
   password: UX82473651
   port: 443
-  server: 56.10.9.77
-  skip-cert-verify: false
-  sni: 'inviting-ferret.rooster465.autos '
-  type: trojan
-- name: 7,24|[OpenRay] 🇸🇬SG-24
-  network: tcp
-  password: WvH8ooM9hom4KOOJHFJz1x5umE0aV4R0
-  port: 443
-  server: 43.156.36.253
+  server: present-ram.rooster465.autos
   skip-cert-verify: true
-  sni: tx-hy2
+  sni: present-ram.rooster465.autos
   type: trojan
-- alpn:
-  - http/1.1
-  name: '7|🇸🇬 [ Configs by DukeMehdi ] TJ... #26'
-  network: tcp
-  password: d6369144-4fb6-43e5-b9ca-255abf37607d
+- name: '16,17|🇸🇬[www.v2nodes.com] trojan-SG-... #22'
+  password: UX82473651
   port: 443
-  server: 139.162.36.248
+  server: real-werewolf.rooster465.autos
   skip-cert-verify: true
+  sni: real-werewolf.rooster465.autos
   type: trojan
-- name: 7,24|[OpenRay] 🇸🇬SG-157
-  password: e26a229d-e8f2-4ff9-8c7d-58a9d83ee437
-  port: 8886
-  server: 139.180.146.200
-  skip-cert-verify: true
-  type: trojan
-- name: '7|🇸🇬 [ Configs by DukeMehdi ] TJ... #28'
-  network: tcp
-  password: e505ff62-bc60-4113-b922-b40919396462
-  port: 443
-  server: 159.223.76.87
-  skip-cert-verify: true
-  sni: sp1.u-n.cz.prod.hosts.ooklaserver.net
-  type: trojan
-- name: 7,24|[OpenRay] 🇨🇳CN-42
-  network: ws
-  password: eeb6823c-b926-4ea2-866a-5542edd26e59
-  port: 443
-  server: 43.169.19.179
-  sni: tjsp.hhxaf.cc.cd
-  type: trojan
-  ws-opts:
-    headers:
-      Host: tjsp.hhxaf.cc.cd
-    path: '%2F'
-- alpn:
-  - http/1.1
-  name: '7|🇸🇬 [ Configs by DukeMehdi ] TJ... #30'
-  network: ws
-  password: humanity
-  port: 443
-  server: 27.50.48.49
-  skip-cert-verify: true
-  sni: www.calmloud.com
-  type: trojan
-  ws-opts:
-    headers:
-      Host: www.calmloud.com
-    path: '%2Fassignment'
-- name: '7|🇸🇬 [ Configs by DukeMehdi ] TJ... #31'
-  network: ws
-  password: humanity
-  port: 443
-  server: 43.169.18.179
-  sni: 'www.creationlong.org '
-  type: trojan
-  ws-opts:
-    headers:
-      Host: www.creationlong.org
-    path: '%2Fassignment'
-- name: '7|🇸🇬 [ Configs by DukeMehdi ] TJ... #32'
-  password: iyinglong
-  port: 443
-  server: 13.213.69.245
-  type: trojan
-- name: '7|🇸🇬 [ Configs by DukeMehdi ] TJ... #33'
-  password: iyinglong
-  port: 443
-  server: 18.140.67.76
-  type: trojan
-- name: '7|🇸🇬 [ Configs by DukeMehdi ] TJ... #34'
-  password: iyinglong
-  port: 443
-  server: 18.141.8.87
-  type: trojan
-- name: '7,12|🔥Join+Telegram:@Farah_VPN🟣 #2650'
-  network: tcp
-  password: pvZE3UfT0ziK1omVLlsjINBqeqqwab1M
-  port: 50573
-  server: 139.59.238.97
-  type: trojan
-  ws-opts:
-    headers:
-      Host: Telegram-Leviko_v2ray
-- name: 7,30|🇸🇬SG_16|806KB/s|A004-260618 01
-  network: tcp
-  password: sshs8_6481354771
-  port: 2087
-  server: 86.38.247.109
-  sni: ul-singapore1.09vpn.com
-  type: trojan
-- name: '7|🇸🇬 [ Configs by DukeMehdi ] TJ... #37'
-  password: e26a229d-e8f2-4ff9-8c7d-58a9d83ee437
-  port: 8886
-  server: 139.180.146.200
-  skip-cert-verify: true
-  sni: '139.180.146.200 '
-  type: trojan
-- alpn:
-  - http/1.1
-  name: '7|🇸🇬 [ Configs by DukeMehdi ] TJ... #38'
-  network: ws
-  password: mitivpn
-  port: 443
-  server: 27.50.48.49
-  skip-cert-verify: false
-  sni: 'gamingdll.ir '
-  type: trojan
-  ws-opts:
-    headers:
-      Host: gamingdll.ir
-    path: /index.html/ed=mitivpn
-- name: 16,17,24|[OpenRay] 🇸🇬SG-19
-  network: tcp
+- name: '16,17|🇸🇬[www.v2nodes.com] trojan-SG-... #23'
   password: e26a229d-e8f2-4ff9-8c7d-58a9d83ee437
   port: 8886
   server: 139.180.146.200
@@ -705,11 +427,37 @@ proxies:
   port: 443
   server: 56.10.9.77
   type: trojan
+- name: '16,17|🇸🇬[www.v2nodes.com] trojan-SG-... #25'
+  password: UX82473651
+  port: 443
+  server: holy-lamb.rooster465.autos
+  sni: holy-lamb.rooster465.autos
+  type: trojan
+- name: '16,17|🇸🇬[www.v2nodes.com] trojan-SG-... #26'
+  password: UX82473651
+  port: 443
+  server: pet-antelope.rooster465.autos
+  sni: pet-antelope.rooster465.autos
+  type: trojan
 - name: '16,17|🇸🇬[www.v2nodes.com] trojan-SG-... #27'
   password: UX82473651
   port: 443
   server: desired-boxer.rooster465.autos
   sni: desired-boxer.rooster465.autos
+  type: trojan
+- name: '16|🇸🇬[www.v2nodes.com] trojan-SG-... #13'
+  password: UX82473651
+  port: 443
+  server: real-cardinal.rooster465.autos
+  sni: real-cardinal.rooster465.autos
+  type: trojan
+- name: '16,17|🇸🇬[www.v2nodes.com] trojan-SG-... #29'
+  network: tcp
+  password: UX82473651
+  port: 443
+  server: 18.143.92.167
+  skip-cert-verify: false
+  sni: glowing-marmoset.rooster465.autos
   type: trojan
 - alterId: 0
   cipher: auto
@@ -725,6 +473,21 @@ proxies:
   ws-opts:
     headers:
       Host: ASaqYIDZa9WDQ9Kq.v.3dns.vip
+    path: /ws-vmess
+- alterId: 0
+  cipher: auto
+  name: '16,27|🇸🇬 新加坡2|@ripaojiedian #2'
+  network: ws
+  port: 443
+  server: 6JiziO8PxQAXBAtZ.v.3dns.vip
+  servername: 6JiziO8PxQAXBAtZ.v.3dns.vip
+  skip-cert-verify: false
+  tls: true
+  type: vmess
+  uuid: 88888888-8888-8888-8888-888888888888
+  ws-opts:
+    headers:
+      Host: 6JiziO8PxQAXBAtZ.v.3dns.vip
     path: /ws-vmess
 - name: '16,17,28|新加坡|@ripaojiedian #3'
   network: tcp
@@ -796,7 +559,7 @@ proxies:
     headers:
       Host: 6JiziO8PxQAXBAtZ.v.3dns.vip
     path: /ws-vmess
-- name: 17,24|[OpenRay] 🌐XX-852
+- name: '17|🇸🇬 新加坡 | SGP #3 #1'
   password: UX82473651
   port: 443
   server: simple-molly.rooster465.autos
@@ -839,96 +602,16 @@ proxies:
     headers:
       Host: 159.australiacaregroup.site
     path: /vmess
-- name: 24|[OpenRay] 🇸🇬SG-38
-  network: tcp
+- country: 🇸🇬SG
+  delay: 284
+  name: 21|新加坡 - 新加坡 - 1
   password: UX82473651
   port: 443
-  server: 13.212.81.3
-  skip-cert-verify: false
-  sni: holy-lamb.rooster465.autos
-  type: trojan
-  ws-opts:
-    path: /
-- name: 24|[OpenRay] 🇸🇬SG-15
-  network: tcp
-  password: UX82473651
-  port: 443
-  server: 52.221.218.179
-  skip-cert-verify: false
-  sni: real-cardinal.rooster465.autos
-  type: trojan
-  ws-opts:
-    path: '%2f'
-- name: 24|[OpenRay] 🇸🇬SG-168
-  network: tcp
-  password: UX82473651
-  port: 443
-  server: 52.221.220.227
+  server: glorious-glider.rooster465.autos
   skip-cert-verify: true
-  sni: pet-antelope.rooster465.autos
+  sni: glorious-glider.rooster465.autos
   type: trojan
-  ws-opts:
-    path: '%2f'
-- name: 24|[OpenRay] 🇸🇬SG-144
-  network: tcp
-  password: UX82473651
-  port: 443
-  server: 56.10.9.77
-  skip-cert-verify: false
-  sni: inviting-ferret.rooster465.autos
-  type: trojan
-  ws-opts:
-    path: /
-- name: 24|[OpenRay] 🇸🇬SG-21
-  password: WvH8ooM9hom4KOOJHFJz1x5umE0aV4R0
-  port: 443
-  server: 43.156.36.253
-  skip-cert-verify: true
-  sni: ''
-  type: trojan
-- alterId: 0
-  cipher: auto
-  name: 24|[OpenRay] 🇸🇬SG-147
-  network: ws
-  port: 55002
-  server: 45.127.32.220
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: b25731af-0428-4274-be5d-31a273a8d632
-  ws-opts:
-    headers:
-      Host: ''
-    path: /b25731af-0428-4274-be5d-31a273a8d632-vm
-- alterId: 0
-  cipher: auto
-  name: 24|[OpenRay] 🇸🇬SG-136
-  network: raw
-  port: 18000
-  server: 149.88.23.202
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: f8c8dc3d-0d37-46b0-8b34-a7232882fcfe
-- alterId: 0
-  cipher: auto
-  name: 24|[OpenRay] 🇸🇬SG-13
-  network: raw
-  port: 18000
-  server: 149.88.23.207
-  tls: false
-  type: vmess
-  uuid: f8c8dc3d-0d37-46b0-8b34-a7232882fcfe
-- alterId: 0
-  cipher: auto
-  name: 24|[OpenRay] 🇸🇬SG-60
-  network: raw
-  port: 18000
-  server: ww11.levikogjgfdd.ir
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: f8c8dc3d-0d37-46b0-8b34-a7232882fcfe
+  udp: true
 - name: '25|新加坡|@ripaojiedian #2'
   password: 6ec301428255a78a1d826988d86cc87e
   port: 51396
@@ -956,17 +639,10 @@ proxies:
   port: 38388
   server: 103.186.155.16
   type: ss
-- name: 30|🇸🇬SG_94|499KB/s|A004-260618 01
-  network: raw
-  password: skynet
-  port: 119
-  server: cloud.lakshan.us
-  sni: cloud.lakshan.us
-  type: trojan
-- name: 30|🇸🇬SG_104|512KB/s|A004-260618 0...
+- name: 30|🇸🇬SG_16|806KB/s|A004-260618 01
   network: tcp
-  password: skynet
-  port: 119
-  server: 64.120.95.203
-  sni: cloud.lakshan.us
+  password: sshs8_6481354771
+  port: 2087
+  server: 86.38.247.109
+  sni: ul-singapore1.09vpn.com
   type: trojan

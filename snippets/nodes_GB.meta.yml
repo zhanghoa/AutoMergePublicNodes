@@ -80,7 +80,7 @@ proxies:
   server: 167.99.192.30
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: 7,30|未知 SS-362 | free-nodes
+  name: '7|🇬🇧 [ Configs by DukeMehdi ] SS... #25'
   password: MGU4ZjVkMGNhY2Y3YzM0NmIxMDgyNDQ5OGVjZjY2Y2Y=
   port: 61312
   server: 144.24.226.223
@@ -104,235 +104,235 @@ proxies:
   server: 140.238.64.207
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: 7,24,30|未知 SS-518 | free-nodes
+  name: 7,30|🇳🇱NL_17|5.6MB/s|A003-260618 01
   password: k1dBOmOB4oqi7Ump37a1bQ
   port: 8080
   server: 82.38.31.176
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: 7,24|[OpenRay] 🇬🇧GB-252
+  name: '7|🇬🇧 [ Configs by DukeMehdi ] SS... #30'
   password: k1dBOmOB4oqi7Ump37a1bQ
   port: 8080
   server: 82.38.31.178
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: 7,24,30|未知 SS-519 | free-nodes
+  name: 7,30|🇳🇱NL_18|3.6MB/s|A003-260618 01
   password: k1dBOmOB4oqi7Ump37a1bQ
   port: 8080
   server: 82.38.31.179
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: 7,24,30|未知 SS-520 | free-nodes
+  name: 7,30|🇳🇱NL_8|3.7MB/s 01
   password: k1dBOmOB4oqi7Ump37a1bQ
   port: 8080
   server: 82.38.31.180
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: 7,24,30|未知 SS-521 | free-nodes
+  name: 7,30|🇳🇱NL_108|3.0MB/s|A003-260618 0...
   password: k1dBOmOB4oqi7Ump37a1bQ
   port: 8080
   server: 82.38.31.181
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: 7,24,30|🇳🇱NL_72|6.1MB/s|A004-260618 01
+  name: 7,30|🇳🇱NL_72|6.1MB/s|A004-260618 01
   password: k1dBOmOB4oqi7Ump37a1bQ
   port: 8080
   server: 82.38.31.182
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: 7,24,30|🇳🇱NL_14|3.7MB/s 01
+  name: 7,30|🇳🇱NL_14|3.7MB/s 01
   password: k1dBOmOB4oqi7Ump37a1bQ
   port: 8080
   server: 82.38.31.183
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: 7,24,30|🇳🇱NL_169|2.1MB/s|A004-260618 0...
+  name: 7,30|🇳🇱NL_169|2.1MB/s|A004-260618 0...
   password: k1dBOmOB4oqi7Ump37a1bQ
   port: 8080
   server: 82.38.31.184
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: 7,24,30|🇳🇱NL_170|2.2MB/s|A004-260618 0...
+  name: 7,30|🇳🇱NL_170|2.2MB/s|A004-260618 0...
   password: k1dBOmOB4oqi7Ump37a1bQ
   port: 8080
   server: 82.38.31.185
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: 7,24,30|🇳🇱NL_35|9.5MB/s|A004-260618 01
+  name: 7,30|🇳🇱NL_35|9.5MB/s|A004-260618 01
   password: k1dBOmOB4oqi7Ump37a1bQ
   port: 8080
   server: 82.38.31.186
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: 7,24,30|🇳🇱NL_33|7.8MB/s|A004-260618 01
+  name: 7,30|🇳🇱NL_33|7.8MB/s|A004-260618 01
   password: k1dBOmOB4oqi7Ump37a1bQ
   port: 8080
   server: 82.38.31.187
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: 7,24,30|未知 SS-522 | free-nodes
+  name: 7,30|🇳🇱NL_159|2.1MB/s|A003-260618 0...
   password: k1dBOmOB4oqi7Ump37a1bQ
   port: 8080
   server: 82.38.31.189
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: 7,24,30|未知 SS-523 | free-nodes
+  name: 7,30|🇳🇱NL_9|3.0MB/s 01
   password: k1dBOmOB4oqi7Ump37a1bQ
   port: 8080
   server: 82.38.31.190
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: 7,24,30|未知 SS-524 | free-nodes
+  name: 7,30|🇳🇱NL_117|9.2MB/s 01
   password: k1dBOmOB4oqi7Ump37a1bQ
   port: 8080
   server: 82.38.31.191
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: 7,24,30|未知 SS-525 | free-nodes
+  name: 7,30|🇳🇱NL_115|2.3MB/s 01
   password: k1dBOmOB4oqi7Ump37a1bQ
   port: 8080
   server: 82.38.31.192
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: 7,24,30|未知 SS-526 | free-nodes
+  name: '7|🇬🇧 [ Configs by DukeMehdi ] SS... #44'
   password: k1dBOmOB4oqi7Ump37a1bQ
   port: 8080
   server: 82.38.31.193
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: 7,24,30|🇳🇱NL_5|3.3MB/s 01
+  name: 7,30|🇳🇱NL_5|3.3MB/s 01
   password: k1dBOmOB4oqi7Ump37a1bQ
   port: 8080
   server: 82.38.31.194
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: 7,24,30|🇳🇱NL_29|2.9MB/s|A004-260618 01
+  name: 7,30|🇳🇱NL_29|2.9MB/s|A004-260618 01
   password: k1dBOmOB4oqi7Ump37a1bQ
   port: 8080
   server: 82.38.31.195
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: 7,24|[OpenRay] 🇳🇱NL-182
+  name: '7|🇬🇧 [ Configs by DukeMehdi ] SS... #47'
   password: k1dBOmOB4oqi7Ump37a1bQ
   port: 8080
   server: 82.38.31.198
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: 7,24,30|🇳🇱NL_36|3.8MB/s|A004-260618 01
+  name: 7,30|🇳🇱NL_36|3.8MB/s|A004-260618 01
   password: k1dBOmOB4oqi7Ump37a1bQ
   port: 8080
   server: 82.38.31.199
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: 7,24,30|🇳🇱NL_31|3.0MB/s|A004-260618 01
+  name: 7,30|🇳🇱NL_31|3.0MB/s|A004-260618 01
   password: k1dBOmOB4oqi7Ump37a1bQ
   port: 8080
   server: 82.38.31.200
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: 7,24,30|🇳🇱NL_70|2.3MB/s|B007-260618 01
+  name: 7,30|🇳🇱NL_70|2.3MB/s|B007-260618 01
   password: k1dBOmOB4oqi7Ump37a1bQ
   port: 8080
   server: 82.38.31.201
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: 7,24,30|🇳🇱NL_40|2.1MB/s|B007-260618 01
+  name: 7,30|🇳🇱NL_40|2.1MB/s|B007-260618 01
   password: k1dBOmOB4oqi7Ump37a1bQ
   port: 8080
   server: 82.38.31.202
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: 7,24,30|未知 SS-527 | free-nodes
+  name: 7,30|🇳🇱NL_19|1.8MB/s|A003-260618 01
   password: k1dBOmOB4oqi7Ump37a1bQ
   port: 8080
   server: 82.38.31.203
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: 7,30|未知 SS-528 | free-nodes
+  name: '7|🇬🇧 [ Configs by DukeMehdi ] SS... #53'
   password: k1dBOmOB4oqi7Ump37a1bQ
   port: 8080
   server: 82.38.31.204
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: 7,24,30|未知 SS-529 | free-nodes
+  name: 7,30|🇳🇱NL_2|5.3MB/s 01
   password: k1dBOmOB4oqi7Ump37a1bQ
   port: 8080
   server: 82.38.31.205
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: 7,24,30|未知 SS-530 | free-nodes
+  name: 7,30|🇳🇱NL_30|4.6MB/s|A004-260618 01
   password: k1dBOmOB4oqi7Ump37a1bQ
   port: 8080
   server: 82.38.31.206
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: 7,24,30|未知 SS-531 | free-nodes
+  name: 7,30|🇳🇱NL_20|2.8MB/s|A003-260618 01
   password: k1dBOmOB4oqi7Ump37a1bQ
   port: 8080
   server: 82.38.31.207
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: 7,24,30|未知 SS-532 | free-nodes
+  name: 7,30|🇳🇱NL_3|2.6MB/s 01
   password: k1dBOmOB4oqi7Ump37a1bQ
   port: 8080
   server: 82.38.31.208
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: 7,24,30|🇳🇱NL_118|4.0MB/s 01
+  name: 7,30|🇳🇱NL_118|4.0MB/s 01
   password: k1dBOmOB4oqi7Ump37a1bQ
   port: 8080
   server: 82.38.31.210
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: 7,24,30|🇳🇱NL_113|1.8MB/s|A004-260618 0...
+  name: 7,30|🇳🇱NL_113|1.8MB/s|A004-260618 0...
   password: k1dBOmOB4oqi7Ump37a1bQ
   port: 8080
   server: 82.38.31.211
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: 7,24,30|未知 SS-533 | free-nodes
+  name: 7,30|🇳🇱NL_21|2.7MB/s|A003-260618 01
   password: k1dBOmOB4oqi7Ump37a1bQ
   port: 8080
   server: 82.38.31.212
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: 7,24,30|🇳🇱NL_15|2.1MB/s 01
+  name: 7,30|🇳🇱NL_15|2.1MB/s 01
   password: k1dBOmOB4oqi7Ump37a1bQ
   port: 8080
   server: 82.38.31.213
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: 7,24,30|未知 SS-534 | free-nodes
+  name: 7,30|🇳🇱NL_22|3.5MB/s|A003-260618 01
   password: k1dBOmOB4oqi7Ump37a1bQ
   port: 8080
   server: 82.38.31.214
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: 7,24,30|未知 SS-535 | free-nodes
+  name: 7,30|🇳🇱NL_10|5.8MB/s 01
   password: k1dBOmOB4oqi7Ump37a1bQ
   port: 8080
   server: 82.38.31.215
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: 7,24,30|未知 SS-536 | free-nodes
+  name: 7,30|🇳🇱NL_53|2.2MB/s|A003-260618 01
   password: k1dBOmOB4oqi7Ump37a1bQ
   port: 8080
   server: 82.38.31.216
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: 7,24,30|未知 SS-537 | free-nodes
+  name: 7,30|🇳🇱NL_23|5.6MB/s|A003-260618 01
   password: k1dBOmOB4oqi7Ump37a1bQ
   port: 8080
   server: 82.38.31.217
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: 7,24,30|🇳🇱NL_225|3.3MB/s|A004-260618 0...
+  name: '7|🇬🇧 [ Configs by DukeMehdi ] SS... #66'
   password: k1dBOmOB4oqi7Ump37a1bQ
   port: 8080
   server: 82.38.31.218
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: 7,24,30|🇳🇱NL_7|7.7MB/s 01
+  name: 7,30|🇳🇱NL_7|7.7MB/s 01
   password: k1dBOmOB4oqi7Ump37a1bQ
   port: 8080
   server: 82.38.31.219
@@ -344,7 +344,7 @@ proxies:
   server: 57.129.140.88
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: 7,24,30|🇳🇱NL_94|2.1MB/s 01
+  name: 7,30|🇳🇱NL_94|2.1MB/s 01
   password: oZIoA69Q8yhcQV8ka3Pa3A
   port: 8080
   server: 82.38.31.10
@@ -362,13 +362,13 @@ proxies:
   server: 82.38.31.11
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '7|🇬🇧 [ Configs by DukeMehdi ] SS... #191'
+  name: '7|🇬🇧 [ Configs by DukeMehdi ] SS... #72'
   password: oZIoA69Q8yhcQV8ka3Pa3A
   port: 8080
   server: 82.38.31.122
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: 7,24,30|🇳🇱NL_175|8.0MB/s|A004-260618 0...
+  name: 7,30|🇳🇱NL_175|8.0MB/s|A004-260618 0...
   password: oZIoA69Q8yhcQV8ka3Pa3A
   port: 8080
   server: 82.38.31.13
@@ -386,13 +386,13 @@ proxies:
   server: 82.38.31.149
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: 7,24,30|🇳🇱NL_39|2.2MB/s|A004-260618 01
+  name: 7,30|🇳🇱NL_39|2.2MB/s|A004-260618 01
   password: oZIoA69Q8yhcQV8ka3Pa3A
   port: 8080
   server: 82.38.31.155
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: 7,24,30|🇳🇱NL_46|596KB/s|C002-260622 01
+  name: 7,30|🇳🇱NL_46|596KB/s|C002-260622 01
   password: oZIoA69Q8yhcQV8ka3Pa3A
   port: 8080
   server: 82.38.31.156
@@ -410,25 +410,25 @@ proxies:
   server: 82.38.31.159
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: 7,30|未知 SS-547 | free-nodes
+  name: '7|🇬🇧 [ Configs by DukeMehdi ] SS... #80'
   password: oZIoA69Q8yhcQV8ka3Pa3A
   port: 443
   server: 82.38.31.15
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: 7,24,30|未知 SS-548 | free-nodes
+  name: 7,30|🇳🇱NL_57|2.1MB/s|B007-260618 01
   password: oZIoA69Q8yhcQV8ka3Pa3A
   port: 443
   server: 82.38.31.162
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: 7,24,30|🇳🇱NL_28|3.1MB/s|A004-260618 01
+  name: 7,30|🇳🇱NL_28|3.1MB/s|A004-260618 01
   password: oZIoA69Q8yhcQV8ka3Pa3A
   port: 8080
   server: 82.38.31.164
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: 7,30|未知 SS-549 | free-nodes
+  name: 7,30|🇳🇱NL_166|3.0MB/s|A003-260618 0...
   password: oZIoA69Q8yhcQV8ka3Pa3A
   port: 8080
   server: 82.38.31.16
@@ -452,13 +452,13 @@ proxies:
   server: 82.38.31.171
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: 7,24,30|未知 SS-550 | free-nodes
+  name: 7,30|🇳🇱NL_11|1.8MB/s 01
   password: oZIoA69Q8yhcQV8ka3Pa3A
   port: 443
   server: 82.38.31.174
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: 7,24,30|未知 SS-551 | free-nodes
+  name: 7,30|🇳🇱NL_24|2.1MB/s|A003-260618 01
   password: oZIoA69Q8yhcQV8ka3Pa3A
   port: 8080
   server: 82.38.31.174
@@ -470,13 +470,13 @@ proxies:
   server: 82.38.31.175
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: 7,24,30|🇳🇱NL_67|1.7MB/s|S004-260618 01
+  name: 7,30|🇳🇱NL_67|1.7MB/s|S004-260618 01
   password: oZIoA69Q8yhcQV8ka3Pa3A
   port: 8080
   server: 82.38.31.175
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: 7,30|未知 SS-552 | free-nodes
+  name: 7,30|🇳🇱NL_25|2.7MB/s|A003-260618 01
   password: oZIoA69Q8yhcQV8ka3Pa3A
   port: 8080
   server: 82.38.31.17
@@ -488,7 +488,7 @@ proxies:
   server: 82.38.31.18
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: 7,24,30|🇳🇱NL_96|2.6MB/s|A004-260618 01
+  name: 7,30|🇳🇱NL_96|2.6MB/s|A004-260618 01
   password: oZIoA69Q8yhcQV8ka3Pa3A
   port: 8080
   server: 82.38.31.26
@@ -500,25 +500,25 @@ proxies:
   server: 82.38.31.28
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: 7,24,30|未知 SS-554 | free-nodes
+  name: 7,30|🇳🇱NL_6|3.3MB/s 01
   password: oZIoA69Q8yhcQV8ka3Pa3A
   port: 8080
   server: 82.38.31.2
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: 7,24,30|🇳🇱NL_32|4.2MB/s|A004-260618 01
+  name: 7,30|🇳🇱NL_32|4.2MB/s|A004-260618 01
   password: oZIoA69Q8yhcQV8ka3Pa3A
   port: 8080
   server: 82.38.31.34
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '7|🇬🇧 [ Configs by DukeMehdi ] SS... #206'
+  name: '7|🇬🇧 [ Configs by DukeMehdi ] SS... #97'
   password: oZIoA69Q8yhcQV8ka3Pa3A
   port: 443
   server: 82.38.31.35
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: 7,24,30|🇳🇱NL_4|3.9MB/s 01
+  name: 7,30|🇳🇱NL_4|3.9MB/s 01
   password: oZIoA69Q8yhcQV8ka3Pa3A
   port: 8080
   server: 82.38.31.35
@@ -530,13 +530,13 @@ proxies:
   server: 82.38.31.36
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: 7,24,30|🇳🇱NL_139|3.1MB/s 01
+  name: 7,30|🇳🇱NL_139|3.1MB/s 01
   password: oZIoA69Q8yhcQV8ka3Pa3A
   port: 8080
   server: 82.38.31.39
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: 7,24,30|未知 SS-556 | free-nodes
+  name: '7|🇬🇧 [ Configs by DukeMehdi ] SS... #101'
   password: oZIoA69Q8yhcQV8ka3Pa3A
   port: 8080
   server: 82.38.31.3
@@ -548,55 +548,55 @@ proxies:
   server: 82.38.31.42
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: 7,24,30|未知 SS-557 | free-nodes
+  name: 7,30|🇳🇱NL_71|3.0MB/s|B007-260618 01
   password: oZIoA69Q8yhcQV8ka3Pa3A
   port: 8080
   server: 82.38.31.42
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: 7,24,30|未知 SS-558 | free-nodes
+  name: 7,30|🇳🇱NL_26|2.3MB/s|A003-260618 01
   password: oZIoA69Q8yhcQV8ka3Pa3A
   port: 8080
   server: 82.38.31.46
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: 7,24,30|未知 SS-559 | free-nodes
+  name: '7|🇬🇧 [ Configs by DukeMehdi ] SS... #105'
   password: oZIoA69Q8yhcQV8ka3Pa3A
   port: 8080
   server: 82.38.31.47
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: 7,24,30|未知 SS-560 | free-nodes
+  name: 7,30|🇳🇱NL_1|2.6MB/s 01
   password: oZIoA69Q8yhcQV8ka3Pa3A
   port: 8080
   server: 82.38.31.48
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: 7,24,30|🇳🇱NL_163|5.6MB/s|B007-260618 0...
+  name: 7,30|🇳🇱NL_163|5.6MB/s|B007-260618 0...
   password: oZIoA69Q8yhcQV8ka3Pa3A
   port: 8080
   server: 82.38.31.49
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: 7,24,30|🇳🇱NL_155|1.8MB/s|M001-260618 0...
+  name: 7,30|🇳🇱NL_155|1.8MB/s|M001-260618 0...
   password: oZIoA69Q8yhcQV8ka3Pa3A
   port: 8080
   server: 82.38.31.61
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: 7,24,30|🇳🇱NL_218|2.8MB/s|M001-260618 0...
+  name: '7|🇬🇧 [ Configs by DukeMehdi ] SS... #109'
   password: oZIoA69Q8yhcQV8ka3Pa3A
   port: 8080
   server: 82.38.31.62
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: 7,24,30|🇳🇱NL_153|7.9MB/s|B007-260618 0...
+  name: 7,30|🇳🇱NL_153|7.9MB/s|B007-260618 0...
   password: oZIoA69Q8yhcQV8ka3Pa3A
   port: 8080
   server: 82.38.31.66
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: 7,24,30|🇳🇱NL_156|8.3MB/s|G001-260618 0...
+  name: 7,30|🇳🇱NL_156|8.3MB/s|G001-260618 0...
   password: oZIoA69Q8yhcQV8ka3Pa3A
   port: 8080
   server: 82.38.31.69
@@ -608,7 +608,7 @@ proxies:
   server: 82.38.31.7
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: 7,24,30|未知 SS-562 | free-nodes
+  name: 7,30|🇳🇱NL_154|3.7MB/s|B007-260618 0...
   password: oZIoA69Q8yhcQV8ka3Pa3A
   port: 8080
   server: 82.38.31.82
@@ -620,7 +620,7 @@ proxies:
   server: 82.38.31.9
   type: ss
 - cipher: aes-128-gcm
-  name: 7,24,30|🇬🇧GB_2|2.2MB/s|A004-260618 01
+  name: 7,30|🇬🇧GB_2|2.2MB/s|A004-260618 01
   password: shadowsocks
   port: 443
   server: 141.98.101.181
@@ -644,7 +644,7 @@ proxies:
   server: 212.102.53.197
   type: ss
 - cipher: aes-128-gcm
-  name: '7|🇬🇧 [ Configs by DukeMehdi ] SS... #213'
+  name: '7|🇬🇧 [ Configs by DukeMehdi ] SS... #120'
   password: shadowsocks
   port: 443
   server: 212.102.53.198
@@ -734,13 +734,13 @@ proxies:
   server: 51.68.206.229
   type: ss
 - cipher: aes-256-gcm
-  name: 7,24,30|🇬🇧GB_10|5.1MB/s|B007-260618 01
+  name: 7,30|🇬🇧GB_10|5.1MB/s|B007-260618 01
   password: LXchLsIwtCeUAUgu
   port: 443
   server: 149.102.149.207
   type: ss
 - cipher: aes-256-gcm
-  name: 7,16,17,24,30|🇬🇧GB_7|2.4MB/s|A004-260618 01
+  name: 7,16,17,30|🇬🇧GB_7|2.4MB/s|A004-260618 01
   password: LXchLsIwtCeUAUgu
   port: 80
   server: 149.102.149.207
@@ -908,7 +908,7 @@ proxies:
   server: 172.99.190.87
   type: ss
 - cipher: aes-256-gcm
-  name: 7,30|🇦🇹AT_4|1.8MB/s|A001-260618 01
+  name: '7|🇬🇧 [ Configs by DukeMehdi ] SS... #164'
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
   server: 82.110.60.9
@@ -919,1978 +919,20 @@ proxies:
   port: 8118
   server: 172.99.190.39
   type: ss
-- cipher: aes-256-gcm
-  name: '7|🇬🇧 [ Configs by DukeMehdi ] SS... #166'
-  password: gqtwGu9bVreJqL3FTHSVKGzy
-  port: 50695
-  server: 89.238.133.123
-  type: ss
-- cipher: aes-256-gcm
-  name: '7|🇬🇧 [ Configs by DukeMehdi ] SS... #167'
-  password: e4FCWrgpkji3QY
-  port: 9101
-  server: 172.99.190.149
-  type: ss
-- cipher: aes-256-gcm
-  name: '7|🇬🇧 [ Configs by DukeMehdi ] SS... #168'
-  password: e4FCWrgpkji3QY
-  port: 9102
-  server: 172.99.190.39
-  type: ss
-- cipher: aes-256-gcm
-  name: '7|🇬🇧 [ Configs by DukeMehdi ] SS... #169'
-  password: e4FCWrgpkji3QY
-  port: 9101
-  server: 172.99.190.87
-  type: ss
-- cipher: aes-256-gcm
-  name: '7|🇬🇧 [ Configs by DukeMehdi ] SS... #170'
-  password: faBAoD54k87UJG7
-  port: 2376
-  server: 172.99.190.149
-  type: ss
-- cipher: aes-256-gcm
-  name: '7|🇬🇧 [ Configs by DukeMehdi ] SS... #171'
-  password: faBAoD54k87UJG7
-  port: 2375
-  server: 172.99.190.39
-  type: ss
-- cipher: aes-256-gcm
-  name: '7|🇬🇧 [ Configs by DukeMehdi ] SS... #172'
-  password: faBAoD54k87UJG7
-  port: 2376
-  server: 172.99.190.39
-  type: ss
-- cipher: aes-256-gcm
-  name: '7|🇬🇧 [ Configs by DukeMehdi ] SS... #173'
-  password: faBAoD54k87UJG7
-  port: 2376
-  server: 172.99.190.61
-  type: ss
-- cipher: aes-256-gcm
-  name: '7|🇬🇧 [ Configs by DukeMehdi ] SS... #174'
-  password: faBAoD54k87UJG7
-  port: 2376
-  server: 172.99.190.7
-  type: ss
-- cipher: aes-256-gcm
-  name: '7|🇬🇧 [ Configs by DukeMehdi ] SS... #175'
-  password: faBAoD54k87UJG7
-  port: 2376
-  server: 172.99.190.87
-  type: ss
-- cipher: aes-256-gcm
-  name: '7|🇬🇧 [ Configs by DukeMehdi ] SS... #176'
-  password: g5MeD6Ft3CWlJId
-  port: 5003
-  server: 172.99.190.149
-  type: ss
-- cipher: aes-256-gcm
-  name: '7|🇬🇧 [ Configs by DukeMehdi ] SS... #177'
-  password: g5MeD6Ft3CWlJId
-  port: 5004
-  server: 172.99.190.149
-  type: ss
-- cipher: aes-256-gcm
-  name: '7|🇬🇧 [ Configs by DukeMehdi ] SS... #178'
-  password: g5MeD6Ft3CWlJId
-  port: 5003
-  server: 172.99.190.39
-  type: ss
-- cipher: aes-256-gcm
-  name: '7|🇬🇧 [ Configs by DukeMehdi ] SS... #179'
-  password: g5MeD6Ft3CWlJId
-  port: 5004
-  server: 172.99.190.39
-  type: ss
-- cipher: aes-256-gcm
-  name: '7|🇬🇧 [ Configs by DukeMehdi ] SS... #180'
-  password: g5MeD6Ft3CWlJId
-  port: 5003
-  server: 172.99.190.61
-  type: ss
-- cipher: aes-256-gcm
-  name: 7,16,30|🇬🇧GB_11|1.6MB/s|A004-260618 01
-  password: g5h5jleTRSyO3Rk4
-  port: 443
-  server: 149.102.132.184
-  type: ss
-- cipher: aes-256-gcm
-  name: 7,17,24,30|🇬🇧GB_12|644KB/s|A004-260618 01
-  password: g5h5jleTRSyO3Rk4
-  port: 80
-  server: 149.102.132.184
-  type: ss
-- cipher: aes-256-gcm
-  name: '7|🇬🇧 [ Configs by DukeMehdi ] SS... #183'
-  password: kDWvXYZoTBcGkC4
-  port: 8881
-  server: 172.99.190.39
-  type: ss
-- cipher: aes-256-gcm
-  name: '7|🇬🇧 [ Configs by DukeMehdi ] SS... #184'
-  password: kDWvXYZoTBcGkC4
-  port: 8882
-  server: 172.99.190.39
-  type: ss
-- cipher: aes-256-gcm
-  name: '7|🇬🇧 [ Configs by DukeMehdi ] SS... #185'
-  password: kDWvXYZoTBcGkC4
-  port: 8882
-  server: 172.99.190.61
-  type: ss
-- cipher: aes-256-gcm
-  name: '7|🇬🇧 [ Configs by DukeMehdi ] SS... #186'
-  password: pKEW8JPByTVTLtM
-  port: 443
-  server: 172.99.190.149
-  type: ss
-- cipher: aes-256-gcm
-  name: '7|🇬🇧 [ Configs by DukeMehdi ] SS... #187'
-  password: pX0uhU3ZjUcLWYs0Vez55BO3JoQrRlL
-  port: 17000
-  server: 143.110.161.156
-  type: ss
-- cipher: aes-256-gcm
-  name: '7|🇬🇧 [ Configs by DukeMehdi ] SS... #188'
-  password: r6hDrkP4Et6EENTS8Qy7Tcmg
-  port: 44539
-  server: 185.125.207.201
-  type: ss
-- cipher: aes-256-gcm
-  name: '7|🇬🇧 [ Configs by DukeMehdi ] SS... #189'
-  password: zDNVedRFPQexG9v
-  port: 445
-  server: 172.99.190.158
-  type: ss
-- cipher: rc4-md5
-  name: 7,24,30|🇬🇧GB_1|4.2MB/s 01
-  password: 14fFPrbezE3HDZzsMOr6
-  port: 8080
-  server: 146.70.61.37
-  type: ss
-- name: 7|🇬🇧 [ Configs by DukeMehdi ] TJ...
-  password: 02e653c9-7c93-46a9-999d-11834bd0c577
-  port: 443
-  server: 132.145.51.172
-  type: trojan
-- name: '7|🇬🇧 [ Configs by DukeMehdi ] TJ... #1'
-  password: 67e200f1-4ff5-42ca-8425-3f16f7986c29
-  port: 443
-  server: 51.89.22.228
-  sni: 't1.samsung.bforward2.uk '
-  type: trojan
-- name: '7|🇬🇧 [ Configs by DukeMehdi ] TJ... #2'
-  network: tcp
-  password: 6884d714-d3c4-4b49-aa20-767ea92837d6
-  port: 443
-  server: 217.163.76.254
-  sni: 'icecream.955850.xyz '
-  type: trojan
-- name: '7|🇬🇧 [ Configs by DukeMehdi ] TJ... #3'
-  password: 8697fe6b-1lWNFc1RmRBNk5NQU5KSnga3fa58ac5a3ef0-b4ab-11eb-b65e-1239d0255272
-  port: 443
-  server: 185.44.76.188
-  type: trojan
-- name: '7|🇬🇧 [ Configs by DukeMehdi ] TJ... #23'
-  password: 8mjHjiRVsOT5
-  port: 16151
-  server: 3.10.143.243
-  skip-cert-verify: false
-  sni: 'appsvs.shop '
-  type: trojan
-- alpn:
-  - http/1.1
-  name: '7|🇬🇧 [ Configs by DukeMehdi ] TJ... #5'
-  network: ws
-  password: MiTiVPN
-  port: 443
-  server: 91.193.58.201
-  skip-cert-verify: false
-  sni: 'fl.App-Cloud.ir '
-  type: trojan
-  ws-opts:
-    headers:
-      Host: Fl.App-Cloud.ir
-    path: '%2FMiTiVPN%3DfL'
-- name: '7|🇬🇧 [ Configs by DukeMehdi ] TJ... #6'
-  network: tcp
-  password: TeleGram-VPNCTVIP
-  port: 443
-  server: 164.38.155.61
-  sni: 'trojan-ws.vpnctvip.dns-dynamic.NeT '
-  type: trojan
-- name: '7|🇬🇧 [ Configs by DukeMehdi ] TJ... #7'
-  password: Trojan@82164024
-  port: 443
-  server: 18.168.148.212
-  sni: 'gb.tronsg.com '
-  type: trojan
-- name: '7|🇬🇧 [ Configs by DukeMehdi ] TJ... #8'
-  password: b640d791-ff83-4300-b509-c2a02f97f167
-  port: 80
-  server: 51.38.71.175
-  sni: 'uk1.trojanvh.xyz '
-  type: trojan
-- name: '7|🇬🇧 [ Configs by DukeMehdi ] TJ... #9'
-  network: tcp
-  password: bpb-trojan
-  port: 443
-  server: 185.238.228.210
-  sni: 'bpb.my79801.com '
-  type: trojan
-- name: '7|🇬🇧 [ Configs by DukeMehdi ] TJ... #10'
-  network: tcp
-  password: bpb-trojan
-  port: 443
-  server: 185.238.228.6
-  sni: '403b3611-99bc-43b7-88D7-26Ed5D0825a9-3.PAgeS.dEv '
-  type: trojan
-- name: '7|🇬🇧 [ Configs by DukeMehdi ] TJ... #11'
-  network: ws
-  password: hF7uSJfeBPtSNXKtuYvTRNaBdGkkXHpKJfLRfbpaDWovomSL
-  port: 443
-  server: 3.8.238.251
-  sni: 'uk1.bw8848.org '
-  type: trojan
-  ws-opts:
-    headers:
-      Host: uk1.bw8848.org
-    path: '%2Fuk1-uk1-gcjtze'
-- name: '7|🇬🇧 [ Configs by DukeMehdi ] TJ... #12'
-  network: ws
-  password: humanity
-  port: 443
-  server: 213.1.145.50
-  skip-cert-verify: true
-  sni: www.calmlunch.com
-  type: trojan
-  ws-opts:
-    headers:
-      Host: www.calmlunch.com
-    path: '/assignment '
-- name: '7|🇬🇧 [ Configs by DukeMehdi ] TJ... #13'
-  network: ws
-  password: humanity
-  port: 443
-  server: 91.193.58.77
-  sni: 'www.calmloud.com '
-  type: trojan
-  ws-opts:
-    headers:
-      Host: www.calmloud.com
-    path: '%2Fassignment'
-- name: '7|🇬🇧 [ Configs by DukeMehdi ] TJ... #14'
-  password: shenmegui
-  port: 8461
-  server: 185.49.33.47
-  sni: '$jp.swiftfalcon.app '
-  type: trojan
-- name: '7|🇬🇧 [ Configs by DukeMehdi ] TJ... #15'
-  network: tcp
-  password: t=59N=Mo9Mri3fydoIizU9vBbePqKilHij
-  port: 443
-  server: 192.248.173.25
-  type: trojan
-- name: '7|🇬🇧 [ Configs by DukeMehdi ] TJ... #16'
-  network: tcp
-  password: t=59N=Mo9Mri3fydoIizU9vBbePqKilHij
-  port: 443
-  server: 45.32.176.168
-  type: trojan
-- name: '7|🇬🇧 [ Configs by DukeMehdi ] TJ... #17'
-  network: tcp
-  password: t=59N=Mo9Mri3fydoIizU9vBbePqKilHij
-  port: 443
-  server: 78.141.232.96
-  type: trojan
-- name: '7|🇬🇧 [ Configs by DukeMehdi ] TJ... #18'
-  password: telegram-id-directvpn
-  port: 22222
-  server: 13.40.3.71
-  sni: 'trj.rollingnext.co.uk '
-  type: trojan
-- name: '7|🇬🇧 [ Configs by DukeMehdi ] TJ... #19'
-  password: telegram-id-directvpn
-  port: 22222
-  server: 18.130.204.79
-  sni: 'trj.rollingnext.co.uk '
-  type: trojan
-- name: '7|🇬🇧 [ Configs by DukeMehdi ] TJ... #20'
-  password: telegram-id-privatevpns
-  port: 22222
-  server: 18.132.35.140
-  sni: 'trj.rollingnext.co.uk '
-  type: trojan
-- name: '7|🇬🇧 [ Configs by DukeMehdi ] TJ... #21'
-  password: telegram-id-privatevpns
-  port: 22222
-  server: 18.135.6.102
-  sni: 'trj.rollingnext.co.uk '
-  type: trojan
-- name: '7|🇬🇧 [ Configs by DukeMehdi ] TJ... #22'
-  password: telegram-id-privatevpns
-  port: 22222
-  server: 3.8.123.26
-  sni: 'trj.rollingnext.co.uk '
-  type: trojan
-- client-fingerprint: chrome
-  flow: xtls-rprx-vision
-  name: '7,12|🔥Join+Telegram:@Farah_VPN🟣 #6077'
-  network: tcp
-  port: 443
-  reality-opts:
-    public-key: nFJCJ2tvxLdLrc9G-O1laW8KDir5SDnaOTmYndVaOGQ
-    short-id: 7a3f9e2b1c8d4f6a
-  server: 31.76.246.59
-  servername: v.gb-cdn.ru
-  tls: false
-  type: vless
-  uuid: 02e2d68f-9982-4467-ad47-00cbeeae30e6
-- alpn:
-  - http/1.1
-  client-fingerprint: chrome
-  name: '7,12,16,22|@npv_vpn11 #773'
-  network: tcp
-  port: 443
-  server: 186.190.211.188
-  servername: 186.190.211.188
-  skip-cert-verify: true
-  tls: true
-  type: vless
-  uuid: 03fcc618-b93d-6796-6aed-8a38c975d581
-- client-fingerprint: chrome
-  name: '7|🇬🇧 [ Configs by DukeMehdi ] VL... #2'
-  network: ws
-  port: 52014
-  server: 57.129.130.57
-  servername: 2-gys60wmzb6bqzd.qpsjn114hh3vlph9z60sesz0agjawpwroneg.workers.dev
-  tls: true
-  type: vless
-  uuid: 04d2aebd-246f-4348-805f-a8e6840365fc
-  ws-opts:
-    headers:
-      Host: 2-gys60wmzb6bqzd.qpsjn114hh3vlph9z60sesz0agjawpwroneg.workers.dev
-    path: '%2F%40Marisa_kristi '
-- name: '7,12|🇬🇧 [ Configs by DukeMehdi ] VL... #151'
-  network: ws
-  port: 22222
-  server: 18.170.163.176
-  servername: 'telegram-channel-vlessconfig.sohala.uk '
-  tls: true
-  type: vless
-  uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e
-  ws-opts:
-    headers:
-      Host: telegram-channel-vlessconfig.sohala.uk
-    path: /telegram-channel-vlessconfig-ws
-- name: '7|🇬🇧 [ Configs by DukeMehdi ] VL... #4'
-  network: ws
-  port: 41510
-  server: 193.149.185.17
-  tls: false
-  type: vless
-  uuid: 0599ca07-cc1c-4e42-b637-6e286f43beb2
-  ws-opts:
-    path: '%2F '
-- client-fingerprint: 'chrome '
-  name: '7|🇬🇧 [ Configs by DukeMehdi ] VL... #5'
-  network: ws
-  port: 2096
-  server: 134.209.183.179
-  servername: vpn47.cc.cd
-  tls: true
-  type: vless
-  uuid: 0970324b-8c61-4ae7-8c3f-385a6f1e17e4
-  ws-opts:
-    headers:
-      Host: vpn47.cc.cd
-    path: '%2F'
-- client-fingerprint: 'chrome '
-  name: '7|🇬🇧 [ Configs by DukeMehdi ] VL... #6'
-  network: ws
-  port: 8443
-  server: 144.126.239.205
-  servername: vpn47.cc.cd
-  tls: true
-  type: vless
-  uuid: 0970324b-8c61-4ae7-8c3f-385a6f1e17e4
-  ws-opts:
-    headers:
-      Host: vpn47.cc.cd
-    path: '%2F'
-- client-fingerprint: chrome
-  flow: xtls-rprx-vision
-  name: '7,12|🔥Join+Telegram:@Farah_VPN🟣 #5590'
-  network: tcp
-  port: 443
-  reality-opts:
-    public-key: C-_dFKmuuFw7zIT6ThH0N2FKkR21f2v31zGRIbTmuBM
-    short-id: 561533e7f4
-  server: 136.176.68.44
-  servername: www.amd.com
-  tls: false
-  type: vless
-  uuid: 0b21158e-00f5-4a2f-b242-e3e5574f68a0
-- name: '7,12|🔥Join+Telegram:@Farah_VPN🟣 #7559'
-  network: tcp
-  port: 32073
-  server: 18.171.164.29
-  tls: false
-  type: vless
-  uuid: 0b694f0a-48c3-4394-8862-a1b7cd1a184e
-  ws-opts:
-    headers:
-      Host: zula.ir
-- client-fingerprint: chrome
-  flow: xtls-rprx-vision
-  name: '7,12|🔥Join+Telegram:@Farah_VPN🟣 #6387'
-  network: tcp
-  port: 443
-  reality-opts:
-    public-key: ZrdPHtBvi7yMRj17SohKaGQEXuDptmCJWCi8gk5HlD8
-    short-id: 35938c4e546cd459
-  server: 80.47.239.184
-  servername: www.tno.nl
-  tls: false
-  type: vless
-  uuid: 0bd7f421-0422-d0dd-51e1-c5bed64a8983
 - client-fingerprint: firefox
   flow: xtls-rprx-vision
-  name: '7|🇬🇧 [ Configs by DukeMehdi ] VL... #10'
+  name: 9,12,16,20|🇳🇱_荷兰_73
   network: tcp
-  port: 443
+  port: 2063
   reality-opts:
-    public-key: cWVHOLypYFtzpvgldlZ5h1fhOTptEC-ZQI7pFb7ok0c
-    short-id: 5e11872495085a8f
-  server: 78.129.237.23
-  servername: strapi.io
+    public-key: MMpt_jWc4J3oySBdf5sPDVRkiWlZmOObth6A1scM9BM
+  server: 2.26.231.218
+  servername: rusbid.de
   skip-cert-verify: true
-  tls: false
-  type: vless
-  uuid: 10000025-9781-8767-f000-d3b3363ba020
-- client-fingerprint: chrome
-  flow: xtls-rprx-vision
-  name: 7,30|🇫🇮FI_28|343KB/s|M002-260618 01
-  network: tcp
-  port: 443
-  reality-opts:
-    public-key: FjcEZNQ8t5E4R04_11T6ghsOutdqwKKrelkuadakoQg
-    short-id: 60500a63ad12
-  server: 107.181.151.241
-  servername: www.microsoft.com
-  tls: false
-  type: vless
-  uuid: 106d20f6-d70a-40e2-b69b-8e82baf8d117
-- client-fingerprint: 'chrome '
-  flow: ''
-  name: '7|🇬🇧 [ Configs by DukeMehdi ] VL... #12'
-  network: ws
-  port: 443
-  server: 185.193.30.94
-  servername: kakoolnews.whattodowhatnottodo.workers.dev
   tls: true
-  type: vless
-  uuid: 12cb0a24-0438-4980-8617-9c93205895fa
-  ws-opts:
-    headers:
-      Host: kakoolnews.whattodowhatnottodo.workers.dev
-    path: '%2F'
-- client-fingerprint: firefox
-  flow: xtls-rprx-vision
-  name: 7,30|🇫🇮FI_49|369KB/s|M002-260618 01
-  network: tcp
-  port: 443
-  reality-opts:
-    public-key: J-dv-HrWfQ_IOoyutv0Kg-rO8QwoRwc02dS1dS_tblk
-    short-id: 87f895f23064
-  server: 107.181.151.39
-  servername: www.techradar.com
-  tls: false
-  type: vless
-  uuid: 13aef2e0-b3fb-4322-a0e9-c10b908ce6b5
-- client-fingerprint: chrome
-  name: '7|🇬🇧 [ Configs by DukeMehdi ] VL... #14'
-  network: ws
-  port: 52014
-  server: 57.129.130.34
-  servername: bapj1qapjk4.0sds0li1bwcz0i76it0gjxv1.workers.dev
-  tls: true
-  type: vless
-  uuid: 146ac9e6-b8ab-40bf-908b-46bae083915e
-  ws-opts:
-    headers:
-      Host: bapj1qapjk4.0sds0li1bwcz0i76it0gjxv1.workers.dev
-    path: '%2F%40Marisa_kristi'
-- client-fingerprint: chrome
-  name: 7,24,30|🇬🇧GB_36|388KB/s|F003-260618 01
-  network: ws
-  port: 486
-  server: 46.101.46.169
-  servername: 9-7u3b6e.wzkija0v0du4yhk6jfyfafml3nh22kne.workers.dev
-  tls: true
-  type: vless
-  uuid: 16bf3359-e7d8-4de6-86a0-6d65cf793b56
-  ws-opts:
-    headers:
-      Host: 9-7u3b6e.wzkija0v0du4yhk6jfyfafml3nh22kne.workers.dev
-    path: /@Marisa_kristi
-- name: '7,12|🇬🇧 [ Configs by DukeMehdi ] VL... #16'
-  network: ws
-  port: 443
-  server: 185.193.28.212
-  servername: 'crm.lotussec.com '
-  skip-cert-verify: false
-  tls: true
-  type: vless
-  uuid: 17540a16-a0dd-5694-7e1e-14e281ccc032
-  ws-opts:
-    headers:
-      Host: crm.lotussec.com
-    path: /@JavidnamanIran/Javid-SHAH-KingRezaPahlavi/
-- client-fingerprint: chrome
-  name: 7,24|[OpenRay] 🇬🇧GB-266
-  network: ws
-  port: 443
-  server: 109.176.239.123
-  servername: notls.lukongtou.eu.org
-  tls: true
-  type: vless
-  uuid: 1d16c6e0-1bbe-435b-b661-90043fee999c
-  ws-opts:
-    headers:
-      Host: notls.lukongtou.eu.org
-    path: /Telegram-WangCai2🇨🇳
-- client-fingerprint: chrome
-  name: 7,24|[OpenRay] 🇬🇧GB-176
-  network: ws
-  port: 443
-  server: 185.193.29.123
-  servername: notls.lukongtou.eu.org
-  tls: true
-  type: vless
-  uuid: 1d16c6e0-1bbe-435b-b661-90043fee999c
-  ws-opts:
-    headers:
-      Host: notls.lukongtou.eu.org
-    path: /Telegram-WangCai2🇨🇳
-- client-fingerprint: firefox
-  flow: xtls-rprx-vision
-  name: '7|🇬🇧 [ Configs by DukeMehdi ] VL... #19'
-  network: tcp
-  port: 493
-  reality-opts:
-    public-key: hoJugHeT_SOHhybvTE5gEEgEqsar9KrDtC5uP5qi5GY
-    short-id: '31cf122180c019f7 '
-  server: 109.73.65.116
-  servername: louisvuitton.com
-  tls: false
-  type: vless
-  uuid: 20000020-3063-1376-f000-f6c850c0a020
-- client-fingerprint: chrome
-  flow: ''
-  name: '7,12,30|🇺🇸US美國丨yoyapai.com #10'
-  network: tcp
-  port: 443
-  reality-opts:
-    public-key: 6p0aVCkOgd-xaxqSMANYABL6O4Tdbftnxjiy5qcmISQ
-    short-id: 0b
-  server: 45.155.52.231
-  servername: ru2.skydrgn-online.online
-  tls: false
-  type: vless
-  uuid: 219f9fec-8983-4f6f-af8c-31bd0c6dbf19
-  ws-opts:
-    headers:
-      Host: ru2.skydrgn-online.online
-- client-fingerprint: firefox
-  flow: xtls-rprx-vision
-  name: 7,11,16,20,24|[OpenRay] 🇬🇧GB-158
-  network: tcp
-  port: 26460
-  reality-opts:
-    public-key: rnykCyLboP7HiOwx0Tfo5OSUVaJXbSMOB9MKkEZ_Xh8
-  server: 40.120.36.23
-  servername: addons.mozilla.org
-  skip-cert-verify: true
-  tls: false
   type: vless
   udp: true
-  uuid: 234ff65c-35e8-4ff6-a1e7-cce6acb2f3e2
-- client-fingerprint: chrome
-  flow: xtls-rprx-vision
-  name: '7,12|🔥Join+Telegram:@Farah_VPN🟣 #4222'
-  network: tcp
-  port: 443
-  reality-opts:
-    public-key: Hbbi45lhaIjHmcZoXD84dVlGhHnVOTM8LvC3_kh3dis
-    short-id: ff3f36afdec470
-  server: 31.76.39.253
-  servername: eng.jokervpn.space
-  tls: false
-  type: vless
-  uuid: 24b84bd3-baa3-4192-9625-23c9690ae6f6
-- flow: ''
-  name: '7|🇬🇧 [ Configs by DukeMehdi ] VL... #23'
-  network: ws
-  port: 80
-  server: 91.193.58.116
-  tls: false
-  type: vless
-  uuid: 26beb784-a664-4c3e-becf-0f0c12568b62
-  ws-opts:
-    headers:
-      Host: twilight-poetry-2bfe.218-699.workers.dev
-    path: '%2Fpyip%3DTelegram-WangCai2%F0%9F%87%A8%F0%9F%87%B3 '
-- flow: ''
-  name: '7|🇬🇧 [ Configs by DukeMehdi ] VL... #24'
-  network: ws
-  port: 80
-  server: 91.193.58.151
-  tls: false
-  type: vless
-  uuid: 26beb784-a664-4c3e-becf-0f0c12568b62
-  ws-opts:
-    headers:
-      Host: twilight-poetry-2bfe.218-699.workers.dev
-    path: '%2Fpyip%3DTelegram-WangCai2%F0%9F%87%A8%F0%9F%87%B3 '
-- flow: ''
-  name: '7|🇬🇧 [ Configs by DukeMehdi ] VL... #25'
-  network: ws
-  port: 80
-  server: 91.193.58.162
-  tls: false
-  type: vless
-  uuid: 26beb784-a664-4c3e-becf-0f0c12568b62
-  ws-opts:
-    headers:
-      Host: twilight-poetry-2bfe.218-699.workers.dev
-    path: '%2Fpyip%3DTelegram-WangCai2%F0%9F%87%A8%F0%9F%87%B3 '
-- flow: ''
-  name: '7|🇬🇧 [ Configs by DukeMehdi ] VL... #26'
-  network: ws
-  port: 80
-  server: 91.193.58.197
-  tls: false
-  type: vless
-  uuid: 26beb784-a664-4c3e-becf-0f0c12568b62
-  ws-opts:
-    headers:
-      Host: twilight-poetry-2bfe.218-699.workers.dev
-    path: '%2Fpyip%3DTelegram-WangCai2%F0%9F%87%A8%F0%9F%87%B3 '
-- flow: ''
-  name: '7|🇬🇧 [ Configs by DukeMehdi ] VL... #27'
-  network: ws
-  port: 80
-  server: 91.193.58.243
-  tls: false
-  type: vless
-  uuid: 26beb784-a664-4c3e-becf-0f0c12568b62
-  ws-opts:
-    headers:
-      Host: twilight-poetry-2bfe.218-699.workers.dev
-    path: '%2Fpyip%3DTelegram-WangCai2%F0%9F%87%A8%F0%9F%87%B3 '
-- flow: ''
-  name: '7|🇬🇧 [ Configs by DukeMehdi ] VL... #28'
-  network: ws
-  port: 80
-  server: 91.193.58.246
-  tls: false
-  type: vless
-  uuid: 26beb784-a664-4c3e-becf-0f0c12568b62
-  ws-opts:
-    headers:
-      Host: twilight-poetry-2bfe.218-699.workers.dev
-    path: '%2Fpyip%3DTelegram-WangCai2%F0%9F%87%A8%F0%9F%87%B3 '
-- name: '7,12|🔥Join+Telegram:@Farah_VPN🟣 #85'
-  network: tcp
-  port: 57890
-  server: 146.19.130.192
-  tls: false
-  type: vless
-  uuid: 2a701f21-2347-4eb2-813e-4867ad819272
-- flow: xtls-rprx-vision
-  name: '7,12|🔥Join+Telegram:@Farah_VPN🟣 #3552'
-  network: tcp
-  port: 443
-  reality-opts:
-    public-key: SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc
-  server: 178.83.226.55
-  servername: sellflow.org
-  skip-cert-verify: true
-  tls: false
-  type: vless
-  uuid: 2a77a470-315c-493d-b690-59b814a804cb
-- name: '7|🇬🇧 [ Configs by DukeMehdi ] VL... #31'
-  network: 'ws '
-  port: 2087
-  server: 82.24.203.10
-  tls: false
-  type: vless
-  uuid: 3165b4d0-40f7-4df0-9f59-4c89ccdac92d
-  ws-opts:
-    path: '%2F3bfc3e3ed603'
-- client-fingerprint: chrome
-  flow: ''
-  grpc-opts:
-    grpc-service-name: grpc-api
-  name: '7|🇬🇧 [ Configs by DukeMehdi ] VL... #32'
-  network: grpc
-  port: 443
-  server: 45.86.159.164
-  servername: gbos2.osvp.online
-  tls: true
-  type: vless
-  uuid: 367ff772-a8f4-4895-8e99-3702a868f0c6
-- client-fingerprint: chrome
-  name: 7,12,24|[OpenRay] 🇬🇧GB-26
-  network: tcp
-  port: 1222
-  reality-opts:
-    public-key: zpLKK8HuwXJDH9D0O3t5Z_tO3ajkj7VRtXdr6UGy1zE
-    short-id: a25d0f
-  server: 23.81.36.148
-  servername: www.forvo.com
-  skip-cert-verify: true
-  tls: false
-  type: vless
-  uuid: 36c3dcc2-17b6-4478-b8a7-3978e6d5afe9
-- flow: xtls-rprx-vision
-  name: '7,12|🔥Join+Telegram:@Farah_VPN🟣 #7418'
-  network: tcp
-  port: 443
-  reality-opts:
-    public-key: SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY
-    short-id: fd55b698ee8c3629
-  server: 95.154.237.47
-  servername: lanacion.com.ar
-  tls: false
-  type: vless
-  uuid: 3845c09f-35c8-4852-b876-5ed8cc5ca6cd
-- client-fingerprint: chrome
-  flow: xtls-rprx-vision
-  name: 7,12,22,24,30|未知 VLESS-717 | free-nodes
-  network: tcp
-  port: 51847
-  reality-opts:
-    public-key: S6noV0L8eNASnTe1gXLutLZNdfENsvKMsOJiGQYi6nc
-    short-id: 0eec442e7b34d2f2
-  server: 3.9.135.156
-  servername: www.tesla.com
-  tls: false
-  type: vless
-  uuid: 391a01e9-b664-407b-9158-610fab3f5920
-  ws-opts:
-    headers:
-      Host: /?TELEGRAM--V2ray_confiig
-- alpn:
-  - h2
-  client-fingerprint: chrome
-  name: '7,12|🔥Join+Telegram:@Farah_VPN🟣 #8262'
-  network: xhttp
-  port: 443
-  server: 50.7.216.173
-  servername: 3f89518a.ferrin.uk
-  skip-cert-verify: false
-  tls: true
-  type: vless
-  uuid: 3f89518a-e78f-4d31-a1c5-1725b4cfb70d
-  ws-opts:
-    headers:
-      Host: api.ferrin.uk
-    path: /nl
-- name: '7,12|🔥Join+Telegram:@Farah_VPN🟣 #4768'
-  network: httpupgrade
-  port: 24986
-  server: 217.179.221.234
-  tls: false
-  type: vless
-  uuid: 40e32120-08c8-4a48-aa0b-156b653f364f
-  ws-opts:
-    headers:
-      Host: mci.ir
-    path: /
-- client-fingerprint: chrome
-  flow: xtls-rprx-vision
-  name: '7|🇬🇧 [ Configs by DukeMehdi ] VL... #38'
-  network: tcp
-  port: 443
-  reality-opts:
-    public-key: 6tORX9bm6UlGJ4dR8L2kzOd21oSrOyzpN7gC6SqGGyc
-    short-id: 'd27683580fc15f1e '
-  server: 178.159.10.78
-  servername: www.vodafone.co.uk
-  tls: false
-  type: vless
-  uuid: 43488128-319e-f480-64ea-0acdc712e2a8
-- client-fingerprint: safari
-  flow: xtls-rprx-vision
-  name: '7|🇬🇧 [ Configs by DukeMehdi ] VL... #39'
-  network: tcp
-  port: 443
-  reality-opts:
-    public-key: zNtSqVR2dp454rIsJL8qQ-miOuSIP33Koyqc9gUGdV8
-    short-id: '60bf01f7 '
-  server: 20.0.105.19
-  servername: www.cloudflare.com
-  tls: false
-  type: vless
-  uuid: 47df3f6c-c3a0-463b-a6a0-ad4e8494c95b
-- alpn:
-  - v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus
-  name: '7|🇬🇧 [ Configs by DukeMehdi ] VL... #40'
-  network: 'ws '
-  port: 2087
-  server: 45.95.184.120
-  tls: false
-  type: vless
-  uuid: 4a269a45-a9e3-4272-b04a-1d42d581150f
-  ws-opts:
-    path: /4de527ea5ed9
-- flow: xtls-rprx-vision
-  name: '7,12|🔥Join+Telegram:@Farah_VPN🟣 #6836'
-  network: tcp
-  port: 443
-  reality-opts:
-    public-key: s0ypPx0AL3k2KOk74tbm-aE-i7eIR_MYVzfLHZeLaUk
-    short-id: 2e124af254a65e7c
-  server: 164.37.100.195
-  servername: tomaz1337shellbuy.vvzzkontaktezzvv.garden
-  tls: false
-  type: vless
-  uuid: 4bdeee92-97e8-414d-bef6-ec1d5e2ab73b
-- flow: xtls-rprx-vision
-  name: '7|🇬🇧 [ Configs by DukeMehdi ] VL... #42'
-  network: raw
-  port: 443
-  reality-opts:
-    public-key: 0rtpNciTfV9TsoEc7Y8lS5LzBUzLppMnRY8bQC_bH3M
-    short-id: 'aabbccdd '
-  server: 79.141.171.133
-  servername: apple.com
-  tls: false
-  type: vless
-  uuid: 4c3fe585-ac09-41df-b284-888818888188
-- client-fingerprint: chrome
-  flow: xtls-rprx-vision
-  name: 7,12,30|🇬🇧GB_63|3.1MB/s|B007-260618 01
-  network: tcp
-  port: 443
-  reality-opts:
-    public-key: SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY
-    short-id: fd55b698ee8c3629
-  server: 87.117.234.19
-  servername: strapi.io
-  tls: false
-  type: vless
-  uuid: 4d583b2c-2f5a-47d0-8181-e95217fe8cd9
-- client-fingerprint: chrome
-  name: '7|🇬🇧 [ Configs by DukeMehdi ] VL... #44'
-  network: raw
-  port: 443
-  reality-opts:
-    public-key: 4e4FI0siWxFtLCRCVDQurn1wLTuvKWhRY0zj1SaUcyw
-    short-id: 'a13a7cc5 '
-  server: 51.89.229.134
-  servername: www.samsung.com
-  tls: false
-  type: vless
-  uuid: 53821f3c-5b03-456a-89f3-f8379f130752
-- client-fingerprint: chrome
-  flow: xtls-rprx-vision
-  name: '7,12|🔥Join+Telegram:@Farah_VPN🟣 #866'
-  network: tcp
-  port: 443
-  reality-opts:
-    public-key: SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY
-    short-id: fd55b698ee8c3629
-  server: 82.145.55.75
-  servername: strapi.io
-  tls: false
-  type: vless
-  uuid: 58ca7c2e-dfd7-4414-984d-58a1084e2424
-- alpn:
-  - h2
-  - http/1.1
-  client-fingerprint: firefox
-  flow: xtls-rprx-vision
-  name: '7,12,22,24|🇬🇧 [ Configs by DukeMehdi ] VL... #46'
-  network: tcp
-  port: 443
-  server: 51.194.215.232
-  servername: 'cloak.surfweb.club '
-  skip-cert-verify: false
-  tls: true
-  type: vless
-  uuid: 5b5e4cbf-2366-499a-8327-0cd9918c687d
-- flow: xtls-rprx-vision
-  name: '7|🇬🇧 [ Configs by DukeMehdi ] VL... #47'
-  network: tcp
-  port: 18633
-  reality-opts:
-    public-key: tpovASeNxNkqDfPZhr2raGUY6pis-9XSLCB6DrIEU1g
-    short-id: 'd9029b790f10b2e2 '
-  server: 3.8.160.120
-  servername: www.yahoo.com
-  tls: false
-  type: vless
-  uuid: 5da5bc00-ea44-462e-bdb7-7687346ad039
-- client-fingerprint: chrome
-  flow: xtls-rprx-vision
-  name: 7,12,16,24,30|🇫🇮FI_61|215KB/s|M002-260618 01
-  network: raw
-  port: 443
-  reality-opts:
-    public-key: G7bpUPFSW28-oE6ff8qZac1_apU6PiJ-GHmi7tAPDSY
-    short-id: 91af08b1ce1f
-  server: 87.239.249.137
-  servername: www.foxsports.com
-  tls: false
-  type: vless
-  uuid: 67eb6b17-7797-4ded-bf52-423c4c5f6cbd
-- client-fingerprint: firefox
-  flow: xtls-rprx-vision
-  name: '7|🇬🇧 [ Configs by DukeMehdi ] VL... #49'
-  network: tcp
-  port: 443
-  reality-opts:
-    public-key: 5RK9ivB7UF_89vkywwpZjW3jAJqsEGskRSS7c0OUOXM
-    short-id: '2f4761809cf9fbfb '
-  server: 194.147.35.83
-  servername: ang.leontunel.ru
-  tls: false
-  type: vless
-  uuid: 68b4b16e-2759-47a4-8a69-33118edf5ce6
-- name: 7,12,22,24|[OpenRay] 🇬🇧GB-426
-  network: tcp
-  port: 8080
-  server: 212.74.39.188
-  tls: false
-  type: vless
-  uuid: 6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8
-- client-fingerprint: chrome
-  name: '7,12|🇬🇧 [ Configs by DukeMehdi ] VL... #51'
-  network: ws
-  port: 2096
-  server: 91.193.58.108
-  servername: 'free-server.techsonic.dev '
-  skip-cert-verify: false
-  tls: true
-  type: vless
-  uuid: 6e59d5c5-7aa3-4c36-a4c4-e3b899525ed2
-  ws-opts:
-    headers:
-      Host: free-server.techsonic.dev
-    path: /free-server.techsonic.dev
-- alpn:
-  - h2
-  client-fingerprint: chrome
-  name: '7,12|🔥Join+Telegram:@Farah_VPN🟣 #4374'
-  network: xhttp
-  port: 443
-  server: 140.248.54.195
-  servername: iran.ir
-  skip-cert-verify: true
-  tls: true
-  type: vless
-  uuid: 7a196b46-ddc6-48cc-9f6b-e933919fbe87
-  ws-opts:
-    headers:
-      Host: henzojan.global.ssl.fastly.net
-    path: /
-- flow: ''
-  name: '7|🇬🇧 [ Configs by DukeMehdi ] VL... #53'
-  network: ws
-  port: 443
-  server: 91.193.59.240
-  servername: 'vp13.cc.cd '
-  tls: true
-  type: vless
-  uuid: 7b102311-43fd-4e8f-877e-8090623c101d
-  ws-opts:
-    headers:
-      Host: vp13.cc.cd
-    path: '%2Ffp%3Dchrome'
-- name: '7,12|🔥Join+Telegram:@Farah_VPN🟣 #6169'
-  network: tcp
-  port: 443
-  server: 13.40.188.81
-  tls: false
-  type: vless
-  uuid: 7e6a38f4-7150-4eff-ae68-579852357ddb
-- client-fingerprint: firefox
-  flow: xtls-rprx-vision
-  name: 7,24|[OpenRay] 🇩🇪DE-63
-  network: tcp
-  port: 7443
-  reality-opts:
-    public-key: 0BVxZKOt6wO0jIB1xRkAAtaFUkmyFAbVWfkkKSJBfEI
-    short-id: 570ffeb12f6e4635
-  server: 45.141.118.232
-  servername: node.remnagecsp.ru
-  tls: false
-  type: vless
-  uuid: 81a227e3-cb97-40fe-b7b6-45a60ed065cf
-- client-fingerprint: chrome
-  name: '7,12|🔥Join+Telegram:@Farah_VPN🟣 #6421'
-  network: tcp
-  port: 12345
-  reality-opts:
-    public-key: cjHs5dUmE_JJisr3JZKEqVk93HoocY_5Vd3baedRrx4
-    short-id: b4d2
-  server: 51.89.229.26
-  servername: www.stackoverflow.com
-  tls: false
-  type: vless
-  uuid: 874bac05-f530-406f-a57f-a3b329e18917
-  ws-opts:
-    path: /@Vpn_Mikey،@Vpn_Mikey
-- flow: xtls-rprx-vision
-  name: '7|🇬🇧 [ Configs by DukeMehdi ] VL... #57'
-  network: tcp
-  port: 55128
-  reality-opts:
-    public-key: 7l16WkJYuCyfJG2ayNxM-IBh8J3bZvi_ntFcjokuASg
-    short-id: '7134a1b6e13dcb36 '
-  server: 45.150.34.244
-  servername: www.sony.com
-  tls: false
-  type: vless
-  uuid: 8be98cb0-0942-4bc2-b2da-eec9e2e53f9f
-- client-fingerprint: firefox
-  flow: ''
-  name: 7,12,16,24|[OpenRay] 🇬🇧GB-416
-  network: tcp
-  port: 2053
-  reality-opts:
-    public-key: xPEBx4wUmwAAv4ikUALNBf5wH6TRhyeQ0Q2pcNELsV0
-    short-id: d051f678212f9d54
-  server: 51.89.194.151
-  servername: www.apple.com
-  tls: false
-  type: vless
-  uuid: 8e790f25-1d71-4601-9fb0-d503931dcfca
-  ws-opts:
-    headers:
-      Host: /?telegram--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI
-- client-fingerprint: qq
-  flow: xtls-rprx-vision
-  name: 7,12,24|[OpenRay] 🇬🇧GB-154
-  network: tcp
-  port: 443
-  reality-opts:
-    public-key: _KTsOFhGnC0W28ZqO8_FApozMp7tJ9cVBTLKLAA_OR0
-    short-id: ae64c9b46bff174a
-  server: 91.208.92.210
-  servername: uk1.sky-vault.top
-  skip-cert-verify: true
-  tls: false
-  type: vless
-  uuid: 8fc806fa-350b-4548-937a-2bf35f7fe7eb
-- name: '7|🇬🇧 [ Configs by DukeMehdi ] VL... #60'
-  network: 'ws '
-  port: 2087
-  server: 188.220.67.140
-  tls: false
-  type: vless
-  uuid: 90da514d-8888-4a53-912e-ac2981c8c6ee
-  ws-opts:
-    path: '%2F8f2690e2d016'
-- name: '7|🇬🇧 [ Configs by DukeMehdi ] VL... #61'
-  network: 'ws '
-  port: 2087
-  server: 188.220.67.181
-  tls: false
-  type: vless
-  uuid: 90da514d-8888-4a53-912e-ac2981c8c6ee
-  ws-opts:
-    path: '%2F8f2690e2d016'
-- name: '7|🇬🇧 [ Configs by DukeMehdi ] VL... #62'
-  network: 'ws '
-  port: 2087
-  server: 188.220.67.224
-  tls: false
-  type: vless
-  uuid: 90da514d-8888-4a53-912e-ac2981c8c6ee
-  ws-opts:
-    path: '%2F8f2690e2d016'
-- client-fingerprint: firefox
-  flow: xtls-rprx-vision
-  name: 7,12,24|[OpenRay] 🇬🇧GB-474
-  network: tcp
-  port: 443
-  reality-opts:
-    public-key: 9GEc6lOjnGQyyE1951OZSBMWt4uCXsOjKyj9fysxHH0
-    short-id: d30f9d846a7c8cba
-  server: 103.241.65.169
-  servername: gb.srv.dvzh.net
-  tls: false
-  type: vless
-  uuid: 91344c03-b37f-42c5-90f1-cbb95c5cf256
-- client-fingerprint: random
-  name: '7,12|🔥Join+Telegram:@Farah_VPN🟣 #5034'
-  network: tcp
-  port: 443
-  reality-opts:
-    public-key: YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M
-    short-id: 98fa0b00d09419f7
-  server: 51.38.70.192
-  servername: play.google.com
-  tls: false
-  type: vless
-  uuid: 9343f183-7a16-4bdd-9c65-b0c21feca40b
-- client-fingerprint: chrome
-  name: '7|🇬🇧 [ Configs by DukeMehdi ] VL... #65'
-  network: ws
-  port: 443
-  server: 91.193.58.117
-  servername: 'jamph131-1228.pages.dev '
-  skip-cert-verify: false
-  tls: true
-  type: vless
-  uuid: 9419f782-b18e-4c4b-ae95-a7a279fd021f
-  ws-opts:
-    headers:
-      Host: jamph131-1228.pages.dev
-    path: /Telegram-WangCai2
-- client-fingerprint: firefox
-  name: 7,24,30|🇦🇺AU_6|343KB/s|A004-260618 01
-  network: tcp
-  port: 2053
-  reality-opts:
-    public-key: CYFeysLf--_IVhxQOCd3ZxLrAVWFFOkJzvIGHOVXN3E
-    short-id: 4cc9dc65f7770115
-  server: 46.250.240.80
-  servername: www.cloudflare.com
-  tls: false
-  type: vless
-  uuid: 948df76f-505d-4608-9c76-a933ee3ccc76
-- flow: xtls-rprx-vision
-  name: '7,12|🔥Join+Telegram:@Farah_VPN🟣 #8596'
-  network: tcp
-  port: 443
-  reality-opts:
-    public-key: SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY
-    short-id: fd55b698ee8c3629
-  server: 109.169.85.139
-  servername: slashdot.org
-  tls: false
-  type: vless
-  uuid: 98bc431a-2963-4faa-a712-cc83798a2edb
-- client-fingerprint: chrome
-  flow: xtls-rprx-vision
-  name: 7,12,16,24|[OpenRay] 🇬🇧GB-42
-  network: tcp
-  port: 443
-  reality-opts:
-    public-key: J_p_dxR8dIKaezk1_Ins5MZ7e4dqgrr2n9690vVuQ2s
-    short-id: b19b017d6f453873
-  server: 23.81.34.204
-  servername: speed.cloudflare.com
-  tls: false
-  type: vless
-  uuid: 99955907-9070-46f0-a200-9c7a0b9d74fe
-- client-fingerprint: chrome
-  name: '7|🇬🇧 [ Configs by DukeMehdi ] VL... #69'
-  network: 'ws '
-  port: 7443
-  server: 178.83.110.32
-  servername: 9-7u3b6e.wzkija0v0du4yhk6jfyfafml3nh22kne.workers.dev
-  tls: true
-  type: vless
-  uuid: 9bb71136-2380-4b6a-97be-1d4ba11d5a55
-  ws-opts:
-    headers:
-      Host: 9-7u3b6e.wzkija0v0du4yhk6jfyfafml3nh22kne.workers.dev
-    path: '%2F%40Marisa_kristi'
-- flow: ''
-  name: '7|🇬🇧 [ Configs by DukeMehdi ] VL... #70'
-  network: ws
-  port: 80
-  server: 57.129.132.223
-  tls: false
-  type: vless
-  uuid: 9e20b04d-5a81-4e16-b421-01e502f0aac6
-  ws-opts:
-    headers:
-      Host: google.com
-    path: '/vless/ '
-- client-fingerprint: chrome
-  name: '7,12|🇬🇧 [ Configs by DukeMehdi ] VL... #71'
-  network: xhttp
-  port: 443
-  server: 46.33.11.38
-  servername: 'hub.sickok.com '
-  skip-cert-verify: false
-  tls: true
-  type: vless
-  uuid: 9fd475c4-da7f-4a96-9a8a-e8ff1c62d549
-  ws-opts:
-    path: /media/v1/upload/w5sM5ePwv9
-- alpn:
-  - http/1.1
-  client-fingerprint: chrome
-  name: '7,12|🇬🇧 [ Configs by DukeMehdi ] VL... #72'
-  network: ws
-  port: 443
-  server: 164.38.155.135
-  servername: 'alfi.yas-nowin.ir '
-  skip-cert-verify: false
-  tls: true
-  type: vless
-  uuid: 88888888-8888-8888-8888-888888888888
-  ws-opts:
-    headers:
-      Host: alfi.yas-nowin.ir
-    path: /?ed=2048
-- client-fingerprint: firefox
-  flow: xtls-rprx-vision
-  name: 7,12,24|[OpenRay] 🇬🇧GB-130
-  network: tcp
-  port: 443
-  reality-opts:
-    public-key: 8ENbaQRCWZk-wewSrdHq1_rVjJY4CrxqXUo_5vZNdi4
-    short-id: b2b44805
-  server: 50.7.211.243
-  servername: xn--80abgtcaqw1f.xn----9sbekcigdcaa6cd7cafr7e.xn--p1ai
-  tls: false
-  type: vless
-  uuid: a5172fb0-b4e8-42dc-a3ee-28239e2ff759
-- client-fingerprint: firefox
-  flow: xtls-rprx-vision
-  name: 7,12,16,24|[OpenRay] 🇬🇧GB-132
-  network: tcp
-  port: 443
-  reality-opts:
-    public-key: 8ENbaQRCWZk-wewSrdHq1_rVjJY4CrxqXUo_5vZNdi4
-    short-id: b2b44805
-  server: 50.7.211.245
-  servername: xn--80abgtcaqw1f.xn----9sbekcigdcaa6cd7cafr7e.xn--p1ai
-  tls: false
-  type: vless
-  uuid: a5172fb0-b4e8-42dc-a3ee-28239e2ff759
-- client-fingerprint: firefox
-  flow: xtls-rprx-vision
-  name: 7,12,22,24|[OpenRay] 🇬🇧GB-347
-  network: tcp
-  port: 443
-  reality-opts:
-    public-key: 8ENbaQRCWZk-wewSrdHq1_rVjJY4CrxqXUo_5vZNdi4
-    short-id: b2b44805
-  server: 50.7.221.238
-  servername: xn--80abgtcaqw1f.xn----9sbekcigdcaa6cd7cafr7e.xn--p1ai
-  tls: false
-  type: vless
-  uuid: a5172fb0-b4e8-42dc-a3ee-28239e2ff759
-- client-fingerprint: ''
-  flow: xtls-rprx-vision
-  name: '7,12|🔥Join+Telegram:@Farah_VPN🟣 #6146'
-  network: tcp
-  port: 443
-  reality-opts:
-    public-key: JeaMU58AmMJ2JqJ-QGotRFua9DYxxveqw7I_XMWCu34
-    short-id: 2da3ecc3ad9a323b
-  server: 139.59.191.88
-  servername: www.stanford.edu
-  tls: false
-  type: vless
-  uuid: a6c5f4c7-073f-416b-b5e3-4a86ec2d9f22
-- name: '7|🇬🇧 [ Configs by DukeMehdi ] VL... #77'
-  network: 'ws '
-  port: 23821
-  server: 104.194.148.116
-  tls: false
-  type: vless
-  uuid: a937a82e-593a-49a3-8585-cc3422e040b3
-  ws-opts:
-    path: /
-- name: '7|🇬🇧 [ Configs by DukeMehdi ] VL... #78'
-  network: ws
-  port: 2052
-  server: 195.54.161.222
-  tls: false
-  type: vless
-  uuid: ac25a33c-a88d-514f-b37b-7e57d4f268c0
-  ws-opts:
-    path: '%2Fvless '
-- client-fingerprint: chrome
-  name: 7,12,24|[OpenRay] 🇬🇧GB-373
-  network: xhttp
-  port: 443
-  reality-opts:
-    public-key: cosvoLVcDIW9d4H9BaEHvcIOS1Hrrz-zfVKK0k230EI
-    short-id: 8dd53ccd9e9ffeaa
-  server: 136.244.67.248
-  servername: www.sky.com
-  tls: false
-  type: vless
-  uuid: aea43dac-5242-590a-9da6-23a7118bc132
-  ws-opts:
-    path: '%2F511859fb9b74'
-- name: '7,12|🔥Join+Telegram:@Farah_VPN🟣 #3915'
-  port: 443
-  server: 5.199.0.226
-  tls: false
-  type: vless
-  uuid: b0a100ee-c397-43f2-bdae-2adfb7a0d4e5
-  ws-opts:
-    path: /b0a100ee-c397-43f2-bdae-2adfb7a0d4e5?ed
-- client-fingerprint: chrome
-  flow: xtls-rprx-vision
-  name: '7,12|🔥Join+Telegram:@Farah_VPN🟣 #6583'
-  network: tcp
-  port: 443
-  reality-opts:
-    public-key: JZ6o_q7-OSJ87w9kTrcn9I4UiMVZdPUnjXoRs4TbLzE
-    short-id: 61811b12a62fb2a4
-  server: 109.169.76.34
-  servername: slashdot.org
-  tls: false
-  type: vless
-  uuid: b2bef9e4-0e52-43d7-9613-f6e73c2eb970
-- client-fingerprint: firefox
-  name: 7,24,30|🇯🇵JP_32|521KB/s|A004-260618 01
-  network: raw
-  port: 2053
-  reality-opts:
-    public-key: hieuCHb3HYdDYHmTDyWw2SGqyfo36AVuA-wSiZMdU1M
-    short-id: 9922313fffed1c63
-  server: 46.250.250.149
-  servername: www.apple.com
-  tls: false
-  type: vless
-  uuid: b4caaf57-ad77-4948-a6f5-51b3513799bf
-- client-fingerprint: chrome
-  name: '7|🇬🇧 [ Configs by DukeMehdi ] VL... #83'
-  network: ws
-  port: 443
-  server: 134.209.185.10
-  servername: bab-6.site
-  tls: true
-  type: vless
-  uuid: b585dc5e-55bf-4a8b-913a-27c9ccac05c3
-  ws-opts:
-    headers:
-      Host: 'bab-6.site '
-    path: '%2Fvws%2F'
-- name: '7,24,30|🇩🇪DE德国丨yoyapai.com #1'
-  network: xhttp
-  port: 2086
-  server: 217.163.76.118
-  tls: false
-  type: vless
-  uuid: b7977b65-cfd8-4db9-a029-6ef014a4ae4a
-  ws-opts:
-    headers:
-      Host: xvh.andishehparenting.com
-    path: '%2F'
-- client-fingerprint: chrome
-  name: 7,30|🇬🇧GB_72|460KB/s|M003-260806 01
-  network: ws
-  port: 52014
-  server: 57.129.130.10
-  servername: sxyyvihkektlx4rjxsdj.pkc73phpweu4rbxbatm444.workers.dev
-  tls: true
-  type: vless
-  uuid: bca740c6-6704-48ba-99da-7d7a31768d73
-  ws-opts:
-    headers:
-      Host: sxyyvihkektlx4rjxsdj.pkc73phpweu4rbxbatm444.workers.dev
-    path: /@Marisa_kristi
-- client-fingerprint: chrome
-  flow: xtls-rprx-vision
-  name: '7,12,22|🇬🇧 [ Configs by DukeMehdi ] VL... #86'
-  network: tcp
-  port: 443
-  reality-opts:
-    public-key: fYAeaCv2jMnzpu7WzQmx38eBRW43kEfpUqj_RwnVnEA
-  server: 213.193.255.206
-  servername: 'gb.cdn.cachefleet.com '
-  tls: false
-  type: vless
-  uuid: be3960db-f339-0065-be7b-c1a130601141
-- client-fingerprint: chrome
-  flow: xtls-rprx-vision
-  name: 7,12,30|未知 VLESS-1021 | free-nodes
-  network: tcp
-  port: 443
-  reality-opts:
-    public-key: IFEZmwpGK7VCuDj3kmVdyMn7vUIG8Sntc6TG4eIS3xs
-    short-id: 1aa9f3c9021280c0
-  server: 5.152.223.97
-  servername: strapi.io
-  tls: false
-  type: vless
-  uuid: be5b6ad6-8184-4b63-82ac-3bc00c09c98c
-- client-fingerprint: firefox
-  flow: ''
-  name: 7,24|[OpenRay] 🇬🇧GB-306
-  network: tcp
-  port: 8443
-  server: 51.38.71.147
-  servername: node-uk.connectsuite.org
-  tls: true
-  type: vless
-  uuid: c08f0056-7a6d-4931-813b-aaa3cdd00aed
-- client-fingerprint: chrome
-  flow: xtls-rprx-vision
-  name: '7,12|🇬🇧 [ Configs by DukeMehdi ] VL... #89'
-  network: tcp
-  port: 443
-  reality-opts:
-    public-key: sBSNX3DhJSWOkqTmRHisayVLisCBQLb4JcpKzwCrvC0
-  server: 164.37.109.187
-  servername: 'gb.cdn.cachefleet.com '
-  tls: false
-  type: vless
-  uuid: c28ee61d-0d43-0064-8e6a-6397ed0ffc03
-- client-fingerprint: chrome
-  flow: xtls-rprx-vision
-  name: '7,12|🇬🇧 [ Configs by DukeMehdi ] VL... #90'
-  network: tcp
-  port: 443
-  reality-opts:
-    public-key: sBSNX3DhJSWOkqTmRHisayVLisCBQLb4JcpKzwCrvC0
-  server: 164.37.104.149
-  servername: 'gb.cdn.cachefleet.com '
-  tls: false
-  type: vless
-  uuid: c28ee61d-0d43-0065-8e6a-6397ed0ffc03
-- client-fingerprint: chrome
-  flow: xtls-rprx-vision
-  name: '7|🇬🇧 [ Configs by DukeMehdi ] VL... #91'
-  network: tcp
-  port: 7443
-  reality-opts:
-    public-key: 5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI
-    short-id: 'be0ce047 '
-  server: 45.43.75.199
-  servername: chat.deepseek.com
-  tls: false
-  type: vless
-  uuid: caa3af29-3b04-4099-9772-c64a1b7cca34
-- grpc-opts:
-    grpc-service-name: 'vless '
-  name: '7|🇬🇧 [ Configs by DukeMehdi ] VL... #92'
-  network: grpc
-  port: 2083
-  server: 66.90.105.211
-  tls: false
-  type: vless
-  uuid: cd3bb7d9-7df3-4644-ac05-c260990ac277
-- client-fingerprint: firefox
-  flow: xtls-rprx-vision
-  name: 7,24|[OpenRay] 🇬🇧GB-122
-  network: tcp
-  port: 443
-  server: 107.181.134.165
-  servername: lagaa7.api3-max.ru
-  tls: true
-  type: vless
-  uuid: cdd6bfce-781a-4454-b7d5-4778abb5c24f
-- client-fingerprint: firefox
-  flow: xtls-rprx-vision
-  name: 7,24|[OpenRay] 🇩🇪DE-318
-  network: tcp
-  port: 443
-  server: 45.141.118.166
-  servername: lagav10.api3-max.ru
-  tls: true
-  type: vless
-  uuid: cdd6bfce-781a-4454-b7d5-4778abb5c24f
-- client-fingerprint: chrome
-  flow: xtls-rprx-vision
-  name: '7,12|🔥Join+Telegram:@Farah_VPN🟣 #6258'
-  network: tcp
-  port: 54865
-  reality-opts:
-    public-key: frK9LTk4kF7lh4-ZVCuHCQm87Oy6uboRtoS-o6Fb6WE
-    short-id: '7436'
-  server: 178.79.129.203
-  servername: www.cloudflare.com
-  tls: false
-  type: vless
-  uuid: d00d9d18-20cf-4191-be76-6f73d43a27ec
-- client-fingerprint: chrome
-  flow: xtls-rprx-vision
-  name: '7,12|🔥Join+Telegram:@Farah_VPN🟣 #1532'
-  network: tcp
-  port: 443
-  reality-opts:
-    public-key: UvN2oqI7DGQUEB8VrOZ9c5eXs2EuEQAgAa5IyTuRcCU
-    short-id: 3436aa2833db50fa
-  server: 178.79.131.26
-  servername: www.cloudflare.com
-  tls: false
-  type: vless
-  uuid: d00d9d18-20cf-4191-be76-6f73d43a27ec
-- client-fingerprint: chrome
-  flow: xtls-rprx-vision
-  name: '7,12|🔥Join+Telegram:@Farah_VPN🟣 #27'
-  network: tcp
-  port: 22117
-  reality-opts:
-    public-key: Vqwhml0SG253PsBtx9xi3GJY-hhyA6sgGUJ_wVI7Q1g
-    short-id: c7994be0
-  server: 178.79.149.80
-  servername: www.cloudflare.com
-  tls: false
-  type: vless
-  uuid: d00d9d18-20cf-4191-be76-6f73d43a27ec
-- flow: xtls-rprx-vision
-  name: '7|🇬🇧 [ Configs by DukeMehdi ] VL... #98'
-  network: tcp
-  port: 443
-  reality-opts:
-    public-key: 8vqOvJ5eoG_9oHla4B3Vh1E-o39RrCXW6Wr7OcXZGmI
-    short-id: 'dd '
-  server: 198.154.93.102
-  servername: cars.morro-settings.ru
-  tls: false
-  type: vless
-  uuid: d205ae68-0819-473c-b425-6c5947ac2f8d
-- client-fingerprint: firefox
-  flow: xtls-rprx-vision
-  name: 7,24|[OpenRay] 🇬🇧GB-165
-  network: tcp
-  port: 443
-  reality-opts:
-    public-key: 8ENbaQRCWZk-wewSrdHq1_rVjJY4CrxqXUo_5vZNdi4
-    short-id: b2b44805
-  server: 50.7.210.66
-  servername: xn--80aaa5aameo2c.xn----9sbekcigdcaa6cd7cafr7e.xn--p1ai
-  tls: false
-  type: vless
-  uuid: d2519b5e-495e-462e-9703-bbf68011d2f3
-- client-fingerprint: firefox
-  flow: xtls-rprx-vision
-  name: 7,24|[OpenRay] 🇬🇧GB-353
-  network: raw
-  port: 443
-  reality-opts:
-    public-key: 8ENbaQRCWZk-wewSrdHq1_rVjJY4CrxqXUo_5vZNdi4
-    short-id: b2b44805
-  server: 50.7.210.67
-  servername: xn--80aaa5aameo2c.xn----9sbekcigdcaa6cd7cafr7e.xn--p1ai
-  tls: false
-  type: vless
-  uuid: d2519b5e-495e-462e-9703-bbf68011d2f3
-- client-fingerprint: firefox
-  flow: xtls-rprx-vision
-  name: 7,24|[OpenRay] 🇬🇧GB-24
-  network: tcp
-  port: 443
-  reality-opts:
-    public-key: 8ENbaQRCWZk-wewSrdHq1_rVjJY4CrxqXUo_5vZNdi4
-    short-id: b2b44805
-  server: 50.7.210.68
-  servername: xn--80aer5aza.xn----9sbekcigdcaa6cd7cafr7e.xn--p1ai
-  tls: false
-  type: vless
-  uuid: d2519b5e-495e-462e-9703-bbf68011d2f3
-- client-fingerprint: chrome
-  flow: xtls-rprx-vision
-  name: 7,24|[OpenRay] 🇬🇧GB-157
-  network: tcp
-  port: 443
-  reality-opts:
-    public-key: 8ENbaQRCWZk-wewSrdHq1_rVjJY4CrxqXUo_5vZNdi4
-    short-id: b2b44805
-  server: 50.7.210.69
-  servername: xn--80ahcoj6a9b5d.xn----9sbekcigdcaa6cd7cafr7e.xn--p1ai
-  tls: false
-  type: vless
-  uuid: d2519b5e-495e-462e-9703-bbf68011d2f3
-- client-fingerprint: firefox
-  name: 7,24|[OpenRay] 🇬🇧GB-484
-  network: grpc
-  port: 443
-  server: 50.7.221.219
-  servername: sdfsldkfslkdmf.fdc.video-mvm.ru
-  tls: true
-  type: vless
-  uuid: d2519b5e-495e-462e-9703-bbf68011d2f3
-- client-fingerprint: firefox
-  name: '7,24|🇬🇧 [ Configs by DukeMehdi ] VL... #104'
-  network: grpc
-  port: 443
-  server: 50.7.221.227
-  servername: 'cekflesmfkwmefsdar.fdc.video-mvm.ru '
-  tls: true
-  type: vless
-  uuid: d2519b5e-495e-462e-9703-bbf68011d2f3
-- flow: ''
-  name: '7,24|🇬🇧 [ Configs by DukeMehdi ] VL... #105'
-  network: grpc
-  port: 443
-  server: 50.7.221.235
-  servername: 'glokwdlemdklmwss.fdc.video-mvm.ru '
-  tls: true
-  type: vless
-  uuid: d2519b5e-495e-462e-9703-bbf68011d2f3
-- flow: ''
-  name: '7,24|🇬🇧 [ Configs by DukeMehdi ] VL... #106'
-  network: grpc
-  port: 443
-  server: 50.7.221.243
-  servername: 'r4vsdfmsdlf8n3.fdc.video-mvm.ru '
-  tls: true
-  type: vless
-  uuid: d2519b5e-495e-462e-9703-bbf68011d2f3
-- client-fingerprint: chrome
-  flow: xtls-rprx-vision
-  name: 7,12,22,24,30|未知 VLESS-1043 | free-nodes
-  network: tcp
-  port: 443
-  reality-opts:
-    public-key: e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg
-    short-id: c39cc7310a
-  server: 82.39.171.142
-  servername: yahoo.com
-  tls: false
-  type: vless
-  uuid: d65cc14c-f53f-4fe2-b262-97856601319c
-  ws-opts:
-    headers:
-      Host: '%2F%3Ftelegram--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI'
-- client-fingerprint: firefox
-  flow: xtls-rprx-vision
-  name: 7,12,24|[OpenRay] 🇩🇪DE-250
-  network: tcp
-  port: 443
-  reality-opts:
-    public-key: Y0noOXC8qHmbM0GmDpj-9BBwKSOtHs-uMbNfKU050GQ
-    short-id: b558b9305a0b
-  server: 104.238.2.82
-  servername: www.microsoft.com
-  tls: false
-  type: vless
-  uuid: d806a58b-33aa-42e0-b170-395e49c16b37
-- name: '7,12|🔥Join+Telegram:@Farah_VPN🟣 #2092'
-  network: tcp
-  port: 443
-  server: 144.126.195.184
-  tls: false
-  type: vless
-  uuid: e009ee66-9d4f-4e88-b261-f73bc0d77aab
-- name: '7|🇬🇧 [ Configs by DukeMehdi ] VL... #110'
-  network: 'tcp '
-  port: 22222
-  server: 13.134.157.77
-  tls: false
-  type: vless
-  uuid: e4514801-0d5a-42ba-869f-39bd605aef9e
-- name: '7|🇬🇧 [ Configs by DukeMehdi ] VL... #111'
-  network: 'tcp '
-  port: 22223
-  server: 13.134.157.77
-  tls: false
-  type: vless
-  uuid: e4514801-0d5a-42ba-869f-39bd605aef9e
-- name: '7|🇬🇧 [ Configs by DukeMehdi ] VL... #112'
-  network: 'tcp '
-  port: 22223
-  server: 13.134.194.231
-  tls: false
-  type: vless
-  uuid: e4514801-0d5a-42ba-869f-39bd605aef9e
-- name: '7|🇬🇧 [ Configs by DukeMehdi ] VL... #113'
-  network: 'tcp '
-  port: 22222
-  server: 13.134.70.15
-  tls: false
-  type: vless
-  uuid: e4514801-0d5a-42ba-869f-39bd605aef9e
-- name: '7|🇬🇧 [ Configs by DukeMehdi ] VL... #114'
-  network: 'tcp '
-  port: 22222
-  server: 13.135.56.63
-  tls: false
-  type: vless
-  uuid: e4514801-0d5a-42ba-869f-39bd605aef9e
-- name: '7,12|🔥Join+Telegram:@Farah_VPN🟣 #1109'
-  network: tcp
-  port: 22222
-  server: 13.43.176.25
-  tls: false
-  type: vless
-  uuid: e4514801-0d5a-42ba-869f-39bd605aef9e
-- name: '7,12,22|@npv_vpn11 #532'
-  network: tcp
-  port: 22223
-  server: 13.43.176.25
-  tls: false
-  type: vless
-  uuid: e4514801-0d5a-42ba-869f-39bd605aef9e
-- name: '7|🇬🇧 [ Configs by DukeMehdi ] VL... #117'
-  network: 'tcp '
-  port: 22223
-  server: 16.60.16.100
-  tls: false
-  type: vless
-  uuid: e4514801-0d5a-42ba-869f-39bd605aef9e
-- name: '7,12|🔥Join+Telegram:@Farah_VPN🟣 #3974'
-  network: tcp
-  port: 22222
-  server: 16.60.17.14
-  tls: false
-  type: vless
-  uuid: e4514801-0d5a-42ba-869f-39bd605aef9e
-- name: '7|🇬🇧 [ Configs by DukeMehdi ] VL... #119'
-  network: 'tcp '
-  port: 22222
-  server: 16.60.79.65
-  tls: false
-  type: vless
-  uuid: e4514801-0d5a-42ba-869f-39bd605aef9e
-- name: '7|🇬🇧 [ Configs by DukeMehdi ] VL... #120'
-  network: 'tcp '
-  port: 22222
-  server: 16.60.81.16
-  tls: false
-  type: vless
-  uuid: e4514801-0d5a-42ba-869f-39bd605aef9e
-- name: '7|🇬🇧 [ Configs by DukeMehdi ] VL... #121'
-  network: 'tcp '
-  port: 22222
-  server: 16.61.154.47
-  tls: false
-  type: vless
-  uuid: e4514801-0d5a-42ba-869f-39bd605aef9e
-- name: '7,12|🔥Join+Telegram:@Farah_VPN🟣 #5086'
-  network: tcp
-  port: 22222
-  server: 18.132.102.151
-  tls: false
-  type: vless
-  uuid: e4514801-0d5a-42ba-869f-39bd605aef9e
-- name: '7,12|🔥Join+Telegram:@Farah_VPN🟣 #409'
-  network: tcp
-  port: 22224
-  server: 18.132.102.151
-  tls: false
-  type: vless
-  uuid: e4514801-0d5a-42ba-869f-39bd605aef9e
-- name: '7,22|@npv_vpn11 #340'
-  network: tcp
-  port: 22223
-  server: 18.132.95.180
-  tls: false
-  type: vless
-  uuid: e4514801-0d5a-42ba-869f-39bd605aef9e
-- name: '7,22|@npv_vpn11 #337'
-  network: tcp
-  port: 22223
-  server: 18.134.53.96
-  tls: false
-  type: vless
-  uuid: e4514801-0d5a-42ba-869f-39bd605aef9e
-- name: '7|🇬🇧 [ Configs by DukeMehdi ] VL... #126'
-  network: 'tcp '
-  port: 22223
-  server: 18.135.39.167
-  tls: false
-  type: vless
-  uuid: e4514801-0d5a-42ba-869f-39bd605aef9e
-- name: '7,12|🔥Join+Telegram:@Farah_VPN🟣 #4671'
-  network: tcp
-  port: 22223
-  server: 18.169.206.105
-  tls: false
-  type: vless
-  uuid: e4514801-0d5a-42ba-869f-39bd605aef9e
-- name: '7,12|🔥Join+Telegram:@Farah_VPN🟣 #7819'
-  network: tcp
-  port: 22222
-  server: 18.169.49.13
-  tls: false
-  type: vless
-  uuid: e4514801-0d5a-42ba-869f-39bd605aef9e
-- name: '7,12|🔥Join+Telegram:@Farah_VPN🟣 #7073'
-  network: tcp
-  port: 22224
-  server: 18.169.49.13
-  tls: false
-  type: vless
-  uuid: e4514801-0d5a-42ba-869f-39bd605aef9e
-- name: '7,12|🔥Join+Telegram:@Farah_VPN🟣 #5880'
-  network: tcp
-  port: 22223
-  server: 35.176.35.152
-  tls: false
-  type: vless
-  uuid: e4514801-0d5a-42ba-869f-39bd605aef9e
-- name: '7,12,22|@npv_vpn11 #488'
-  network: tcp
-  port: 22224
-  server: 35.176.35.152
-  tls: false
-  type: vless
-  uuid: e4514801-0d5a-42ba-869f-39bd605aef9e
-- name: '7,12|🔥Join+Telegram:@Farah_VPN🟣 #1003'
-  network: tcp
-  port: 22222
-  server: 35.176.47.30
-  tls: false
-  type: vless
-  uuid: e4514801-0d5a-42ba-869f-39bd605aef9e
-- name: '7|🇬🇧 [ Configs by DukeMehdi ] VL... #133'
-  network: 'tcp '
-  port: 22222
-  server: 35.177.173.203
-  tls: false
-  type: vless
-  uuid: e4514801-0d5a-42ba-869f-39bd605aef9e
-- name: '7,12|🔥Join+Telegram:@Farah_VPN🟣 #942'
-  network: tcp
-  port: 22223
-  server: 51.24.201.252
-  tls: false
-  type: vless
-  uuid: e4514801-0d5a-42ba-869f-39bd605aef9e
-- name: '7,12,22|@npv_vpn11 #494'
-  network: tcp
-  port: 22224
-  server: 51.24.201.252
-  tls: false
-  type: vless
-  uuid: e4514801-0d5a-42ba-869f-39bd605aef9e
-- name: '7|🇬🇧 [ Configs by DukeMehdi ] VL... #136'
-  network: 'tcp '
-  port: 22222
-  server: 51.24.76.250
-  tls: false
-  type: vless
-  uuid: e4514801-0d5a-42ba-869f-39bd605aef9e
-- name: '7,22|@npv_vpn11 #575'
-  network: tcp
-  port: 22223
-  server: 52.56.133.253
-  tls: false
-  type: vless
-  uuid: e4514801-0d5a-42ba-869f-39bd605aef9e
-- name: '7,12|🔥Join+Telegram:@Farah_VPN🟣 #6745'
-  network: tcp
-  port: 22222
-  server: 52.56.136.35
-  tls: false
-  type: vless
-  uuid: e4514801-0d5a-42ba-869f-39bd605aef9e
-- name: '7,12|🔥Join+Telegram:@Farah_VPN🟣 #2730'
-  network: tcp
-  port: 22223
-  server: 52.56.136.35
-  tls: false
-  type: vless
-  uuid: e4514801-0d5a-42ba-869f-39bd605aef9e
-- name: '7,12|🔥Join+Telegram:@Farah_VPN🟣 #8242'
-  network: tcp
-  port: 22224
-  server: 52.56.136.35
-  tls: false
-  type: vless
-  uuid: e4514801-0d5a-42ba-869f-39bd605aef9e
-- name: '7|🇬🇧 [ Configs by DukeMehdi ] VL... #141'
-  network: tcp
-  port: 10034
-  server: 8.208.22.155
-  tls: false
-  type: vless
-  uuid: e4e7866d-920b-4a53-a8e2-6ae9b2a42fc2
-- client-fingerprint: chrome
-  flow: xtls-rprx-vision
-  name: '7,12|🔥Join+Telegram:@Farah_VPN🟣 #1739'
-  network: tcp
-  port: 443
-  reality-opts:
-    public-key: U_E3xSI6QY_Mj-3zjkB4esvMj0aVvYH6W6oHOR50XBs
-    short-id: 10debbdf94767541
-  server: 178.107.60.242
-  servername: filesconvert.org
-  tls: false
-  type: vless
-  uuid: effd2c78-3ab8-4d3f-893f-49a703c27208
-- grpc-opts:
-    grpc-service-name: 'chat.deepseek.com '
-  name: '7|🇬🇧 [ Configs by DukeMehdi ] VL... #143'
-  network: grpc
-  port: 2083
-  server: 82.24.203.174
-  tls: false
-  type: vless
-  uuid: f2616bce-337a-4d13-8c58-1b5e71986569
-- client-fingerprint: safari
-  name: '7,12,22|🇬🇧 [ Configs by DukeMehdi ] VL... #144'
-  network: xhttp
-  port: 443
-  server: 46.33.11.36
-  servername: 'edge2.sickok.com '
-  skip-cert-verify: false
-  tls: true
-  type: vless
-  uuid: f65b49ed-d3e6-46b3-9f92-1cab485e4a0e
-  ws-opts:
-    path: '%2Fapi%2Fv1%2Fingest%2FKczWgyXedh'
-- client-fingerprint: firefox
-  flow: xtls-rprx-vision
-  name: '7|🇬🇧 [ Configs by DukeMehdi ] VL... #145'
-  network: tcp
-  port: 443
-  reality-opts:
-    public-key: lE6w45X8Bwb0HscO6Wa5wnN0qlw7wUuaCW8-iYL5HAQ
-    short-id: 'bc609efa3b2d052f '
-  server: 164.37.105.2
-  servername: pnnsh.falsemirrov.com
-  tls: false
-  type: vless
-  uuid: ff1b0b50-70dc-4bae-866e-55cff86f4d6d
-- name: '7,12|🔥Join+Telegram:@Farah_VPN🟣 #2749'
-  network: tcp
-  port: 57996
-  server: 64.227.41.160
-  tls: false
-  type: vless
-  uuid: ff3685d5-f031-46d3-88c0-0b6b0d1f1558
-- client-fingerprint: chrome
-  flow: xtls-rprx-vision
-  name: '7,12|🔥Join+Telegram:@Farah_VPN🟣 #2930'
-  network: tcp
-  port: 9443
-  reality-opts:
-    public-key: M6Ck7wUfOLhQl4582CBnaXwscPEP6SCpdEkUDzoj4Fc
-    short-id: ad20d2ba
-  server: 194.150.166.228
-  servername: storage.yandexcloud.net
-  tls: false
-  type: vless
-  uuid: ff6d2dda-7b90-404e-9951-34b3124bfdfa
-  ws-opts:
-    headers:
-      Host: storage.yandexcloud.net
-- name: '7,12|🔥Join+Telegram:@Farah_VPN🟣 #1914'
-  network: xhttp
-  port: 2052
-  server: 25.129.197.233
-  tls: false
-  type: vless
-  uuid: 88888888-8888-8888-8888-888888888888
-  ws-opts:
-    headers:
-      Host: cdn-alman5.arfilter2.blog
-    path: /-Arfilter@Arfilter-TEL--@Arfilter-TEL--@ArFilter-TEL--@Arfilter-JOIN-@Arfilter-TEL--@Arfilter-JOIN-@Arfilter-TEL-@Arfilter-TEL--@Arfilter-JOIN-@Arfilter-TEL--@Arfilter?ed=80
-- client-fingerprint: firefox
-  flow: xtls-rprx-vision
-  name: 7,12,24|[OpenRay] 🇮🇪IE-119
-  network: tcp
-  port: 443
-  reality-opts:
-    public-key: 0fu7k3-djQFG5XDmMeRsETxqp5mMFA5h17lSaZP63S4
-    short-id: 4d4de14b6b7c9aa4
-  server: 89.125.124.209
-  servername: cdn.appstatic.ru
-  tls: false
-  type: vless
-  uuid: 0e538403-1c73-479a-b121-121087fa59af
+  uuid: b18d5990-96eb-4587-a386-7f8ef7591e6a
 - name: 11,29|🇬🇧GB_1|1.9MB/s
   password: None
   port: 443
@@ -2915,6 +957,19 @@ proxies:
   tls: true
   type: http
   username: null
+- client-fingerprint: firefox
+  flow: xtls-rprx-vision
+  name: 11,16,20|🇬🇧_英国_15
+  port: 26460
+  reality-opts:
+    public-key: rnykCyLboP7HiOwx0Tfo5OSUVaJXbSMOB9MKkEZ_Xh8
+  server: 40.120.36.23
+  servername: addons.mozilla.org
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: 234ff65c-35e8-4ff6-a1e7-cce6acb2f3e2
 - name: 11|C🟠🇬🇧hos[🎬🤖📺🎭]_dokng.com_f5da27...
   port: 443
   server: 185.164.138.156
@@ -3060,6 +1115,68 @@ proxies:
     headers:
       Host: nameless-tree-08b8.352.workers.dev
     path: '%2Fpyip%3DProxyIP.KR.CMLiussss.net%40https%3A%2F%2Ft.me%2FQiangLieTuiJian'
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: 16|🇬🇧[www.v2nodes.com] vless-GB-1...
+  port: 443
+  server: sql.popmintxo.cc
+  servername: www.microsoft.com
+  tls: true
+  type: vless
+  uuid: d806a58b-33aa-42e0-b170-395e49c16b37
+- client-fingerprint: firefox
+  name: '16|🇬🇧[www.v2nodes.com] vless-GB-1... #1'
+  port: 2053
+  server: 51.89.194.151
+  servername: www.apple.com
+  tls: true
+  type: vless
+  uuid: 8e790f25-1d71-4601-9fb0-d503931dcfca
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: '16|🇬🇧[www.v2nodes.com] vless-GB-1... #2'
+  port: 443
+  server: 23.81.34.204
+  servername: speed.cloudflare.com
+  tls: true
+  type: vless
+  uuid: 99955907-9070-46f0-a200-9c7a0b9d74fe
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: '16|🇬🇧[www.v2nodes.com] vless-GB-1... #3'
+  port: 443
+  server: tomaz1337shellbuy.vvzzkontaktezzvv.garden
+  servername: tomaz1337shellbuy.vvzzkontaktezzvv.garden
+  tls: true
+  type: vless
+  uuid: 4bdeee92-97e8-414d-bef6-ec1d5e2ab73b
+- name: '16,22|@npv_vpn11 #787'
+  network: tcp
+  port: 8443
+  server: node-uk.connectsuite.org
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  uuid: c08f0056-7a6d-4931-813b-aaa3cdd00aed
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: 16,22,30|🇬🇧GB_21|4.4MB/s|B007-260618 01
+  network: tcp
+  port: 443
+  reality-opts:
+    public-key: 3iVJAIGPx6JMlhlRmfpGrHkSmLpHJ4CPvBBH7KsFrFA
+    short-id: fd8cf7e1173f0edb
+  server: 83.147.18.3
+  servername: www.cloudflare.com
+  tls: false
+  type: vless
+  uuid: 9f61cdf4-810d-4052-bbc7-2da0c8e20104
+- cipher: aes-256-gcm
+  name: 16,30|🇬🇧GB_11|1.6MB/s|A004-260618 01
+  password: g5h5jleTRSyO3Rk4
+  port: 443
+  server: 149.102.132.184
+  type: ss
 - cipher: aes-128-gcm
   name: '16|🇬🇧 英国 | GBR #1'
   password: 9c51ca33-a332-4de5-8677-5624e940097c
@@ -3083,6 +1200,12 @@ proxies:
   password: 70a5c510-d56d-43e7-b150-9c00c969bd50
   port: 35194
   server: ruot.ayucloudservices.nl
+  type: ss
+- cipher: aes-256-gcm
+  name: 17,30|🇬🇧GB_12|644KB/s|A004-260618 01
+  password: g5h5jleTRSyO3Rk4
+  port: 80
+  server: 149.102.132.184
   type: ss
 - client-fingerprint: firefox
   name: 20|🇬🇧_英国_96
@@ -3166,367 +1289,6 @@ proxies:
   sni: hopp-swizland-new.mysynology.net
   tls: false
   type: hysteria2
-- grpc-opts:
-    grpc-service-name: ajv
-  name: 24|[OpenRay] 🇬🇧GB-291
-  network: grpc
-  password: MDYVt6HgSqB7d537GPQXjk6Rk0E4RxWo
-  port: 443
-  server: 31.77.168.35
-  sni: d3-de2.cloud-cdn.xyz
-  type: trojan
-- alpn:
-  - h2
-  - http/1.1
-  name: 24|[OpenRay] 🇬🇧GB-443
-  network: tcp
-  password: WFer-5gN21nfHbVB2N8s71Z74EPUfzVj
-  port: 443
-  server: 31.76.103.140
-  skip-cert-verify: false
-  sni: fi.zhabulik.ru
-  type: trojan
-- name: 24|[OpenRay] 🇬🇧GB-32
-  network: tcp
-  password: XuMweB2PWs
-  port: 45464
-  server: 2.27.109.179
-  skip-cert-verify: false
-  sni: 2.27.109.179.sslip.io
-  type: trojan
-- name: 24|[OpenRay] 🇬🇧GB-164
-  network: ws
-  password: humanity
-  port: 443
-  server: 213.1.145.50
-  skip-cert-verify: true
-  sni: www.calmlunch.com
-  type: trojan
-  ws-opts:
-    headers:
-      Host: www.calmlunch.com
-    path: /assignment
-- name: 24|[OpenRay] 🇬🇧GB-473
-  network: ws
-  password: humanity
-  port: 443
-  server: 213.1.145.50
-  sni: www.calmlunch.com
-  type: trojan
-  ws-opts:
-    headers:
-      Host: www.calmlunch.com
-    path: '%2Fassignment'
-- client-fingerprint: chrome
-  name: 24,30|🇬🇧GB_20|415KB/s|M003-260806 01
-  network: ws
-  port: 52014
-  server: 57.129.130.57
-  servername: 5iv93opy8jus9z.bjo5si35c9i9ud4242fado49188obkoiermjuxj7zgxu.workers.dev
-  tls: true
-  type: vless
-  uuid: 091ea5fd-4e8d-4459-90af-e4d10179efff
-  ws-opts:
-    headers:
-      Host: 5iv93opy8jus9z.bjo5si35c9i9ud4242fado49188obkoiermjuxj7zgxu.workers.dev
-    path: /@Marisa_kristi
-- client-fingerprint: chrome
-  name: 24,30|🇬🇧GB_45|504KB/s|M003-260806 01
-  network: ws
-  port: 52014
-  server: 57.129.130.57
-  servername: 3t1yvbyla-rj740g.28m7r63dttya6gazmhoo.workers.dev
-  tls: true
-  type: vless
-  uuid: 4c6609bf-8457-4260-b4fa-321379e57a4e
-  ws-opts:
-    headers:
-      Host: 3t1yvbyla-rj740g.28m7r63dttya6gazmhoo.workers.dev
-    path: /@Marisa_kristi
-- client-fingerprint: chrome
-  flow: xtls-rprx-vision
-  name: 24,30|🇫🇮FI_3|374KB/s|M002-260618 01
-  network: tcp
-  port: 443
-  reality-opts:
-    public-key: J-dv-HrWfQ_IOoyutv0Kg-rO8QwoRwc02dS1dS_tblk
-    short-id: ee1716767f9b
-  server: 107.181.151.39
-  servername: www.tradingview.com
-  tls: false
-  type: vless
-  uuid: 4d017db2-7655-4276-9557-e2ec25b04ee7
-- client-fingerprint: firefox
-  grpc-opts:
-    grpc-service-name: astracat
-  name: 24|[OpenRay] 🇬🇧GB-263
-  network: grpc
-  port: 2087
-  reality-opts:
-    public-key: KDBhxT2YMtMjDEC9VdoDEISdCwxd6KFrSE8uyUaHcTY
-    short-id: ed435c242097fd05
-  server: 31.59.210.25
-  servername: www.yandex.ru
-  tls: false
-  type: vless
-  uuid: 5413edfb-08d6-4fba-b51c-809c04feb127
-- client-fingerprint: chrome
-  name: 24,30|🇬🇧GB_33|454KB/s|M003-260806 01
-  network: ws
-  port: 52014
-  server: 57.129.130.200
-  servername: c6dbx99g6stb418qeo.t3jmlj0r152zji4htdkm9.workers.dev
-  tls: true
-  type: vless
-  uuid: 93c53b59-1523-4621-9528-77b016a28304
-  ws-opts:
-    headers:
-      Host: c6dbx99g6stb418qeo.t3jmlj0r152zji4htdkm9.workers.dev
-    path: /@Marisa_kristi
-- name: 24|[OpenRay] 🇬🇧GB-371
-  network: ws
-  port: 80
-  server: 57.129.132.223
-  tls: false
-  type: vless
-  uuid: 9e20b04d-5a81-4e16-b421-01e502f0aac6
-  ws-opts:
-    headers:
-      Host: google.com
-    path: '%2Fvless%2F'
-- name: 24|[OpenRay] 🇬🇧GB-188
-  network: ws
-  port: 80
-  server: 57.129.132.223
-  tls: false
-  type: vless
-  uuid: 9e20b04d-5a81-4e16-b421-01e502f0aac6
-  ws-opts:
-    path: '%2Fvless%2F'
-- client-fingerprint: chrome
-  name: 24|[OpenRay] 🇬🇧GB-72
-  network: ws
-  port: 80
-  server: 57.129.132.223
-  skip-cert-verify: true
-  tls: false
-  type: vless
-  uuid: 9e20b04d-5a81-4e16-b421-01e502f0aac6
-  ws-opts:
-    headers:
-      Host: google.com
-    path: /vless/
-- client-fingerprint: chrome
-  flow: xtls-rprx-vision
-  name: 24|[OpenRay] 🇬🇧GB-282
-  network: tcp
-  port: 443
-  reality-opts:
-    public-key: FjcEZNQ8t5E4R04_11T6ghsOutdqwKKrelkuadakoQg
-    short-id: 2a80364e93d9
-  server: 107.181.151.241
-  servername: www.foxsports.com
-  tls: false
-  type: vless
-  uuid: aded66f1-de12-4c3c-af9e-a21d6e7d9c96
-- alpn:
-  - h2
-  - ' http/1.1'
-  client-fingerprint: chrome
-  flow: xtls-rprx-vision
-  name: 24|[OpenRay] 🇬🇧GB-242
-  network: tcp
-  port: 2063
-  reality-opts:
-    public-key: MMpt_jWc4J3oySBdf5sPDVRkiWlZmOObth6A1scM9BM
-  server: 2.26.231.218
-  servername: rusbid.de
-  tls: false
-  type: vless
-  uuid: b18d5990-96eb-4587-a386-7f8ef7591e6a
-- client-fingerprint: chrome
-  name: 24,30|🇬🇧GB_24|304KB/s 01
-  network: ws
-  port: 52014
-  server: 57.129.130.200
-  servername: 3tmj2egtm-fno.49bnithzk8vphybv36d1z1xkzfvogt2m6.workers.dev
-  tls: true
-  type: vless
-  uuid: b1ecd06b-a931-47a2-8f48-d1d133d2b4f3
-  ws-opts:
-    headers:
-      Host: 3tmj2egtm-fno.49bnithzk8vphybv36d1z1xkzfvogt2m6.workers.dev
-    path: /@Marisa_kristi
-- client-fingerprint: chrome
-  name: 24|[OpenRay] 🇬🇧GB-235
-  network: ws
-  port: 443
-  server: 134.209.185.10
-  servername: bab-6.site
-  tls: true
-  type: vless
-  uuid: b585dc5e-55bf-4a8b-913a-27c9ccac05c3
-  ws-opts:
-    headers:
-      Host: bab-6.site
-    path: '%2Fvws%2F'
-- client-fingerprint: firefox
-  flow: xtls-rprx-vision
-  name: 24|[OpenRay] 🇬🇧GB-99
-  network: tcp
-  port: 443
-  reality-opts:
-    public-key: 8ENbaQRCWZk-wewSrdHq1_rVjJY4CrxqXUo_5vZNdi4
-    short-id: b2b44805
-  server: 50.7.211.242
-  servername: xn--80afqehspga.xn----9sbekcigdcaa6cd7cafr7e.xn--p1ai
-  tls: false
-  type: vless
-  uuid: d2519b5e-495e-462e-9703-bbf68011d2f3
-- name: 24|[OpenRay] 🇬🇧GB-208
-  network: ws
-  port: 80
-  server: 57.129.132.223
-  tls: false
-  type: vless
-  uuid: dbb78c94-9f87-4d7d-b945-2000b60352fd
-  ws-opts:
-    headers:
-      Host: '---%40External_Net---%40External_Net---%40External_Net---%40External_Net---%40External_Net'
-    path: '%2Fvless%2F'
-- name: 24|[OpenRay] 🇬🇧GB-15
-  network: ws
-  port: 80
-  server: 57.129.132.223
-  servername: '---%40External_Net---%40External_Net---%40External_Net---%40External_Net---%40External_Net'
-  tls: false
-  type: vless
-  uuid: dbb78c94-9f87-4d7d-b945-2000b60352fd
-  ws-opts:
-    path: '%2Fvless%2F'
-- name: 24|[OpenRay] 🇬🇧GB-112
-  network: ws
-  port: 80
-  server: 57.129.132.223
-  tls: false
-  type: vless
-  uuid: dbb78c94-9f87-4d7d-b945-2000b60352fd
-  ws-opts:
-    headers:
-      Host: '---@VPNine1---@VPNine1---@VPNine1---@VPNine1---@VPNine1'
-    path: /vless/
-- client-fingerprint: chrome
-  flow: xtls-rprx-vision
-  name: 24|[OpenRay] 🇬🇧GB-40
-  network: raw
-  port: 443
-  reality-opts:
-    public-key: FjcEZNQ8t5E4R04_11T6ghsOutdqwKKrelkuadakoQg
-    short-id: 225e930cfd4d
-  server: 107.181.151.241
-  servername: www.hollywoodreporter.com
-  tls: false
-  type: vless
-  uuid: de38389f-5651-4f2f-8276-5aabf3b861c9
-- client-fingerprint: randomized
-  flow: xtls-rprx-vision
-  name: 24|[OpenRay] 🇬🇧GB-206
-  network: tcp
-  port: 443
-  reality-opts:
-    public-key: 5tMM2VdgddmxOKhdNa3b7i_aXno1g-_61SzkppS2UXQ
-    short-id: f3c023cc
-  server: 2.27.39.233
-  servername: addons.mozilla.org
-  skip-cert-verify: true
-  tls: false
-  type: vless
-  uuid: df53b6c2-8005-475c-9eb9-74e1be785dc8
-- client-fingerprint: chrome
-  flow: xtls-rprx-vision
-  name: 24|[OpenRay] 🇬🇧GB-268
-  network: tcp
-  port: 443
-  reality-opts:
-    public-key: 3vgqsFm1j-00-_jN25zuuty59lk7yn5YFMIfL5LwwRw
-    short-id: 2bd6a47090adc591
-  server: 104.194.143.86
-  servername: suffolkprimarycare.uk
-  skip-cert-verify: true
-  tls: false
-  type: vless
-  uuid: ea6156d1-3738-4c12-a6b6-46fc03276f2a
-- alpn:
-  - h3
-  - h2
-  - http/1.1
-  client-fingerprint: chrome
-  name: 24|[OpenRay] 🇬🇧GB-91
-  network: xhttp
-  port: 443
-  reality-opts:
-    public-key: IqFTx4k5VQydmffvavaOHDXBtdgDxX26A6NtsVvDfhw
-    short-id: d485c3d5248d6b51
-  server: 2.28.142.170
-  servername: germanytest.tulnaro.ir
-  tls: false
-  type: vless
-  uuid: f774f037-6320-42e3-a97b-6d4a1f018dd5
-  ws-opts:
-    headers:
-      Host: germanytest.tulnaro.ir
-    path: /
-- alpn:
-  - h3
-  - h2
-  - http/1.1
-  client-fingerprint: chrome
-  name: 24|[OpenRay] 🇬🇧GB-413
-  network: xhttp
-  port: 8443
-  reality-opts:
-    public-key: GB3bGUtRma7-14YH-WK--1CR9GXXPHNqFUQz8v0YLBk
-    short-id: 1a4e3e64b9a568c5
-  server: 2.28.142.170
-  servername: germanytest.tulnaro.ir
-  tls: false
-  type: vless
-  uuid: f774f037-6320-42e3-a97b-6d4a1f018dd5
-  ws-opts:
-    headers:
-      Host: germanytest.tulnaro.ir
-    path: '%2F'
-- client-fingerprint: chrome
-  flow: xtls-rprx-vision
-  name: 24,30|🇫🇮FI_60|265KB/s|M002-260618 01
-  network: tcp
-  port: 443
-  reality-opts:
-    public-key: J-dv-HrWfQ_IOoyutv0Kg-rO8QwoRwc02dS1dS_tblk
-    short-id: d659da01fb94
-  server: 107.181.151.39
-  servername: www.foxsports.com
-  tls: false
-  type: vless
-  uuid: ff40696b-06d6-443b-9481-8d01eddd13e1
-- alterId: 0
-  cipher: auto
-  name: 24|[OpenRay] 🇬🇧GB-58
-  network: raw
-  port: 55969
-  server: 31.76.11.83
-  tls: false
-  type: vmess
-  uuid: 049a57b9-4913-4f9f-9cda-a861989ee59d
-- alterId: 0
-  cipher: auto
-  name: 24|[OpenRay] 🇬🇧GB-53
-  network: raw
-  port: 50551
-  server: 31.76.11.83
-  tls: false
-  type: vmess
-  uuid: 57160c16-b7db-40d8-bd06-ced30edd4df6
 - client-fingerprint: chrome
   name: '25,30|🇬🇧GB英国丨yoyapai.com #1'
   network: ws
@@ -3674,6 +1436,12 @@ proxies:
   tls: false
   type: vless
   uuid: d949020f-6ec6-455a-819b-7d7b32f9ff14
+- cipher: rc4-md5
+  name: 30|🇬🇧GB_1|4.2MB/s 01
+  password: 14fFPrbezE3HDZzsMOr6
+  port: 8080
+  server: 146.70.61.37
+  type: ss
 - name: 30|🇬🇧GB_3|430KB/s|C002-260622 01
   network: ws
   port: 8880
@@ -3696,6 +1464,19 @@ proxies:
     headers:
       Host: blue-rice-7142.30-346.workers.dev
     path: /pyip=ProxyIP.US.CMLiussss.net
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: 30|🇬🇧GB_5|806KB/s|B007-260618 01
+  network: tcp
+  port: 443
+  reality-opts:
+    public-key: IFEZmwpGK7VCuDj3kmVdyMn7vUIG8Sntc6TG4eIS3xs
+    short-id: 1aa9f3c9021280c0
+  server: 5.152.223.97
+  servername: strapi.io
+  tls: false
+  type: vless
+  uuid: be5b6ad6-8184-4b63-82ac-3bc00c09c98c
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
   name: 30|🇬🇧GB_8|3.5MB/s|A004-260618 01
@@ -3777,6 +1558,32 @@ proxies:
     headers:
       Host: wkytah9k8oggj60.qzfi0skkopy875xhtc0l9pwds.workers.dev
     path: /@Marisa_kristi
+- client-fingerprint: chrome
+  name: 30|🇬🇧GB_20|415KB/s|M003-260806 01
+  network: ws
+  port: 52014
+  server: 57.129.130.57
+  servername: 5iv93opy8jus9z.bjo5si35c9i9ud4242fado49188obkoiermjuxj7zgxu.workers.dev
+  tls: true
+  type: vless
+  uuid: 091ea5fd-4e8d-4459-90af-e4d10179efff
+  ws-opts:
+    headers:
+      Host: 5iv93opy8jus9z.bjo5si35c9i9ud4242fado49188obkoiermjuxj7zgxu.workers.dev
+    path: /@Marisa_kristi
+- client-fingerprint: chrome
+  name: 30|🇬🇧GB_24|304KB/s 01
+  network: ws
+  port: 52014
+  server: 57.129.130.200
+  servername: 3tmj2egtm-fno.49bnithzk8vphybv36d1z1xkzfvogt2m6.workers.dev
+  tls: true
+  type: vless
+  uuid: b1ecd06b-a931-47a2-8f48-d1d133d2b4f3
+  ws-opts:
+    headers:
+      Host: 3tmj2egtm-fno.49bnithzk8vphybv36d1z1xkzfvogt2m6.workers.dev
+    path: /@Marisa_kristi
 - name: 30|🇬🇧GB_31|481KB/s|M003-260806 01
   network: ws
   port: 8880
@@ -3797,415 +1604,15 @@ proxies:
   tls: false
   type: hysteria2
 - client-fingerprint: chrome
-  name: 30|🇬🇧GB_35|1.6MB/s|A001-260618 01
-  network: ws
-  port: 443
-  server: 94.159.97.247
-  servername: vp58.cc.cd
-  tls: true
-  type: vless
-  uuid: 7b102311-43fd-4e8f-877e-8090623c101d
-  ws-opts:
-    headers:
-      Host: vp58.cc.cd
-    path: /Telegram🇨🇳 @VPNine1
-- client-fingerprint: chrome
-  name: 30|🇬🇧GB_37|291KB/s|F003-260618 01
-  network: ws
-  port: 52014
-  server: 57.129.130.63
-  servername: 9-7u3b6e.wzkija0v0du4yhk6jfyfafml3nh22kne.workers.dev
-  tls: true
-  type: vless
-  uuid: d731cf09-79a6-4647-aabe-8e0fda4fe3be
-  ws-opts:
-    headers:
-      Host: 9-7u3b6e.wzkija0v0du4yhk6jfyfafml3nh22kne.workers.dev
-    path: /@Marisa_kristi
-- client-fingerprint: chrome
-  name: 30|🇬🇧GB_38|426KB/s|F003-260618 01
-  network: ws
-  port: 7443
-  server: 178.83.110.32
-  servername: 9-7u3b6e.wzkija0v0du4yhk6jfyfafml3nh22kne.workers.dev
-  tls: true
-  type: vless
-  uuid: 9bb71136-2380-4b6a-97be-1d4ba11d5a55
-  ws-opts:
-    headers:
-      Host: 9-7u3b6e.wzkija0v0du4yhk6jfyfafml3nh22kne.workers.dev
-    path: /@Marisa_kristi
-- client-fingerprint: chrome
-  name: 30|🇬🇧GB_39|420KB/s|M003-260806 01
-  network: ws
-  port: 52014
-  server: 57.129.130.57
-  servername: wjwkhoaftdgrt8qus.mp8pmwdgwf3sdapasouszjobjr57nrxxgtx9n.workers.dev
-  tls: true
-  type: vless
-  uuid: 82fc8761-470b-4022-89da-ce5412e8bb0a
-  ws-opts:
-    headers:
-      Host: wjwkhoaftdgrt8qus.mp8pmwdgwf3sdapasouszjobjr57nrxxgtx9n.workers.dev
-    path: /@Marisa_kristi
-- name: 30|🇬🇧GB_40|464KB/s|M003-260806 01
-  network: ws
-  port: 8880
-  server: www.zsu.gov.ua
-  tls: false
-  type: vless
-  uuid: a9fb0f8c-89e9-44ee-9574-a310c5bd259c
-  ws-opts:
-    headers:
-      Host: autumn-leaf-eefd.119-38e.workers.dev
-    path: /pyip=ProxyIP.US.CMLiussss.net
-- client-fingerprint: chrome
-  name: 30|🇬🇧GB_41|426KB/s|F003-260618 01
-  network: ws
-  port: 52014
-  server: 57.129.130.57
-  servername: mw5qisav.wjwqvie0wb1eqhb8e83clqdoq3m5p9a4on.workers.dev
-  tls: true
-  type: vless
-  uuid: 98286408-b683-4c0f-96c5-7e00da649d90
-  ws-opts:
-    headers:
-      Host: mw5qisav.wjwqvie0wb1eqhb8e83clqdoq3m5p9a4on.workers.dev
-    path: /@Marisa_kristi
-- client-fingerprint: chrome
-  name: 30|🇬🇧GB_42|372KB/s|M003-260806 01
+  name: 30|🇬🇧GB_33|454KB/s|M003-260806 01
   network: ws
   port: 52014
   server: 57.129.130.200
-  servername: ke859ch2gse1iery3hiz.e3q4a5mjld11kpj0zj8dq.workers.dev
-  tls: true
-  type: vless
-  uuid: c8b0617e-010f-43a8-b3d0-d5358febf0c9
-  ws-opts:
-    headers:
-      Host: ke859ch2gse1iery3hiz.e3q4a5mjld11kpj0zj8dq.workers.dev
-    path: /@Marisa_kristi
-- client-fingerprint: chrome
-  name: 30|🇬🇧GB_43|182KB/s|F003-260618 01
-  network: ws
-  port: 52014
-  server: 57.129.130.10
-  servername: woc0zvrf11w2endu.dphdlc1u77bs3y4kvussbuap4p576f1ws7igthq8zbf3.workers.dev
-  tls: true
-  type: vless
-  uuid: 395bab7e-302a-42b4-bac7-8acb7d36fdf3
-  ws-opts:
-    headers:
-      Host: woc0zvrf11w2endu.dphdlc1u77bs3y4kvussbuap4p576f1ws7igthq8zbf3.workers.dev
-    path: /@Marisa_kristi
-- client-fingerprint: chrome
-  name: 30|🇬🇧GB_44|398KB/s|T001-260618 01
-  network: ws
-  port: 443
-  server: 57.128.177.198
-  servername: vp58.cc.cd
-  tls: true
-  type: vless
-  uuid: 7b102311-43fd-4e8f-877e-8090623c101d
-  ws-opts:
-    headers:
-      Host: vp58.cc.cd
-    path: /Telegram🇨🇳 @VPNine1fp=chrome
-- client-fingerprint: chrome
-  flow: xtls-rprx-vision
-  name: 30|🇬🇧GB_57|4.2MB/s|A004-260618 01
-  network: raw
-  port: 421
-  reality-opts:
-    public-key: zUdAvpr07q1Yd0Om-jc4-Vu4Un5tVird8FGoN-7W9Tg
-    short-id: a1facbc8575701ae
-  server: 78.129.208.44
-  servername: chistomat.dry.care
-  tls: false
-  type: vless
-  uuid: a3c861cb-e1e7-4ad6-8be2-7c2314ec6f18
-- client-fingerprint: chrome
-  flow: xtls-rprx-vision
-  name: 30|🇬🇧GB_71|4.2MB/s|B007-260618 01
-  network: tcp
-  port: 421
-  reality-opts:
-    public-key: zUdAvpr07q1Yd0Om-jc4-Vu4Un5tVird8FGoN-7W9Tg
-    short-id: a1facbc8575701ae
-  server: 78.129.208.44
-  servername: chistomat.dry.care
-  tls: false
-  type: vless
-  uuid: a9900333-444b-4a36-a2f0-0567946c47cd
-- name: 30|🇬🇧GB_48|3.8MB/s|A004-260618 01
-  password: 3b8c82ed-fe66-472d-915e-034ccb57103f
-  port: 443
-  server: labs.frkn.org
-  skip-cert-verify: true
-  sni: 127.0.0.1
-  tls: false
-  type: hysteria2
-- client-fingerprint: chrome
-  name: 30|🇬🇧GB_50|444KB/s|F003-260618 01
-  network: ws
-  port: 74
-  server: 159.65.48.114
-  servername: 9-7u3b6e.wzkija0v0du4yhk6jfyfafml3nh22kne.workers.dev
-  tls: true
-  type: vless
-  uuid: 587fe27b-aced-4cbf-8283-ad4647f01a8c
-  ws-opts:
-    headers:
-      Host: 9-7u3b6e.wzkija0v0du4yhk6jfyfafml3nh22kne.workers.dev
-    path: /@Marisa_kristi
-- client-fingerprint: chrome
-  name: 30|🇬🇧GB_51|590KB/s|M003-260806 01
-  network: ws
-  port: 31867
-  server: 129.151.64.169
-  servername: 5iv93opy8jus9z.bjo5si35c9i9ud4242fado49188obkoiermjuxj7zgxu.workers.dev
-  tls: true
-  type: vless
-  uuid: 112c9db0-af6f-48b0-a59f-7677bed8e2d7
-  ws-opts:
-    headers:
-      Host: 5iv93opy8jus9z.bjo5si35c9i9ud4242fado49188obkoiermjuxj7zgxu.workers.dev
-    path: /@Marisa_kristi
-- client-fingerprint: chrome
-  name: 30|🇬🇧GB_52|334KB/s|F003-260618 01
-  network: ws
-  port: 31867
-  server: 129.151.64.169
-  servername: mw5qisav.wjwqvie0wb1eqhb8e83clqdoq3m5p9a4on.workers.dev
-  tls: true
-  type: vless
-  uuid: 0ff1bcdb-8dcc-4b05-93df-09f028330184
-  ws-opts:
-    headers:
-      Host: mw5qisav.wjwqvie0wb1eqhb8e83clqdoq3m5p9a4on.workers.dev
-    path: /@Marisa_kristi
-- client-fingerprint: chrome
-  name: 30|🇬🇧GB_54|466KB/s|V005-260618 01
-  network: ws
-  port: 31867
-  server: 129.151.64.169
   servername: c6dbx99g6stb418qeo.t3jmlj0r152zji4htdkm9.workers.dev
   tls: true
   type: vless
-  uuid: bd01efed-f999-41a5-bbb1-3d2357647f11
+  uuid: 93c53b59-1523-4621-9528-77b016a28304
   ws-opts:
     headers:
       Host: c6dbx99g6stb418qeo.t3jmlj0r152zji4htdkm9.workers.dev
     path: /@Marisa_kristi
-- client-fingerprint: chrome
-  name: 30|🇬🇧GB_55|269KB/s|M003-260806 01
-  network: ws
-  port: 31867
-  server: 129.151.64.169
-  servername: ke859ch2gse1iery3hiz.e3q4a5mjld11kpj0zj8dq.workers.dev
-  tls: true
-  type: vless
-  uuid: bc01a49f-78dd-4bf0-994f-b86897e39a68
-  ws-opts:
-    headers:
-      Host: ke859ch2gse1iery3hiz.e3q4a5mjld11kpj0zj8dq.workers.dev
-    path: /@Marisa_kristi
-- client-fingerprint: chrome
-  name: 30|🇬🇧GB_58|359KB/s|B007-260618 01
-  network: ws
-  port: 443
-  server: 172.67.134.170
-  servername: jdzit4e4urks.xwzohsebujps.workers.dev
-  tls: true
-  type: vless
-  uuid: 50414e45-4c5f-5a45-5553-635698a6bb9c
-  ws-opts:
-    headers:
-      Host: jdzit4e4urks.xwzohsebujps.workers.dev
-    path: /stream/PANEL_ZEUS/635698a6bb9c/loc-0
-- client-fingerprint: chrome
-  name: 30|🇬🇧GB_59|632KB/s|B007-260618 01
-  network: ws
-  port: 443
-  server: 172.67.151.109
-  servername: jdzit4e4urks.xwzohsebujps.workers.dev
-  tls: true
-  type: vless
-  uuid: 50414e45-4c5f-5a45-5553-635698a6bb9c
-  ws-opts:
-    headers:
-      Host: jdzit4e4urks.xwzohsebujps.workers.dev
-    path: /stream/PANEL_ZEUS/635698a6bb9c/loc-0
-- cipher: chacha20-ietf-poly1305
-  name: 30|🇬🇧GB_60|8.1MB/s|A004-260618 01
-  password: c58d16e593d44f42
-  port: 11001
-  server: 158.173.221.214
-  type: ss
-- cipher: rc4-md5
-  name: 30|🇬🇧GB_61|5.2MB/s|A004-260618 01
-  password: 14fFPrbezE3HDZzsMOr6
-  port: 8080
-  server: 146.70.61.18
-  type: ss
-- client-fingerprint: chrome
-  name: 30|🇬🇧GB_62|439KB/s|V002-260618 01
-  network: ws
-  port: 52014
-  server: 57.129.130.57
-  servername: jln31qtswdkut5.60kohcognywybguuq3ouc818oofnxfvn35daott.workers.dev
-  tls: true
-  type: vless
-  uuid: 47ba5dc6-8961-48a0-8b54-f57ec524627a
-  ws-opts:
-    headers:
-      Host: jln31qtswdkut5.60kohcognywybguuq3ouc818oofnxfvn35daott.workers.dev
-    path: /@Marisa_kristi
-- cipher: chacha20-ietf-poly1305
-  name: 30|🇬🇧GB_78|2.3MB/s|A004-260618 01
-  password: zRZNBszYyWo5
-  port: 8388
-  server: 51.77.225.200
-  type: ss
-- name: 30|🇬🇧GB_79|346KB/s|T001-260618 01
-  network: ws
-  port: 8880
-  server: 172.65.90.52
-  servername: www.zsu.gov.ua
-  tls: false
-  type: vless
-  uuid: 121c3728-2b6b-4b69-bac6-170b13658d74
-  ws-opts:
-    headers:
-      Host: falling-darkness-95ea.289.workers.dev
-    path: /pyip=ProxyIP.SG.CMLiussss.net
-- name: 30|🇬🇧GB_80|257KB/s|T001-260618 01
-  network: ws
-  port: 8880
-  server: 172.65.90.52
-  tls: false
-  type: vless
-  uuid: b92380e2-e03f-4861-856e-7c2373b04728
-  ws-opts:
-    headers:
-      Host: dry-thunder-7f57.57-1a3.workers.dev
-    path: /pyip=ProxyIP.SG.CMLiussss.net
-- client-fingerprint: chrome
-  name: 30|🇬🇧GB_81|491KB/s|M002-260618 01
-  network: ws
-  port: 31867
-  server: 129.151.64.169
-  servername: mw5qisav.wjwqvie0wb1eqhb8e83clqdoq3m5p9a4on.workers.dev
-  tls: true
-  type: vless
-  uuid: f7ff2e67-b687-4098-a28a-d102c27ba19c
-  ws-opts:
-    headers:
-      Host: mw5qisav.wjwqvie0wb1eqhb8e83clqdoq3m5p9a4on.workers.dev
-    path: /@Marisa_kristi
-- name: 30|🇬🇧GB_85|715KB/s|A004-260618 01
-  network: ws
-  port: 8081
-  server: 143.246.219.51
-  tls: false
-  type: vless
-  uuid: 54ee5e59-55a3-4599-83ff-0c67b3f411b2
-  ws-opts:
-    path: /vless-test
-- client-fingerprint: firefox
-  grpc-opts:
-    grpc-service-name: grpc_common1
-  name: 30|🇬🇧GB_86|1.3MB/s|A004-260618 01
-  network: grpc
-  port: 30963
-  reality-opts:
-    public-key: XxNAqnYJDizM_4_ycJxyaa9xbx29hpDfwAtCv1Wga1M
-    short-id: c776352067
-  server: 57.128.177.218
-  servername: us.vrzn.download.nvidia.com
-  tls: false
-  type: vless
-  uuid: aabcb69e-9f17-44bd-aaac-552dd23e9691
-- client-fingerprint: chrome
-  name: 30|🇬🇧GB_87|742KB/s|T001-260618 01
-  network: ws
-  port: 443
-  server: 104.194.140.95
-  servername: xi.tbv.ccwu.cc
-  tls: true
-  type: vless
-  uuid: b2593749-691c-428c-9481-14979cba3446
-  ws-opts:
-    headers:
-      Host: xi.tbv.ccwu.cc
-    path: /
-- name: 30|🇬🇧GB_88|5.2MB/s|A004-260618 01
-  password: 1e6fed5b-5edc-4ddb-a268-79d7fae4365c
-  port: 30443
-  server: 95.133.242.213
-  sni: filesconvert.org
-  tls: false
-  type: hysteria2
-- client-fingerprint: chrome
-  flow: xtls-rprx-vision
-  name: 30|🇬🇧GB_89|617KB/s|M003-260806 01
-  network: tcp
-  port: 59203
-  reality-opts:
-    public-key: pNdwW2sAeaCL3H-a3sB8ogYYJ6Fj7xNgRm-JlEuF_Tc
-    short-id: 0fe182e098273d34
-  server: 99qj3.pastilbastani.ir
-  servername: play.google.com
-  tls: false
-  type: vless
-  uuid: bd70f457-3ec8-4c93-9e5d-b2299b98cd80
-- client-fingerprint: chrome
-  name: 30|🇬🇧GB_90|606KB/s|F003-260618 01
-  network: ws
-  port: 443
-  server: 104.128.190.209
-  servername: shuma.ccwu.cc
-  tls: true
-  type: vless
-  uuid: c18b978e-1c4e-415c-8bea-07942b563a64
-  ws-opts:
-    headers:
-      Host: shuma.ccwu.cc
-    path: /
-- client-fingerprint: chrome
-  name: 30|🇬🇧GB_91|634KB/s|F003-260618 01
-  network: ws
-  port: 443
-  server: 104.194.140.26
-  servername: shuma.ccwu.cc
-  tls: true
-  type: vless
-  uuid: c18b978e-1c4e-415c-8bea-07942b563a64
-  ws-opts:
-    headers:
-      Host: shuma.ccwu.cc
-    path: /
-- alpn:
-  - h2
-  - http/1.1
-  client-fingerprint: firefox
-  flow: xtls-rprx-vision
-  name: 30|🇬🇧GB_93|6.0MB/s|V010-260618 01
-  network: tcp
-  port: 443
-  server: roskaa6.api3-max.ru
-  servername: roskaa6.api3-max.ru
-  tls: true
-  type: vless
-  uuid: cdd6bfce-781a-4454-b7d5-4778abb5c24f
-- client-fingerprint: chrome
-  name: 30|GB VLESS-637 | free-nodes
-  network: tcp
-  port: 21443
-  reality-opts:
-    public-key: PEPivzCg5cBehVQUMVJLNPx3A9hy719Fq7HQsXMp4Ro
-  server: hostvds-nl-nl.kvnfreetest.uk
-  servername: cloudflare.com
-  tls: false
-  type: vless
-  uuid: 122f8c58-f173-4f4a-acb8-86172ba5e10d
