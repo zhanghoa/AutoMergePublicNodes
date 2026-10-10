@@ -1,54 +1,56 @@
 proxies:
 - cipher: chacha20-ietf-poly1305
-  name: 10|🇹🇼 [ Configs by DukeMehdi ] SS...
+  name: '10,21| By EbraSha 🧠 #5'
   password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4
   port: 50099
   server: 36.224.141.124
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10|🇹🇼 [ Configs by DukeMehdi ] SS... #1'
+  name: '10,21| By EbraSha 📶 #5'
   password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4
   port: 50099
   server: 36.224.152.189
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10|🇹🇼 [ Configs by DukeMehdi ] SS... #2'
+  name: '10,21| By EbraSha ⚔️ #13'
   password: q2jToxsx4vTevqrFiLGuwRx96SXM3C96id1MWpnSECHq3MaTWnEV76aN5PYEigRfqf7rxAcuAMWUzYNxrYRG6QhMcYw5QnqL
   port: 56594
   server: 46.249.109.128
   type: ss
 - cipher: aes-256-cfb
-  name: '10|🇹🇼 [ Configs by DukeMehdi ] SS... #3'
+  name: '10,21| By EbraSha ⌨️ #11'
   password: qwerREWQ@@
   port: 50701
   server: 61.220.130.70
   type: ss
 - cipher: aes-256-cfb
-  name: '10|🇹🇼 [ Configs by DukeMehdi ] SS... #4'
+  name: '10,21| By EbraSha 🕶️ #16'
   password: qwerREWQ@@
   port: 41632
   server: 185.189.160.105
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇹🇼 [ Configs by DukeMehdi ] SS... #5'
+  name: '10,21| By EbraSha 🌍 #22'
   password: 8n6pwAcrrv2pj6tFY2p3TbQ6
   port: 33992
   server: 2.58.242.157
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇹🇼 [ Configs by DukeMehdi ] SS... #6'
+  name: '10,21| By EbraSha 💻 #26'
   password: 8n6pwAcrrv2pj6tFY2p3TbQ6
   port: 33992
   server: 2.58.242.43
   type: ss
 - client-fingerprint: chrome
-  name: 19,34|🇹🇼TW_27|84KB/s|F003-260618 01
+  flow: ''
+  name: 19,21,34|🇹🇼TW_27|84KB/s|F003-260618 01
   network: tcp
   port: 24215
   reality-opts:
     public-key: mdWKUPMVTtTbDqK10BPb89OcqBC2-Lx-4NOYtqc1GWE
   server: hinet1.2yly.com
   servername: addons.mozilla.org
+  skip-cert-verify: true
   tls: false
   type: vless
   uuid: 19d5a678-8396-4e3b-93da-ece618d0e83a
@@ -72,6 +74,14 @@ proxies:
   skip-cert-verify: true
   sni: m.ctrip.com
   type: trojan
+- name: 28,34|🇹🇼TW_9|501KB/s|A004-260618 01
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: 443
+  server: 103.115.109.49
+  skip-cert-verify: true
+  sni: https%3a%2f%2ft.me%2foneclickvpnkeys
+  tls: false
+  type: hysteria2
 - name: 29|台湾
   password: 85a88b70b5f2f73d0dcac92bd3934a5e
   port: 50160
@@ -79,15 +89,6 @@ proxies:
   sni: 211-22-154-26.liao.kdns.fr
   tls: false
   type: hysteria2
-- alterId: 0
-  cipher: auto
-  name: 29|🇹🇼TW_5|5.5MB/s
-  network: none
-  port: 31172
-  server: 202.153.4.171
-  tls: false
-  type: vmess
-  uuid: 2bb735a0-b26e-4628-9f1a-23a6661b1275
 - client-fingerprint: chrome
   name: 34|TW台湾(mibei77.com 米贝节点分享)
   network: ws
@@ -185,6 +186,14 @@ proxies:
   sni: https://t.me/wangcai2🇨🇳
   tls: false
   type: hysteria2
+- name: 34|🇹🇼TW_8|502KB/s|A004-260618 01
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: 443
+  server: 103.115.109.49
+  skip-cert-verify: true
+  sni: https://t.me/wangcai2
+  tls: false
+  type: hysteria2
 - name: 34|🇹🇼TW_10|495KB/s|A004-260618 01
   password: H7mP2xY9kJ4nQ8wR5tF6vB3z
   port: 443
@@ -207,6 +216,30 @@ proxies:
   server: vpn-tw-002.fastervpn.world
   skip-cert-verify: true
   sni: vk.com
+  tls: false
+  type: hysteria2
+- name: 34|🇹🇼TW_15|475KB/s|A004-260618 01
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: 443
+  server: vpn-tw-002.fastervpn.world
+  skip-cert-verify: true
+  sni: vpn-tw-002.fastervpn.world\u0026insecure=1\u0026allowinsecure=1
+  tls: false
+  type: hysteria2
+- name: 34|🇹🇼TW_16|483KB/s|A004-260618 01
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: 443
+  server: vpn-tw-002.fastervpn.world
+  skip-cert-verify: true
+  sni: vpn-tw-002.fastervpn.world%5cu0026insecure%3d1%5cu0026allowinsecure%3d1
+  tls: false
+  type: hysteria2
+- name: 34|🇹🇼TW_17|503KB/s|A004-260618 01
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: 443
+  server: 103.115.109.49
+  skip-cert-verify: true
+  sni: https%3a%2f%2ft.me%2fwangcai2
   tls: false
   type: hysteria2
 - client-fingerprint: chrome
@@ -236,6 +269,30 @@ proxies:
   server: 160.187.100.109
   skip-cert-verify: true
   sni: 127.0.0.1
+  tls: false
+  type: hysteria2
+- name: 34|🇹🇼TW_24|476KB/s|A004-260618 01
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: 443
+  server: vpn-tw-002.fastervpn.world
+  skip-cert-verify: true
+  sni: t.me
+  tls: false
+  type: hysteria2
+- name: 34|🇹🇼TW_25|499KB/s|A004-260618 01
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: 443
+  server: 103.115.109.49
+  skip-cert-verify: true
+  sni: https%3a%2f%2ft.me%2fwangcai2%f0%9f%87%a8%f0%9f%87%b3
+  tls: false
+  type: hysteria2
+- name: 34|🇹🇼TW_26|493KB/s 01
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: 443
+  server: 103.115.109.49
+  skip-cert-verify: true
+  sni: https://t.me/oneclickvpnkeys
   tls: false
   type: hysteria2
 - client-fingerprint: firefox

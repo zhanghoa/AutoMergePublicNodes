@@ -1,23 +1,23 @@
 proxies:
 - cipher: aes-128-gcm
-  name: 10|🇨🇭 [ Configs by DukeMehdi ] SS...
+  name: '10,21| By EbraSha 🌪️ #16'
   password: shadowsocks
   port: 443
   server: 156.146.62.162
   type: ss
 - cipher: aes-256-cfb
-  name: '10|🇨🇭 [ Configs by DukeMehdi ] SS... #1'
+  name: '10,21| By EbraSha 🚀 #16'
   password: '!!str 4415934295'
   port: 50004
   server: 37.120.213.230
   type: ss
 - cipher: aes-256-cfb
-  name: '10|🇨🇭 [ Configs by DukeMehdi ] SS... #2'
+  name: '10,21| By EbraSha 🗿 #19'
   password: f8f7aCzcPKbsF8p3
   port: 989
   server: 212.237.210.158
   type: ss
-- name: 17,19|🇨🇭191339 | ⚡️Telegram = t.me/S...
+- name: '17,19,21| By EbraSha 🦈 #2'
   obfs: salamander
   obfs-password: mbQXP2ASuHbF6ZPq
   password: capadm96216165
@@ -27,22 +27,46 @@ proxies:
   sni: vpn.local
   tls: false
   type: hysteria2
+- name: 17,19,21,28|[OpenRay] 🇬🇧GB-387
+  password: we9_I1893UFj3149xbr1_k8qvJ8734ic_Mx82gH
+  port: 8443
+  server: 82.38.64.237
+  skip-cert-verify: false
+  sni: hopp-swizland-new.mysynology.net
+  tls: false
+  type: hysteria2
+- client-fingerprint: chrome
+  flow: ''
+  name: '19,21| By EbraSha 🕷️ #166'
+  network: tcp
+  port: 2053
+  reality-opts:
+    public-key: A49ue7zXSusJZdErPAewg3jqGdUFIO1a9xOunEKJfC0
+    short-id: ad86e2d52ff40ebd
+  server: 208.69.78.217
+  servername: www.apple.com
+  tls: false
+  type: vless
+  uuid: c0dd6d59-1573-43af-8b70-1470b2632a6d
 - cipher: chacha20-ietf-poly1305
-  name: '19,20|🇨🇭[www.v2nodes.com] ss-CH-1573... #1'
+  name: '19,20|🏳[www.v2nodes.com] ss- #4'
   password: e8KgS8fD0yDqYFpgN4G5piCOt9aFyqA3
   port: 8388
   server: 132.243.175.144
   type: ss
-- alterId: 0
-  cipher: auto
-  name: '26|کانال تلگرام : Free_VPN_CH@ #1'
-  network: tcp
-  port: 4452
-  server: x2.mehradservice.com
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 389625c7-c891-4f61-9f98-478058744ada
+- client-fingerprint: firefox
+  flow: xtls-rprx-vision
+  name: 24|🇨🇭_瑞士_6
+  port: 443
+  reality-opts:
+    public-key: SB1uC0OEveYjSiS_Nuw9Ld-uVVXWqi794OGnldthY3I
+  server: 179.255.191.86
+  servername: dobro.ali-bard.online
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: 12e95f93-443c-45f0-9a2a-5b318b9124cf
 - alpn:
   - h3
   name: '29|کانال تلگرام : Free_VPN_CH@ #1 #1'

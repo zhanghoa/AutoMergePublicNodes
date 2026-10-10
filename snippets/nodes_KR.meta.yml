@@ -1,42 +1,49 @@
 proxies:
 - cipher: chacha20-ietf-poly1305
-  name: '10|🇰🇷 [ Configs by DukeMehdi ] SS... #1'
+  name: '10,21| By EbraSha 🔐 #5'
   password: 7e68e32f-8015-4f37-9082-70e8b0b58043
   port: 8443
   server: 13.124.117.110
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10|🇰🇷 [ Configs by DukeMehdi ] SS... #2'
+  name: '10,21| By EbraSha 🚀 #9'
   password: 7e68e32f-8015-4f37-9082-70e8b0b58043
   port: 8443
   server: 43.201.250.101
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10|🇰🇷 [ Configs by DukeMehdi ] SS... #3'
+  name: '10,21| By EbraSha ⚔️ #4'
   password: 7e68e32f-8015-4f37-9082-70e8b0b58043
   port: 8443
   server: 3.35.54.161
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10|🇰🇷 [ Configs by DukeMehdi ] SS... #4'
+  name: '10,21| By EbraSha 💻 #11'
   password: 7e68e32f-8015-4f37-9082-70e8b0b58043
   port: 8443
   server: 43.202.53.247
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10|🇰🇷 [ Configs by DukeMehdi ] SS... #5'
+  name: '10,21| By EbraSha 🤖 #6'
   password: 7e68e32f-8015-4f37-9082-70e8b0b58043
   port: 8443
   server: 52.78.216.116
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10|🇰🇷 [ Configs by DukeMehdi ] SS... #6'
+  name: '10,21| By EbraSha 🌍 #5'
   password: 7e68e32f-8015-4f37-9082-70e8b0b58043
   port: 8443
   server: 52.78.59.52
   type: ss
+- cipher: chacha20-ietf-poly1305
+  name: '10,19,20,21| By EbraSha 🪐 #4'
+  password: 7e68e32f-8015-4f37-9082-70e8b0b58043
+  port: 8443
+  server: 52.79.212.191
+  type: ss
+  udp: true
 - cipher: aes-256-cfb
-  name: '10|🇰🇷 [ Configs by DukeMehdi ] SS... #8'
+  name: '10,21| By EbraSha 🛸 #10'
   password: 1234!@#$
   port: 1774
   server: 49.254.204.134
@@ -48,7 +55,7 @@ proxies:
   server: 13.125.124.161
   type: ss
 - cipher: aes-256-cfb
-  name: '10|🇰🇷 [ Configs by DukeMehdi ] SS... #10'
+  name: '10,21| By EbraSha 🧠 #13'
   password: amazonskr05
   port: 443
   server: 43.200.245.35
@@ -60,7 +67,7 @@ proxies:
   server: 43.201.47.102
   type: ss
 - cipher: aes-256-cfb
-  name: '10|🇰🇷 [ Configs by DukeMehdi ] SS... #12'
+  name: '10,21| By EbraSha 🕶️ #12'
   password: amazonskr05
   port: 443
   server: 43.201.48.212
@@ -78,85 +85,85 @@ proxies:
   server: 43.202.49.222
   type: ss
 - cipher: aes-256-cfb
-  name: '10|🇰🇷 [ Configs by DukeMehdi ] SS... #15'
+  name: '10,21| By EbraSha 🃏 #13'
   password: qwerREWQ@@
   port: 2003
   server: 125.141.26.5
   type: ss
 - cipher: aes-256-cfb
-  name: '10|🇰🇷 [ Configs by DukeMehdi ] SS... #16'
+  name: '10,21| By EbraSha ♦️ #20'
   password: qwerREWQ@@
   port: 6123
   server: 211.178.105.134
   type: ss
 - cipher: aes-256-cfb
-  name: '10|🇰🇷 [ Configs by DukeMehdi ] SS... #17'
+  name: '10,21| By EbraSha 🃏 #14'
   password: qwerREWQ@@
   port: 4652
   server: 218.237.185.230
   type: ss
 - cipher: aes-256-cfb
-  name: '10|🇰🇷 [ Configs by DukeMehdi ] SS... #18'
+  name: '10,21| By EbraSha 🦅 #18'
   password: qwerREWQ@@
   port: 13979
   server: 221.139.79.57
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇰🇷 [ Configs by DukeMehdi ] SS... #19'
+  name: '10,21| By EbraSha ♠️ #20'
   password: KixLvKzwjekG00rm
   port: 8000
   server: 141.164.45.187
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇰🇷 [ Configs by DukeMehdi ] SS... #20'
+  name: '10,21| By EbraSha 📱 #20'
   password: RexnBgU7EV5ADxG
   port: 7001
   server: 141.164.45.187
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇰🇷 [ Configs by DukeMehdi ] SS... #21'
+  name: '10,21| By EbraSha 🪖 #15'
   password: TEzjfAYq2IjtuoS
   port: 6679
   server: 141.164.45.187
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇰🇷 [ Configs by DukeMehdi ] SS... #22'
+  name: '10,21| By EbraSha 🔌 #24'
   password: TEzjfAYq2IjtuoS
   port: 6697
   server: 141.164.45.187
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇰🇷 [ Configs by DukeMehdi ] SS... #24'
+  name: '10,21| By EbraSha ♣️ #28'
   password: XKFKl2rULjIp74
   port: 8008
   server: 141.164.45.187
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇰🇷 [ Configs by DukeMehdi ] SS... #25'
+  name: '10,21| By EbraSha 🪖 #17'
   password: Y6R9pAtvxxzmGC
   port: 9090
   server: 141.164.45.187
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇰🇷 [ Configs by DukeMehdi ] SS... #26'
+  name: '10,21| By EbraSha 🚀 #27'
   password: Y6R9pAtvxxzmGC
   port: 5601
   server: 158.247.205.87
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇰🇷 [ Configs by DukeMehdi ] SS... #27'
+  name: '10,21| By EbraSha 📀 #34'
   password: cdBIDV42DCwnfIN
   port: 8119
   server: 141.164.45.187
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇰🇷 [ Configs by DukeMehdi ] SS... #28'
+  name: '10,21| By EbraSha 🚀 #28'
   password: ac9c0a7b
   port: 49642
   server: 211.174.113.172
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇰🇷 [ Configs by DukeMehdi ] SS... #29'
+  name: '10,21| By EbraSha 🛰️ #29'
   password: e4FCWrgpkji3QY
   port: 9101
   server: 141.164.45.187
@@ -219,48 +226,59 @@ proxies:
     path: '%2F'
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: 19|🇰🇷[www.v2nodes.com] vless-KR-1...
+  name: '19,21| By EbraSha ✨ #71'
+  network: raw
   port: 2053
+  reality-opts:
+    public-key: DfFU5OG93GxB1x25Dl2BTkxKsBTFF4Su4PXYPbYvmms
+    short-id: 3c4041d3
   server: 47.80.19.173
   servername: gateway.icloud.com
-  tls: true
+  tls: false
   type: vless
   uuid: 319d5ffb-57e8-4bbd-ac0c-5d55d0c253de
-- name: '19,20|🇰🇷[www.v2nodes.com] trojan-KR-... #23'
+- name: '19,20,21| By EbraSha 🦂 #41'
+  network: tcp
   password: UX82473651
   port: 443
   server: full-egret.rooster465.autos
   skip-cert-verify: true
   sni: full-egret.rooster465.autos
   type: trojan
-- name: '19,20|🇰🇷[www.v2nodes.com] trojan-KR-... #24'
+- name: '19,20,21| By EbraSha 👑 #50'
+  network: tcp
   password: UX82473651
   port: 443
   server: neutral-quail.rooster465.autos
   sni: neutral-quail.rooster465.autos
   type: trojan
-- name: '19|🇰🇷[www.v2nodes.com] trojan-KR-... #8'
+  ws-opts:
+    path: '%2f'
+- name: '19,21| By EbraSha 🎛️ #40'
   password: UX82473651
   port: 443
   server: 52.78.203.191
   type: trojan
-- name: '19,20|🇰🇷[www.v2nodes.com] trojan-KR-... #26'
+- name: '19,20,21| By EbraSha 🪖 #40'
+  network: tcp
   password: UX82473651
   port: 443
   server: amazing-peacock.rooster465.autos
   sni: amazing-peacock.rooster465.autos
   type: trojan
-- name: '19,20|🇰🇷[www.v2nodes.com] trojan-KR-... #30'
+  ws-opts:
+    path: '%2f'
+- name: '19,21| By EbraSha 📛 #38'
   password: UX82473651
   port: 443
   server: 13.125.69.162
   type: trojan
-- name: '19,20|🇰🇷[www.v2nodes.com] trojan-KR-... #31'
+- name: '19|🇰🇷[www.v2nodes.com] trojan-KR-... #14'
   password: UX82473651
   port: 443
   server: 3.34.131.153
   type: trojan
-- name: '19,20|🇰🇷[www.v2nodes.com] trojan-KR-... #33'
+- name: '19,21| By EbraSha 🪐 #36'
   password: UX82473651
   port: 443
   server: balanced-stag.rooster465.autos
@@ -299,7 +317,7 @@ proxies:
   type: hysteria2
 - alterId: 0
   cipher: auto
-  name: '20|🇰🇷 韩国|@ripaojiedian #1'
+  name: '20,21|By EbraSha 🚧 #17'
   network: ws
   port: 443
   server: 8nTzyR5KNivfabaT.v.3dns.vip
@@ -372,52 +390,20 @@ proxies:
     headers:
       Host: and-75r.pages.dev
     path: /
-- name: 28|[OpenRay] 🇰🇷KR-107
-  password: 7e68e32f-8015-4f37-9082-70e8b0b58043
-  port: 443
-  server: 13.124.117.110
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: false
-  type: hysteria2
-- name: 28|[OpenRay] 🇰🇷KR-120
-  password: 7e68e32f-8015-4f37-9082-70e8b0b58043
-  port: 443
-  server: 43.202.53.247
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: false
-  type: hysteria2
-- name: 28|[OpenRay] 🇰🇷KR-128
-  password: 7e68e32f-8015-4f37-9082-70e8b0b58043
-  port: 443
-  server: 52.78.216.116
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: false
-  type: hysteria2
-- name: 28|[OpenRay] 🇰🇷KR-67
-  password: 7e68e32f-8015-4f37-9082-70e8b0b58043
-  port: 443
-  server: 52.78.59.52
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: false
-  type: hysteria2
-- name: 28|[OpenRay] 🇰🇷KR-74
-  password: H7mP2xY9kJ4nQ9wR5tF6vB3z
-  port: 443
-  server: 3.38.115.120
-  skip-cert-verify: true
-  sni: vpn-kr-002.fastervpn.world
-  tls: false
-  type: hysteria2
 - name: 29|🇰🇷|KR|@wxgqlfx|24
   password: dfb54e674104158210fdfcac45e5679d
   port: 50160
   server: 193.122.104.200
   skip-cert-verify: true
   sni: 193-122-104-200.liao.kdns.fr
+  tls: false
+  type: hysteria2
+- name: 29|🇰🇷|KR|@wxgqlfx|23
+  password: 3d7634af8cb2c6cb4bac1c0efad8b43d
+  port: 50160
+  server: 152.67.200.82
+  skip-cert-verify: true
+  sni: 152-67-200-82.liao.kdns.fr
   tls: false
   type: hysteria2
 - client-fingerprint: chrome
@@ -506,6 +492,14 @@ proxies:
     headers:
       Host: withered-morning-aa51.64-c79.workers.dev
     path: /pyip=ProxyIP.KR.CMLiussss.net
+- name: 34|🇰🇷KR_2|513KB/s|C002-260622 01
+  password: H7mP2xY9kJ4nQ9wR5tF6vB3z
+  port: 443
+  server: vpn-kr-002.fastervpn.world
+  skip-cert-verify: true
+  sni: vpn-kr-002.fastervpn.world
+  tls: false
+  type: hysteria2
 - name: 34|🇰🇷KR_3|523KB/s|A004-260618 01
   password: H7mP2xY9kJ4nQ8wR5tF6vB3z
   port: 443
@@ -616,6 +610,14 @@ proxies:
   server: 131.186.19.174
   skip-cert-verify: true
   sni: www.bing.com
+  tls: false
+  type: hysteria2
+- name: 34|🇰🇷KR_26|453KB/s|A004-260618 01
+  password: 3d7634af8cb2c6cb4bac1c0efad8b43d
+  port: 50160
+  server: 152.67.200.82
+  skip-cert-verify: true
+  sni: css.rbxcdn.com
   tls: false
   type: hysteria2
 - name: 34|🇰🇷KR_28|545KB/s|A004-260618 01

@@ -2,7 +2,7 @@
 0,https://Nr5naf.absslk.xyz/e98af01c1d1a5c4506aead30efa93f08,0
 1,https://gist.githubusercontent.com/peasoft/40b87245630092f30cc98af61190b4e2/raw/,10
 2,https://raw.githubusercontent.com/Alirewa/V2ray-Configs/main/sub1.txt,100
-3,https://raw.githubusercontent.com/Au1rxx/free-vpn-subscriptions/main/output/clash.yaml,1857
+3,https://raw.githubusercontent.com/Au1rxx/free-vpn-subscriptions/main/output/clash.yaml,0
 4,https://raw.githubusercontent.com/Au1rxx/free-vpn-subscriptions/main/output/v2ray-base64.txt,1000
 5,https://raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/clashmeta.txt,16
 6,https://raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/ndnode.txt,14
@@ -19,12 +19,12 @@
 17,https://raw.githubusercontent.com/Surfboardv2ray/TGParse/main/python/hysteria2,70
 18,https://raw.githubusercontent.com/actionsfz/v2ray/refs/heads/master/all.yaml,91
 19,https://raw.githubusercontent.com/acymz/AutoVPN/main/data/V2.txt,523
-20,https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/list.yml,185
-21,https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/refs/heads/main/V2Ray-Config-By-EbraSha-All-Type.txt   # 全量读取：实测该源优质节点集中在中后段，limit 截断会丢大量有效节点（前2000仅10%可达，中段46%）,0
+20,https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/list.yml,172
+21,https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/refs/heads/main/V2Ray-Config-By-EbraSha-All-Type.txt,18590
 22,https://raw.githubusercontent.com/firefoxmmx2/v2rayshare_subcription/main/subscription/clash_sub.yaml,21
 23,https://raw.githubusercontent.com/free-nodes/clashfree/refs/heads/main/clash{Ymd}.yml,0
 24,https://raw.githubusercontent.com/free18/v2ray/refs/heads/main/c.yaml,215
-25,https://raw.githubusercontent.com/go4sharing/sub/main/sub.yaml,15
+25,https://raw.githubusercontent.com/go4sharing/sub/main/sub.yaml,25
 26,https://raw.githubusercontent.com/kasesm/Free-Config/main/all_raw.txt,1200
 27,https://raw.githubusercontent.com/mahdibland/SSAggregator/master/sub/sub_merge_yaml.yml,0
 28,https://raw.githubusercontent.com/nikita29a/FreeProxyList/main/mirror/1.txt,2000
@@ -36,5 +36,5 @@
 34,https://raw.githubusercontent.com/xiaoji235/airport-free/main/v2ray.txt,3000
 35,https://raw.githubusercontent.com/zhangkaiitugithub/passcro/main/speednodes.yaml,141
 
-总计,,8076
-存活节点,,4848/8076
+总计,,17681
+存活节点,,10187/17681

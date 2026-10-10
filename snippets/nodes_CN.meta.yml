@@ -18,13 +18,13 @@ proxies:
   server: 14.29.124.168
   type: ss
 - cipher: aes-128-cfb
-  name: '10|🇨🇳 [ Configs by DukeMehdi ] SS... #3'
+  name: '10,21| By EbraSha 🦇 #9'
   password: QazEdcTgb159@$*
   port: 24009
   server: 14.29.124.168
   type: ss
 - cipher: aes-128-cfb
-  name: '10|🇨🇳 [ Configs by DukeMehdi ] SS... #4'
+  name: '10,21| By EbraSha 🗿 #12'
   password: QazEdcTgb159@$*
   port: 25207
   server: 14.29.124.168
@@ -36,7 +36,7 @@ proxies:
   server: 14.29.124.168
   type: ss
 - cipher: aes-128-cfb
-  name: '10|🇨🇳 [ Configs by DukeMehdi ] SS... #6'
+  name: '10,21| By EbraSha 🩸 #14'
   password: QazEdcTgb159@$*
   port: 25226
   server: 14.29.124.168
@@ -54,13 +54,13 @@ proxies:
   server: 14.29.124.168
   type: ss
 - cipher: aes-128-cfb
-  name: '10|🇨🇳 [ Configs by DukeMehdi ] SS... #9'
+  name: '10,21| By EbraSha 🧊 #14'
   password: QazEdcTgb159@$*
   port: 25233
   server: 14.29.124.168
   type: ss
 - cipher: aes-128-cfb
-  name: '10|🇨🇳 [ Configs by DukeMehdi ] SS... #10'
+  name: '10,21| By EbraSha ⚙️ #7'
   password: QazEdcTgb159@$*
   port: 25235
   server: 14.29.124.168
@@ -78,25 +78,25 @@ proxies:
   server: 14.29.124.168
   type: ss
 - cipher: aes-128-cfb
-  name: '10|🇨🇳 [ Configs by DukeMehdi ] SS... #13'
+  name: '10,21| By EbraSha 🖥️ #4'
   password: QazEdcTgb159@$*
   port: 25247
   server: 14.29.124.168
   type: ss
 - cipher: aes-128-cfb
-  name: '10|🇨🇳 [ Configs by DukeMehdi ] SS... #14'
+  name: '10,21| By EbraSha 🪬 #8'
   password: QazEdcTgb159@$*
   port: 25251
   server: 14.29.124.168
   type: ss
 - cipher: aes-128-cfb
-  name: '10|🇨🇳 [ Configs by DukeMehdi ] SS... #15'
+  name: '10,21| By EbraSha 🧲 #9'
   password: QazEdcTgb159@$*
   port: 25252
   server: 14.29.124.168
   type: ss
 - cipher: aes-128-cfb
-  name: '10|🇨🇳 [ Configs by DukeMehdi ] SS... #16'
+  name: '10,21| By EbraSha 👾 #18'
   password: QazEdcTgb159@$*
   port: 25254
   server: 14.29.124.168
@@ -114,13 +114,13 @@ proxies:
   server: 14.29.124.168
   type: ss
 - cipher: aes-128-cfb
-  name: '10|🇨🇳 [ Configs by DukeMehdi ] SS... #19'
+  name: '10,21| By EbraSha 🧠 #9'
   password: QazEdcTgb159@$*
   port: 25284
   server: 14.29.124.168
   type: ss
 - cipher: aes-128-cfb
-  name: '10|🇨🇳 [ Configs by DukeMehdi ] SS... #20'
+  name: '10,21| By EbraSha 🦈 #13'
   password: QazEdcTgb159@$*
   port: 25286
   server: 14.29.124.168
@@ -144,13 +144,13 @@ proxies:
   server: 180.101.193.226
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇨🇳 [ Configs by DukeMehdi ] SS... #24'
+  name: '10,21| By EbraSha ⚙️ #13'
   password: BGX8OXD6P10X53LY
   port: 17001
   server: 219.135.227.209
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇨🇳 [ Configs by DukeMehdi ] SS... #25'
+  name: '10,21| By EbraSha 🚀 #25'
   password: QM1BB5SMWC47IVWA
   port: 15010
   server: 219.135.227.209
@@ -212,16 +212,6 @@ proxies:
   type: vless
   udp: true
   uuid: aec8e5e3-bb81-4b22-8802-0b88c54997b3
-- client-fingerprint: chrome
-  name: 24|🇨🇳_中国_48
-  port: 23202
-  server: sh.polymarket.party
-  servername: jp2.australiacaregroup.site
-  skip-cert-verify: true
-  tls: true
-  type: vless
-  udp: true
-  uuid: aec8e5e3-bb81-4b22-8802-0b88c54997b3
 - name: 24|🇨🇳_中国_51
   password: aec8e5e3-bb81-4b22-8802-0b88c54997b3
   port: 23203
@@ -240,16 +230,6 @@ proxies:
   type: vless
   udp: true
   uuid: aec8e5e3-bb81-4b22-8802-0b88c54997b3
-- client-fingerprint: chrome
-  name: 24|🇨🇳_中国_63
-  port: 36032
-  server: gz2.vatilon.cc
-  servername: us2.australiacaregroup.site
-  skip-cert-verify: true
-  tls: true
-  type: vless
-  udp: true
-  uuid: aec8e5e3-bb81-4b22-8802-0b88c54997b3
 - name: 24|🇨🇳_中国_191
   password: aec8e5e3-bb81-4b22-8802-0b88c54997b3
   port: 23823
@@ -262,11 +242,18 @@ proxies:
     headers:
       Host: us4.australiacaregroup.site
     path: /trojan
-- flow: ''
-  name: 29|广东省广州市+腾讯云
-  network: tcp
-  port: 52683
-  server: jp.sofast.live
-  tls: false
-  type: vless
-  uuid: 399b6b23-cc40-4831-a494-61948e2df133
+- alterId: 0
+  cipher: auto
+  country: 🇨🇳CN
+  delay: 2801
+  h2-opts: {}
+  http-opts: {}
+  name: 25|中国 - 北京 - 1
+  network: ws
+  port: 10086
+  server: 120.48.133.162
+  skip-cert-verify: true
+  type: vmess
+  uuid: fde10e39-48bb-4dcf-b3ba-71d711323a54
+  ws-opts:
+    path: /

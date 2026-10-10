@@ -1,18 +1,18 @@
 proxies:
 - cipher: chacha20-ietf-poly1305
-  name: 10|🇪🇪 [ Configs by DukeMehdi ] SS...
+  name: '10,21| By EbraSha ♣️ #17'
   password: lejSRyqa033OEPmEQsvRsl
   port: 46114
   server: 194.59.183.134
   type: ss
 - cipher: aes-256-cfb
-  name: '10|🇪🇪 [ Configs by DukeMehdi ] SS... #1'
+  name: '10,21| By EbraSha 🧊 #20'
   password: f8f7aCzcPKbsF8p3
   port: 989
   server: 37.252.5.234
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇪🇪 [ Configs by DukeMehdi ] SS... #2'
+  name: '10,21| By EbraSha 🧿 #15'
   password: FoOiGlkAA9yPEGP
   port: 7307
   server: 38.180.216.114
@@ -36,19 +36,30 @@ proxies:
         like Gecko) Chrome/60.0.3112.113 Safari/537.36
     path: /hoOUCl9QWMZ9zBtD/c2hpcmVuLnlhZW1pa28uZ2dmZi5uZXQ=?ed=2560
   xudp: true
-- name: 19|🇪🇪[www.v2nodes.com] vless-EE-1...
+- client-fingerprint: ''
+  flow: xtls-rprx-vision
+  name: '19,21| By EbraSha 🚬 #69'
+  network: tcp
   port: 443
+  reality-opts:
+    public-key: lwKaUQ81wJUJRsqAPsfTPj5V_f9N50UYEwzRI_nuq2g
+    short-id: e88cb983f3c97528
   server: 93.89.220.37
+  servername: ibm.com
   tls: false
   type: vless
   uuid: 185e2bb3-2934-48d0-bbd5-dd20d16e83ee
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: '19|🇪🇪[www.v2nodes.com] vless-EE-1... #1'
+  name: '19,21| By EbraSha 🧿 #130'
+  network: tcp
   port: 443
+  reality-opts:
+    public-key: g36Z7YIqJMJP-uv3DBr72X5jvfjyW1qIAxa8TkWmpmQ
+    short-id: ad6e08b22389abd2
   server: 89.125.13.202
   servername: d3-ee1.cloud-cdn.xyz
-  tls: true
+  tls: false
   type: vless
   uuid: 87fd990d-ca93-440a-bbd4-e8281c4a0910
 - client-fingerprint: chrome
@@ -112,6 +123,16 @@ proxies:
     headers:
       Host: fdghyt.com
     path: /vpn-wss/fluxor/59011/fp=firefox
+- client-fingerprint: firefox
+  name: 19,21,34|🇪🇪EE_3|1.4MB/s|A004-260618 01
+  network: raw
+  port: 8443
+  server: 94.183.170.135
+  servername: estproxy4.lockdwn.com
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  uuid: 06c4e938-2954-478f-a870-ca1b163e30e9
 - client-fingerprint: qq
   flow: xtls-rprx-vision
   name: 19,34|🇫🇮FI_20|214KB/s|A004-260618 01
@@ -125,13 +146,15 @@ proxies:
   tls: false
   type: vless
   uuid: 342ab7e4-5a89-0001-8809-304120d4aa83
-- name: '19,20|🇪🇪[www.v2nodes.com] trojan-EE-... #2'
+- name: '19,21| By EbraSha ✨ #44'
+  network: tcp
   password: gHncxmRjWEJ7apX5XuXsHw4kGexMH_gU
   port: 2097
   server: stoniy.fytpn.com
+  skip-cert-verify: false
   sni: stoniy.fytpn.com
   type: trojan
-- name: 19,20,34|🇪🇪EE_8|1.2MB/s|C002-260622 01
+- name: 19,20,21,34|🇪🇪EE_8|1.2MB/s|C002-260622 01
   network: tcp
   password: oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1
   port: 449
@@ -139,15 +162,6 @@ proxies:
   skip-cert-verify: true
   sni: russiapower.accesscam.org
   type: trojan
-- name: 28|[OpenRay] 🇪🇪EE-31
-  obfs: salamander
-  obfs-password: 44f1c1e2f8b99e792ceed574627a1eb0
-  password: cd74c0a406664a5bc0bac098220a2468
-  port: 443
-  server: ee2.sferavpn.pro
-  sni: ee2.sferavpn.pro
-  tls: false
-  type: hysteria2
 - name: 29|🇪🇪EE_1|2.2MB/s
   network: ws
   port: 443
@@ -199,16 +213,6 @@ proxies:
     headers:
       Host: shuma.ccwu.cc
     path: '%2F'
-- name: 34|🇪🇪EE_4|702KB/s|A004-260618 01
-  network: ws
-  port: 443
-  server: 94.183.170.135
-  servername: estproxy4.lockdwn.com
-  tls: false
-  type: vless
-  uuid: 06c4e938-2954-478f-a870-ca1b163e30e9
-  ws-opts:
-    path: /
 - name: 34|🇪🇪EE_12|1.3MB/s|B007-260618 01
   network: tcp
   password: oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1

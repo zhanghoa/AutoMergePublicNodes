@@ -1,30 +1,30 @@
 proxies:
 - cipher: chacha20-ietf-poly1305
-  name: 10|🇫🇷 [ Configs by DukeMehdi ] SS...
+  name: '10,21| By EbraSha 🌃 #6'
   password: 8zw5j9h
   port: 443
   server: 54.36.174.134
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10|🇫🇷 [ Configs by DukeMehdi ] SS... #1'
+  name: '10,21| By EbraSha 🦅 #6'
   password: 94dvoW0TdKRq
   port: 443
   server: 161.97.68.139
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10|🇫🇷 [ Configs by DukeMehdi ] SS... #2'
+  name: '10,21| By EbraSha 🔐 #6'
   password: ytw2awn
   port: 443
   server: 54.36.174.140
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10,19,20|🇫🇷[www.v2nodes.com] ss-FR-1536... #1'
+  name: '10,19,20,21| By EbraSha 👑 #9'
   password: BqnqToih0PbU
   port: 8388
   server: 51.255.13.232
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10|🇫🇷 [ Configs by DukeMehdi ] SS... #4'
+  name: '10,21| By EbraSha 🌃 #7'
   password: E4gyHkKwJGyG
   port: 443
   server: 161.97.66.81
@@ -42,43 +42,43 @@ proxies:
   server: 51.178.87.37
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10|🇫🇷 [ Configs by DukeMehdi ] SS... #7'
+  name: '10,21| By EbraSha 🩸 #7'
   password: G!yBwPWH3Vao
   port: 800
   server: 141.95.0.23
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10|🇫🇷 [ Configs by DukeMehdi ] SS... #8'
+  name: '10,21| By EbraSha 🎯 #6'
   password: G!yBwPWH3Vao
   port: 810
   server: 141.95.0.23
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10|🇫🇷 [ Configs by DukeMehdi ] SS... #9'
+  name: '10,21| By EbraSha 🌪️ #9'
   password: G!yBwPWH3Vao
   port: 809
   server: 163.172.110.153
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10|🇫🇷 [ Configs by DukeMehdi ] SS... #10'
+  name: '10,21| By EbraSha ⚔️ #10'
   password: G!yBwPWH3Vao
   port: 803
   server: 95.85.90.181
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10|🇫🇷 [ Configs by DukeMehdi ] SS... #11'
+  name: '10,21| By EbraSha 🩸 #9'
   password: G!yBwPWH3Vao
   port: 804
   server: 95.85.90.181
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10|🇫🇷 [ Configs by DukeMehdi ] SS... #12'
+  name: '10,21| By EbraSha 🖥️ #3'
   password: G!yBwPWH3Vao
   port: 810
   server: 95.85.90.181
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10|🇫🇷 [ Configs by DukeMehdi ] SS... #13'
+  name: '10,21| By EbraSha 🌃 #9'
   password: Kq3iQqtVlyPJBPcD6QpnGE
   port: 9802
   server: 92.243.27.51
@@ -90,73 +90,73 @@ proxies:
   server: 141.95.160.152
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10|🇫🇷 [ Configs by DukeMehdi ] SS... #15'
+  name: '10,21| By EbraSha ⚙️ #5'
   password: diOMBU5IDvJcFqyNPbRjYR
   port: 10443
   server: 137.74.119.18
   type: ss
 - cipher: aes-128-gcm
-  name: '10|🇫🇷 [ Configs by DukeMehdi ] SS... #16'
+  name: '10,21| By EbraSha 🛜 #16'
   password: SySWDaP8rm1NEK0wdLdoaV5ClkSjFDfw
   port: 51058
   server: 173.212.251.231
   type: ss
 - cipher: aes-256-cfb
-  name: '10|🇫🇷 [ Configs by DukeMehdi ] SS... #18'
+  name: '10,21| By EbraSha 🛜 #19'
   password: '!!str 4415934295'
   port: 50004
   server: 62.210.213.6
   type: ss
 - cipher: aes-256-cfb
-  name: '10|🇫🇷 [ Configs by DukeMehdi ] SS... #19'
+  name: '10,21| By EbraSha 🔮 #11'
   password: '!!str 7122910143'
   port: 50007
   server: 135.125.236.229
   type: ss
 - cipher: aes-256-cfb
-  name: '10|🇫🇷 [ Configs by DukeMehdi ] SS... #20'
+  name: '10,21| By EbraSha 🥷 #10'
   password: amazonskr05
   port: 443
   server: 13.36.241.80
   type: ss
 - cipher: aes-256-cfb
-  name: '10|🇫🇷 [ Configs by DukeMehdi ] SS... #21'
+  name: '10,21| By EbraSha 🌃 #14'
   password: amazonskr05
   port: 443
   server: 15.237.53.180
   type: ss
 - cipher: aes-256-cfb
-  name: '10|🇫🇷 [ Configs by DukeMehdi ] SS... #22'
+  name: '10,21| By EbraSha 🌪️ #19'
   password: amazonskr05
   port: 443
   server: 51.44.86.16
   type: ss
 - cipher: aes-256-cfb
-  name: '10|🇫🇷 [ Configs by DukeMehdi ] SS... #23'
+  name: '10,21| By EbraSha 🚨 #11'
   password: amazonskr05
   port: 443
   server: 52.47.99.71
   type: ss
 - cipher: aes-256-cfb
-  name: '10|🇫🇷 [ Configs by DukeMehdi ] SS... #24'
+  name: '10,21| By EbraSha 🃏 #11'
   password: amazonskr05
   port: 443
   server: 15.237.138.120
   type: ss
 - cipher: aes-256-cfb
-  name: '10|🇫🇷 [ Configs by DukeMehdi ] SS... #25'
+  name: '10,21| By EbraSha 🗿 #18'
   password: amazonskr05
   port: 443
   server: 35.181.4.41
   type: ss
 - cipher: aes-256-cfb
-  name: '10|🇫🇷 [ Configs by DukeMehdi ] SS... #26'
+  name: '10,21| By EbraSha ⚙️ #11'
   password: asdKkaskJKfnsa
   port: 443
   server: 162.19.59.160
   type: ss
 - cipher: aes-256-cfb
-  name: '10|🇫🇷 [ Configs by DukeMehdi ] SS... #27'
+  name: '10,21| By EbraSha 🧩 #14'
   password: asdKkaskJKfnsa
   port: 443
   server: 162.19.59.161
@@ -168,13 +168,13 @@ proxies:
   server: 162.19.59.162
   type: ss
 - cipher: aes-256-cfb
-  name: '10|🇫🇷 [ Configs by DukeMehdi ] SS... #29'
+  name: '10,21| By EbraSha 🌌 #20'
   password: asdKkaskJKfnsa
   port: 443
   server: 162.19.59.163
   type: ss
 - cipher: aes-256-cfb
-  name: '10|🇫🇷 [ Configs by DukeMehdi ] SS... #30'
+  name: '10,21| By EbraSha 📟 #11'
   password: f8f7aCzcPKbsF8p3
   port: 989
   server: 135.125.244.103
@@ -186,13 +186,13 @@ proxies:
   server: 195.154.169.198
   type: ss
 - cipher: aes-256-cfb
-  name: '10|🇫🇷 [ Configs by DukeMehdi ] SS... #32'
+  name: '10,21| By EbraSha 🔌 #21'
   password: f8f7aCzcPKbsF8p3
   port: 989
   server: 54.37.139.110
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇫🇷 [ Configs by DukeMehdi ] SS... #33'
+  name: '10,21| By EbraSha 🌑 #19'
   password: 7NuB0Y5m3aNzkKMKlFoMwkiajsu6F36c9ok4VKEZnB4=
   port: 2083
   server: 162.19.254.232
@@ -204,25 +204,25 @@ proxies:
   server: 193.243.147.128
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇫🇷 [ Configs by DukeMehdi ] SS... #35'
+  name: '10,21| By EbraSha 💣 #17'
   password: FWrXcxPZjJxAN89xLgqY3Acp
   port: 44236
   server: 138.199.16.135
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇫🇷 [ Configs by DukeMehdi ] SS... #36'
+  name: '10,21| By EbraSha 🩸 #20'
   password: FoOiGlkAA9yPEGP
   port: 7306
   server: 188.165.32.235
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇫🇷 [ Configs by DukeMehdi ] SS... #37'
+  name: '10,21| By EbraSha 🪐 #15'
   password: FoOiGlkAA9yPEGP
   port: 7306
   server: 54.38.72.170
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇫🇷 [ Configs by DukeMehdi ] SS... #38'
+  name: '10,21| By EbraSha 📟 #14'
   password: FjG3IPbny+0ZYU4/p1vULP84GcKpGoZpWKAay16VhIw=
   port: 2083
   server: 51.254.128.106
@@ -234,37 +234,37 @@ proxies:
   server: 149.202.82.172
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇫🇷 [ Configs by DukeMehdi ] SS... #40'
+  name: '10,21| By EbraSha 🥷 #16'
   password: KixLvKzwjekG00rm
   port: 8080
   server: 149.202.82.172
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇫🇷 [ Configs by DukeMehdi ] SS... #41'
+  name: '10,21| By EbraSha ⚡ #25'
   password: XKFKl2rULjIp74
   port: 8008
   server: 149.202.82.172
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇫🇷 [ Configs by DukeMehdi ] SS... #42'
+  name: '10,21| By EbraSha 🪬 #13'
   password: XKFKl2rULjIp74
   port: 8009
   server: 149.202.82.172
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇫🇷 [ Configs by DukeMehdi ] SS... #43'
+  name: '10,21| By EbraSha 🐉 #29'
   password: XKFKl2rULjIp74
   port: 8009
   server: 188.165.32.235
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇫🇷 [ Configs by DukeMehdi ] SS... #44'
+  name: '10,21| By EbraSha 🎛️ #19'
   password: Y6R9pAtvxxzmGC
   port: 3306
   server: 149.202.82.172
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇫🇷 [ Configs by DukeMehdi ] SS... #45'
+  name: '10,21| By EbraSha 🔋 #25'
   password: Y6R9pAtvxxzmGC
   port: 3389
   server: 149.202.82.172
@@ -276,13 +276,13 @@ proxies:
   server: 149.202.82.172
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇫🇷 [ Configs by DukeMehdi ] SS... #47'
+  name: '10,21| By EbraSha 🧪 #30'
   password: Y6R9pAtvxxzmGC
   port: 5600
   server: 149.202.82.172
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇫🇷 [ Configs by DukeMehdi ] SS... #48'
+  name: '10,21| By EbraSha 💎 #20'
   password: Y6R9pAtvxxzmGC
   port: 5601
   server: 149.202.82.172
@@ -294,7 +294,7 @@ proxies:
   server: 149.202.82.172
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇫🇷 [ Configs by DukeMehdi ] SS... #50'
+  name: '10,21| By EbraSha 💎 #21'
   password: cdBIDV42DCwnfIN
   port: 8119
   server: 149.202.82.172
@@ -305,7 +305,7 @@ proxies:
   port: 8119
   server: 54.36.174.181
   type: ss
-- name: '19,20|🇫🇷[www.v2nodes.com] trojan-FR-... #10'
+- name: '19,20,21| By EbraSha 🃏 #79'
   network: ws
   password: humanity
   port: 443
@@ -317,7 +317,7 @@ proxies:
     headers:
       Host: www.calmlunch.com
     path: /assignment
-- name: '19,20,26|@npv_vpn11 #765'
+- name: '19,20,21,26|@npv_vpn11 #765'
   network: ws
   password: humanity
   port: 443
@@ -329,7 +329,7 @@ proxies:
     headers:
       Host: www.calmlunch.com
     path: /assignment
-- name: '19,20|🇫🇷[www.v2nodes.com] trojan-FR-... #13'
+- name: '19,20,21| By EbraSha 🕷️ #74'
   network: ws
   password: humanity
   port: 443
@@ -341,7 +341,7 @@ proxies:
     headers:
       Host: www.calmlunch.com
     path: /assignment
-- name: '19,20|🇫🇷[www.v2nodes.com] trojan-FR-... #16'
+- name: '19,20|🇫🇷[www.v2nodes.com] trojan-FR-... #15'
   network: ws
   password: humanity
   port: 443
@@ -353,14 +353,14 @@ proxies:
     headers:
       Host: www.calmlunch.com
     path: '%2Fassignment'
-- name: '19,20|🇫🇷[www.v2nodes.com] trojan-FR-... #17'
+- name: '19,20|🇫🇷[www.v2nodes.com] trojan-FR-... #16'
   password: humanity
   port: 443
   server: 165.215.250.14
   type: trojan
   ws-opts:
     path: '%2Fassignment'
-- name: '19,20|🇫🇷[www.v2nodes.com] trojan-FR-... #18'
+- name: '19,20,21| By EbraSha 🚀 #64'
   network: ws
   password: humanity
   port: 443
@@ -372,7 +372,7 @@ proxies:
     headers:
       Host: www.calmlunch.com
     path: '%2Fassignment'
-- name: '19,20|🇫🇷[www.v2nodes.com] trojan-FR-... #19'
+- name: '19,20|🇫🇷[www.v2nodes.com] trojan-FR-... #18'
   network: ws
   password: humanity
   port: 443
@@ -384,7 +384,7 @@ proxies:
     headers:
       Host: www.calmlunch.com
     path: '%2Fassignment'
-- name: '19,20|🇫🇷[www.v2nodes.com] trojan-FR-... #20'
+- name: '19,20,21| By EbraSha 📶 #41'
   network: ws
   password: humanity
   port: 443
@@ -397,7 +397,7 @@ proxies:
     path: '%2Fassignment'
 - alpn:
   - v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus
-  name: '20|🇫🇷[www.v2nodes.com] trojan-FR-... #12'
+  name: '20,21| By EbraSha 🐺 #53'
   network: ws
   password: humanity
   port: 8443
@@ -1187,17 +1187,6 @@ proxies:
   type: trojan
   ws-opts:
     path: /tr/VQ1n6VuZtSQv0vvjjCG?ed=2560
-- alpn:
-  - http/1.1
-  name: 34|🇫🇷FR_775|442KB/s|S004-260618 0...
-  network: ws
-  password: Telegram_healer_config
-  port: 443
-  server: 6m1rgyieclmrx9hef1.z6-0hlnubjibwzpa85.workers.dev
-  sni: 6m1rGyIEclMRx9HeF1.Z6-0hlNUbJIBwZPa85.wOrKerS.DEV
-  type: trojan
-  ws-opts:
-    path: /tr/GaQvfFwT5sWgVxHig8YaXjtiuQPZNI?ed=2560
 - name: 34|🇫🇷FR_831|397KB/s|M003-260806 0...
   network: ws
   password: 50414e45-4c5f-5a45-5553-eeb34b317c4f
