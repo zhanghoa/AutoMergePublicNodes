@@ -129,5 +129,5 @@ https://raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/ndnode.txt
 #   Au1rxx/clash.yaml 0%  Au1rxx/v2ray-base64 38%  ebrasha 8.5%  Alirewa 15%
 https://raw.githubusercontent.com/Au1rxx/free-vpn-subscriptions/main/output/clash.yaml
 https://raw.githubusercontent.com/Au1rxx/free-vpn-subscriptions/main/output/v2ray-base64.txt#limit=1000
-https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/refs/heads/main/V2Ray-Config-By-EbraSha-All-Type.txt#limit=2000
+https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/refs/heads/main/V2Ray-Config-By-EbraSha-All-Type.txt   # 全量读取：实测该源优质节点集中在中后段，limit 截断会丢大量有效节点（前2000仅10%可达，中段46%）
 https://raw.githubusercontent.com/Alirewa/V2ray-Configs/main/sub1.txt

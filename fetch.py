@@ -972,10 +972,14 @@ unknown: Set[str] = set()
 used: Dict[int, Dict[int, str]] = {}
 
 def dedup_key(n: Node) -> Tuple:
+    # 按「服务器地址:端口」去重（2026-10-11 调整）。
+    # 原实现把 type/uuid/password/cipher/sni/servername 一并计入，键过于严格：
+    # 同一 IP:端口 的节点只要某个参数写法不同就会被当成两个节点保留，
+    # 实测去重率偏低（ebrasha 约 1.3 万仅能压到 1 万，压缩比 76.7%）。
+    # 对代理可用性而言，同一 server:port 就是同一个服务器入口，
+    # 保留其一即可；凭据差异不影响"这个地址是否可用"的判断。
     d = n.data
-    return (n.type, d.get('server'), str(d.get('port')), d.get('uuid', ''),
-            d.get('password', ''), d.get('cipher', ''), d.get('sni', ''),
-            d.get('servername', ''))
+    return (str(d.get('server', '')).lower(), str(d.get('port', '')))
 
 def merge(source_obj: Source, sourceId=-1) -> None:
     global merged, unknown
