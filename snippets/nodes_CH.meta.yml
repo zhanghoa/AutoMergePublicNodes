@@ -1,62 +1,409 @@
 proxies:
+- cipher: aes-128-cfb
+  name: 7|🇨🇭 [ Configs by DukeMehdi ] SS...
+  password: shadowsocks
+  port: 443
+  server: 156.146.62.160
+  type: ss
+- cipher: aes-128-gcm
+  name: '7|🇨🇭 [ Configs by DukeMehdi ] SS... #4'
+  password: shadowsocks
+  port: 443
+  server: 156.146.62.162
+  type: ss
+- cipher: aes-256-cfb
+  name: '7|🇨🇭 [ Configs by DukeMehdi ] SS... #2'
+  password: '!!str 4415934295'
+  port: 50004
+  server: 37.120.213.230
+  type: ss
+- cipher: aes-256-cfb
+  name: '7|🇨🇭 [ Configs by DukeMehdi ] SS... #3'
+  password: f8f7aCzcPKbsF8p3
+  port: 989
+  server: 212.237.210.158
+  type: ss
+- name: '7|🇨🇭 [ Configs by DukeMehdi ] TJ... #7'
+  network: tcp
+  password: Masir_Sefid
+  port: 443
+  server: 84.234.31.249
+  sni: 'store.steampowered.com '
+  type: trojan
+- name: 7,12,24|[OpenRay] 🇨🇭CH-3
+  network: raw
+  password: ea4y8s7qdshp547j
+  port: 4455
+  server: 195.15.202.111
+  sni: play-apps-features.googleusercontent.com
+  type: trojan
+- name: '7|🇨🇭 [ Configs by DukeMehdi ] TJ... #2'
+  network: tcp
+  password: humanity
+  port: 443
+  server: 185.18.250.245
+  sni: 'www.calmlunch.com '
+  type: trojan
+- name: 7,24|[OpenRay] 🇨🇭CH-6
+  network: ws
+  password: humanity
+  port: 443
+  server: 185.18.250.252
+  skip-cert-verify: true
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+- name: '7|🇨🇭 [ Configs by DukeMehdi ] TJ... #4'
+  network: ws
+  password: humanity
+  port: 2053
+  server: 91.245.225.79
+  skip-cert-verify: false
+  sni: 'www.calmlunch.com '
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+- name: '7,12|🔥Join+Telegram:@Farah_VPN🟣 #6274'
+  network: tcp
+  password: l6R5znJSPJ
+  port: 16350
+  server: 179.237.75.190
+  skip-cert-verify: true
+  sni: rd.autos.yahoo.com:40069
+  type: trojan
+  ws-opts:
+    headers:
+      Host: rd.autos.yahoo.com:41636
+    path: /5747463414152474635353366347474334
+- name: '7,12|🔥Join+Telegram:@Farah_VPN🟣 #5299'
+  network: tcp
+  password: uCzwXi06tusoiP5kAUKrsg
+  port: 80
+  server: 195.15.202.111
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.upwork.com
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: 10|CHyoyapai.com
-  port: 8443
+  name: '7,12|🔥Join+Telegram:@Farah_VPN🟣 #8122'
+  network: tcp
+  port: 443
   reality-opts:
-    public-key: IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY
-    short-id: e3d38cee79d4f94c
-  server: 45.195.137.219
-  servername: storage.yandex.net
-  skip-cert-verify: false
-  tls: true
+    public-key: ITd6cmCxudmTvGcwnAzpd0VRe8jS9KJAQ1tmtVN3mCM
+    short-id: 9e15546f267baa64
+  server: 176.65.144.84
+  servername: indigo.clouderiux.com
+  tls: false
   type: vless
-  udp: true
-  uuid: 7f89560c-b9f0-4c56-b3e0-1b1bdafe0b08
-- client-fingerprint: chrome
-  flow: xtls-rprx-vision
-  name: 10|CHyoyapai.com_1
-  port: 8443
-  reality-opts:
-    public-key: IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY
-    short-id: e3d38cee79d4f94c
-  server: 45.195.137.119
-  servername: storage.yandex.net
-  skip-cert-verify: false
-  tls: true
-  type: vless
-  udp: true
-  uuid: 7f89560c-b9f0-4c56-b3e0-1b1bdafe0b08
-- client-fingerprint: chrome
-  flow: xtls-rprx-vision
-  name: 10|CHyoyapai.com_2
-  port: 8443
-  reality-opts:
-    public-key: IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY
-    short-id: e3d38cee79d4f94c
-  server: 45.195.137.109
-  servername: storage.yandex.net
-  skip-cert-verify: false
-  tls: true
-  type: vless
-  udp: true
-  uuid: 7f89560c-b9f0-4c56-b3e0-1b1bdafe0b08
+  uuid: 0f4081e7-612b-425f-8def-eebf144aedba
 - client-fingerprint: firefox
-  grpc-opts:
-    grpc-service-name: grpc-tunnel
-  name: 10|CHyoyapai.com_4
-  network: grpc
-  port: 9882
+  flow: xtls-rprx-vision
+  name: 7,24|[OpenRay] 🇨🇭CH-5
+  network: tcp
+  port: 443
   reality-opts:
-    public-key: bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU
-    short-id: aabb
-  server: 45.132.177.83
-  servername: dl.google.com
+    public-key: AhLy7ha7FF2EQfu-3SxOFKUwExyHActYPHtyv82KNCI
+    short-id: 15bcc0a77c3cacdf
+  server: 138.124.63.94
+  servername: lv-root.sworkingvpn.com
+  tls: false
+  type: vless
+  uuid: 2b781b4a-5942-0018-a7f3-5a07b7b488c1
+- client-fingerprint: firefox
+  flow: xtls-rprx-vision
+  name: 7,24|[OpenRay] 🇨🇭CH-4
+  network: tcp
+  port: 443
+  reality-opts:
+    public-key: AhLy7ha7FF2EQfu-3SxOFKUwExyHActYPHtyv82KNCI
+    short-id: 15bcc0a77c3cacdf
+  server: 138.124.63.93
+  servername: lv-root.sworkingvpn.com
+  tls: false
+  type: vless
+  uuid: 2b781b4a-5942-48e0-a7f3-5a07b7b488c1
+- alpn:
+  - h2
+  - http/1.1
+  client-fingerprint: chrome
+  name: '7|🇨🇭 [ Configs by DukeMehdi ] VL... #3'
+  network: ws
+  port: 2096
+  server: 185.18.250.127
+  servername: 69565ce3109804e7813f98ee.mmdbay.blog
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  uuid: 2ee26119-94e5-40b4-ba3a-16354021b600
+  ws-opts:
+    headers:
+      Host: 69565ce3109804e7813f98ee.mmdbay.blog
+    path: '%2Fgraphql'
+- client-fingerprint: chrome
+  name: '7|🇨🇭 [ Configs by DukeMehdi ] VL... #4'
+  network: tcp
+  port: 443
+  reality-opts:
+    public-key: OZVjfQBboTDTBw0baMFqzVPsVUI4FNQmspTEb0b0zW4
+    short-id: 'a1b2c3d4 '
+  server: 45.85.93.51
+  servername: www.samsung.com
+  tls: false
+  type: vless
+  uuid: 301d514e-4aa0-47b0-ba44-a0cb891cd52f
+- client-fingerprint: firefox
+  flow: xtls-rprx-vision
+  name: 7,24|[OpenRay] 🇨🇭CH-2
+  network: tcp
+  port: 443
+  reality-opts:
+    public-key: 4-aoEVksBSyimforf-u3f9dKoLNZsn5cxJxQ-iFPuVA
+    short-id: e753b4e2c41bf493
+  server: 45.59.123.238
+  servername: platform-api.max.ru
+  tls: false
+  type: vless
+  uuid: 3d3cc1bc-3d6f-7549-a531-19a1797952bc
+- name: '7|🇨🇭 [ Configs by DukeMehdi ] VL... #6'
+  network: tcp
+  port: 443
+  reality-opts:
+    public-key: PYX0lu3m0L_h28eW4186s63gRFHXoTc3K9wKeFewDUQ
+    short-id: 'e9a8 '
+  server: 138.124.244.248
+  servername: yahoo.com
+  tls: false
+  type: vless
+  uuid: 476caa1d-7c04-48ab-8de5-2c1af0d13a66
+- name: '7|🇨🇭 [ Configs by DukeMehdi ] VL... #7'
+  network: xhttp
+  port: 8080
+  server: 185.18.250.67
+  tls: false
+  type: vless
+  uuid: 4d263c1a-fbb9-4946-a639-1de531120cde
+  ws-opts:
+    headers:
+      Host: amazon.joingulf.lol
+    path: /awduhiawad?ed=2560
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: '7,12|🔥Join+Telegram:@Farah_VPN🟣 #7869'
+  network: tcp
+  port: 443
+  reality-opts:
+    public-key: pX9uknHGLC9I26TT5kq4bIAljtX2AGWLK23EMgn6xFo
+    short-id: 84be686ea1d16478
+  server: 131.123.34.42
+  servername: sheetpeek.com
+  tls: false
+  type: vless
+  uuid: 54ee5e59-55a3-4599-83ff-0c67b3f411b2
+- client-fingerprint: qq
+  grpc-opts:
+    grpc-service-name: neurex
+  name: '7|🇨🇭 [ Configs by DukeMehdi ] VL... #9'
+  network: grpc
+  port: 16923
+  reality-opts:
+    public-key: _QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA
+    short-id: '10ffb85da1c2d986 '
+  server: 152.233.31.71
+  servername: api-maps.yandex.ru
+  tls: false
+  type: vless
+  uuid: 732a3a5c-5dee-42c7-a898-139e35b78c5d
+- client-fingerprint: qq
+  grpc-opts:
+    grpc-service-name: neurex
+  name: '7|🇨🇭 [ Configs by DukeMehdi ] VL... #10'
+  network: grpc
+  port: 16923
+  reality-opts:
+    public-key: _QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA
+    short-id: '10ffb85da1c2d986 '
+  server: 152.233.31.72
+  servername: api-maps.yandex.ru
+  tls: false
+  type: vless
+  uuid: 732a3a5c-5dee-42c7-a898-139e35b78c5d
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: '7,12|🇨🇭 [ Configs by DukeMehdi ] VL... #11'
+  network: tcp
+  port: 8443
+  server: 138.124.244.77
+  servername: 'fi1.hys.braidx.tech '
   skip-cert-verify: false
   tls: true
   type: vless
-  udp: true
-  uuid: 5d16ac22-6eea-426f-b778-6f4c2961faef
+  uuid: 8787dd0a-095a-414e-804f-a7d16a1ae166
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: '7|🇨🇭 [ Configs by DukeMehdi ] VL... #12'
+  network: tcp
+  port: 8443
+  reality-opts:
+    public-key: QHkXBS2ENHV0khgY9VBYi8_9bpfqnUYDcfQN4cW5Qg0
+    short-id: '4326 '
+  server: 31.76.104.157
+  servername: mag3.portal-guard.com
+  tls: false
+  type: vless
+  uuid: 8ea09611-4e24-49f9-8b2a-25974d8ebf8c
+- client-fingerprint: chrome
+  name: '7|🇨🇭 [ Configs by DukeMehdi ] VL... #13'
+  network: tcp
+  port: 443
+  reality-opts:
+    public-key: mK5Qt9W3gFxKZZpyc2lnDGxSSpdiE-0bFI4dqJXyEVI
+    short-id: '082b5cbbd0d4f2fa '
+  server: 37.156.44.205
+  servername: store.steampowered.com
+  tls: false
+  type: vless
+  uuid: 88888888-8888-8888-8888-888888888888
+- client-fingerprint: chrome
+  name: '7|🇨🇭 [ Configs by DukeMehdi ] VL... #14'
+  network: tcp
+  port: 8443
+  reality-opts:
+    public-key: mK5Qt9W3gFxKZZpyc2lnDGxSSpdiE-0bFI4dqJXyEVI
+    short-id: '082b5cbbd0d4f2fa '
+  server: 37.156.44.205
+  servername: store.steampowered.com
+  tls: false
+  type: vless
+  uuid: 88888888-8888-8888-8888-888888888888
+- client-fingerprint: qq
+  flow: xtls-rprx-vision
+  name: 7,24|[OpenRay] 🇪🇪EE-6
+  network: tcp
+  port: 443
+  reality-opts:
+    public-key: gPTBA-gVUWAK9yziB_v_sGSncm0LwBQvEAsTQZK4jEE
+    short-id: 5a8e1a04f3d92b67
+  server: 2.26.129.247
+  servername: ukrop.mycdn-me.ru
+  tls: false
+  type: vless
+  uuid: a5eddeef-737a-4126-8d1e-527f85d7ed18
+- client-fingerprint: chrome
+  name: '7|🇨🇭 [ Configs by DukeMehdi ] VL... #16'
+  network: ws
+  port: 443
+  server: 179.237.104.215
+  servername: asia.csmaster.site
+  tls: true
+  type: vless
+  uuid: a853e120-3570-462b-aec1-e8f3d4f92d24
+  ws-opts:
+    headers:
+      Host: 'asia.csmaster.site '
+- client-fingerprint: chrome
+  name: 7,24|[OpenRay] 🇨🇭CH-32
+  network: ws
+  port: 443
+  server: 84.234.16.169
+  servername: asia.csmaster.site
+  tls: true
+  type: vless
+  uuid: a853e120-3570-462b-aec1-e8f3d4f92d24
+  ws-opts:
+    headers:
+      Host: asia.csmaster.site
+    path: '%2F'
+- client-fingerprint: chrome
+  name: 7,24|[OpenRay] 🇨🇭CH-10
+  network: ws
+  port: 443
+  server: 91.90.193.106
+  servername: asia.csmaster.site
+  tls: true
+  type: vless
+  uuid: a853e120-3570-462b-aec1-e8f3d4f92d24
+  ws-opts:
+    headers:
+      Host: asia.csmaster.site
+    path: '%2F'
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: 7,12,30|🇺🇸US_819|283KB/s|B007-260618 0...
+  network: tcp
+  port: 443
+  reality-opts:
+    public-key: mJ-0fJDvKp0rhuyUvs1bw4RasRRM-BEOAl9iAZ8gXy0
+  server: 138.124.60.146
+  servername: usa.oblaco.bet
+  tls: false
+  type: vless
+  uuid: bbfd1f68-ec64-452f-8404-9e2bcf1df951
+- client-fingerprint: firefox
+  flow: ''
+  name: 7,16,24|[OpenRay] 🇨🇭CH-24
+  network: tcp
+  port: 2053
+  reality-opts:
+    public-key: A49ue7zXSusJZdErPAewg3jqGdUFIO1a9xOunEKJfC0
+    short-id: ad86e2d52ff40ebd
+  server: 208.69.78.217
+  servername: www.apple.com
+  tls: false
+  type: vless
+  uuid: c0dd6d59-1573-43af-8b70-1470b2632a6d
+- name: '7,12|🇨🇭 [ Configs by DukeMehdi ] VL... #21'
+  network: ws
+  port: 443
+  server: 199.68.196.67
+  servername: 'fzo5i.ir46.90k.hh.ov0.kdns.fr '
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  ws-opts:
+    headers:
+      Host: fzo5i.ir46.90k.hh.ov0.kdns.fr
+    path: /glasspanel/guest000_0_5de14443985f/
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: '7|🇨🇭 [ Configs by DukeMehdi ] VL... #22'
+  network: tcp
+  port: 443
+  reality-opts:
+    public-key: -1HCWRKZmpJFJxw0PSzx1EzzGB2sM7ojBNbUGia4pj8
+    short-id: b3c1d918e7c4f767
+  server: 89.127.196.238
+  servername: api-ch.upd-media.com
+  tls: false
+  type: vless
+  uuid: ef4f4c3d-0b16-48ad-a8d8-2d22512b3b36
+  ws-opts:
+    headers:
+      Host: '%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI '
+- name: 7,12,24|[OpenRay] 🇨🇭CH-22
+  network: raw
+  password: g44i2hzwivmm7r29
+  port: 4455
+  server: 195.15.202.111
+  sni: play-apps-features.googleusercontent.com
+  type: trojan
+- name: '7,12|🔥Join+Telegram:@Farah_VPN🟣 #7874'
+  network: tcp
+  password: uRkZYGid1r
+  port: 41464
+  server: 179.237.75.190
+  sni: rd.autos.yahoo.com:40069
+  type: trojan
+  ws-opts:
+    headers:
+      Host: rd.autos.yahoo.com:41636
+    path: /5747463414152474635353366347474334?ed=2048?@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn
 - name: 11|D🔴🇨🇭hos[🎬🤖📺🎭]_dokng.com_c3243a...
   port: 9443
   server: 37.120.213.210
@@ -93,16 +440,26 @@ proxies:
   skip-cert-verify: true
   tls: true
   type: http
-- client-fingerprint: chrome
-  name: 16|🇨🇭[www.v2nodes.com] vless-CH-1...
-  port: 2053
+- name: 14|🇨🇭191339 | ⚡️Telegram = t.me/S...
+  obfs: salamander
+  obfs-password: mbQXP2ASuHbF6ZPq
+  password: capadm96216165
+  port: 443
   server: 208.69.78.217
-  servername: www.apple.com
-  tls: true
-  type: vless
-  uuid: c0dd6d59-1573-43af-8b70-1470b2632a6d
+  skip-cert-verify: true
+  sni: vpn.local
+  tls: false
+  type: hysteria2
+- name: 14,16,24|[OpenRay] 🇬🇧GB-390
+  password: we9_I1893UFj3149xbr1_k8qvJ8734ic_Mx82gH
+  port: 8443
+  server: 82.38.64.237
+  skip-cert-verify: false
+  sni: hopp-swizland-new.mysynology.net
+  tls: false
+  type: hysteria2
 - cipher: chacha20-ietf-poly1305
-  name: 16|🇨🇭[www.v2nodes.com] ss-CH-1573...
+  name: 16,17,30|未知 SS-506 | free-nodes
   password: e8KgS8fD0yDqYFpgN4G5piCOt9aFyqA3
   port: 8388
   server: 132.243.175.144
@@ -133,26 +490,97 @@ proxies:
   type: vless
   udp: true
   uuid: 12e95f93-443c-45f0-9a2a-5b318b9124cf
+- name: 24|[OpenRay] 🇨🇭CH-35
+  network: ws
+  password: humanity
+  port: 2053
+  server: 91.245.225.79
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+- client-fingerprint: firefox
+  flow: xtls-rprx-vision
+  name: 24|[OpenRay] 🇨🇭CH-12
+  network: tcp
+  port: 443
+  reality-opts:
+    public-key: AhLy7ha7FF2EQfu-3SxOFKUwExyHActYPHtyv82KNCI
+    short-id: 15bcc0a77c3cacdf
+  server: 138.124.63.94
+  servername: lv-root.sworkingvpn.com
+  tls: false
+  type: vless
+  uuid: 2b781b4a-5942-48e0-a7f3-5a07b7b488c1
+- client-fingerprint: firefox
+  flow: xtls-rprx-vision
+  name: 24|[OpenRay] 🇨🇭CH-13
+  network: tcp
+  port: 443
+  reality-opts:
+    public-key: P7S4UPFlQbmiBr4txyy8NZIMTrmO3UdxyH16WBU-YzY
+    short-id: 19253fae84102271
+  server: 45.90.59.15
+  servername: www.cloudflare.com
+  tls: false
+  type: vless
+  uuid: 3950b45e-740d-4dca-ac95-505ec8534592
+  ws-opts:
+    headers:
+      Host: www.cloudflare.com
+    path: /+
+- client-fingerprint: chrome
+  name: 24|[OpenRay] 🇨🇭CH-28
+  network: ws
+  port: 443
+  server: 146.70.233.51
+  servername: x.m-90.xyz
+  tls: true
+  type: vless
+  uuid: 489f1717-d3c7-4940-ad68-bdbdbab857f4
+  ws-opts:
+    headers:
+      Host: x.m-90.xyz
+    path: t.me%2FTEAMNETGRATISCOL
+- client-fingerprint: firefox
+  name: 24|[OpenRay] 🇨🇭CH-29
+  network: ws
+  port: 443
+  server: 185.237.225.47
+  servername: x.m-90.xyz
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  uuid: 489f1717-d3c7-4940-ad68-bdbdbab857f4
+  ws-opts:
+    headers:
+      Host: x.m-90.xyz
+    path: t.me%2FTEAMNETGRATISCOL
+- client-fingerprint: chrome
+  name: 24|[OpenRay] 🇨🇭CH-25
+  network: ws
+  port: 443
+  server: 84.234.16.169
+  servername: bab-6.site
+  tls: true
+  type: vless
+  uuid: b585dc5e-55bf-4a8b-913a-27c9ccac05c3
+  ws-opts:
+    headers:
+      Host: bab-6.site
+    path: '%2Fvws%2F'
 - alterId: 0
   cipher: auto
-  name: '22|کانال تلگرام : Free_VPN_CH@'
-  network: tcp
-  port: 9119
-  server: GR1-Public-IR.g2gstore.ir
-  servername: ''
+  name: 24|[OpenRay] 🇨🇭CH-33
+  network: raw
+  port: 22324
+  server: 167.17.68.89
   tls: false
   type: vmess
-  uuid: ae56511d-6b39-454b-847b-b711782d18cb
-- alterId: 0
-  cipher: auto
-  name: '22|کانال تلگرام : Free_VPN_CH@ #1'
-  network: tcp
-  port: 4452
-  server: x2.mehradservice.com
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 389625c7-c891-4f61-9f98-478058744ada
+  uuid: 04621bae-ab36-11ec-b909-0242ac120002
 - alpn:
   - h3
   name: '25|کانال تلگرام : Free_VPN_CH@ #1 #1'
@@ -165,3 +593,119 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: 30|🇨🇭CH瑞士丨yoyapai.com
+  network: tcp
+  port: 8443
+  reality-opts:
+    public-key: IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY
+    short-id: e3d38cee79d4f94c
+  server: 45.195.137.219
+  servername: storage.yandex.net
+  tls: false
+  type: vless
+  uuid: 7f89560c-b9f0-4c56-b3e0-1b1bdafe0b08
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: '30|🇨🇭CH瑞士丨yoyapai.com #1'
+  network: tcp
+  port: 8443
+  reality-opts:
+    public-key: IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY
+    short-id: e3d38cee79d4f94c
+  server: 45.195.137.119
+  servername: storage.yandex.net
+  tls: false
+  type: vless
+  uuid: 7f89560c-b9f0-4c56-b3e0-1b1bdafe0b08
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: '30|🇨🇭CH瑞士丨yoyapai.com #2'
+  network: tcp
+  port: 8443
+  reality-opts:
+    public-key: IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY
+    short-id: e3d38cee79d4f94c
+  server: 45.195.137.109
+  servername: storage.yandex.net
+  tls: false
+  type: vless
+  uuid: 7f89560c-b9f0-4c56-b3e0-1b1bdafe0b08
+- client-fingerprint: chrome
+  name: 30|🇨🇭CH_2|654KB/s|B007-260618 01
+  network: ws
+  port: 443
+  server: netlivpn5505.ffffdsaaa.workers.dev
+  servername: netlivpn5505.ffffdsaaa.workers.dev
+  tls: true
+  type: vless
+  uuid: f6b5a6a3-f3e1-63ca-bb68-bdc400000000
+  ws-opts:
+    path: /
+- client-fingerprint: firefox
+  name: 30|🇨🇭CH_4|2.4MB/s|S001-260618 01
+  network: xhttp
+  port: 443
+  reality-opts:
+    public-key: mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg
+    short-id: f79448a30d
+  server: ch-xh01.tcp-reset-club.net
+  servername: s3.netavex.com
+  tls: false
+  type: vless
+  uuid: 8fb328f0-d8e0-4b11-a6db-3dadfc4f02a3
+  ws-opts:
+    path: /assets/v2/pkg
+- name: 30|🇨🇭CH_5|325KB/s|R002-260618 01
+  obfs: salamander
+  obfs-password: c13f29db6a638ad2b211b9ce2669ef27
+  password: 3a702d4d1de4949005d8431220e040fb
+  port: 443
+  server: 152.67.75.161
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: false
+  type: hysteria2
+- name: 30|🇨🇭CH_7|2.3MB/s|R002-260618 01
+  password: 84a506ca5aca505696a454d828420b3f
+  port: 50160
+  server: 140.238.213.114
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: false
+  type: hysteria2
+- name: 30|🇨🇭CH_9|1.4MB/s|A004-260618 01
+  password: we9_I1893UFj3149xbr1_k8qvJ8734ic_Mx82gH
+  port: 8443
+  server: 82.38.64.229
+  sni: hopp-swizland-new.mysynology.net
+  tls: false
+  type: hysteria2
+- client-fingerprint: chrome
+  name: 30|🇨🇭CH_11|2.4MB/s|B007-260618 01
+  network: xhttp
+  port: 8443
+  reality-opts:
+    public-key: Gu_QdtOX6E8pZcYvDWgHKA5dxcit7hrpU27sizCEWXg
+    short-id: e0
+  server: ch-plr-xh-pilot.tcp-reset-club.net
+  servername: s3.netavex.com
+  tls: false
+  type: vless
+  uuid: 721bacfe-ff09-4e63-a735-686015bc1351
+  ws-opts:
+    path: /assets/v2/pkg
+- client-fingerprint: chrome
+  name: 30|🇨🇭CH_12|1.1MB/s|F003-260618 01
+  network: ws
+  port: 8443
+  server: 107.189.2.206
+  servername: shuma.ccwu.cc
+  tls: true
+  type: vless
+  uuid: c18b978e-1c4e-415c-8bea-07942b563a64
+  ws-opts:
+    headers:
+      Host: shuma.ccwu.cc
+    path: /

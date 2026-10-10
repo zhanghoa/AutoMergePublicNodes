@@ -1,5 +1,146 @@
 proxies:
-- name: '16,28|台湾|@ripaojiedian #1'
+- cipher: chacha20-ietf-poly1305
+  name: 7|🇹🇼 [ Configs by DukeMehdi ] SS...
+  password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4
+  port: 50099
+  server: 36.224.141.124
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: 7,30|未知 SS-293 | free-nodes
+  password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4
+  port: 50099
+  server: 36.224.152.189
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: '7|🇹🇼 [ Configs by DukeMehdi ] SS... #2'
+  password: q2jToxsx4vTevqrFiLGuwRx96SXM3C96id1MWpnSECHq3MaTWnEV76aN5PYEigRfqf7rxAcuAMWUzYNxrYRG6QhMcYw5QnqL
+  port: 56594
+  server: 46.249.109.128
+  type: ss
+- cipher: aes-256-cfb
+  name: '7|🇹🇼 [ Configs by DukeMehdi ] SS... #3'
+  password: qwerREWQ@@
+  port: 50701
+  server: 61.220.130.70
+  type: ss
+- cipher: aes-256-cfb
+  name: '7|🇹🇼 [ Configs by DukeMehdi ] SS... #4'
+  password: qwerREWQ@@
+  port: 41632
+  server: 185.189.160.105
+  type: ss
+- cipher: aes-256-gcm
+  name: '7|🇹🇼 [ Configs by DukeMehdi ] SS... #5'
+  password: 8n6pwAcrrv2pj6tFY2p3TbQ6
+  port: 33992
+  server: 2.58.242.157
+  type: ss
+- cipher: aes-256-gcm
+  name: '7|🇹🇼 [ Configs by DukeMehdi ] SS... #6'
+  password: 8n6pwAcrrv2pj6tFY2p3TbQ6
+  port: 33992
+  server: 2.58.242.43
+  type: ss
+- cipher: aes-256-gcm
+  name: '7|🇹🇼 [ Configs by DukeMehdi ] SS... #7'
+  password: xpQwyV4W5FdA6NMANJJx73US
+  port: 38033
+  server: 2.58.241.45
+  type: ss
+- name: 7|🇹🇼 [ Configs by DukeMehdi ] TJ...
+  network: tcp
+  password: 6e1b9a65-884f-3aa9-9469-bf6ec0f08610
+  port: 3462
+  server: 60.250.152.229
+  skip-cert-verify: true
+  sni: a03.taipeicitygovernment.cn.ua
+  type: trojan
+- name: '7|🇹🇼 [ Configs by DukeMehdi ] TJ... #1'
+  network: tcp
+  password: 6e1b9a65-884f-3aa9-9469-bf6ec0f08610
+  port: 3462
+  server: 60.250.152.230
+  skip-cert-verify: true
+  sni: a03.taipeicitygovernment.cn.ua
+  type: trojan
+- name: '7|🇹🇼 [ Configs by DukeMehdi ] TJ... #2'
+  network: tcp
+  password: 6e1b9a65-884f-3aa9-9469-bf6ec0f08610
+  port: 3462
+  server: 61.222.160.199
+  skip-cert-verify: true
+  sni: a03.taipeicitygovernment.cn.ua
+  type: trojan
+- name: '7|🇹🇼 [ Configs by DukeMehdi ] TJ... #3'
+  network: tcp
+  password: 736cd94d-7b94-3e44-8106-3419f64eaf09
+  port: 3462
+  server: 60.250.152.209
+  skip-cert-verify: true
+  sni: a12.taipeicitygovernment.org.ua
+  type: trojan
+- name: '7|🇹🇼 [ Configs by DukeMehdi ] TJ... #4'
+  password: 7ac49a893e0bd10c
+  port: 3389
+  server: 60.249.3.226
+  type: trojan
+- name: '7|🇹🇼 [ Configs by DukeMehdi ] TJ... #5'
+  password: 7ac49a893e0bd10c
+  port: 3389
+  server: 60.249.3.228
+  type: trojan
+- name: '7|🇹🇼 [ Configs by DukeMehdi ] TJ... #6'
+  password: 7b06d22a8a7c764f
+  port: 3389
+  server: 211.72.35.153
+  type: trojan
+- name: '7|🇹🇼 [ Configs by DukeMehdi ] TJ... #7'
+  password: 7b06d22a8a7c764f
+  port: 3389
+  server: 211.72.35.154
+  type: trojan
+- name: '7|🇹🇼 [ Configs by DukeMehdi ] TJ... #8'
+  password: 7b06d22a8a7c764f
+  port: 3389
+  server: 211.72.35.156
+  type: trojan
+- name: '7|🇹🇼 [ Configs by DukeMehdi ] TJ... #9'
+  password: 8b475d9e868e43e0
+  port: 3389
+  server: 211.72.35.157
+  type: trojan
+- name: '7|🇹🇼 [ Configs by DukeMehdi ] TJ... #10'
+  network: tcp
+  password: 96983eb4-c8f1-316e-ab00-500014ed3d8b
+  port: 8443
+  server: 60.250.152.209
+  skip-cert-verify: true
+  sni: official.taipeicitygovernment.net.ua
+  type: trojan
+- name: '7|🇹🇼 [ Configs by DukeMehdi ] TJ... #11'
+  network: tcp
+  password: 96983eb4-c8f1-316e-ab00-500014ed3d8b
+  port: 8443
+  server: 60.250.152.230
+  skip-cert-verify: true
+  sni: official.taipeicitygovernment.ivano-frankivsk.ua
+  type: trojan
+- name: '7|🇹🇼 [ Configs by DukeMehdi ] TJ... #12'
+  password: YWVzLTI1Ni1nY206eHBRd3lWNFc1RmRBNk5NQU5KSng3M1VT
+  port: 443
+  server: 2.58.242.43
+  type: trojan
+- name: '7|🇹🇼 [ Configs by DukeMehdi ] TJ... #13'
+  password: b09d2aaa443af97a
+  port: 3389
+  server: 211.72.35.155
+  type: trojan
+- name: '7|🇹🇼 [ Configs by DukeMehdi ] TJ... #14'
+  password: b84d16a244460e09
+  port: 3389
+  server: 211.72.35.152
+  type: trojan
+- name: '16,17,28|台湾|@ripaojiedian #2'
   network: tcp
   password: AA885B42-133C-3828-FB69-E45105C06092
   port: 12142
@@ -9,21 +150,20 @@ proxies:
   type: trojan
 - alterId: 0
   cipher: auto
-  name: 18|_TW_
-  network: ws
-  port: 443
-  server: 654168416355441.oylfmxz.cn
-  skip-cert-verify: true
-  tls: true
-  type: vmess
-  udp: true
-  uuid: d90e4077-bc7e-414d-a650-70bf1baae4d6
-- alterId: 0
-  cipher: auto
-  name: 25|🇹🇼TW_5|5.5MB/s
-  network: none
-  port: 31172
-  server: 202.153.4.171
+  name: 24|[OpenRay] 🇹🇼TW-13
+  network: tcp
+  port: 10037
+  server: 114.41.172.68
   tls: false
   type: vmess
-  uuid: 2bb735a0-b26e-4628-9f1a-23a6661b1275
+  uuid: 1dc73529-f030-3ac5-ad64-f7666b9a51bc
+- alterId: 0
+  cipher: auto
+  name: 24|[OpenRay] 🇹🇼TW-4
+  network: raw
+  port: 35034
+  server: 165.154.195.38
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 959a8caf-4cea-43d0-a548-3628e7ddfafc

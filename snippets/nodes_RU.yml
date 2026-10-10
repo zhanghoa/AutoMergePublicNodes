@@ -1,46 +1,204 @@
 proxies:
-- cipher: aes-256-gcm
-  name: 10|RUyoyapai.com
-  password: 7e1dd4c55bf85da5
-  port: 30129
-  server: 212.192.13.91
-  skip-cert-verify: false
+- cipher: chacha20-ietf-poly1305
+  name: '7|🇷🇺 [ Configs by DukeMehdi ] SS... #1'
+  password: MjU9yGcudqQlVH1y3KiA8f
+  port: 46717
+  server: 90.156.228.141
   type: ss
-  udp: true
-- cipher: aes-256-gcm
-  name: 10|_RUyoyapai.com
-  password: 895b4b796a357570
-  port: 10910
-  server: 176.32.35.51
-  skip-cert-verify: false
+- cipher: chacha20-ietf-poly1305
+  name: '7|🇷🇺 [ Configs by DukeMehdi ] SS... #2'
+  password: VVlAff77CnAU43Aoc5j15Y
+  port: 5112
+  server: 90.156.203.62
   type: ss
-  udp: true
-- cipher: aes-256-gcm
-  name: 10|_RUyoyapai.com_1
-  password: 895b4b796a357570
-  port: 10916
-  server: 176.32.35.51
-  skip-cert-verify: false
+- cipher: chacha20-ietf-poly1305
+  name: '7|🇷🇺 [ Configs by DukeMehdi ] SS... #3'
+  password: frcYfFRuQRks932EpCWvX7
+  port: 57925
+  server: 157.22.240.141
   type: ss
-  udp: true
-- cipher: aes-256-gcm
-  name: 10|_RUyoyapai.com_2
-  password: bdb313adf74c2ede
-  port: 20188
-  server: 195.133.5.207
-  skip-cert-verify: false
+- cipher: chacha20-ietf-poly1305
+  name: '7|🇷🇺 [ Configs by DukeMehdi ] SS... #4'
+  password: mX1q8sv17wA5LGDHIHD6Jo
+  port: 15720
+  server: 91.207.183.63
   type: ss
-  udp: true
-- alterId: 0
-  cipher: auto
-  name: 10|RU
-  network: ws
+- cipher: chacha20-ietf-poly1305
+  name: '7|🇷🇺 [ Configs by DukeMehdi ] SS... #5'
+  password: slatpifOon
+  port: 444
+  server: 185.221.153.52
+  type: ss
+- cipher: aes-256-cfb
+  name: '7|🇷🇺 [ Configs by DukeMehdi ] SS... #6'
+  password: '!!str 7620447880'
+  port: 50005
+  server: 92.38.139.95
+  type: ss
+- cipher: aes-256-cfb
+  name: '7|🇷🇺 [ Configs by DukeMehdi ] SS... #7'
+  password: BwcAUZk8hUFAkDGN
+  port: 9031
+  server: 45.89.52.66
+  type: ss
+- cipher: aes-256-cfb
+  name: '7|🇷🇺 [ Configs by DukeMehdi ] SS... #8'
+  password: EXN3S3eQpjE7EJu8
+  port: 9027
+  server: 213.183.41.38
+  type: ss
+- cipher: aes-256-cfb
+  name: '7|🇷🇺 [ Configs by DukeMehdi ] SS... #9'
+  password: KnJGad3FqTvjqbaX
+  port: 9014
+  server: 213.183.53.222
+  type: ss
+- cipher: aes-256-cfb
+  name: '7|🇷🇺 [ Configs by DukeMehdi ] SS... #10'
+  password: HSZuyJQcWe8dxNdF
+  port: 9043
+  server: 45.89.52.66
+  type: ss
+- cipher: aes-256-cfb
+  name: '7|🇷🇺 [ Configs by DukeMehdi ] SS... #11'
+  password: TN2YqghxeFDKZfLU
+  port: 9037
+  server: 45.89.52.66
+  type: ss
+- cipher: aes-256-cfb
+  name: '7|🇷🇺 [ Configs by DukeMehdi ] SS... #12'
+  password: U6qnYRhfyDmn8sgn
+  port: 9041
+  server: 45.89.52.66
+  type: ss
+- cipher: aes-256-cfb
+  name: '7|🇷🇺 [ Configs by DukeMehdi ] SS... #13'
+  password: asdKkaskJKfnsa
   port: 443
-  server: renderer-stream-2-62.mirra.now
-  skip-cert-verify: false
-  tls: true
-  type: vmess
-  udp: true
-  uuid: db50a20e-7ff5-4e70-948f-17cc9ca7c154
-  ws-opts:
-    path: /api/v1/gpu-stream/socket
+  server: 31.172.67.43
+  type: ss
+- cipher: aes-256-cfb
+  name: '7|🇷🇺 [ Configs by DukeMehdi ] SS... #14'
+  password: qazplmn1236547dr42q
+  port: 3001
+  server: 45.144.176.135
+  type: ss
+- cipher: aes-256-cfb
+  name: '7|🇷🇺 [ Configs by DukeMehdi ] SS... #15'
+  password: vDS9G2p
+  port: 21247
+  server: 185.4.65.6
+  type: ss
+- cipher: aes-256-gcm
+  name: '7|🇷🇺 [ Configs by DukeMehdi ] SS... #26'
+  password: 1eadd4e4a37b6601
+  port: 10801
+  server: 45.8.158.176
+  type: ss
+- cipher: aes-256-gcm
+  name: '7|🇷🇺 [ Configs by DukeMehdi ] SS... #27'
+  password: 6b39ae3234dfd68b
+  port: 10808
+  server: 185.22.155.162
+  type: ss
+- cipher: aes-256-gcm
+  name: 7,24|[OpenRay] 🇷🇺RU-9
+  password: 6b39ae3234dfd68b
+  port: 20880
+  server: 46.17.42.141
+  type: ss
+- cipher: aes-256-gcm
+  name: '7|🇷🇺 [ Configs by DukeMehdi ] SS... #19'
+  password: 895b4b796a357570
+  port: 50660
+  server: 46.17.41.166
+  type: ss
+- cipher: aes-256-gcm
+  name: 7,24|[OpenRay] 🇷🇺RU-137
+  password: 8ad9d72a5571df86
+  port: 10550
+  server: 176.32.39.52
+  type: ss
+- cipher: aes-256-gcm
+  name: '7|🇷🇺 [ Configs by DukeMehdi ] SS... #21'
+  password: 8ad9d72a5571df86
+  port: 20880
+  server: 176.32.39.52
+  type: ss
+- cipher: aes-256-gcm
+  name: 7,24|[OpenRay] 🇷🇺RU-90
+  password: bdb313adf74c2ede
+  port: 20880
+  server: 46.17.45.31
+  type: ss
+- alpn:
+  - http/1.1
+  name: 7|🇷🇺 [ Configs by DukeMehdi ] TJ...
+  network: tcp
+  password: 265f092f-418b-30c9-a479-4800fd44dd19mielink
+  port: 443
+  server: 45.147.200.44
+  skip-cert-verify: true
+  sni: '%24%24paydiu.com'
+  type: trojan
+- name: '7|🇷🇺 [ Configs by DukeMehdi ] TJ... #1'
+  password: 750a29bf-0a40-437f-b120-38de74ae7eaf
+  port: 28443
+  server: 45.88.148.234
+  type: trojan
+- name: '7|🇷🇺 [ Configs by DukeMehdi ] TJ... #2'
+  network: tcp
+  password: 8r<[9'l6hAO#8ZQi
+  port: 443
+  server: 185.148.105.253
+  sni: 'Koma-YT.PAGeS.Dev '
+  type: trojan
+- grpc-opts:
+    grpc-service-name: 62eec6c16880
+  name: 7,22,24|[OpenRay] 🇺🇸US-1568
+  network: grpc
+  password: 95621b8e-5cf7-4123-9df4-38d903054a1b
+  port: 443
+  server: 193.233.216.27
+  sni: www.garmin.com
+  type: trojan
+- name: '7|🇷🇺 [ Configs by DukeMehdi ] TJ... #4'
+  password: a1b16d10-4f43-4dd9-8c4f-52065b2b0910
+  port: 28443
+  server: 45.88.148.237
+  sni: 'sbank.ir '
+  type: trojan
+- name: '7|🇷🇺 [ Configs by DukeMehdi ] TJ... #5'
+  network: tcp
+  password: bpb-trojan
+  port: 443
+  server: 185.148.104.251
+  sni: 'bpb.my79801.com '
+  type: trojan
+- name: '7|🇷🇺 [ Configs by DukeMehdi ] TJ... #6'
+  network: tcp
+  password: bpb-trojan
+  port: 443
+  server: 5.182.85.176
+  skip-cert-verify: true
+  sni: bpb.my79801.com
+  type: trojan
+- name: '7|🇷🇺 [ Configs by DukeMehdi ] TJ... #7'
+  network: tcp
+  password: d6b8011a-c725-435a-9fec-bf6d3530392c
+  port: 2096
+  server: 194.53.53.11
+  sni: 'vle.amclubssss.dpdns.org '
+  type: trojan
+- name: '7|🇷🇺 [ Configs by DukeMehdi ] TJ... #8'
+  network: tcp
+  password: d6b8011a-c725-435a-9fec-bf6d3530392c
+  port: 2083
+  server: 194.53.53.249
+  sni: 'vle.amclubdns.dpdns.org '
+  type: trojan
+- name: '7|🇷🇺 [ Configs by DukeMehdi ] TJ... #9'
+  password: xxoo
+  port: 443
+  server: 194.156.99.39
+  type: trojan

@@ -1,4 +1,362 @@
 proxies:
+- cipher: aes-128-cfb
+  name: 7|🇨🇳 [ Configs by DukeMehdi ] SS...
+  password: QazEdcTgb159@$*
+  port: 24003
+  server: 14.29.124.168
+  type: ss
+- cipher: aes-128-cfb
+  name: '7|🇨🇳 [ Configs by DukeMehdi ] SS... #1'
+  password: QazEdcTgb159@$*
+  port: 24007
+  server: 14.29.124.168
+  type: ss
+- cipher: aes-128-cfb
+  name: '7|🇨🇳 [ Configs by DukeMehdi ] SS... #2'
+  password: QazEdcTgb159@$*
+  port: 24008
+  server: 14.29.124.168
+  type: ss
+- cipher: aes-128-cfb
+  name: '7|🇨🇳 [ Configs by DukeMehdi ] SS... #3'
+  password: QazEdcTgb159@$*
+  port: 24009
+  server: 14.29.124.168
+  type: ss
+- cipher: aes-128-cfb
+  name: '7|🇨🇳 [ Configs by DukeMehdi ] SS... #4'
+  password: QazEdcTgb159@$*
+  port: 25207
+  server: 14.29.124.168
+  type: ss
+- cipher: aes-128-cfb
+  name: '7|🇨🇳 [ Configs by DukeMehdi ] SS... #5'
+  password: QazEdcTgb159@$*
+  port: 25210
+  server: 14.29.124.168
+  type: ss
+- cipher: aes-128-cfb
+  name: '7|🇨🇳 [ Configs by DukeMehdi ] SS... #6'
+  password: QazEdcTgb159@$*
+  port: 25217
+  server: 14.29.124.168
+  type: ss
+- cipher: aes-128-cfb
+  name: '7|🇨🇳 [ Configs by DukeMehdi ] SS... #7'
+  password: QazEdcTgb159@$*
+  port: 25220
+  server: 14.29.124.168
+  type: ss
+- cipher: aes-128-cfb
+  name: '7|🇨🇳 [ Configs by DukeMehdi ] SS... #8'
+  password: QazEdcTgb159@$*
+  port: 25222
+  server: 14.29.124.168
+  type: ss
+- cipher: aes-128-cfb
+  name: '7|🇨🇳 [ Configs by DukeMehdi ] SS... #9'
+  password: QazEdcTgb159@$*
+  port: 25230
+  server: 14.29.124.168
+  type: ss
+- cipher: aes-128-cfb
+  name: '7|🇨🇳 [ Configs by DukeMehdi ] SS... #10'
+  password: QazEdcTgb159@$*
+  port: 25231
+  server: 14.29.124.168
+  type: ss
+- cipher: aes-128-cfb
+  name: '7|🇨🇳 [ Configs by DukeMehdi ] SS... #11'
+  password: QazEdcTgb159@$*
+  port: 25235
+  server: 14.29.124.168
+  type: ss
+- cipher: aes-128-cfb
+  name: '7|🇨🇳 [ Configs by DukeMehdi ] SS... #12'
+  password: QazEdcTgb159@$*
+  port: 25241
+  server: 14.29.124.168
+  type: ss
+- cipher: aes-128-cfb
+  name: '7|🇨🇳 [ Configs by DukeMehdi ] SS... #13'
+  password: QazEdcTgb159@$*
+  port: 25256
+  server: 14.29.124.168
+  type: ss
+- cipher: aes-128-cfb
+  name: '7|🇨🇳 [ Configs by DukeMehdi ] SS... #14'
+  password: QazEdcTgb159@$*
+  port: 25259
+  server: 14.29.124.168
+  type: ss
+- cipher: aes-128-cfb
+  name: '7|🇨🇳 [ Configs by DukeMehdi ] SS... #15'
+  password: QazEdcTgb159@$*
+  port: 25261
+  server: 14.29.124.168
+  type: ss
+- cipher: aes-128-cfb
+  name: '7|🇨🇳 [ Configs by DukeMehdi ] SS... #16'
+  password: QazEdcTgb159@$*
+  port: 25266
+  server: 14.29.124.168
+  type: ss
+- cipher: aes-128-cfb
+  name: '7|🇨🇳 [ Configs by DukeMehdi ] SS... #17'
+  password: QazEdcTgb159@$*
+  port: 25267
+  server: 14.29.124.168
+  type: ss
+- cipher: aes-128-cfb
+  name: '7|🇨🇳 [ Configs by DukeMehdi ] SS... #18'
+  password: QazEdcTgb159@$*
+  port: 25268
+  server: 14.29.124.168
+  type: ss
+- cipher: aes-128-cfb
+  name: '7|🇨🇳 [ Configs by DukeMehdi ] SS... #19'
+  password: QazEdcTgb159@$*
+  port: 25286
+  server: 14.29.124.168
+  type: ss
+- cipher: aes-128-cfb
+  name: '7|🇨🇳 [ Configs by DukeMehdi ] SS... #20'
+  password: QazEdcTgb159@$*
+  port: 25287
+  server: 14.29.124.168
+  type: ss
+- cipher: aes-128-cfb
+  name: '7|🇨🇳 [ Configs by DukeMehdi ] SS... #21'
+  password: QazEdcTgb159@$*
+  port: 25294
+  server: 14.29.124.168
+  type: ss
+- cipher: aes-128-cfb
+  name: '7|🇨🇳 [ Configs by DukeMehdi ] SS... #22'
+  password: QazEdcTgb159@$*
+  port: 25295
+  server: 14.29.124.168
+  type: ss
+- cipher: aes-128-cfb
+  name: '7|🇨🇳 [ Configs by DukeMehdi ] SS... #23'
+  password: QazEdcTgb159@$*
+  port: 11048
+  server: 14.29.124.174
+  type: ss
+- cipher: aes-256-cfb
+  name: '7|🇨🇳 [ Configs by DukeMehdi ] SS... #24'
+  password: RsDk3peCSuo76B68
+  port: 10068
+  server: 180.101.193.226
+  type: ss
+- cipher: rc4-md5
+  name: '7|🇨🇳 [ Configs by DukeMehdi ] SS... #25'
+  password: Paofu
+  port: 1150
+  server: 111.6.86.119
+  type: ss
+- cipher: rc4-md5
+  name: '7|🇨🇳 [ Configs by DukeMehdi ] SS... #26'
+  password: Paofu
+  port: 1171
+  server: 111.6.86.119
+  type: ss
+- cipher: rc4-md5
+  name: '7|🇨🇳 [ Configs by DukeMehdi ] SS... #27'
+  password: Paofu
+  port: 1173
+  server: 111.6.86.119
+  type: ss
+- cipher: rc4-md5
+  name: '7|🇨🇳 [ Configs by DukeMehdi ] SS... #28'
+  password: Paofu
+  port: 1157
+  server: 111.6.86.80
+  type: ss
+- cipher: rc4-md5
+  name: '7|🇨🇳 [ Configs by DukeMehdi ] SS... #29'
+  password: Paofu
+  port: 1158
+  server: 111.6.86.80
+  type: ss
+- cipher: rc4-md5
+  name: '7|🇨🇳 [ Configs by DukeMehdi ] SS... #30'
+  password: Paofu
+  port: 5980
+  server: 120.195.181.111
+  type: ss
+- cipher: rc4-md5
+  name: '7|🇨🇳 [ Configs by DukeMehdi ] SS... #31'
+  password: Paofu
+  port: 5980
+  server: 120.195.181.155
+  type: ss
+- cipher: rc4-md5
+  name: '7|🇨🇳 [ Configs by DukeMehdi ] SS... #32'
+  password: Paofu
+  port: 5984
+  server: 120.195.181.155
+  type: ss
+- cipher: rc4-md5
+  name: '7|🇨🇳 [ Configs by DukeMehdi ] SS... #33'
+  password: Paofu
+  port: 5987
+  server: 120.195.181.155
+  type: ss
+- cipher: rc4-md5
+  name: '7|🇨🇳 [ Configs by DukeMehdi ] SS... #34'
+  password: Paofu
+  port: 5989
+  server: 120.195.181.170
+  type: ss
+- cipher: rc4-md5
+  name: '7|🇨🇳 [ Configs by DukeMehdi ] SS... #35'
+  password: Paofu
+  port: 5980
+  server: 120.195.181.82
+  type: ss
+- name: 7|🇨🇳 [ Configs by DukeMehdi ] TJ...
+  password: 0b2d98a4-25bc-3d9f-9694-9d1e929de8dd
+  port: 19201
+  server: 120.226.39.25
+  type: trojan
+- name: '7|🇨🇳 [ Configs by DukeMehdi ] TJ... #1'
+  password: 0b2d98a4-25bc-3d9f-9694-9d1e929de8dd
+  port: 19233
+  server: 120.226.39.25
+  type: trojan
+- name: '7|🇨🇳 [ Configs by DukeMehdi ] TJ... #2'
+  password: 0b2d98a4-25bc-3d9f-9694-9d1e929de8dd
+  port: 19239
+  server: 120.226.39.25
+  type: trojan
+- name: '7|🇨🇳 [ Configs by DukeMehdi ] TJ... #3'
+  password: 0b2d98a4-25bc-3d9f-9694-9d1e929de8dd
+  port: 19243
+  server: 120.226.39.25
+  type: trojan
+- name: '7|🇨🇳 [ Configs by DukeMehdi ] TJ... #4'
+  password: 0b2d98a4-25bc-3d9f-9694-9d1e929de8dd
+  port: 19248
+  server: 120.226.39.25
+  type: trojan
+- name: '7|🇨🇳 [ Configs by DukeMehdi ] TJ... #5'
+  password: 7243c2bd-5576-3c2d-aea0-594ff03522a0
+  port: 4570
+  server: 116.129.254.7
+  sni: 'hnjpntt2.cc.tjcct.xyz '
+  type: trojan
+- name: '7|🇨🇳 [ Configs by DukeMehdi ] TJ... #6'
+  password: 7d223bae-e183-4bf6-89c3-e327b15df490
+  port: 10819
+  server: 183.236.51.2
+  type: trojan
+- name: '7|🇨🇳 [ Configs by DukeMehdi ] TJ... #7'
+  password: 7d223bae-e183-4bf6-89c3-e327b15df490
+  port: 10820
+  server: 183.236.51.2
+  type: trojan
+- name: '7|🇨🇳 [ Configs by DukeMehdi ] TJ... #8'
+  password: 7d223bae-e183-4bf6-89c3-e327b15df490
+  port: 10823
+  server: 183.236.51.2
+  type: trojan
+- name: '7|🇨🇳 [ Configs by DukeMehdi ] TJ... #9'
+  password: 7d223bae-e183-4bf6-89c3-e327b15df490
+  port: 10826
+  server: 183.236.51.2
+  type: trojan
+- name: '7|🇨🇳 [ Configs by DukeMehdi ] TJ... #10'
+  password: 7d223bae-e183-4bf6-89c3-e327b15df490
+  port: 10824
+  server: 183.236.51.4
+  type: trojan
+- name: '7|🇨🇳 [ Configs by DukeMehdi ] TJ... #11'
+  password: 7d223bae-e183-4bf6-89c3-e327b15df490
+  port: 10825
+  server: 183.236.51.4
+  type: trojan
+- name: '7|🇨🇳 [ Configs by DukeMehdi ] TJ... #12'
+  password: 7d223bae-e183-4bf6-89c3-e327b15df490
+  port: 10826
+  server: 183.236.51.5
+  type: trojan
+- name: '7|🇨🇳 [ Configs by DukeMehdi ] TJ... #13'
+  password: 7d223bae-e183-4bf6-89c3-e327b15df490
+  port: 10823
+  server: 183.236.51.6
+  type: trojan
+- name: '7|🇨🇳 [ Configs by DukeMehdi ] TJ... #14'
+  password: 7d223bae-e183-4bf6-89c3-e327b15df490
+  port: 10821
+  server: 183.236.51.7
+  type: trojan
+- name: '7|🇨🇳 [ Configs by DukeMehdi ] TJ... #15'
+  password: 7d223bae-e183-4bf6-89c3-e327b15df490
+  port: 10822
+  server: 183.236.51.7
+  type: trojan
+- name: '7|🇨🇳 [ Configs by DukeMehdi ] TJ... #16'
+  password: 7d223bae-e183-4bf6-89c3-e327b15df490
+  port: 10823
+  server: 183.236.51.7
+  type: trojan
+- name: '7|🇨🇳 [ Configs by DukeMehdi ] TJ... #17'
+  password: 7d223bae-e183-4bf6-89c3-e327b15df490
+  port: 10826
+  server: 183.236.51.7
+  type: trojan
+- name: '7|🇨🇳 [ Configs by DukeMehdi ] TJ... #18'
+  password: 7d223bae-e183-4bf6-89c3-e327b15df490
+  port: 10819
+  server: 183.236.51.8
+  type: trojan
+- name: '7|🇨🇳 [ Configs by DukeMehdi ] TJ... #19'
+  password: 7d223bae-e183-4bf6-89c3-e327b15df490
+  port: 10821
+  server: 183.236.51.8
+  type: trojan
+- name: '7|🇨🇳 [ Configs by DukeMehdi ] TJ... #20'
+  password: 7d223bae-e183-4bf6-89c3-e327b15df490
+  port: 10824
+  server: 183.236.51.8
+  type: trojan
+- name: '7|🇨🇳 [ Configs by DukeMehdi ] TJ... #21'
+  password: 7d223bae-e183-4bf6-89c3-e327b15df490
+  port: 10825
+  server: 183.236.51.8
+  type: trojan
+- name: '7|🇨🇳 [ Configs by DukeMehdi ] TJ... #22'
+  password: 7d223bae-e183-4bf6-89c3-e327b15df490
+  port: 10819
+  server: 183.236.51.9
+  type: trojan
+- name: '7|🇨🇳 [ Configs by DukeMehdi ] TJ... #23'
+  password: 7d223bae-e183-4bf6-89c3-e327b15df490
+  port: 10820
+  server: 183.236.51.9
+  type: trojan
+- name: '7|🇨🇳 [ Configs by DukeMehdi ] TJ... #24'
+  password: 7d223bae-e183-4bf6-89c3-e327b15df490
+  port: 10822
+  server: 183.236.51.9
+  type: trojan
+- name: '7|🇨🇳 [ Configs by DukeMehdi ] TJ... #25'
+  password: 7d223bae-e183-4bf6-89c3-e327b15df490
+  port: 10826
+  server: 183.236.51.9
+  type: trojan
+- name: '7|🇨🇳 [ Configs by DukeMehdi ] TJ... #26'
+  password: TNDSJfNv
+  port: 4787
+  server: 36.151.195.48
+  type: trojan
+- name: '7|🇨🇳 [ Configs by DukeMehdi ] TJ... #27'
+  password: ba4fedf8c217c146
+  port: 3389
+  server: 120.236.197.205
+  sni: 'n2.gladns.com '
+  type: trojan
 - alpn:
   - ''
   alterId: '0'
@@ -16,6 +374,23 @@ proxies:
     headers: {}
     path: /
   xudp: true
+- alpn:
+  - ''
+  alterId: 0
+  cipher: auto
+  name: 17,24|[OpenRay] 🌐XX-2003
+  network: ws
+  port: 10001
+  server: cn42.vatilon.cc
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  udp: true
+  uuid: aec8e5e3-bb81-4b22-8802-0b88c54997b3
+  ws-opts:
+    headers:
+      Host: cn42.vatilon.cc
+    path: /vmess
 - alterId: 0
   cipher: auto
   name: 18,20|🇨🇳_中国_92
@@ -48,12 +423,15 @@ proxies:
     path: /trojan
 - alterId: 0
   cipher: auto
-  name: 20|🇨🇳_中国_214
+  name: 24|[OpenRay] 🇨🇳CN-7
   network: ws
   port: 10086
-  server: 120.48.133.162
-  skip-cert-verify: true
+  server: 39.108.113.127
+  servername: ''
   tls: false
   type: vmess
-  udp: true
   uuid: fde10e39-48bb-4dcf-b3ba-71d711323a54
+  ws-opts:
+    headers:
+      Host: ''
+    path: /

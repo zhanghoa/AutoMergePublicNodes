@@ -1,58 +1,765 @@
 proxies:
-- name: 10|KRyoyapai.com
-  network: ws
-  port: 8880
-  server: 104.17.144.29
-  skip-cert-verify: false
-  tls: false
-  type: vless
-  udp: true
-  uuid: 81d55675-8570-4b40-9a77-3125339a0f86
-  ws-opts:
-    headers:
-      Host: spring-sound-8d8e.36-9ff.workers.dev
-    path: /pyip=ProxyIP.KR.CMLiussss.net
-- name: '10|KRyoyapai.com_1 #1'
-  network: ws
-  port: 8880
-  server: crimson-smoke-7818.397.workers.dev
-  skip-cert-verify: false
-  tls: false
-  type: vless
-  udp: true
-  uuid: d6bdda67-168d-4501-a2c1-ef01070cb327
-  ws-opts:
-    path: /pyip=ProxyIP.KR.CMLiussss.net
-- client-fingerprint: chrome
-  name: 10|KRyoyapai.com_1
-  network: ws
-  port: 25524
-  server: 116.93.199.28
-  servername: ylnhh.cc.cd
-  skip-cert-verify: false
-  tls: true
-  type: vless
-  udp: true
-  uuid: 14b02e2a-8930-4afb-8412-ea4a4954ca5b
-  ws-opts:
-    headers:
-      Host: ylnhh.cc.cd
-    path: /Telegram@WangCai2
-- name: '11,16,22|@npv_vpn11 #877'
+- cipher: chacha20-ietf-poly1305
+  name: 7,24|[OpenRay] 🇰🇷KR-124
+  password: 7e68e32f-8015-4f37-9082-70e8b0b58043
+  port: 8443
+  server: 13.124.117.110
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: '7|🇰🇷 [ Configs by DukeMehdi ] SS... #2'
+  password: 7e68e32f-8015-4f37-9082-70e8b0b58043
+  port: 8443
+  server: 3.35.131.135
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: 7,24|[OpenRay] 🇰🇷KR-51
+  password: 7e68e32f-8015-4f37-9082-70e8b0b58043
+  port: 8443
+  server: 43.201.250.101
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: 7,24|[OpenRay] 🇰🇷KR-121
+  password: 7e68e32f-8015-4f37-9082-70e8b0b58043
+  port: 8443
+  server: 43.202.53.247
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: '7|🇰🇷 [ Configs by DukeMehdi ] SS... #5'
+  password: 7e68e32f-8015-4f37-9082-70e8b0b58043
+  port: 8443
+  server: 3.35.54.161
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: 7,24|[OpenRay] 🇰🇷KR-19
+  password: 7e68e32f-8015-4f37-9082-70e8b0b58043
+  port: 8443
+  server: 52.78.216.116
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: 7,24|[OpenRay] 🇰🇷KR-71
+  password: 7e68e32f-8015-4f37-9082-70e8b0b58043
+  port: 8443
+  server: 52.78.59.52
+  type: ss
+- cipher: aes-128-gcm
+  name: '7|🇰🇷 [ Configs by DukeMehdi ] SS... #8'
+  password: 3a308d5f-72a3-42c0-88a8-549f8ebb5713
+  port: 32702
+  server: 129.154.222.205
+  type: ss
+- cipher: aes-256-cfb
+  name: 7,24|[OpenRay] 🇰🇷KR-27
+  password: 1234!@#$
+  port: 1774
+  server: 49.254.204.134
+  type: ss
+- cipher: aes-256-cfb
+  name: '7|🇰🇷 [ Configs by DukeMehdi ] SS... #10'
+  password: amazonskr05
+  port: 443
+  server: 43.200.245.35
+  type: ss
+- cipher: aes-256-cfb
+  name: '7|🇰🇷 [ Configs by DukeMehdi ] SS... #11'
+  password: amazonskr05
+  port: 443
+  server: 43.201.108.109
+  type: ss
+- cipher: aes-256-cfb
+  name: '7|🇰🇷 [ Configs by DukeMehdi ] SS... #12'
+  password: amazonskr05
+  port: 443
+  server: 43.201.47.102
+  type: ss
+- cipher: aes-256-cfb
+  name: '7|🇰🇷 [ Configs by DukeMehdi ] SS... #13'
+  password: amazonskr05
+  port: 443
+  server: 43.201.48.212
+  type: ss
+- cipher: aes-256-cfb
+  name: '7|🇰🇷 [ Configs by DukeMehdi ] SS... #14'
+  password: amazonskr05
+  port: 443
+  server: 43.201.59.8
+  type: ss
+- cipher: aes-256-cfb
+  name: '7|🇰🇷 [ Configs by DukeMehdi ] SS... #15'
+  password: doub.io
+  port: 2333
+  server: 43.202.49.222
+  type: ss
+- cipher: aes-256-cfb
+  name: '7|🇰🇷 [ Configs by DukeMehdi ] SS... #16'
+  password: f8f7aCzcPKbsF8p3
+  port: 989
+  server: 158.247.213.230
+  type: ss
+- cipher: aes-256-cfb
+  name: '7|🇰🇷 [ Configs by DukeMehdi ] SS... #17'
+  password: qwerREWQ@@
+  port: 2003
+  server: 125.141.26.5
+  type: ss
+- cipher: aes-256-cfb
+  name: 7,24|[OpenRay] 🇰🇷KR-47
+  password: qwerREWQ@@
+  port: 6123
+  server: 211.178.105.134
+  type: ss
+- cipher: aes-256-cfb
+  name: '7|🇰🇷 [ Configs by DukeMehdi ] SS... #19'
+  password: qwerREWQ@@
+  port: 4652
+  server: 218.237.185.230
+  type: ss
+- cipher: aes-256-cfb
+  name: '7|🇰🇷 [ Configs by DukeMehdi ] SS... #20'
+  password: qwerREWQ@@
+  port: 13979
+  server: 221.139.79.57
+  type: ss
+- cipher: aes-256-gcm
+  name: '7|🇰🇷 [ Configs by DukeMehdi ] SS... #21'
+  password: KixLvKzwjekG00rm
+  port: 8000
+  server: 141.164.45.187
+  type: ss
+- cipher: aes-256-gcm
+  name: '7|🇰🇷 [ Configs by DukeMehdi ] SS... #22'
+  password: PCnnH6SQSnfoS27
+  port: 8091
+  server: 141.164.45.187
+  type: ss
+- cipher: aes-256-gcm
+  name: '7|🇰🇷 [ Configs by DukeMehdi ] SS... #23'
+  password: RexnBgU7EV5ADxG
+  port: 7001
+  server: 141.164.45.187
+  type: ss
+- cipher: aes-256-gcm
+  name: '7|🇰🇷 [ Configs by DukeMehdi ] SS... #24'
+  password: TEzjfAYq2IjtuoS
+  port: 6679
+  server: 141.164.45.187
+  type: ss
+- cipher: aes-256-gcm
+  name: '7|🇰🇷 [ Configs by DukeMehdi ] SS... #25'
+  password: XKFKl2rULjIp74
+  port: 8008
+  server: 141.164.45.187
+  type: ss
+- cipher: aes-256-gcm
+  name: 7,24|[OpenRay] 🇰🇷KR-118
+  password: Y6R9pAtvxxzmGC
+  port: 9090
+  server: 141.164.45.187
+  type: ss
+- cipher: aes-256-gcm
+  name: '7|🇰🇷 [ Configs by DukeMehdi ] SS... #27'
+  password: Y6R9pAtvxxzmGC
+  port: 5601
+  server: 158.247.205.87
+  type: ss
+- cipher: aes-256-gcm
+  name: 7,24|[OpenRay] 🇰🇷KR-22
+  password: cdBIDV42DCwnfIN
+  port: 8119
+  server: 141.164.45.187
+  type: ss
+- cipher: aes-256-gcm
+  name: '7|🇰🇷 [ Configs by DukeMehdi ] SS... #29'
+  password: ac9c0a7b
+  port: 49642
+  server: 211.174.113.172
+  type: ss
+- cipher: aes-256-gcm
+  name: '7|🇰🇷 [ Configs by DukeMehdi ] SS... #30'
+  password: e4FCWrgpkji3QY
+  port: 9101
+  server: 141.164.45.187
+  type: ss
+- cipher: aes-256-gcm
+  name: '7|🇰🇷 [ Configs by DukeMehdi ] SS... #31'
+  password: lGqs95QkFHo2NV
+  port: 5498
+  server: 141.164.45.187
+  type: ss
+- cipher: aes-256-gcm
+  name: '7|🇰🇷 [ Configs by DukeMehdi ] SS... #32'
+  password: pKEW8JPByTVTLtM
+  port: 443
+  server: 158.247.205.87
+  type: ss
+- name: 7|🇰🇷 [ Configs by DukeMehdi ] TJ...
+  password: 7118b5f4-0ea4-4c11-be7f-11471cb91e4a
+  port: 443
+  server: 144.24.72.126
+  type: trojan
+- name: '7|🇰🇷 [ Configs by DukeMehdi ] TJ... #1'
+  network: tcp
+  password: 81d93f62-15a2-4994-adb9-0b5d906aac7e
+  port: 443
+  server: 138.2.114.255
+  skip-cert-verify: true
+  type: trojan
+- name: '7|🇰🇷 [ Configs by DukeMehdi ] TJ... #2'
+  password: 8fe3b905-b933-4a3f-aa33-40a73ec93c69
+  port: 28443
+  server: 144.24.69.60
+  sni: 'glc.hruqoaw.cn '
+  type: trojan
+- name: '7|🇰🇷 [ Configs by DukeMehdi ] TJ... #3'
+  password: 8fe3b905-b933-4a3f-aa33-40a73ec93c69
+  port: 28443
+  server: 43.200.164.211
+  sni: 'glc.hruqoaw.cn '
+  type: trojan
+- name: '7|🇰🇷 [ Configs by DukeMehdi ] TJ... #4'
+  password: 9c822f05-cfdc-479a-9534-60f3d4127435
+  port: 443
+  server: 138.2.113.248
+  type: trojan
+- name: '7|🇰🇷 [ Configs by DukeMehdi ] TJ... #5'
+  network: tcp
+  password: GKHWMe2R4qwNcNxu6l3KMkdd
+  port: 26214
+  server: 121.178.83.161
+  sni: 'vpn1.rnmcnm.com '
+  type: trojan
+- name: '7|🇰🇷 [ Configs by DukeMehdi ] TJ... #6'
+  network: tcp
+  password: GKHWMe2R4qwNcNxu6l3KMkdd
+  port: 11371
+  server: 125.141.32.222
+  skip-cert-verify: true
+  sni: vpn1.rnmcnm.com
+  type: trojan
+- name: '7|🇰🇷 [ Configs by DukeMehdi ] TJ... #7'
+  network: tcp
+  password: GKHWMe2R4qwNcNxu6l3KMkdd
+  port: 18853
+  server: 221.158.4.230
+  skip-cert-verify: true
+  sni: vpn1.rnmcnm.com
+  type: trojan
+- name: '7|🇰🇷 [ Configs by DukeMehdi ] TJ... #8'
+  password: KLF0qOU0ZZGw5Tnu
+  port: 443
+  server: 121.78.213.3
+  sni: 'swift.protocolbuffer.com '
+  type: trojan
+- name: '7|🇰🇷 [ Configs by DukeMehdi ] TJ... #9'
+  network: tcp
+  password: ND91608427
+  port: 443
+  server: 13.125.239.182
+  sni: 'saving-octopus.rooster465.autos '
+  type: trojan
+- name: '7|🇰🇷 [ Configs by DukeMehdi ] TJ... #10'
+  network: tcp
+  password: ND91608427
+  port: 443
+  server: 3.35.140.99
+  sni: 'moved-meerkat.rooster465.autos '
+  type: trojan
+- name: '7|🇰🇷 [ Configs by DukeMehdi ] TJ... #11'
+  network: tcp
+  password: ND91608427
+  port: 443
+  server: 3.36.59.34
+  sni: select-ferret.rooster465.autos
+  type: trojan
+- name: '7|🇰🇷 [ Configs by DukeMehdi ] TJ... #12'
+  network: tcp
+  password: ND91608427
+  port: 443
+  server: 3.38.106.2
+  sni: communal-sunbird.rooster465.autos
+  type: trojan
+- name: '7|🇰🇷 [ Configs by DukeMehdi ] TJ... #13'
+  network: tcp
+  password: ND91608427
+  port: 443
+  server: 43.201.103.8
+  sni: intimate-moray.rooster465.autos
+  type: trojan
+- name: '7|🇰🇷 [ Configs by DukeMehdi ] TJ... #14'
+  network: tcp
+  password: ND91608427
+  port: 443
+  server: 43.201.46.108
+  sni: exotic-chow.rooster465.autos
+  type: trojan
+- name: '7|🇰🇷 [ Configs by DukeMehdi ] TJ... #15'
+  network: tcp
+  password: ND91608427
+  port: 443
+  server: 43.201.56.44
+  sni: distinct-llama.rooster465.autos
+  type: trojan
+- name: '7|🇰🇷 [ Configs by DukeMehdi ] TJ... #16'
+  network: tcp
+  password: ND91608427
+  port: 443
+  server: 43.203.203.244
+  sni: main-whippet.rooster465.autos
+  type: trojan
+- name: '7|🇰🇷 [ Configs by DukeMehdi ] TJ... #17'
+  network: tcp
+  password: ND91608427
+  port: 443
+  server: 43.203.244.203
+  sni: 'grateful-owl.rooster465.autos '
+  type: trojan
+- name: '7|🇰🇷 [ Configs by DukeMehdi ] TJ... #18'
+  network: tcp
+  password: ND91608427
+  port: 443
+  server: 43.203.247.197
+  sni: 'definite-malamute.rooster465.autos '
+  type: trojan
+- name: '7|🇰🇷 [ Configs by DukeMehdi ] TJ... #19'
+  network: tcp
+  password: ND91608427
+  port: 443
+  server: 52.78.13.238
+  sni: 'upward-puma.rooster465.autos '
+  type: trojan
+- name: '7|🇰🇷 [ Configs by DukeMehdi ] TJ... #20'
+  network: tcp
+  password: ND91608427
+  port: 443
+  server: 52.79.210.229
+  sni: 'chief-bluegill.rooster465.autos '
+  type: trojan
+- name: '7|🇰🇷 [ Configs by DukeMehdi ] TJ... #21'
+  network: tcp
+  password: ND91608427
+  port: 443
+  server: 54.180.228.238
+  sni: pure-ram.rooster465.autos
+  type: trojan
+- name: '7|🇰🇷 [ Configs by DukeMehdi ] TJ... #22'
+  network: tcp
   password: UX82473651
   port: 443
-  server: pure-kodiak.rooster465.autos
-  skip-cert-verify: true
-  sni: pure-kodiak.rooster465.autos
+  server: 13.125.69.162
+  skip-cert-verify: false
+  sni: 'engaging-toucan.rooster465.autos '
   type: trojan
-  udp: true
+- name: '7|🇰🇷 [ Configs by DukeMehdi ] TJ... #23'
+  network: tcp
+  password: UX82473651
+  port: 443
+  server: 3.34.131.153
+  skip-cert-verify: false
+  sni: 'pretty-rat.rooster465.autos '
+  type: trojan
+- name: '7|🇰🇷 [ Configs by DukeMehdi ] TJ... #24'
+  password: UX82473651
+  port: 443
+  server: 3.35.168.225
+  skip-cert-verify: true
+  sni: 'noted-cougar.rooster465.autos '
+  type: trojan
+- name: '7|🇰🇷 [ Configs by DukeMehdi ] TJ... #25'
+  network: tcp
+  password: UX82473651
+  port: 443
+  server: 3.35.207.188
+  skip-cert-verify: false
+  sni: 'main-fawn.rooster465.autos '
+  type: trojan
+- name: '7|🇰🇷 [ Configs by DukeMehdi ] TJ... #26'
+  network: tcp
+  password: UX82473651
+  port: 443
+  server: 3.35.217.113
+  skip-cert-verify: false
+  sni: 'amazing-peacock.rooster465.autos '
+  type: trojan
+- name: '7|🇰🇷 [ Configs by DukeMehdi ] TJ... #27'
+  network: tcp
+  password: UX82473651
+  port: 443
+  server: 3.39.225.215
+  skip-cert-verify: false
+  sni: 'kind-stork.rooster465.autos '
+  type: trojan
+- name: '7|🇰🇷 [ Configs by DukeMehdi ] TJ... #28'
+  network: tcp
+  password: UX82473651
+  port: 443
+  server: 43.201.100.203
+  skip-cert-verify: false
+  sni: 'optimum-snapper.rooster465.autos '
+  type: trojan
+- name: 7,24|[OpenRay] 🇰🇷KR-116
+  network: tcp
+  password: UX82473651
+  port: 443
+  server: 43.201.252.164
+  sni: balanced-stag.rooster465.autos
+  type: trojan
+  ws-opts:
+    path: /
+- name: 7,24|[OpenRay] 🇰🇷KR-129
+  network: tcp
+  password: UX82473651
+  port: 443
+  server: 43.203.172.96
+  skip-cert-verify: true
+  sni: neutral-quail.rooster465.autos
+  type: trojan
+  ws-opts:
+    path: '%2f'
+- name: '7|🇰🇷 [ Configs by DukeMehdi ] TJ... #31'
+  network: tcp
+  password: UX82473651
+  port: 443
+  server: 52.78.203.191
+  skip-cert-verify: false
+  sni: 'delicate-buck.rooster465.autos '
+  type: trojan
+- name: '7|🇰🇷 [ Configs by DukeMehdi ] TJ... #32'
+  password: b291d129-ee55-4801-a9b8-b5316e5c37b7
+  port: 443
+  server: 138.2.113.84
+  type: trojan
+- name: '7|🇰🇷 [ Configs by DukeMehdi ] TJ... #33'
+  password: cc05b267-2e17-4e73-92f0-2cf603aa5997
+  port: 40005
+  server: 146.56.179.67
+  type: trojan
+- name: '7|🇰🇷 [ Configs by DukeMehdi ] TJ... #34'
+  password: cd27884b-c5af-34ec-b75f-8248077818fe
+  port: 8443
+  server: 144.24.76.54
+  sni: '2.hg.kr.cat77.cloud '
+  type: trojan
+- name: '7|🇰🇷 [ Configs by DukeMehdi ] TJ... #35'
+  network: tcp
+  password: eeb6823c-b926-4ea2-866a-5542edd26e59
+  port: 443
+  server: 132.226.23.185
+  sni: 'hhcm.hhxaf.cc.cd '
+  type: trojan
+- name: '7|🇰🇷 [ Configs by DukeMehdi ] TJ... #36'
+  password: f2117e99-9b6e-47fd-b0a9-634a0b15b998
+  port: 443
+  server: 146.56.189.146
+  type: trojan
+- name: '7,12|🔥Join+Telegram:@Farah_VPN🟣 #6147'
+  password: moist
+  port: 27335
+  server: 116.47.10.236
+  skip-cert-verify: true
+  sni: trojan.freenods.sbs
+  type: trojan
+- name: '7|🇰🇷 [ Configs by DukeMehdi ] TJ... #38'
+  network: tcp
+  password: rYuChHcwQZskq9E0zdoR
+  port: 35342
+  server: 119.195.0.158
+  sni: 'vpn5.rnmcnm.com '
+  type: trojan
+- name: '7|🇰🇷 [ Configs by DukeMehdi ] TJ... #39'
+  network: tcp
+  password: t5FsyeQXkNCY6eVGiqBXmPu4..jBEpNbak
+  port: 443
+  server: 38.60.220.65
+  type: trojan
+- name: '7|🇰🇷 [ Configs by DukeMehdi ] TJ... #40'
+  password: xxoo
+  port: 443
+  server: 3.34.6.217
+  type: trojan
+- client-fingerprint: chrome
+  name: 7|🇰🇷 [ Configs by DukeMehdi ] VL...
+  network: ws
+  port: 16034
+  server: 220.71.172.2
+  servername: 'bapj1qapjk4.0sds0li1bwcz0i76it0gjxv1.workers.dev '
+  tls: true
+  type: vless
+  uuid: 169f3aa8-6b52-4f3e-83d2-f96bac71e503
+  ws-opts:
+    headers:
+      Host: bapj1qapjk4.0sds0li1bwcz0i76it0gjxv1.workers.dev
+    path: '%2F%40Marisa_kristi'
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: 7,16,24|[OpenRay] 🇰🇷KR-73
+  network: tcp
+  port: 2053
+  reality-opts:
+    public-key: DfFU5OG93GxB1x25Dl2BTkxKsBTFF4Su4PXYPbYvmms
+    short-id: 3c4041d3
+  server: 47.80.19.173
+  servername: gateway.icloud.com
+  tls: false
+  type: vless
+  uuid: 319d5ffb-57e8-4bbd-ac0c-5d55d0c253de
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: 7,16,24,30|🇰🇷KR_25|524KB/s|A004-260618 01
+  network: raw
+  port: 13672
+  reality-opts:
+    public-key: k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0
+    short-id: 48050fab
+  server: 3.39.4.109
+  servername: www.apple.com
+  tls: false
+  type: vless
+  uuid: 814bd064-544d-4255-a070-5705c03f6da9
+  ws-opts:
+    headers:
+      Host: /?JOIN_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: 7,24,30|🇰🇷KR_15|566KB/s|C002-260622 01
+  network: tcp
+  port: 18967
+  reality-opts:
+    public-key: k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0
+    short-id: 48050fab
+  server: 3.39.4.109
+  servername: www.apple.com
+  tls: false
+  type: vless
+  uuid: 814bd064-544d-4255-a070-5705c03f6da9
+- client-fingerprint: firefox
+  name: '7,24,30|🇰🇷 [ Configs by DukeMehdi ] VL... #4'
+  network: tcp
+  port: 2053
+  reality-opts:
+    public-key: F6C33iIbfmt1mUsuLTarIC8ygdHKMqsaGvrSQltyxUo
+    short-id: 429499c03d4cc8a0
+  server: 151.245.106.49
+  servername: 'www.cloudflare.com '
+  tls: false
+  type: vless
+  uuid: a2de9567-9646-45a9-a410-7303a43bdb6c
+- client-fingerprint: firefox
+  flow: xtls-rprx-vision
+  name: '7|🇰🇷 [ Configs by DukeMehdi ] VL... #5'
+  network: raw
+  port: 21796
+  reality-opts:
+    public-key: dHK4t7AbVKnDxl6ondRWcwkkt4FDkrK89ugEzZfDuzw
+    short-id: '804d6574da9180 '
+  server: 43.203.252.196
+  servername: www.sony.com
+  tls: false
+  type: vless
+  uuid: cd91af31-0c74-4bce-aac3-bdae367c84fa
+- client-fingerprint: ''
+  name: 7,24|[OpenRay] 🇰🇷KR-42
+  network: tcp
+  port: 40701
+  reality-opts:
+    public-key: TWuVILeiSXfCSMZPsqNHtRquNALPRaW5Z51I63zdLEA
+    short-id: 7ef3a8ab2886
+  server: 43.108.48.169
+  servername: amazon.com
+  tls: false
+  type: vless
+  uuid: cdb7d825-9892-4d6f-80b8-7add83159dac
+- name: '7|🇰🇷 [ Configs by DukeMehdi ] VL... #7'
+  network: ws
+  port: 443
+  server: 141.164.35.94
+  servername: 't1s1.rittbo.kdns.fr '
+  tls: true
+  type: vless
+  uuid: eeb6823c-b926-4ea2-866a-5542edd26e59
+  ws-opts:
+    headers:
+      Host: t1s1.rittbo.kdns.fr
+    path: '%2F'
+- name: '7|🇰🇷 [ Configs by DukeMehdi ] VL... #8'
+  network: ws
+  port: 443
+  server: 141.164.51.88
+  servername: 't1s1.rittbo.kdns.fr '
+  tls: true
+  type: vless
+  uuid: eeb6823c-b926-4ea2-866a-5542edd26e59
+  ws-opts:
+    headers:
+      Host: t1s1.rittbo.kdns.fr
+    path: '%2F'
+- flow: ''
+  name: '7|🇰🇷 [ Configs by DukeMehdi ] VL... #9'
+  network: ws
+  port: 443
+  server: 144.24.73.232
+  servername: t1s1.rittbo.kdns.fr
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  uuid: eeb6823c-b926-4ea2-866a-5542edd26e59
+  ws-opts:
+    headers:
+      Host: t1s1.rittbo.kdns.fr
+    path: '%2F'
+- name: '7|🇰🇷 [ Configs by DukeMehdi ] VL... #10'
+  network: ws
+  port: 8443
+  server: 146.56.187.1
+  servername: 't1s1.rittbo.kdns.fr '
+  tls: true
+  type: vless
+  uuid: eeb6823c-b926-4ea2-866a-5542edd26e59
+  ws-opts:
+    headers:
+      Host: t1s1.rittbo.kdns.fr
+    path: '%2F'
+- name: '7|🇰🇷 [ Configs by DukeMehdi ] VL... #11'
+  network: ws
+  port: 443
+  server: 15.164.84.61
+  servername: 't1s1.rittbo.kdns.fr '
+  tls: true
+  type: vless
+  uuid: eeb6823c-b926-4ea2-866a-5542edd26e59
+  ws-opts:
+    headers:
+      Host: t1s1.rittbo.kdns.fr
+    path: '%2F'
+- name: '7|🇰🇷 [ Configs by DukeMehdi ] VL... #12'
+  network: ws
+  port: 443
+  server: 152.67.210.234
+  servername: 't1s1.rittbo.kdns.fr '
+  tls: true
+  type: vless
+  uuid: eeb6823c-b926-4ea2-866a-5542edd26e59
+  ws-opts:
+    headers:
+      Host: t1s1.rittbo.kdns.fr
+    path: '%2F'
+- name: '7|🇰🇷 [ Configs by DukeMehdi ] VL... #13'
+  network: ws
+  port: 443
+  server: 158.180.71.69
+  servername: 't1s1.rittbo.kdns.fr '
+  tls: true
+  type: vless
+  uuid: eeb6823c-b926-4ea2-866a-5542edd26e59
+  ws-opts:
+    headers:
+      Host: t1s1.rittbo.kdns.fr
+    path: '%2F'
+- name: '7|🇰🇷 [ Configs by DukeMehdi ] VL... #14'
+  network: ws
+  port: 443
+  server: 158.247.198.196
+  servername: 't1s1.rittbo.kdns.fr '
+  tls: true
+  type: vless
+  uuid: eeb6823c-b926-4ea2-866a-5542edd26e59
+  ws-opts:
+    headers:
+      Host: t1s1.rittbo.kdns.fr
+    path: '%2F'
+- name: '7|🇰🇷 [ Configs by DukeMehdi ] VL... #15'
+  network: ws
+  port: 443
+  server: 158.247.199.106
+  servername: 't1s1.rittbo.kdns.fr '
+  tls: true
+  type: vless
+  uuid: eeb6823c-b926-4ea2-866a-5542edd26e59
+  ws-opts:
+    headers:
+      Host: t1s1.rittbo.kdns.fr
+    path: '%2F'
+- name: '7|🇰🇷 [ Configs by DukeMehdi ] VL... #16'
+  network: ws
+  port: 443
+  server: 158.247.209.57
+  servername: 't1s1.rittbo.kdns.fr '
+  tls: true
+  type: vless
+  uuid: eeb6823c-b926-4ea2-866a-5542edd26e59
+  ws-opts:
+    headers:
+      Host: t1s1.rittbo.kdns.fr
+    path: '%2F'
+- name: '7|🇰🇷 [ Configs by DukeMehdi ] VL... #17'
+  network: ws
+  port: 443
+  server: 158.247.211.170
+  servername: 't1s1.rittbo.kdns.fr '
+  tls: true
+  type: vless
+  uuid: eeb6823c-b926-4ea2-866a-5542edd26e59
+  ws-opts:
+    headers:
+      Host: t1s1.rittbo.kdns.fr
+    path: '%2F'
+- name: '7|🇰🇷 [ Configs by DukeMehdi ] VL... #18'
+  network: ws
+  port: 443
+  server: 161.118.158.9
+  servername: 't1s1.rittbo.kdns.fr '
+  tls: true
+  type: vless
+  uuid: eeb6823c-b926-4ea2-866a-5542edd26e59
+  ws-opts:
+    headers:
+      Host: t1s1.rittbo.kdns.fr
+    path: '%2F'
+- client-fingerprint: 'chrome '
+  flow: ''
+  name: '7|🇰🇷 [ Configs by DukeMehdi ] VL... #19'
+  network: ws
+  port: 443
+  server: 64.110.70.64
+  servername: t1s1.rittbo.kdns.fr
+  tls: true
+  type: vless
+  uuid: eeb6823c-b926-4ea2-866a-5542edd26e59
+  ws-opts:
+    headers:
+      Host: t1s1.rittbo.kdns.fr
+    path: '%2F'
+- client-fingerprint: 'chrome '
+  name: '7|🇰🇷 [ Configs by DukeMehdi ] VL... #20'
+  network: ws
+  port: 8443
+  server: 64.176.226.26
+  servername: t1s1.rittbo.kdns.fr
+  tls: true
+  type: vless
+  uuid: eeb6823c-b926-4ea2-866a-5542edd26e59
+  ws-opts:
+    headers:
+      Host: t1s1.rittbo.kdns.fr
+    path: '%2F'
+- client-fingerprint: chrome
+  name: 7,24|[OpenRay] 🇰🇷KR-3
+  network: ws
+  port: 8443
+  server: 64.110.79.66
+  servername: s3ws.ragingbull.de5.net
+  tls: true
+  type: vless
+  uuid: f49d04d6-aaa7-4013-b323-bc35b78230db
+  ws-opts:
+    headers:
+      Host: s3ws.ragingbull.de5.net
+    path: '%2Fwsrb7k2m'
 - name: 11|A🟢🇰🇷res[🎬🤖📺🎭]_dokng.com_6ade7d...
   port: 1020
   server: 175.197.55.225
   type: socks5
 - alterId: 2
   cipher: auto
-  name: 11|C🟠🇰🇷hos[📺🎪🔍]_dokng.com_1ab4b9a...
+  name: 11|C🟠🇰🇷hos[📺🎪✨🔍]_dokng.com_1ab4b9...
   port: 11264
   server: goldcnmltyljgfwgov.vip64.wogcnmnnagfwgov.com
   type: vmess
@@ -103,7 +810,7 @@ proxies:
     method: GET
     path:
     - /
-  name: 11|C🟠🇰🇷hos[🤖📺🎪]_dokng.com_3012d41...
+  name: 11,24|[OpenRay] 🇰🇷KR-108
   network: http
   port: 123
   server: 43.108.103.167
@@ -111,17 +818,18 @@ proxies:
   type: vmess
   uuid: 35aa0fda-175a-4aec-c468-0231dee1a121
 - client-fingerprint: chrome
-  name: 11|C🟠🇰🇷hos[🎬🤖📺🎭]_dokng.com_04c17f...
+  name: 11,24|[OpenRay] 🇰🇷KR-66
+  network: raw
   port: 443
   reality-opts:
     public-key: M0QKczb2MzOH45qDViIAbb9LPrVVyCp880D4HlwIKnA
     short-id: 8685f8b4d9f4f51e
   server: 34.22.111.30
   servername: www.cloudflare.com
-  tls: true
+  tls: false
   type: vless
   uuid: cb2abff3-5fe6-4b5a-aa19-5739deb285b6
-- name: 15|🇰🇷KR_1 |  1.8MB/s|Netflix|Disn...
+- name: 15|🇰🇷KR_1 | ⬇️ 1.8MB/s|Netflix|Di...
   network: ws
   port: 8880
   server: 185.162.231.177
@@ -136,7 +844,7 @@ proxies:
         Gecko) Chrome/40.0.2214.115 Safari/537.36
     path: /Telegram🇨🇳 @WangCai2 /?ed=2560
   xudp: true
-- name: 15|🇰🇷KR_2 |  1.4MB/s|Netflix|Disn...
+- name: 15|🇰🇷KR_2 | ⬇️ 1.4MB/s|Netflix|Di...
   network: ws
   port: 8880
   server: 5.10.247.177
@@ -177,112 +885,7 @@ proxies:
     headers:
       Host: and-75r.pages.dev
     path: '%2F'
-- client-fingerprint: chrome
-  flow: xtls-rprx-vision
-  name: 16|🇰🇷[www.v2nodes.com] vless-KR-1...
-  port: 2053
-  server: 47.80.19.173
-  servername: gateway.icloud.com
-  tls: true
-  type: vless
-  uuid: 319d5ffb-57e8-4bbd-ac0c-5d55d0c253de
-- client-fingerprint: chrome
-  flow: xtls-rprx-vision
-  name: '16|🇰🇷[www.v2nodes.com] vless-KR-1... #1'
-  port: 13672
-  server: 3.39.4.109
-  servername: www.apple.com
-  tls: true
-  type: vless
-  uuid: 814bd064-544d-4255-a070-5705c03f6da9
-- cipher: aes-256-gcm
-  name: 16|🇰🇷[www.v2nodes.com] ss-KR-1580...
-  password: ac9c0a7b
-  port: 49642
-  server: ce1fc2d8.krkt.hkssip.com
-  type: ss
-- name: 16|🇰🇷[www.v2nodes.com] trojan-KR-...
-  password: UX82473651
-  port: 443
-  server: fancy-skink.rooster465.autos
-  skip-cert-verify: true
-  sni: fancy-skink.rooster465.autos
-  type: trojan
-- name: '16,22|@npv_vpn11 #840'
-  password: UX82473651
-  port: 443
-  server: glorious-lark.rooster465.autos
-  skip-cert-verify: true
-  sni: glorious-lark.rooster465.autos
-  type: trojan
-- country: 🇰🇷KR
-  delay: 388
-  name: '16,21,22|@npv_vpn11 #927'
-  password: UX82473651
-  port: 443
-  server: inviting-rabbit.rooster465.autos
-  skip-cert-verify: true
-  sni: inviting-rabbit.rooster465.autos
-  type: trojan
-  udp: true
-- name: '16|🇰🇷[www.v2nodes.com] trojan-KR-... #4'
-  password: UX82473651
-  port: 443
-  server: central-jawfish.rooster465.autos
-  skip-cert-verify: true
-  sni: central-jawfish.rooster465.autos
-  type: trojan
-- name: '16|🇰🇷[www.v2nodes.com] trojan-KR-... #5'
-  password: UX82473651
-  port: 443
-  server: working-tomcat.rooster465.autos
-  skip-cert-verify: true
-  sni: working-tomcat.rooster465.autos
-  type: trojan
-- name: '16|🇰🇷[www.v2nodes.com] trojan-KR-... #6'
-  password: UX82473651
-  port: 443
-  server: full-egret.rooster465.autos
-  skip-cert-verify: true
-  sni: full-egret.rooster465.autos
-  type: trojan
-- name: '16|🇰🇷[www.v2nodes.com] trojan-KR-... #7'
-  password: UX82473651
-  port: 443
-  server: neutral-quail.rooster465.autos
-  sni: neutral-quail.rooster465.autos
-  type: trojan
-- name: '16|🇰🇷[www.v2nodes.com] trojan-KR-... #8'
-  password: UX82473651
-  port: 443
-  server: delicate-buck.rooster465.autos
-  sni: delicate-buck.rooster465.autos
-  type: trojan
-- name: '16|🇰🇷[www.v2nodes.com] trojan-KR-... #9'
-  password: UX82473651
-  port: 443
-  server: amazing-peacock.rooster465.autos
-  sni: amazing-peacock.rooster465.autos
-  type: trojan
-- name: '16|🇰🇷[www.v2nodes.com] trojan-KR-... #10'
-  password: UX82473651
-  port: 443
-  server: kind-stork.rooster465.autos
-  sni: kind-stork.rooster465.autos
-  type: trojan
-- name: '16|🇰🇷[www.v2nodes.com] trojan-KR-... #11'
-  password: UX82473651
-  port: 443
-  server: noted-cougar.rooster465.autos
-  sni: noted-cougar.rooster465.autos
-  type: trojan
-- name: '16|🇰🇷[www.v2nodes.com] trojan-KR-... #12'
-  password: UX82473651
-  port: 443
-  server: optimum-snapper.rooster465.autos
-  sni: optimum-snapper.rooster465.autos
-  type: trojan
-- name: '16|🇰🇷[www.v2nodes.com] trojan-KR-... #13'
+- name: '16,17|🇰🇷[www.v2nodes.com] trojan-KR-... #30'
   password: UX82473651
   port: 443
   server: 13.125.69.162
@@ -292,13 +895,7 @@ proxies:
   port: 443
   server: 3.34.131.153
   type: trojan
-- name: '16|🇰🇷[www.v2nodes.com] trojan-KR-... #15'
-  password: UX82473651
-  port: 443
-  server: main-fawn.rooster465.autos
-  sni: main-fawn.rooster465.autos
-  type: trojan
-- name: '16|🇰🇷[www.v2nodes.com] trojan-KR-... #16'
+- name: '16,17|🇰🇷[www.v2nodes.com] trojan-KR-... #33'
   password: UX82473651
   port: 443
   server: balanced-stag.rooster465.autos
@@ -306,7 +903,7 @@ proxies:
   type: trojan
 - alterId: 0
   cipher: auto
-  name: '16,27|🇰🇷 韩国|@ripaojiedian #1'
+  name: '16,27|🇰🇷 韩国|@ripaojiedian #2'
   network: ws
   port: 443
   server: 8nTzyR5KNivfabaT.v.3dns.vip
@@ -319,7 +916,7 @@ proxies:
     headers:
       Host: 8nTzyR5KNivfabaT.v.3dns.vip
     path: /ws-vmess
-- name: '16,28|韩国|@ripaojiedian #1'
+- name: '16,17,28|韩国|@ripaojiedian #2'
   network: tcp
   password: AA885B42-133C-3828-FB69-E45105C06092
   port: 11171
@@ -335,6 +932,44 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
+- name: '17|🇰🇷[www.v2nodes.com] trojan-KR-... #25'
+  password: UX82473651
+  port: 443
+  server: 52.78.203.191
+  type: trojan
+- name: 17,24|[OpenRay] 🇰🇷KR-128
+  network: tcp
+  password: UX82473651
+  port: 443
+  server: 3.34.131.153
+  skip-cert-verify: false
+  sni: pretty-rat.rooster465.autos
+  type: trojan
+  ws-opts:
+    path: /
+- alterId: 0
+  cipher: auto
+  name: '17|🇰🇷 韩国|@ripaojiedian #1'
+  network: ws
+  port: 443
+  server: 8nTzyR5KNivfabaT.v.3dns.vip
+  servername: 8nTzyR5KNivfabaT.v.3dns.vip
+  skip-cert-verify: false
+  tls: true
+  type: vmess
+  uuid: 88888888-8888-8888-8888-888888888888
+  ws-opts:
+    headers:
+      Host: 8nTzyR5KNivfabaT.v.3dns.vip
+    path: /ws-vmess
+- name: 17,24|[OpenRay] 🌐XX-1201
+  password: UX82473651
+  port: 443
+  server: cunning-grub.rooster465.autos
+  skip-cert-verify: true
+  sni: cunning-grub.rooster465.autos
+  type: trojan
+  udp: true
 - client-fingerprint: chrome
   name: 20|🇰🇷_韩国_135
   network: ws
@@ -395,6 +1030,210 @@ proxies:
     headers:
       Host: and-75r.pages.dev
     path: /
+- name: 24|[OpenRay] 🇰🇷KR-104
+  password: 7e68e32f-8015-4f37-9082-70e8b0b58043
+  port: 443
+  server: 13.124.117.110
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: false
+  type: hysteria2
+- name: 24|[OpenRay] 🇰🇷KR-117
+  password: 7e68e32f-8015-4f37-9082-70e8b0b58043
+  port: 443
+  server: 43.202.53.247
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: false
+  type: hysteria2
+- name: 24|[OpenRay] 🇰🇷KR-125
+  password: 7e68e32f-8015-4f37-9082-70e8b0b58043
+  port: 443
+  server: 52.78.216.116
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: false
+  type: hysteria2
+- name: 24|[OpenRay] 🇰🇷KR-65
+  password: 7e68e32f-8015-4f37-9082-70e8b0b58043
+  port: 443
+  server: 52.78.59.52
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: false
+  type: hysteria2
+- name: 24|[OpenRay] 🇰🇷KR-88
+  password: H7mP2xY9kJ4nQ9wR5tF6vB3z
+  port: 443
+  server: 13.124.119.204
+  skip-cert-verify: true
+  sni: vpn-kr-002.fastervpn.world
+  tls: false
+  type: hysteria2
+- name: 24|[OpenRay] 🇰🇷KR-10
+  password: H7mP2xY9kJ4nQ9wR5tF6vB3z
+  port: 443
+  server: 3.34.95.215
+  skip-cert-verify: true
+  sni: vpn-kr-002.fastervpn.world
+  tls: false
+  type: hysteria2
+- name: 24|[OpenRay] 🇰🇷KR-72
+  password: H7mP2xY9kJ4nQ9wR5tF6vB3z
+  port: 443
+  server: 3.38.115.120
+  skip-cert-verify: true
+  sni: vpn-kr-002.fastervpn.world
+  tls: false
+  type: hysteria2
+- name: 24|[OpenRay] 🇰🇷KR-131
+  password: H7mP2xY9kJ4nQ9wR5tF6vB3z
+  port: 443
+  server: 43.203.202.217
+  skip-cert-verify: true
+  sni: vpn-kr-002.fastervpn.world
+  tls: false
+  type: hysteria2
+- name: 24|[OpenRay] 🇰🇷KR-74
+  password: H7mP2xY9kJ4nQ9wR5tF6vB3z
+  port: 443
+  server: 52.78.100.155
+  skip-cert-verify: true
+  sni: vpn-kr-002.fastervpn.world
+  tls: false
+  type: hysteria2
+- name: 24|[OpenRay] 🇰🇷KR-122
+  password: H7mP2xY9kJ4nQ9wR5tF6vB3z
+  port: 443
+  server: 54.180.231.160
+  skip-cert-verify: true
+  sni: vpn-kr-002.fastervpn.world
+  tls: false
+  type: hysteria2
+- name: 24|[OpenRay] 🇰🇷KR-69
+  network: tcp
+  password: UX82473651
+  port: 443
+  server: 13.125.69.162
+  skip-cert-verify: false
+  sni: engaging-toucan.rooster465.autos
+  type: trojan
+  ws-opts:
+    path: /
+- name: 24|[OpenRay] 🇰🇷KR-91
+  network: tcp
+  password: UX82473651
+  port: 443
+  server: 3.35.168.225
+  skip-cert-verify: false
+  sni: noted-cougar.rooster465.autos
+  type: trojan
+  ws-opts:
+    path: '%2f'
+- name: 24|[OpenRay] 🇰🇷KR-58
+  network: tcp
+  password: UX82473651
+  port: 443
+  server: 3.35.207.188
+  skip-cert-verify: false
+  sni: main-fawn.rooster465.autos
+  type: trojan
+  ws-opts:
+    path: /
+- name: 24|[OpenRay] 🇰🇷KR-75
+  network: tcp
+  password: UX82473651
+  port: 443
+  server: 3.35.217.113
+  skip-cert-verify: true
+  sni: amazing-peacock.rooster465.autos
+  type: trojan
+  ws-opts:
+    path: '%2f'
+- name: 24|[OpenRay] 🇰🇷KR-38
+  network: tcp
+  password: UX82473651
+  port: 443
+  server: 3.39.225.215
+  skip-cert-verify: true
+  sni: kind-stork.rooster465.autos
+  type: trojan
+  ws-opts:
+    path: '%2f'
+- name: 24|[OpenRay] 🇰🇷KR-105
+  network: tcp
+  password: UX82473651
+  port: 443
+  server: 43.201.100.203
+  skip-cert-verify: true
+  sni: optimum-snapper.rooster465.autos
+  type: trojan
+  ws-opts:
+    path: '%2f'
+- name: 24|[OpenRay] 🇰🇷KR-11
+  network: tcp
+  password: UX82473651
+  port: 443
+  server: 52.78.203.191
+  skip-cert-verify: false
+  sni: delicate-buck.rooster465.autos
+  type: trojan
+  ws-opts:
+    path: /
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: 24|[OpenRay] 🇰🇷KR-111
+  network: tcp
+  port: 443
+  reality-opts:
+    public-key: GR_zPAgxF9PZ70Z9UpSmMlcd2STyoAC0fZTSHkTTCGE
+    short-id: ca193e889d958f81
+  server: 64.176.231.183
+  servername: www.apple.com
+  tls: false
+  type: vless
+  uuid: 583cc910-b57c-4dd0-a4a7-cea51a30b032
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: 24|[OpenRay] 🇰🇷KR-113
+  network: raw
+  port: 443
+  reality-opts:
+    public-key: 9y70yaeBADfbMlb5_6t6fJqmSozYmv5lhKFVl32bX3E
+    short-id: efce3016b5a0e616
+  server: 52.78.59.52
+  servername: gproai.com
+  tls: false
+  type: vless
+  uuid: 7e68e32f-8015-4f37-9082-70e8b0b58043
+- alterId: 0
+  cipher: auto
+  name: 24|[OpenRay] 🇰🇷KR-80
+  network: tcp
+  port: 123
+  server: 43.108.103.167
+  tls: false
+  type: vmess
+  uuid: 35aa0fda-175a-4aec-c468-0231dee1a121
+- alterId: 0
+  cipher: auto
+  name: 24|[OpenRay] 🇰🇷KR-62
+  network: tcp
+  port: 443
+  server: 140.238.2.250
+  servername: null
+  tls: false
+  type: vmess
+  uuid: 41a7089a-040b-4538-8b8d-010902405bde
+- alterId: 0
+  cipher: auto
+  name: 24|[OpenRay] 🇰🇷KR-49
+  network: raw
+  port: 443
+  server: 140.238.2.250
+  tls: false
+  type: vmess
+  uuid: 41a7089a-040b-4538-8b8d-010902405bde
 - name: 25|🇰🇷|KR|@wxgqlfx|24
   password: dfb54e674104158210fdfcac45e5679d
   port: 50160
@@ -446,3 +1285,358 @@ proxies:
   server: definite-malamute.rooster465.autos
   skip-cert-verify: true
   type: trojan
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: 30|🇰🇷韩国丨yoyapai.com
+  network: tcp
+  port: 443
+  reality-opts:
+    public-key: fI-eoLmyyeYXgUHr2SWzHcwxkhxmDj2QBnivpUPYfVY
+    short-id: e3db542f549f5504
+  server: 52.141.0.244
+  servername: www.stanford.edu
+  tls: false
+  type: vless
+  uuid: 5822b465-036b-4a3b-89d0-b3e52ae20815
+- client-fingerprint: chrome
+  name: 30|🇰🇷KR韩国丨yoyapai.com
+  network: ws
+  port: 25524
+  server: 116.93.199.28
+  servername: ylnhh.cc.cd
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  uuid: 14b02e2a-8930-4afb-8412-ea4a4954ca5b
+  ws-opts:
+    headers:
+      Host: ylnhh.cc.cd
+    path: '%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2'
+- client-fingerprint: chrome
+  name: 30|KR韩国(mibei77.com 米贝节点分享)
+  network: ws
+  port: 2083
+  server: 123.111.169.70
+  servername: shuma.ccwu.cc
+  tls: true
+  type: vless
+  uuid: c18b978e-1c4e-415c-8bea-07942b563a64
+  ws-opts:
+    headers:
+      Host: shuma.ccwu.cc
+    path: '%2F'
+- name: 30|🇰🇷KR_2|513KB/s|C002-260622 01
+  password: H7mP2xY9kJ4nQ9wR5tF6vB3z
+  port: 443
+  server: vpn-kr-002.fastervpn.world
+  skip-cert-verify: true
+  sni: vpn-kr-002.fastervpn.world
+  tls: false
+  type: hysteria2
+- name: 30|🇰🇷KR_3|523KB/s|A004-260618 01
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: 443
+  server: 3.36.93.74
+  skip-cert-verify: true
+  sni: vpn-kr-003.fastervpn.world
+  tls: false
+  type: hysteria2
+- name: 30|🇰🇷KR_5|507KB/s|A004-260618 01
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: 443
+  server: 3.36.93.74
+  skip-cert-verify: true
+  sni: t.me
+  tls: false
+  type: hysteria2
+- name: 30|🇰🇷KR_6|531KB/s|A004-260618 01
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: 443
+  server: 3.36.93.74
+  skip-cert-verify: true
+  sni: whatsapp.com
+  tls: false
+  type: hysteria2
+- name: 30|🇰🇷KR_7|529KB/s|A004-260618 01
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: 443
+  server: 3.36.93.74
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: false
+  type: hysteria2
+- name: 30|🇰🇷KR_9|532KB/s|A004-260618 01
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: 443
+  server: 3.36.93.74
+  skip-cert-verify: true
+  sni: speedtest.tinkoff.ru
+  tls: false
+  type: hysteria2
+- name: 30|🇰🇷KR_11|212KB/s|A004-260618 01
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: 443
+  server: 3.36.93.74
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: false
+  type: hysteria2
+- name: 30|🇰🇷KR_30|479KB/s|A004-260618 01
+  password: 3d7634af8cb2c6cb4bac1c0efad8b43d
+  port: 50160
+  server: 152.67.200.82
+  skip-cert-verify: true
+  sni: 152.67.200.82
+  tls: false
+  type: hysteria2
+- name: 30|🇰🇷KR_13|764KB/s|R002-260618 01
+  password: 7302ad33229de166d393cd56143a1e4c
+  port: 50160
+  server: 131.186.19.174
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: false
+  type: hysteria2
+- name: 30|🇰🇷KR_14|615KB/s|R002-260618 01
+  password: 1671a252e2a97dc2bda4e515475931da
+  port: 50160
+  server: 132.226.226.189
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: false
+  type: hysteria2
+- name: 30|🇰🇷KR_17|711KB/s|A004-260618 01
+  password: 7302ad33229de166d393cd56143a1e4c
+  port: 50160
+  server: 131.186.19.174
+  skip-cert-verify: true
+  sni: whatsapp.com
+  tls: false
+  type: hysteria2
+- name: 30|🇰🇷KR_18|775KB/s|A004-260618 01
+  password: 7302ad33229de166d393cd56143a1e4c
+  port: 50160
+  server: 131.186.19.174
+  skip-cert-verify: true
+  sni: speedtest.tinkoff.ru
+  tls: false
+  type: hysteria2
+- name: 30|🇰🇷KR_19|511KB/s|A004-260618 01
+  password: 7302ad33229de166d393cd56143a1e4c
+  port: 50160
+  server: 131.186.19.174
+  skip-cert-verify: true
+  sni: vk.com
+  tls: false
+  type: hysteria2
+- name: 30|🇰🇷KR_27|635KB/s|A004-260618 01
+  password: 9cfc9458e48c028ec03ff86ebc71c744
+  port: 50160
+  server: 150-230-252-217.liao.kdns.fr
+  skip-cert-verify: true
+  sni: 127.0.0.1
+  tls: false
+  type: hysteria2
+- name: 30|🇰🇷KR_21|794KB/s|A004-260618 01
+  password: 7302ad33229de166d393cd56143a1e4c
+  port: 50160
+  server: 131.186.19.174
+  skip-cert-verify: true
+  sni: css.rbxcdn.com
+  tls: false
+  type: hysteria2
+- name: 30|🇰🇷KR_23|783KB/s|A004-260618 01
+  password: 7302ad33229de166d393cd56143a1e4c
+  port: 50160
+  server: 131.186.19.174
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: false
+  type: hysteria2
+- name: 30|🇰🇷KR_24|317KB/s|A004-260618 01
+  password: 3d7634af8cb2c6cb4bac1c0efad8b43d
+  port: 50160
+  server: 152.67.200.82
+  skip-cert-verify: true
+  sni: vk.com
+  tls: false
+  type: hysteria2
+- name: 30|🇰🇷KR_26|453KB/s|A004-260618 01
+  password: 3d7634af8cb2c6cb4bac1c0efad8b43d
+  port: 50160
+  server: 152.67.200.82
+  skip-cert-verify: true
+  sni: css.rbxcdn.com
+  tls: false
+  type: hysteria2
+- name: 30|🇰🇷KR_28|545KB/s|A004-260618 01
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: 443
+  server: 3.36.93.74
+  skip-cert-verify: true
+  sni: vk.com
+  tls: false
+  type: hysteria2
+- name: 30|🇰🇷KR_29|470KB/s|A004-260618 01
+  password: 3d7634af8cb2c6cb4bac1c0efad8b43d
+  port: 50160
+  server: 152.67.200.82
+  skip-cert-verify: true
+  sni: speedtest.tinkoff.ru
+  tls: false
+  type: hysteria2
+- name: 30|🇰🇷KR_31|534KB/s|A004-260618 01
+  password: 3d7634af8cb2c6cb4bac1c0efad8b43d
+  port: 50160
+  server: 152.67.200.82
+  skip-cert-verify: true
+  sni: t.me
+  tls: false
+  type: hysteria2
+- name: 30|🇰🇷KR_35|523KB/s|A004-260618 01
+  network: tcp
+  password: p5jTPcffLgi4gaNOJd2KUTb9YEPBBD5B
+  port: 56127
+  server: 154.90.62.70
+  skip-cert-verify: true
+  sni: 154.90.62.70
+  type: trojan
+- client-fingerprint: chrome
+  name: 30|🇰🇷KR_37|281KB/s 01
+  network: ws
+  port: 10280
+  server: 175.195.149.58
+  servername: bapj1qapjk4.0sds0li1bwcz0i76it0gjxv1.workers.dev
+  tls: true
+  type: vless
+  uuid: 8638521a-7d64-4ad0-9112-83aa1fc19867
+  ws-opts:
+    headers:
+      Host: bapj1qapjk4.0sds0li1bwcz0i76it0gjxv1.workers.dev
+    path: /@Marisa_kristi
+- client-fingerprint: chrome
+  name: 30|🇰🇷KR_38|83KB/s 01
+  network: ws
+  port: 30017
+  server: 211.48.30.184
+  servername: bapj1qapjk4.0sds0li1bwcz0i76it0gjxv1.workers.dev
+  tls: true
+  type: vless
+  uuid: beec57a5-8266-4279-b279-f495bdc70699
+  ws-opts:
+    headers:
+      Host: bapj1qapjk4.0sds0li1bwcz0i76it0gjxv1.workers.dev
+    path: /@Marisa_kristi
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: 30|🇰🇷KR_41|534KB/s|F003-260618 01
+  network: tcp
+  port: 443
+  reality-opts:
+    public-key: OBIHAXdhfYJ0PWsZjy3QYPRjTfMQlvjmBsTf1CT671w
+    short-id: 71110d3f7ef57760
+  server: 47.80.14.8
+  servername: www.samsung.com
+  tls: false
+  type: vless
+  uuid: 581cb8c3-dadb-4e10-a18b-5e79bfe7bd93
+- name: 30|🇰🇷KR_42|520KB/s|C002-260622 01
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: 443
+  server: 3.36.93.74
+  skip-cert-verify: true
+  sni: 3.36.93.74
+  tls: false
+  type: hysteria2
+- name: 30|🇰🇷KR_44|782KB/s|A004-260618 01
+  password: 7302ad33229de166d393cd56143a1e4c
+  port: 50160
+  server: 131.186.19.174
+  skip-cert-verify: true
+  sni: t.me
+  tls: false
+  type: hysteria2
+- name: 30|🇰🇷KR_45|226KB/s|A001-260618 01
+  password: maintell
+  port: 2053
+  server: 152.70.237.123
+  skip-cert-verify: true
+  sni: bing.com
+  tls: false
+  type: hysteria2
+- name: 30|🇰🇷KR_46|336KB/s|A004-260618 01
+  password: 3d7634af8cb2c6cb4bac1c0efad8b43d
+  port: 50160
+  server: 152.67.200.82
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: false
+  type: hysteria2
+- name: 30|🇰🇷KR_47|450KB/s|A004-260618 01
+  password: 3d7634af8cb2c6cb4bac1c0efad8b43d
+  port: 50160
+  server: 152.67.200.82
+  skip-cert-verify: true
+  sni: whatsapp.com
+  tls: false
+  type: hysteria2
+- name: 30|🇰🇷KR_48|669KB/s|A004-260618 01
+  password: 1beb216e3f60aea9555dae60d219a5ca
+  port: 50160
+  server: 152-69-231-175.liao.kdns.fr
+  sni: 152-69-231-175.liao.kdns.fr
+  tls: false
+  type: hysteria2
+- name: 30|🇰🇷KR_49|528KB/s|C002-260622 01
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: 443
+  server: vpn-kr-003.fastervpn.world
+  skip-cert-verify: true
+  sni: vpn-kr-003.fastervpn.world
+  tls: false
+  type: hysteria2
+- client-fingerprint: chrome
+  name: 30|🇰🇷KR_50|418KB/s|T001-260618 01
+  network: ws
+  port: 443
+  server: 47.80.57.116
+  servername: mia6.pages.dev
+  tls: true
+  type: vless
+  uuid: 3db635e4-f9ec-42d6-8aba-e23df8b0e6da
+  ws-opts:
+    headers:
+      Host: mia6.pages.dev
+    path: /TG:@MiaChatChannel
+- client-fingerprint: chrome
+  name: 30|🇰🇷KR_53|544KB/s|A004-260618 01
+  network: raw
+  port: 443
+  reality-opts:
+    public-key: kqIDhDhYFrXD-1GeurwjzFwbB0zWipgWmcbADXwmyy8
+    short-id: 3fd0a8ddef3ae5c6
+  server: 34.64.149.137
+  servername: www.cloudflare.com
+  tls: false
+  type: vless
+  uuid: 700a7a0e-3f27-406c-81d1-aa1abe411af8
+- name: 30|🇰🇷KR_52|611KB/s|A004-260618 01
+  password: 1beb216e3f60aea9555dae60d219a5ca
+  port: 50160
+  server: 152-69-231-175.liao.kdns.fr
+  sni: 127.0.0.1
+  tls: false
+  type: hysteria2
+- client-fingerprint: chrome
+  name: 30|🇰🇷_KR_韩国
+  network: ws
+  port: 443
+  server: 211.49.57.175
+  servername: s5.868001.xyz
+  tls: true
+  type: vless
+  uuid: 23cb9aa7-9756-459f-aa84-3a27bdf6ad64
+  ws-opts:
+    headers:
+      Host: s5.868001.xyz
+    path: '%2Fproxyipfp%3Dchrome'
