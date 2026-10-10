@@ -1,7 +1,8 @@
 proxies:
-- name: 8|🇪🇪EE_1|2.7MB/s
-  port: 9443
-  server: 95.153.31.66
-  skip-cert-verify: true
-  tls: true
-  type: http
+- cipher: aes-128-gcm
+  name: 8|🇪🇪EE_1|3.7MB/s
+  password: 70a5c510-d56d-43e7-b150-9c00c969bd50
+  port: 35194
+  server: ruot.ayucloudservices.nl
+  type: ss
+  udp: true

@@ -375,16 +375,9 @@ proxies:
   sni: m.ctrip.com
   type: trojan
 - cipher: aes-128-gcm
-  name: 8|🇵🇱PL_2|2.3MB/s
-  password: 85590bd2-807b-49b9-af20-1101c18b9eda
-  port: '35031'
-  server: ruot.ayucloudservices.nl
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  name: 8|🇭🇷HR_1|4.3MB/s
-  password: 2581cebb-e452-4ee3-8849-3cd358bf9394
-  port: '35193'
+  name: 8|🇪🇪EE_1|3.7MB/s
+  password: 70a5c510-d56d-43e7-b150-9c00c969bd50
+  port: 35194
   server: ruot.ayucloudservices.nl
   type: ss
   udp: true

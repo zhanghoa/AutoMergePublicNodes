@@ -1,7 +1,46 @@
 proxies:
-- name: 8|🇷🇺RU_1|1.9MB/s
-  port: 443
-  server: 178.219.43.226
-  skip-cert-verify: true
+- alpn:
+  - h2
+  - http/1.1
+  client-fingerprint: firefox
+  name: 8|🇷🇺RU_1|1002KB/s
+  network: xhttp
+  port: 2053
+  server: 78.159.246.85
+  servername: fitindoor.net
   tls: true
-  type: http
+  type: vless
+  udp: true
+  uuid: 95a608b6-bff1-4e10-bb61-0a39f221bb7d
+  xhttp-opts:
+    host: fitindoor.net
+    mode: auto
+    path: /api/v1/upload
+    x-padding-bytes: 100-1000
+    x-padding-obfs-mode: false
+- alpn:
+  - h2
+  - http/1.1
+  client-fingerprint: chrome
+  encryption: none
+  name: 8|🇷🇺RU_2|1.2MB/s
+  network: xhttp
+  port: '2053'
+  server: fitindoor.net
+  servername: fitindoor.net
+  tls: true
+  type: vless
+  udp: true
+  uuid: 95a608b6-bff1-4e10-bb61-0a39f221bb7d
+  xhttp-opts:
+    host: fitindoor.net
+    mode: auto
+    path: /api/v1/upload
+    reuse-settings:
+      c-max-reuse-times: 64-128
+      max-concurrency: 16-32
+      max-connections: '0'
+    sc-max-each-post-bytes: 1000000
+    sc-min-posts-interval-ms: 30
+    x-padding-bytes: 100-1000
+  xudp: true

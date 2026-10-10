@@ -22,7 +22,7 @@ hysteria2://5fa748137b6d822308eea4611f474ad5@155.117.19.17:443?insecure=1&sni=ww
 hysteria2://617z9r1mbzbm1t5z@giftcard.gisora.ir:52000?insecure=0&sni=giftcard.gisora.ir&obfs=salamander&obfs-password=09p333uviv2qal0y#5%7CTelegram%20%40cnetvpn%20
 hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?insecure=0&sni=fiproxy1.lockdwn.com&obfs=salamander&obfs-password=uw9b2qq5rx#5%7CTelegram%3A%40v2rayng3
 hysteria2://77f73bd5-51bf-4143-8ebd-02f56ba376f4@177.1.195.242:24000?insecure=0&sni=hy.kirian.su&obfs=salamander&obfs-password=9VK3Nqd0bcXGPxcay9hRLY28HBtKo5#5%7CChannel%20%3A%20%40Daily_Configs
-hysteria2://77f73bd5-51bf-4143-8ebd-02f56ba376f4@79.137.206.157:21000?insecure=0&sni=hy.kirian.su&obfs=salamander&obfs-password=9VK3Nqd0bcXGPxcay9hRLY28HBtKo5#5%7C%40FreakConfig
+hysteria2://77f73bd5-51bf-4143-8ebd-02f56ba376f4@79.137.206.157:21000?insecure=0&sni=hy.kirian.su&obfs=salamander&obfs-password=9VK3Nqd0bcXGPxcay9hRLY28HBtKo5#5%7C%40FreakConfig%20%231
 hysteria2://81d953a0-f0cf-4452-a669-747d32efd6c1@177.1.195.242:24000?insecure=0&sni=hy.kirian.su&obfs=salamander&obfs-password=9VK3Nqd0bcXGPxcay9hRLY28HBtKo5#5%7C%40tootffarangi-6
 hysteria2://81d953a0-f0cf-4452-a669-747d32efd6c1@78.17.53.9:26000?insecure=0&sni=hy.kirian.su&obfs=salamander&obfs-password=9VK3Nqd0bcXGPxcay9hRLY28HBtKo5#5%7C%40tootffarangi-8
 hysteria2://81d953a0-f0cf-4452-a669-747d32efd6c1@79.137.206.157:21000?insecure=0&sni=hy.kirian.su&obfs=salamander&obfs-password=9VK3Nqd0bcXGPxcay9hRLY28HBtKo5#5%7C%40tootffarangi-5
@@ -45,7 +45,6 @@ hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?insecure=1&
 hysteria2://c-E0lamG8OnEj9M_uh3oJPmIXqYIVGctO-NHELF1TmNYs7Jl@cz.h2.cleanersaz.help:443?insecure=1&sni=cz.h2.cleanersaz.help#5%7C91%40oneclickvpnkeys
 hysteria2://ca78f919e6@155.94.134.183:11592?insecure=0&alpn=h3&sni=srv-3fc7c9.21freedom.net&obfs=salamander&obfs-password=ec66908dbc46e6920143d9b684adf277#5%7C%40V2raySaman%20%232
 hysteria2://ca78f919e6@155.94.134.183:11592?insecure=0&sni=srv-3fc7c9.21freedom.net&obfs=salamander&obfs-password=ec66908dbc46e6920143d9b684adf277#5%7C%40V2rayng_mar_ket%20%231
-hysteria2://capadmbd5f18bd@51.77.217.70:443?insecure=1&sni=vpn.local&obfs=salamander&obfs-password=ChY5QQQT3ZtUdNT8#5%7C190916%20%7C%20Telegram%20%3D%20t.me/SOSke...
 hysteria2://cd74c0a406664a5bc0bac098220a2468@144.31.49.138:443?insecure=0&sni=ru1.sferavpn.pro&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0#5%7Ckurdconfig
 hysteria2://cd74c0a406664a5bc0bac098220a2468@2.27.59.206:443?insecure=0&sni=de1.sferavpn.pro&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0#5%7C%40B2Hub
 hysteria2://e3c3b722-1264-4cdc-a97c-b0a1bb73cd67@lv02.gotosvo.com:9443?insecure=1&sni=onecloudstream.com#5%7C42%40oneclickvpnkeys
@@ -88,12 +87,9 @@ trojan://AA885B42-133C-3828-FB69-E45105C06092@63182sh8-4d7b.aws-agent.net:10155?
 trojan://AA885B42-133C-3828-FB69-E45105C06092@63182sh8-4d7b.aws-agent.net:12122?allowInsecure=1&sni=m.ctrip.com#7%7C%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
 trojan://AA885B42-133C-3828-FB69-E45105C06092@7d0a2gz0-7a0c.aws-agent.net:12142?allowInsecure=1&sni=m.ctrip.com#7%7C%E5%8F%B0%E6%B9%BE%7C%40ripaojiedian
 trojan://AA885B42-133C-3828-FB69-E45105C06092@63182sh8-4d7b.aws-agent.net:11171?allowInsecure=1&sni=m.ctrip.com#7%7C%E9%9F%A9%E5%9B%BD%7C%40ripaojiedian
-vless://df275727-c25a-450b-99c3-29e4e6b0b6b9@95.133.247.98:995?sni=love-paris.roxa.org&type=ws&host=love-paris.roxa.org&path=/api/v1fp=firefox&security=tls#8%7C%F0%9F%87%AB%F0%9F%87%B7FR_1%7C2.7MB/s
-anytls://github.com/Alvin9999-newpac/fanqiang@anytls2.864106.xyz:19000?allowInsecure=1&sni=anytls2.864106.xyz#8%7C%F0%9F%87%BA%F0%9F%87%B8US_1%7C2.2MB/s
-hysteria2://5d0a6445-a30d-4522-bb1f-94f1d3ad63be@rb.mangshe.xyz:2060?insecure=1&fp=&sni=127.0.0.1&obfs=&obfs-password=#8%7C%F0%9F%87%AF%F0%9F%87%B5JP_1%7C2.3MB/s
-vless://f55e9aba-7b14-4f6f-b59a-d5b3d45c9309@185.192.22.159:8444?sni=github.com&type=grpc&serviceName=GunServicefp=chrome&security=tls#8%7C%F0%9F%87%B3%F0%9F%87%B1NL_11%7C3.0MB/s
-ss://YWVzLTEyOC1nY206ODU1OTBiZDItODA3Yi00OWI5LWFmMjAtMTEwMWMxOGI5ZWRh@ruot.ayucloudservices.nl:35031#8%7C%F0%9F%87%B5%F0%9F%87%B1PL_2%7C2.3MB/s
-ss://YWVzLTEyOC1nY206MjU4MWNlYmItZTQ1Mi00ZWUzLTg4NDktM2NkMzU4YmY5Mzk0@ruot.ayucloudservices.nl:35193#8%7C%F0%9F%87%AD%F0%9F%87%B7HR_1%7C4.3MB/s
+ss://YWVzLTEyOC1nY206NzBhNWM1MTAtZDU2ZC00M2U3LWIxNTAtOWMwMGM5NjliZDUw@ruot.ayucloudservices.nl:35194#8%7C%F0%9F%87%AA%F0%9F%87%AAEE_1%7C3.7MB/s
+vless://95a608b6-bff1-4e10-bb61-0a39f221bb7d@78.159.246.85:2053?sni=fitindoor.net&alpn=h2%2Chttp/1.1&fp=firefox&security=tls#8%7C%F0%9F%87%B7%F0%9F%87%BARU_1%7C1002KB/s
+vless://95a608b6-bff1-4e10-bb61-0a39f221bb7d@fitindoor.net:2053?sni=fitindoor.net&alpn=h2%2Chttp/1.1&fp=chrome&security=tls#8%7C%F0%9F%87%B7%F0%9F%87%BARU_2%7C1.2MB/s
 vless://5905d91f-c3bc-4e80-bd66-4b17beb166cb@38.244.4.1:443?allowInsecure=0&sni=www.apple.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#9%7CUS_speednode_0130
 vless://f1fa0ad9-b122-4b7c-da82-4bea9edc48dd@51.81.223.225:11094?allowInsecure=1&sni=www.yahoo.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#9%7CUS_speednode_0132
 vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@89.117.123.243:443?allowInsecure=0&sni=us.savesafe.cc&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#9%7CUS_speednode_0135
