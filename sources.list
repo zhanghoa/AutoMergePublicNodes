@@ -123,3 +123,11 @@ https://raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/wenode.txt
 https://raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/v2rayshare.txt
 https://raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/nodefree.txt
 https://raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/ndnode.txt
+
+# ===== 2026-10-11 新增：内容级去重后确认基本为新增节点的源 =====
+# 实测重叠率（对比已有大源 mahdibland/xiaoji235/Barabama/acymz）：
+#   Au1rxx/clash.yaml 0%  Au1rxx/v2ray-base64 38%  ebrasha 8.5%  Alirewa 15%
+https://raw.githubusercontent.com/Au1rxx/free-vpn-subscriptions/main/output/clash.yaml
+https://raw.githubusercontent.com/Au1rxx/free-vpn-subscriptions/main/output/v2ray-base64.txt#limit=1000
+https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/refs/heads/main/V2Ray-Config-By-EbraSha-All-Type.txt#limit=2000
+https://raw.githubusercontent.com/Alirewa/V2ray-Configs/main/sub1.txt
