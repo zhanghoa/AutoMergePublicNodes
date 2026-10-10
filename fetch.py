@@ -800,7 +800,10 @@ class Source():
         tp = None
         pending = None
         early_stop = False
-        for chunk in r.iter_content():
+        # requests 的 iter_content() 默认 chunk_size=1（每次 1 字节），
+        # 对 MB 级订阅会退化成逐字节往返：实测 5MB 源从 2s 拖到 35s+ 仍下不完，
+        # 最终超时被丢弃。显式给 64KB 块，兼顾吞吐与内存。
+        for chunk in r.iter_content(chunk_size=65536):
             if early_stop: pending = None; break
             chunk: bytes
             if pending is not None:
@@ -832,12 +835,31 @@ class Source():
                 elif tp == 'sub':
                     content = chunk.decode(errors='ignore')
         if pending is not None: content += pending.decode(errors='ignore')
+        # 部分源（如 xiaoji235/airport-free）是 GBK/GB18030 编码，
+        # 按 UTF-8 解出的内容会变成乱码而解析不到节点，这里做一次编码回退。
+        if content and '\ufffd' in content:
+            try:
+                raw = r.content
+                for enc in ('gb18030', 'gbk', 'big5'):
+                    try:
+                        alt = raw.decode(enc)
+                    except (UnicodeDecodeError, LookupError):
+                        continue
+                    if '://' in alt:
+                        return alt.replace('\r', '')
+            except Exception:
+                pass
         return content
 
     def parse(self) -> None:
         global exc_queue
         try:
             text = self.content
+            # 上游部分源（如 DukeMehdi 系列）把查询串里的 & 转义成了 &amp;，
+            # 直接解析会得到畸形 URL。这里先还原常见 HTML 实体。
+            if isinstance(text, str) and '&amp;' in text:
+                text = (text.replace('&amp;', '&').replace('&#38;', '&')
+                            .replace('&lt;', '<').replace('&gt;', '>'))
             if isinstance(text, str):
                 if "proxies:" in text:
                     # Clash config
