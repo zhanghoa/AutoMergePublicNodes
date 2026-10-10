@@ -19,8 +19,12 @@ permissions:
   actions: write   # 抓取完成后需要触发 Alive Check 工作流
 
 concurrency:
-  group: fetch
-  cancel-in-progress: true
+  # 与 alive-check.yml 使用同一分组，确保两个工作流串行执行。
+  # 二者都会提交到 master，并行时会互相覆盖 / git pull 冲突导致提交失败
+  # （实测 Fetch 因 Alive Check 先推送而提交失败）。
+  # cancel-in-progress: false —— 排队等待，不取消前一个（取消会丢失已完成的抓取）。
+  group: repo-write
+  cancel-in-progress: false
 
 jobs:
   fetch:

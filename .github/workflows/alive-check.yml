@@ -31,8 +31,9 @@ permissions:
   contents: write
 
 concurrency:
-  group: alive-check
-  cancel-in-progress: true
+  # 与 fetch.yml 使用同一分组（repo-write），串行执行以避免提交冲突。
+  group: repo-write
+  cancel-in-progress: false
 
 jobs:
   alive:
