@@ -221,11 +221,17 @@ def main():
         try: proc.wait(timeout=10)
         except Exception: proc.kill()
 
-    alive = [n for n in nodes if results.get(n["name"], -1) > 0]
-    # 按延迟排序，写出去掉 ✅/❌ 前缀的干净名称
-    for n in alive:
-        n["name"] = n["name"].lstrip("✅❌ ").strip()
-    alive.sort(key=lambda n: results[n["name"]] if n["name"] in results else 99999)
+    # 注意：不能用 for n in alive: n["name"]=... 直接改名——那会就地修改 nodes 里的
+    # 字典对象，导致随后写 CSV 时用新名字去 results 里查不到（全部误判为 no）。
+    # 因此复制出新字典，原 nodes/results 保持以原始名为键。
+    alive = []
+    for n in nodes:
+        if results.get(n["name"], -1) > 0:
+            clean = dict(n)
+            clean["name"] = str(clean["name"]).lstrip("✅❌ ").strip()
+            alive.append((results[n["name"]], clean))
+    alive.sort(key=lambda pair: pair[0])
+    alive = [c for _, c in alive]
 
     os.makedirs(os.path.dirname(args.out) or ".", exist_ok=True)
     with open(args.out, "w", encoding="utf-8") as f:
