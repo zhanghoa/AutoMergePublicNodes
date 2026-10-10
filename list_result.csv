@@ -2,7 +2,7 @@
 0,https://Nr5naf.absslk.xyz/e98af01c1d1a5c4506aead30efa93f08,0
 1,https://gist.githubusercontent.com/peasoft/40b87245630092f30cc98af61190b4e2/raw/,10
 2,https://raw.githubusercontent.com/Alirewa/V2ray-Configs/main/sub1.txt,100
-3,https://raw.githubusercontent.com/Au1rxx/free-vpn-subscriptions/main/output/clash.yaml,1869
+3,https://raw.githubusercontent.com/Au1rxx/free-vpn-subscriptions/main/output/clash.yaml,1857
 4,https://raw.githubusercontent.com/Au1rxx/free-vpn-subscriptions/main/output/v2ray-base64.txt,1000
 5,https://raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/clashmeta.txt,16
 6,https://raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/ndnode.txt,14
@@ -20,7 +20,7 @@
 18,https://raw.githubusercontent.com/actionsfz/v2ray/refs/heads/master/all.yaml,91
 19,https://raw.githubusercontent.com/acymz/AutoVPN/main/data/V2.txt,523
 20,https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/list.yml,185
-21,https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/refs/heads/main/V2Ray-Config-By-EbraSha-All-Type.txt,2000
+21,https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/refs/heads/main/V2Ray-Config-By-EbraSha-All-Type.txt   # 全量读取：实测该源优质节点集中在中后段，limit 截断会丢大量有效节点（前2000仅10%可达，中段46%）,0
 22,https://raw.githubusercontent.com/firefoxmmx2/v2rayshare_subcription/main/subscription/clash_sub.yaml,21
 23,https://raw.githubusercontent.com/free-nodes/clashfree/refs/heads/main/clash{Ymd}.yml,0
 24,https://raw.githubusercontent.com/free18/v2ray/refs/heads/main/c.yaml,215
@@ -36,5 +36,5 @@
 34,https://raw.githubusercontent.com/xiaoji235/airport-free/main/v2ray.txt,3000
 35,https://raw.githubusercontent.com/zhangkaiitugithub/passcro/main/speednodes.yaml,141
 
-总计,,8444
-存活节点,,4964/8444
+总计,,8166
+存活节点,,4939/8166

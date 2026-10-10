@@ -12,13 +12,13 @@ proxies:
   server: 14.29.124.168
   type: ss
 - cipher: aes-128-cfb
-  name: '10,21| By EbraSha 🔌 #11'
+  name: '10|🇨🇳 [ Configs by DukeMehdi ] SS... #2'
   password: QazEdcTgb159@$*
   port: 24003
   server: 14.29.124.168
   type: ss
 - cipher: aes-128-cfb
-  name: '10,21| By EbraSha 🌑 #10'
+  name: '10|🇨🇳 [ Configs by DukeMehdi ] SS... #3'
   password: QazEdcTgb159@$*
   port: 24006
   server: 14.29.124.168
@@ -42,7 +42,7 @@ proxies:
   server: 14.29.124.168
   type: ss
 - cipher: aes-128-cfb
-  name: '10,21| By EbraSha 💻 #13'
+  name: '10|🇨🇳 [ Configs by DukeMehdi ] SS... #7'
   password: QazEdcTgb159@$*
   port: 25219
   server: 14.29.124.168
@@ -54,7 +54,7 @@ proxies:
   server: 14.29.124.168
   type: ss
 - cipher: aes-128-cfb
-  name: '10,21| By EbraSha 🛸 #17'
+  name: '10|🇨🇳 [ Configs by DukeMehdi ] SS... #9'
   password: QazEdcTgb159@$*
   port: 25226
   server: 14.29.124.168
@@ -66,13 +66,13 @@ proxies:
   server: 14.29.124.168
   type: ss
 - cipher: aes-128-cfb
-  name: '10,21| By EbraSha 🃏 #10'
+  name: '10|🇨🇳 [ Configs by DukeMehdi ] SS... #11'
   password: QazEdcTgb159@$*
   port: 25251
   server: 14.29.124.168
   type: ss
 - cipher: aes-128-cfb
-  name: '10,21| By EbraSha 🔋 #7'
+  name: '10|🇨🇳 [ Configs by DukeMehdi ] SS... #12'
   password: QazEdcTgb159@$*
   port: 25252
   server: 14.29.124.168
@@ -96,7 +96,7 @@ proxies:
   server: 14.29.124.168
   type: ss
 - cipher: aes-128-cfb
-  name: '10,21| By EbraSha ♠️ #16'
+  name: '10|🇨🇳 [ Configs by DukeMehdi ] SS... #16'
   password: QazEdcTgb159@$*
   port: 25267
   server: 14.29.124.168
@@ -108,7 +108,7 @@ proxies:
   server: 14.29.124.168
   type: ss
 - cipher: aes-128-cfb
-  name: '10,21| By EbraSha 🕹️ #11'
+  name: '10|🇨🇳 [ Configs by DukeMehdi ] SS... #18'
   password: QazEdcTgb159@$*
   port: 25284
   server: 14.29.124.168

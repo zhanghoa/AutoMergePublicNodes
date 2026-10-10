@@ -12,13 +12,13 @@ proxies:
       Host: sni.111000.dns.army
     path: '%2F%3Fhttps%253A%252F%252Ft.me%252FWangCai2%25F0%259F%2587%25A8%25F0%259F%2587%25B3%3D'
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 🔐 #8'
+  name: 10|🇸🇪 [ Configs by DukeMehdi ] SS...
   password: CxtcZaOSFYiJnloyTZJ0z2
   port: 443
   server: 89.22.234.121
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 🃏 #6'
+  name: '10|🇸🇪 [ Configs by DukeMehdi ] SS... #1'
   password: N2YzM
   port: 1443
   server: 45.138.103.4
@@ -30,24 +30,24 @@ proxies:
   server: 13.49.241.14
   type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha 🌐 #16'
+  name: '10|🇸🇪 [ Configs by DukeMehdi ] SS... #3'
   password: asdKkaskJKfnsa
   port: 443
   server: 37.19.222.212
   type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha ♠️ #21'
+  name: '10|🇸🇪 [ Configs by DukeMehdi ] SS... #4'
   password: asdKkaskJKfnsa
   port: 443
   server: 37.19.222.213
   type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha 🪬 #21'
+  name: '10|🇸🇪 [ Configs by DukeMehdi ] SS... #5'
   password: asdKkaskJKfnsa
   port: 443
   server: 37.19.222.214
   type: ss
-- name: '17,19,21,30|Telegram 🆔@cnetvpn 🇸🇪 #2'
+- name: '17,19,30|Telegram 🆔@cnetvpn 🇸🇪 #2'
   obfs: salamander
   obfs-password: fuw2k1ddrouwxr3u
   password: vz86jgszv4zszchv

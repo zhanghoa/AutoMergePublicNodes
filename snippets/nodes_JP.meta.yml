@@ -51,13 +51,13 @@ proxies:
   tls: false
   type: hysteria2
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 🪖 #15'
+  name: 10|🇯🇵 [ Configs by DukeMehdi ] SS...
   password: G!yBwPWH3Vao
   port: 800
   server: 185.172.113.182
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 📱 #5'
+  name: '10|🇯🇵 [ Configs by DukeMehdi ] SS... #1'
   password: G!yBwPWH3Vao
   port: 811
   server: 185.172.113.182
@@ -69,13 +69,13 @@ proxies:
   server: 193.38.139.204
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 🥷 #6'
+  name: '10|🇯🇵 [ Configs by DukeMehdi ] SS... #3'
   password: G!yBwPWH3Vao
   port: 809
   server: 193.38.139.204
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha ⛓️ #12'
+  name: '10|🇯🇵 [ Configs by DukeMehdi ] SS... #4'
   password: G!yBwPWH3Vao
   port: 812
   server: 89.31.125.101
@@ -87,25 +87,25 @@ proxies:
   server: 185.160.26.91
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 👑 #17'
+  name: '10|🇯🇵 [ Configs by DukeMehdi ] SS... #6'
   password: ljqdalu13..
   port: 8316
   server: 3.112.130.53
   type: ss
 - cipher: aes-128-gcm
-  name: 10,21,34|🇯🇵JP_3|607KB/s|A004-260618 01
+  name: 10,34|🇯🇵JP_3|607KB/s|A004-260618 01
   password: shadowsocks
   port: 443
   server: 149.22.87.204
   type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha ♣️ #15'
+  name: '10|🇯🇵 [ Configs by DukeMehdi ] SS... #10'
   password: amazonskr05
   port: 443
   server: 175.41.205.247
   type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha 🪬 #20'
+  name: '10|🇯🇵 [ Configs by DukeMehdi ] SS... #11'
   password: amazonskr05
   port: 443
   server: 43.206.219.140
@@ -123,7 +123,7 @@ proxies:
   server: 43.207.1.14
   type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha ⚡ #15'
+  name: '10|🇯🇵 [ Configs by DukeMehdi ] SS... #14'
   password: amazonskr05
   port: 443
   server: 43.207.166.104
@@ -141,13 +141,13 @@ proxies:
   server: 43.207.82.53
   type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha ⚔️ #19'
+  name: '10|🇯🇵 [ Configs by DukeMehdi ] SS... #17'
   password: amazonskr05
   port: 443
   server: 43.207.83.221
   type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha 🧊 #19'
+  name: '10|🇯🇵 [ Configs by DukeMehdi ] SS... #18'
   password: amazonskr05
   port: 443
   server: 54.178.60.213
@@ -159,7 +159,7 @@ proxies:
   server: 54.199.83.239
   type: ss
 - cipher: aes-256-gcm
-  name: '10,21| By EbraSha 🚀 #18'
+  name: '10|🇯🇵 [ Configs by DukeMehdi ] SS... #20'
   password: 3eOFeNssde7PYYMv
   port: 443
   server: 84.247.155.196
@@ -171,13 +171,13 @@ proxies:
   server: 20.210.122.21
   type: ss
 - cipher: aes-256-gcm
-  name: '10,21| By EbraSha 🚬 #18'
+  name: '10|🇯🇵 [ Configs by DukeMehdi ] SS... #22'
   password: 665e00335bb2fb5f7ee8243952205e5e
   port: 2087
   server: 74.222.12.141
   type: ss
 - cipher: aes-256-gcm
-  name: '10,21| By EbraSha 🧿 #21'
+  name: '10|🇯🇵 [ Configs by DukeMehdi ] SS... #23'
   password: GTZI5AbjNAeWQG0oVNptvWJogHNKiiKA
   port: 40003
   server: 47.79.144.115
@@ -330,7 +330,7 @@ proxies:
       Host: us4.australiacaregroup.site
     path: /vmess
 - auth: 5d0a6445-a30d-4522-bb1f-94f1d3ad63be
-  name: '19,21,28,30|🇯🇵 日本 | JPN #4 #1'
+  name: '19,28,30|🇯🇵 日本 | JPN #4 #1'
   obfs: ''
   obfs-password: ''
   password: 5d0a6445-a30d-4522-bb1f-94f1d3ad63be
@@ -487,6 +487,14 @@ proxies:
     headers:
       Host: jln31qtswdkut5.60kohcognywybguuq3ouc818oofnxfvn35daott.workers.dev
     path: /@Marisa_kristi
+- name: 28|[OpenRay] 🇯🇵JP-146
+  password: my_super_password_123
+  port: 443
+  server: 132.226.14.77
+  skip-cert-verify: true
+  sni: open.w2m.ink
+  tls: false
+  type: hysteria2
 - alpn:
   - h3
   name: 28|[OpenRay] 🇯🇵JP-4
