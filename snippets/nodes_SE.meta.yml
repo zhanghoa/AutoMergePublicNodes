@@ -12,48 +12,48 @@ proxies:
       Host: sni.111000.dns.army
     path: '%2F%3Fhttps%253A%252F%252Ft.me%252FWangCai2%25F0%259F%2587%25A8%25F0%259F%2587%25B3%3D'
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 📶 #6'
+  name: '10,21| By EbraSha 🧬 #6'
   password: CxtcZaOSFYiJnloyTZJ0z2
   port: 443
   server: 89.22.234.121
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 🔋 #5'
+  name: '10,21| By EbraSha 🚧 #10'
   password: N2YzM
   port: 1443
   server: 45.138.103.4
   type: ss
-- cipher: aes-256-cfb
-  name: '10|🇸🇪 [ Configs by DukeMehdi ] SS... #2'
-  password: asdKkaskJKfnsa
-  port: 443
-  server: 37.19.222.211
+- cipher: chacha20-ietf-poly1305
+  name: '10,21| By EbraSha 💻 #7'
+  password: pydQILh06AvJ
+  port: 27092
+  server: 13.49.241.14
   type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha 🔋 #16'
+  name: '10,21| By EbraSha 🩸 #10'
   password: asdKkaskJKfnsa
   port: 443
   server: 37.19.222.212
   type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha 🌑 #18'
+  name: '10,21| By EbraSha 📟 #14'
   password: asdKkaskJKfnsa
   port: 443
   server: 37.19.222.213
   type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha 🌌 #21'
+  name: '10,21| By EbraSha 🦂 #16'
   password: asdKkaskJKfnsa
   port: 443
   server: 37.19.222.214
   type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha 🧨 #14'
+  name: '10,21| By EbraSha 🦾 #21'
   password: f8f7aCzcPKbsF8p3
   port: 989
   server: 121.127.46.147
   type: ss
-- name: '17,19,21| By EbraSha 📶 #2'
+- name: '17,19,21| By EbraSha 👑 #2'
   obfs: salamander
   obfs-password: fuw2k1ddrouwxr3u
   password: vz86jgszv4zszchv
@@ -96,23 +96,47 @@ proxies:
   type: vless
   udp: true
   uuid: 56de13ac-086e-4789-8e1e-1bf2bd90216b
-- name: '19|🇸🇪[www.v2nodes.com] vless-SE-1... #5'
-  network: ws
+- client-fingerprint: firefox
+  grpc-opts:
+    grpc-service-name: content.v1.Feed
+  name: '19,21| By EbraSha ⚡ #84'
+  network: grpc
   port: 443
-  server: sub.merky.top
-  servername: sub.merky.top
-  skip-cert-verify: false
+  server: 163.245.43.50
+  servername: se-twitch.global-cdn.org
   tls: true
   type: vless
-  uuid: 6e05822a-e9da-4135-a9db-71aa07a944af
-  ws-opts:
-    headers:
-      Host: sub.merky.top
-    path: /merky-connect/de6/fp=chrome
+  uuid: 203d434a-2a92-45df-8973-ca80434ecf73
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: '19,21| By EbraSha 🪬 #104'
+  network: tcp
+  port: 443
+  reality-opts:
+    public-key: zWDvtTWK-cWWwHDMHMXcOpQy4k3EKp7yw-5e0wTZAUM
+    short-id: 5efa80b939612291
+  server: 132.243.231.4
+  servername: d3-se1.cloud-cdn.xyz
+  tls: false
+  type: vless
+  uuid: 87fd990d-ca93-440a-bbd4-e8281c4a0910
+- client-fingerprint: firefox
+  flow: xtls-rprx-vision
+  name: '19,21,26|@npv_vpn11 #817'
+  network: tcp
+  port: 443
+  reality-opts:
+    public-key: RDL0RVmgFM3fdqXRSHBF2A53YF9TPFu2aeJQhMTaY3s
+    short-id: 457ae5b8bef4d1b3
+  server: 31.207.7.74
+  servername: pkg.go.dev
+  tls: false
+  type: vless
+  uuid: 2412bd96-925b-43f2-81d1-0ed4f0793699
 - client-fingerprint: safari
   grpc-opts:
     grpc-service-name: grpce5bb9e71
-  name: '19,21,26|@npv_vpn11 #881'
+  name: '19,21| By EbraSha 🚀 #173'
   network: grpc
   port: 2053
   reality-opts:
@@ -136,25 +160,6 @@ proxies:
   tls: false
   type: vless
   uuid: 11aabba0-5fd1-4f15-8068-74c1a466cefc
-- name: '19,21| By EbraSha 🚨 #56'
-  password: s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z
-  port: 4443
-  server: 77.74.123.106
-  sni: grape-test-italy.dynuddns.net
-  type: trojan
-- client-fingerprint: chrome
-  flow: xtls-rprx-vision
-  name: '19,21| By EbraSha ♦️ #183'
-  network: tcp
-  port: 25119
-  reality-opts:
-    public-key: szPq4a3cvxfBOmGyg-UJCV3d1Jqjnj7YR3gaxyYtnk4
-    short-id: 10f517
-  server: se3.h1cloud.net
-  servername: www.samsung.com
-  tls: false
-  type: vless
-  uuid: f90b7d43-69e2-4b46-a672-8029bc6796a2
 - name: 29|瑞典
   password: 53c76647-14d1-4df5-99cb-be99ad2e6bd9
   port: 443
@@ -188,6 +193,19 @@ proxies:
   tls: true
   type: vless
   uuid: f4dbc770-016d-4a0f-82f0-d83ee6f45da3
+- name: 33|🇸🇪SE_1|2.7MB/s
+  password: None
+  port: 443
+  server: 146.70.242.130
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: 33|🇸🇪SE_2|2.9MB/s
+  port: 443
+  server: 79.142.77.63
+  skip-cert-verify: true
+  tls: true
+  type: http
 - client-fingerprint: chrome
   name: 34|🇸🇪瑞典丨yoyapai.com
   network: ws

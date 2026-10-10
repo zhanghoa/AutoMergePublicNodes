@@ -2,7 +2,7 @@
 0,https://Nr5naf.absslk.xyz/e98af01c1d1a5c4506aead30efa93f08,0
 1,https://gist.githubusercontent.com/peasoft/40b87245630092f30cc98af61190b4e2/raw/,10
 2,https://raw.githubusercontent.com/Alirewa/V2ray-Configs/main/sub1.txt,100
-3,https://raw.githubusercontent.com/Au1rxx/free-vpn-subscriptions/main/output/clash.yaml,0
+3,https://raw.githubusercontent.com/Au1rxx/free-vpn-subscriptions/main/output/clash.yaml,1850
 4,https://raw.githubusercontent.com/Au1rxx/free-vpn-subscriptions/main/output/v2ray-base64.txt,1000
 5,https://raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/clashmeta.txt,16
 6,https://raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/ndnode.txt,14
@@ -16,11 +16,11 @@
 14,https://raw.githubusercontent.com/Ruk1ng001/freeSub/main/clash.yaml,0
 15,https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/main/all_configs.txt,2000
 16,https://raw.githubusercontent.com/Surfboardv2ray/TGParse/main/python/hy2,2
-17,https://raw.githubusercontent.com/Surfboardv2ray/TGParse/main/python/hysteria2,70
+17,https://raw.githubusercontent.com/Surfboardv2ray/TGParse/main/python/hysteria2,79
 18,https://raw.githubusercontent.com/actionsfz/v2ray/refs/heads/master/all.yaml,91
-19,https://raw.githubusercontent.com/acymz/AutoVPN/main/data/V2.txt,523
-20,https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/list.yml,172
-21,https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/refs/heads/main/V2Ray-Config-By-EbraSha-All-Type.txt,18590
+19,https://raw.githubusercontent.com/acymz/AutoVPN/main/data/V2.txt,512
+20,https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/list.yml,173
+21,https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/refs/heads/main/V2Ray-Config-By-EbraSha-All-Type.txt,18475
 22,https://raw.githubusercontent.com/firefoxmmx2/v2rayshare_subcription/main/subscription/clash_sub.yaml,21
 23,https://raw.githubusercontent.com/free-nodes/clashfree/refs/heads/main/clash{Ymd}.yml,0
 24,https://raw.githubusercontent.com/free18/v2ray/refs/heads/main/c.yaml,215
@@ -32,9 +32,9 @@
 30,https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/snippets/nodes.meta.yml,0
 31,https://raw.githubusercontent.com/ripaojiedian/freenode/main/clash,14
 32,https://raw.githubusercontent.com/ripaojiedian/freenode/main/sub,13
-33,https://raw.githubusercontent.com/shaoyouvip/free/refs/heads/main/all.yaml,1
+33,https://raw.githubusercontent.com/shaoyouvip/free/refs/heads/main/all.yaml,101
 34,https://raw.githubusercontent.com/xiaoji235/airport-free/main/v2ray.txt,3000
 35,https://raw.githubusercontent.com/zhangkaiitugithub/passcro/main/speednodes.yaml,141
 
-总计,,17681
-存活节点,,10187/17681
+总计,,17866
+存活节点,,10335/17866
