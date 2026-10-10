@@ -111,3 +111,15 @@ https://raw.githubusercontent.com/kasesm/Free-Config/main/all_raw.txt
 https://raw.githubusercontent.com/DukeMehdi/FreeList-V2ray-Configs/main/Configs/All-DukeMehdi-Configs.txt
 https://raw.githubusercontent.com/xiaoji235/airport-free/main/v2ray.txt
 https://raw.githubusercontent.com/nikita29a/FreeProxyList/main/mirror/4.txt
+
+# ===== 2026-10-10 补充：来自 0.46 subs-check 本地清单中 GitHub 侧缺失的源 =====
+# 均为实测 HTTP 200 有效
+https://raw.githubusercontent.com/free-nodes/clashfree/refs/heads/main/clash{Ymd}.yml
+https://raw.githubusercontent.com/firefoxmmx2/v2rayshare_subcription/main/subscription/clash_sub.yaml
+https://raw.githubusercontent.com/Q3dlaXpoaQ/V2rayN_Clash_Node_Getter/refs/heads/main/APIs/sc0.yaml
+https://raw.githubusercontent.com/go4sharing/sub/main/sub.yaml
+https://raw.githubusercontent.com/Pawdroid/Free-servers/refs/heads/main/sub
+https://raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/wenode.txt
+https://raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/v2rayshare.txt
+https://raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/nodefree.txt
+https://raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/ndnode.txt
