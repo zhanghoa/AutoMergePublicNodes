@@ -59,7 +59,7 @@ proxies:
   server: 13.229.58.5
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '7,16,17|🇸🇬 新加坡 | SGP #6 #1'
+  name: '7,17|🇸🇬 新加坡 | SGP #6'
   password: 7e68e32f-8015-4f37-9082-70e8b0b58043
   port: 8443
   server: 47.129.227.153
@@ -90,7 +90,7 @@ proxies:
   server: 47.129.152.126
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '7,16,17|🇸🇬[www.v2nodes.com] ss-SG-1581... #1'
+  name: 7,17|🇸🇬[www.v2nodes.com] ss-SG-1581...
   password: 9epp3o9ng8ej59uv
   port: 14249
   server: 45.128.12.20
@@ -425,35 +425,40 @@ proxies:
   port: 8119
   server: 139.162.58.13
   type: ss
-- name: '11,16,17,22,26|🇸🇬[www.v2nodes.com] trojan-SG-... #37'
-  password: UX82473651
-  port: 443
-  server: ace-liger.rooster465.autos
-  skip-cert-verify: true
-  sni: ace-liger.rooster465.autos
-  type: trojan
-  udp: true
-- country: 🇸🇬SG
-  delay: 292
-  name: '11,16,17,21,22,26|🇸🇬[www.v2nodes.com] trojan-SG-... #36'
-  password: UX82473651
-  port: 443
-  server: rested-seahorse.rooster465.autos
-  skip-cert-verify: true
-  sni: rested-seahorse.rooster465.autos
-  type: trojan
-  udp: true
-- name: '11,16,17,22,26|🇸🇬[www.v2nodes.com] trojan-SG-... #38'
+- name: '16,17,26|🇸🇬[www.v2nodes.com] trojan-SG-... #39'
   password: UX82473651
   port: 443
   server: musical-mouse.rooster465.autos
   skip-cert-verify: true
   sni: musical-mouse.rooster465.autos
   type: trojan
+- name: '16,17,26|🇸🇬[www.v2nodes.com] trojan-SG-... #31'
+  password: UX82473651
+  port: 443
+  server: inspired-hound.rooster465.autos
+  skip-cert-verify: true
+  sni: inspired-hound.rooster465.autos
+  type: trojan
+  udp: true
+- name: '16,17,22,26|🇸🇬[www.v2nodes.com] trojan-SG-... #32'
+  password: UX82473651
+  port: 443
+  server: intense-wildcat.rooster465.autos
+  skip-cert-verify: true
+  sni: intense-wildcat.rooster465.autos
+  type: trojan
+  udp: true
+- name: '16,17,26|🇸🇬[www.v2nodes.com] trojan-SG-... #33'
+  password: UX82473651
+  port: 443
+  server: joint-ewe.rooster465.autos
+  skip-cert-verify: true
+  sni: joint-ewe.rooster465.autos
+  type: trojan
   udp: true
 - country: 🇸🇬SG
   delay: 298
-  name: '16,17,21,26|🇸🇬[www.v2nodes.com] trojan-SG-... #33'
+  name: '16,17,21,26|🇸🇬[www.v2nodes.com] trojan-SG-... #34'
   password: UX82473651
   port: 443
   server: moral-basilisk.rooster465.autos
@@ -461,70 +466,74 @@ proxies:
   sni: moral-basilisk.rooster465.autos
   type: trojan
   udp: true
-- name: '16,17,26|🇸🇬[www.v2nodes.com] trojan-SG-... #34'
+- name: '16,17,26|🇸🇬[www.v2nodes.com] trojan-SG-... #35'
   password: UX82473651
   port: 443
   server: brave-tomcat.rooster465.autos
   skip-cert-verify: true
   sni: brave-tomcat.rooster465.autos
   type: trojan
-- name: '16,17|🇸🇬[www.v2nodes.com] trojan-SG-... #17'
+- name: '16,17|🇸🇬[www.v2nodes.com] trojan-SG-... #18'
   password: UX82473651
   port: 443
   server: fond-mammoth.rooster465.autos
   skip-cert-verify: true
   sni: fond-mammoth.rooster465.autos
   type: trojan
-- name: '16,17,26|🇸🇬[www.v2nodes.com] trojan-SG-... #39'
+- country: 🇸🇬SG
+  delay: 292
+  name: '16,17,21,26|🇸🇬[www.v2nodes.com] trojan-SG-... #37'
+  password: UX82473651
+  port: 443
+  server: rested-seahorse.rooster465.autos
+  skip-cert-verify: true
+  sni: rested-seahorse.rooster465.autos
+  type: trojan
+  udp: true
+- name: '16,17,26|🇸🇬[www.v2nodes.com] trojan-SG-... #38'
+  password: UX82473651
+  port: 443
+  server: ace-liger.rooster465.autos
+  skip-cert-verify: true
+  sni: ace-liger.rooster465.autos
+  type: trojan
+- name: '16,17,26|🇸🇬[www.v2nodes.com] trojan-SG-... #40'
   password: UX82473651
   port: 443
   server: present-ram.rooster465.autos
   skip-cert-verify: true
   sni: present-ram.rooster465.autos
   type: trojan
-- name: '16,17,26|🇸🇬[www.v2nodes.com] trojan-SG-... #40'
+- name: '16,17,26|🇸🇬[www.v2nodes.com] trojan-SG-... #41'
   password: UX82473651
   port: 443
   server: real-werewolf.rooster465.autos
   skip-cert-verify: true
   sni: real-werewolf.rooster465.autos
   type: trojan
-- name: '16,17,26|🇸🇬[www.v2nodes.com] trojan-SG-... #41'
+- name: '16,17,26|🇸🇬[www.v2nodes.com] trojan-SG-... #42'
   password: e26a229d-e8f2-4ff9-8c7d-58a9d83ee437
   port: 8886
   server: 139.180.146.200
   skip-cert-verify: true
   sni: 139.180.146.200
   type: trojan
-- name: 16,17,26|🏳[www.v2nodes.com] trojan-
-  password: UX82473651
-  port: 443
-  server: 56.10.9.77
-  type: trojan
-- name: '16,17,26|🇸🇬[www.v2nodes.com] trojan-SG-... #42'
-  password: UX82473651
-  port: 443
-  server: holy-lamb.rooster465.autos
-  sni: holy-lamb.rooster465.autos
-  type: trojan
-- name: '16,17,26|🇸🇬[www.v2nodes.com] trojan-SG-... #43'
+- name: '16,17,26|🇸🇬[www.v2nodes.com] trojan-SG-... #44'
   password: UX82473651
   port: 443
   server: pet-antelope.rooster465.autos
   sni: pet-antelope.rooster465.autos
   type: trojan
-- name: '16,17,26|🇸🇬[www.v2nodes.com] trojan-SG-... #44'
+- name: '16,17,26|🇸🇬[www.v2nodes.com] trojan-SG-... #45'
   password: UX82473651
   port: 443
   server: desired-boxer.rooster465.autos
   sni: desired-boxer.rooster465.autos
   type: trojan
-- name: '16,17|🇸🇬[www.v2nodes.com] trojan-SG-... #29'
+- name: '16,26|🇸🇬[www.v2nodes.com] trojan-SG-... #46'
   password: UX82473651
   port: 443
-  server: 18.143.92.167
-  skip-cert-verify: false
-  sni: glowing-marmoset.rooster465.autos
+  server: 52.221.218.179
   type: trojan
 - alterId: 0
   cipher: auto
@@ -541,21 +550,6 @@ proxies:
     headers:
       Host: ASaqYIDZa9WDQ9Kq.v.3dns.vip
     path: /ws-vmess
-- alterId: 0
-  cipher: auto
-  name: '16,27|🇸🇬 新加坡2|@ripaojiedian #3'
-  network: ws
-  port: 443
-  server: 6JiziO8PxQAXBAtZ.v.3dns.vip
-  servername: 6JiziO8PxQAXBAtZ.v.3dns.vip
-  skip-cert-verify: false
-  tls: true
-  type: vmess
-  uuid: 88888888-8888-8888-8888-888888888888
-  ws-opts:
-    headers:
-      Host: 6JiziO8PxQAXBAtZ.v.3dns.vip
-    path: /ws-vmess
 - name: '16,17,26,28|新加坡|@ripaojiedian #4'
   network: tcp
   password: AA885B42-133C-3828-FB69-E45105C06092
@@ -564,30 +558,33 @@ proxies:
   skip-cert-verify: true
   sni: m.ctrip.com
   type: trojan
-- name: '16,17,26|🇸🇬[www.v2nodes.com] trojan-SG-... #32'
-  password: UX82473651
-  port: 443
-  server: joint-ewe.rooster465.autos
+- name: '16,26|🇸🇬 新加坡 | SGP 3 #1'
+  network: ws
+  password: trojan
+  port: 8443
+  server: 104.18.35.86
   skip-cert-verify: true
-  sni: joint-ewe.rooster465.autos
+  sni: longwanghen.pages.dev
   type: trojan
   udp: true
-- name: '16,17,26|🇸🇬[www.v2nodes.com] trojan-SG-... #31'
+  ws-opts:
+    headers:
+      Host: longwanghen.pages.dev
+    path: /
+- name: '16,26|🇸🇬 新加坡 | SGP #2 #1'
+  password: trojan
+  port: 8443
+  server: 104.18.35.86
+  skip-cert-verify: true
+  sni: longwanghen.pages.dev
+  type: trojan
+- name: '17|🇸🇬[www.v2nodes.com] trojan-SG-... #30'
   password: UX82473651
   port: 443
-  server: intense-wildcat.rooster465.autos
-  skip-cert-verify: true
-  sni: intense-wildcat.rooster465.autos
+  server: 18.143.92.167
+  skip-cert-verify: false
+  sni: glowing-marmoset.rooster465.autos
   type: trojan
-  udp: true
-- name: '16,17,26|🇸🇬[www.v2nodes.com] trojan-SG-... #30'
-  password: UX82473651
-  port: 443
-  server: inspired-hound.rooster465.autos
-  skip-cert-verify: true
-  sni: inspired-hound.rooster465.autos
-  type: trojan
-  udp: true
 - alterId: 0
   cipher: auto
   name: '17,26|🇸🇬 新加坡|@ripaojiedian #2'
@@ -683,31 +680,6 @@ proxies:
   server: 16.163.139.175
   skip-cert-verify: true
   sni: t.me%252Fripaojiedian
-  type: trojan
-- name: '26|🇸🇬[www.v2nodes.com] trojan-SG-... #45'
-  password: UX82473651
-  port: 443
-  server: 52.221.218.179
-  type: trojan
-- name: 26|🇸🇬 新加坡 | SGP 3
-  network: ws
-  password: trojan
-  port: 8443
-  server: 104.18.35.86
-  skip-cert-verify: true
-  sni: longwanghen.pages.dev
-  type: trojan
-  udp: true
-  ws-opts:
-    headers:
-      Host: longwanghen.pages.dev
-    path: /
-- name: '26|🇸🇬 新加坡 | SGP #2 #1'
-  password: trojan
-  port: 8443
-  server: 104.18.35.86
-  skip-cert-verify: true
-  sni: longwanghen.pages.dev
   type: trojan
 - cipher: aes-256-cfb
   name: 30|🇸🇬SG²_1|2.4MB/s|X|History 01

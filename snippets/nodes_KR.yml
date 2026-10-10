@@ -167,43 +167,7 @@ proxies:
   port: 9101
   server: 141.164.45.187
   type: ss
-- name: '11,16,17,22,26|🇰🇷[www.v2nodes.com] trojan-KR-... #37'
-  password: UX82473651
-  port: 443
-  server: pure-kodiak.rooster465.autos
-  skip-cert-verify: true
-  sni: pure-kodiak.rooster465.autos
-  type: trojan
-  udp: true
-- alterId: 2
-  cipher: auto
-  name: 11|C🟠🇰🇷hos[📺🎪✨🔍]_dokng.com_1ab4b9...
-  port: 11264
-  server: goldcnmltyljgfwgov.vip64.wogcnmnnagfwgov.com
-  type: vmess
-  udp: true
-  uuid: 605956ee-544d-308e-8b90-51e67c6ea8da
-- alterId: 0
-  cipher: auto
-  http-opts:
-    method: GET
-    path:
-    - /
-  name: 11|C🟠🇰🇷hos[🤖📺🎪✨]_dokng.com_3012d4...
-  network: http
-  port: 123
-  server: 43.108.103.167
-  tls: false
-  type: vmess
-  uuid: 35aa0fda-175a-4aec-c468-0231dee1a121
-- name: '16,17,26|🇰🇷[www.v2nodes.com] trojan-KR-... #34'
-  password: UX82473651
-  port: 443
-  server: fancy-skink.rooster465.autos
-  skip-cert-verify: true
-  sni: fancy-skink.rooster465.autos
-  type: trojan
-- name: '16,17,22,26|🇰🇷[www.v2nodes.com] trojan-KR-... #35'
+- name: '16,17,26|🇰🇷[www.v2nodes.com] trojan-KR-... #35'
   password: UX82473651
   port: 443
   server: glorious-lark.rooster465.autos
@@ -212,7 +176,7 @@ proxies:
   type: trojan
 - country: 🇰🇷KR
   delay: 388
-  name: '16,17,21,22,26|🇰🇷[www.v2nodes.com] trojan-KR-... #36'
+  name: '16,17,21,26|🇰🇷[www.v2nodes.com] trojan-KR-... #36'
   password: UX82473651
   port: 443
   server: inviting-rabbit.rooster465.autos
@@ -220,6 +184,13 @@ proxies:
   sni: inviting-rabbit.rooster465.autos
   type: trojan
   udp: true
+- name: '16,17,26|🇰🇷[www.v2nodes.com] trojan-KR-... #39'
+  password: UX82473651
+  port: 443
+  server: working-tomcat.rooster465.autos
+  skip-cert-verify: true
+  sni: working-tomcat.rooster465.autos
+  type: trojan
 - name: '16,17,26|🇰🇷[www.v2nodes.com] trojan-KR-... #40'
   password: UX82473651
   port: 443
@@ -233,11 +204,10 @@ proxies:
   server: neutral-quail.rooster465.autos
   sni: neutral-quail.rooster465.autos
   type: trojan
-- name: '16,17|🇰🇷[www.v2nodes.com] trojan-KR-... #25'
+- name: '16,26|🇰🇷[www.v2nodes.com] trojan-KR-... #42'
   password: UX82473651
   port: 443
-  server: delicate-buck.rooster465.autos
-  sni: delicate-buck.rooster465.autos
+  server: 52.78.203.191
   type: trojan
 - name: '16,17,26|🇰🇷[www.v2nodes.com] trojan-KR-... #43'
   password: UX82473651
@@ -245,17 +215,19 @@ proxies:
   server: amazing-peacock.rooster465.autos
   sni: amazing-peacock.rooster465.autos
   type: trojan
-- name: '16,17,26|🇰🇷[www.v2nodes.com] trojan-KR-... #44'
-  password: UX82473651
-  port: 443
-  server: kind-stork.rooster465.autos
-  sni: kind-stork.rooster465.autos
-  type: trojan
-- name: '16,17,26|🇰🇷[www.v2nodes.com] trojan-KR-... #45'
+- name: '16,17,22,26|🇰🇷[www.v2nodes.com] trojan-KR-... #45'
+  network: tcp
   password: UX82473651
   port: 443
   server: noted-cougar.rooster465.autos
   sni: noted-cougar.rooster465.autos
+  type: trojan
+- name: '16,17,22,26|🇰🇷[www.v2nodes.com] trojan-KR-... #46'
+  network: tcp
+  password: UX82473651
+  port: 443
+  server: optimum-snapper.rooster465.autos
+  sni: optimum-snapper.rooster465.autos
   type: trojan
 - name: '16,17,26|🇰🇷[www.v2nodes.com] trojan-KR-... #47'
   password: UX82473651
@@ -266,6 +238,12 @@ proxies:
   password: UX82473651
   port: 443
   server: 3.34.131.153
+  type: trojan
+- name: '16,17,26|🇰🇷[www.v2nodes.com] trojan-KR-... #49'
+  password: UX82473651
+  port: 443
+  server: main-fawn.rooster465.autos
+  sni: main-fawn.rooster465.autos
   type: trojan
 - name: '16,17,26|🇰🇷[www.v2nodes.com] trojan-KR-... #50'
   password: UX82473651
@@ -296,6 +274,19 @@ proxies:
   skip-cert-verify: true
   sni: m.ctrip.com
   type: trojan
+- cipher: chacha20-ietf-poly1305
+  name: '16,26|🇰🇷 韩国 | KOR #1 #1'
+  password: 7e68e32f-8015-4f37-9082-70e8b0b58043
+  port: 8443
+  server: 52.79.212.191
+  type: ss
+  udp: true
+- name: '17|🇰🇷[www.v2nodes.com] trojan-KR-... #25'
+  password: UX82473651
+  port: 443
+  server: delicate-buck.rooster465.autos
+  sni: delicate-buck.rooster465.autos
+  type: trojan
 - alterId: 0
   cipher: auto
   name: '17,26|🇰🇷 韩国|@ripaojiedian #2'
@@ -324,18 +315,6 @@ proxies:
   server: definite-malamute.rooster465.autos
   skip-cert-verify: true
   type: trojan
-- name: '26|🇰🇷[www.v2nodes.com] trojan-KR-... #42'
-  password: UX82473651
-  port: 443
-  server: 52.78.203.191
-  type: trojan
-- cipher: chacha20-ietf-poly1305
-  name: '26|🇰🇷 韩国 | KOR #1 #1'
-  password: 7e68e32f-8015-4f37-9082-70e8b0b58043
-  port: 8443
-  server: 52.79.212.191
-  type: ss
-  udp: true
 - name: 30|🇰🇷KR_35|523KB/s|A004-260618 01
   network: tcp
   password: p5jTPcffLgi4gaNOJd2KUTb9YEPBBD5B

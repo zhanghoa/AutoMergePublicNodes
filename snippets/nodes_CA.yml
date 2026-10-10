@@ -485,7 +485,7 @@ proxies:
   type: trojan
   ws-opts:
     path: '%2Fassignment'
-- name: '25|美国+CloudFlare节点 #15'
+- name: '25|美国+CloudFlare节点 #16'
   network: ws
   password: humanity
   port: 443

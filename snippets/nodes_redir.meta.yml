@@ -32,16 +32,6 @@ proxies:
   ws-opts:
     headers:
       Host: sni.111000.dns.army
-- name: 16|♾️Join->🆔️@ATLAS_V2VPN🆓️📶‎🛰️59...
-  obfs: salamander
-  obfs-password: 6ccfcef2e116b03ce9047333
-  password: TPey1Zqj9th9y2JKyiuqVPRTvfjQC-nB
-  port: 5443
-  server: fastly.vexogf.ir
-  skip-cert-verify: false
-  sni: tun-a-1.bexait.ir
-  tls: false
-  type: hysteria2
 - client-fingerprint: firefox
   name: 18|🇺🇸_US_美国->🇫🇮_FI_芬兰
   network: ws

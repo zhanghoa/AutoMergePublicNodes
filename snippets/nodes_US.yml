@@ -2903,44 +2903,20 @@ proxies:
   port: 9101
   server: 169.197.141.14
   type: ss
-- alterId: 0
-  cipher: auto
-  http-opts:
-    method: GET
-    path:
-    - /ABCDE
-  name: 11|A🟢🇺🇸res_dokng.com_33a66f53
-  network: http
-  port: 54162
-  server: 38.175.209.232
-  tls: false
-  type: vmess
-  uuid: 96db90da-c019-4f27-b3d3-facfa4894628
-- country: 🇺🇸US
-  delay: 1464
-  name: '11,16,17,21,22|@npv_vpn11 #865'
-  password: UX82473651
+- alpn:
+  - http/1.1
+  name: '9,12,16,22|@npv_vpn11 #889'
+  network: ws
+  password: humanity
   port: 443
-  server: alert-titmouse.rooster465.autos
-  skip-cert-verify: true
-  sni: alert-titmouse.rooster465.autos
+  server: 8.47.69.0
+  skip-cert-verify: false
+  sni: www.pleadcourt.org
   type: trojan
-  udp: true
-- name: 11|C🟠🇺🇸hos[🤖📺🎭🎪]_dokng.com_269175...
-  password: UX82473651
-  port: 443
-  server: pro-mako.rooster465.autos
-  skip-cert-verify: true
-  sni: pro-mako.rooster465.autos
-  type: trojan
-  udp: true
-- cipher: aes-256-cfb
-  name: 11|C🟠🇺🇸hos[🎬🤖📺🎭]_dokng.com_3d2fda...
-  password: amazonskr05
-  port: 443
-  server: 18.212.247.202
-  type: ss
-  udp: true
+  ws-opts:
+    headers:
+      Host: www.pleadcourt.org
+    path: /assignment
 - client-fingerprint: chrome
   name: 15|🇺🇸US_3 | ⬇️ 6.1MB/s|0%|Netflix
   password: 2b1ed981-6547-4094-998b-06a3323d6f6c
@@ -2988,12 +2964,12 @@ proxies:
       Host: www.57723972.xyz
     path: /path/1751026269450
   xudp: true
-- name: '16,17|🇺🇸[www.v2nodes.com] trojan-US-... #4'
+- name: '16,17,26|🇺🇸[www.v2nodes.com] trojan-US-... #4'
   password: aec8e5e3-bb81-4b22-8802-0b88c54997b3
-  port: 10003
-  server: r627r8.vatilon.cc
+  port: 10013
+  server: us2.australiacaregroup.site
   skip-cert-verify: true
-  sni: r627r8.vatilon.cc
+  sni: us2.australiacaregroup.site
   type: trojan
 - alterId: 0
   cipher: auto
@@ -3041,21 +3017,11 @@ proxies:
   skip-cert-verify: true
   sni: m.ctrip.com
   type: trojan
-- name: 16|🇺🇸US_17|1.0MB/s
-  network: ws
-  password: e20fd145-65f1-4aa3-96be-da0524bbb16e
-  port: 20230
-  server: us003.421421.xyz
-  skip-cert-verify: true
-  sni: www.alibaba.com
-  type: trojan
-  ws-opts:
-    path: /
-- name: '16,17|🇺🇸 美国 | USA 3 #1'
+- name: '16,26|🇺🇸 美国 | USA 2 #1'
   network: ws
   password: humanity
   port: 443
-  server: www.speedtest.net
+  server: 162.159.91.211
   skip-cert-verify: true
   sni: www.calmlunch.com
   type: trojan
@@ -3064,12 +3030,19 @@ proxies:
     headers:
       Host: www.calmlunch.com
     path: /assignment
-- name: '16,17|🇺🇸 美国 | USA #3 #1'
+- name: '16,26|🇺🇸 美国 | USA #2 #1'
   password: humanity
   port: 443
-  server: www.speedtest.net
+  server: 162.159.91.211
   skip-cert-verify: true
   sni: www.calmlunch.com
+  type: trojan
+- name: '17|🇺🇸[www.v2nodes.com] trojan-US-... #2'
+  password: aec8e5e3-bb81-4b22-8802-0b88c54997b3
+  port: 10003
+  server: r627r8.vatilon.cc
+  skip-cert-verify: true
+  sni: r627r8.vatilon.cc
   type: trojan
 - alterId: 0
   cipher: auto
@@ -3101,6 +3074,13 @@ proxies:
     headers:
       Host: bJ1Aa2ZyJxYamYuK.v.3dns.vip
     path: /ws-vmess
+- name: '17|🇺🇸 美国 | USA #3 #1'
+  password: humanity
+  port: 443
+  server: www.speedtest.net
+  skip-cert-verify: true
+  sni: www.calmlunch.com
+  type: trojan
 - name: 20|🇺🇸_美国_50
   password: aec8e5e3-bb81-4b22-8802-0b88c54997b3
   port: 10003
@@ -3266,18 +3246,6 @@ proxies:
   type: trojan
   ws-opts:
     path: '%2Fassignment'
-- name: '25|美国+CloudFlare节点 #10'
-  network: ws
-  password: humanity
-  port: 443
-  server: 104.16.174.44
-  skip-cert-verify: false
-  sni: www.ignitelimit.com
-  type: trojan
-  ws-opts:
-    headers:
-      Host: www.ignitelimit.com
-    path: /assignment
 - name: '25,30|US美国(mibei77.com 米贝节点分享) #38'
   network: ws
   password: humanity
@@ -3289,7 +3257,7 @@ proxies:
     headers:
       Host: www.ignitelimit.com
     path: '%2Fassignment'
-- name: '25|美国+CloudFlare节点 #13'
+- name: '25|美国+CloudFlare节点 #14'
   network: ws
   password: humanity
   port: 443
@@ -3330,26 +3298,6 @@ proxies:
   server: 16.163.144.245
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
-  type: trojan
-- name: 26|🇺🇸 美国 | USA 2
-  network: ws
-  password: humanity
-  port: 443
-  server: 162.159.91.211
-  skip-cert-verify: true
-  sni: www.calmlunch.com
-  type: trojan
-  udp: true
-  ws-opts:
-    headers:
-      Host: www.calmlunch.com
-    path: /assignment
-- name: '26|🇺🇸 美国 | USA #2 #1'
-  password: humanity
-  port: 443
-  server: 162.159.91.211
-  skip-cert-verify: true
-  sni: www.calmlunch.com
   type: trojan
 - alpn:
   - http/1.1

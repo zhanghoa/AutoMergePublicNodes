@@ -8,14 +8,14 @@
 6,https://raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/wenode.txt,23
 7,https://raw.githubusercontent.com/DukeMehdi/FreeList-V2ray-Configs/main/Configs/All-DukeMehdi-Configs.txt,2000
 8,https://raw.githubusercontent.com/Huibq/TrojanLinks/master/links/vmess,0
-9,https://raw.githubusercontent.com/Pawdroid/Free-servers/refs/heads/main/sub,7
+9,https://raw.githubusercontent.com/Pawdroid/Free-servers/refs/heads/main/sub,6
 10,https://raw.githubusercontent.com/Q3dlaXpoaQ/V2rayN_Clash_Node_Getter/refs/heads/main/APIs/sc0.yaml,0
-11,https://raw.githubusercontent.com/Ruk1ng001/freeSub/main/clash.yaml,500
+11,https://raw.githubusercontent.com/Ruk1ng001/freeSub/main/clash.yaml,0
 12,https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/main/all_configs.txt,2000
 13,https://raw.githubusercontent.com/Surfboardv2ray/TGParse/main/python/hy2,2
-14,https://raw.githubusercontent.com/Surfboardv2ray/TGParse/main/python/hysteria2,75
+14,https://raw.githubusercontent.com/Surfboardv2ray/TGParse/main/python/hysteria2,70
 15,https://raw.githubusercontent.com/actionsfz/v2ray/refs/heads/master/all.yaml,91
-16,https://raw.githubusercontent.com/acymz/AutoVPN/main/data/V2.txt,554
+16,https://raw.githubusercontent.com/acymz/AutoVPN/main/data/V2.txt,523
 17,https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/list.yml,185
 18,https://raw.githubusercontent.com/firefoxmmx2/v2rayshare_subcription/main/subscription/clash_sub.yaml,21
 19,https://raw.githubusercontent.com/free-nodes/clashfree/refs/heads/main/clash{Ymd}.yml,0
@@ -28,9 +28,9 @@
 26,https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/snippets/nodes.meta.yml,559
 27,https://raw.githubusercontent.com/ripaojiedian/freenode/main/clash,14
 28,https://raw.githubusercontent.com/ripaojiedian/freenode/main/sub,13
-29,https://raw.githubusercontent.com/shaoyouvip/free/refs/heads/main/all.yaml,62
+29,https://raw.githubusercontent.com/shaoyouvip/free/refs/heads/main/all.yaml,3
 30,https://raw.githubusercontent.com/xiaoji235/airport-free/main/v2ray.txt,3000
 31,https://raw.githubusercontent.com/zhangkaiitugithub/passcro/main/speednodes.yaml,141
 
-总计,,8088
-存活节点,,4956/8088
+总计,,7652
+存活节点,,4525/7652

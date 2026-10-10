@@ -23,43 +23,7 @@ proxies:
   port: 989
   server: 212.237.210.158
   type: ss
-- name: 11|D🔴🇨🇭hos[🎬🤖📺🎭]_dokng.com_c3243a...
-  port: 9443
-  server: 37.120.213.210
-  skip-cert-verify: true
-  sub_tag: R002-260618
-  tls: true
-  type: http
-  udp: true
-- name: 11|D🔴🇨🇭hos[🎬🤖📺🎭]_dokng.com_295196...
-  password: None
-  port: 9443
-  server: 37.120.213.210
-  skip-cert-verify: true
-  tls: true
-  type: http
-  username: null
-- name: '11,26,29|🇨🇭CH_2|2.1MB/s #1'
-  port: 9443
-  server: 149.88.27.46
-  skip-cert-verify: true
-  tls: true
-  type: http
-- name: '11,26,29|🇨🇭CH_1|2.1MB/s #1'
-  password: None
-  port: 443
-  server: 31.7.62.50
-  skip-cert-verify: true
-  tls: true
-  type: http
-  username: null
-- name: 11|D🔴🇨🇭hos[🎬🤖📺🎭]_dokng.com_d10161...
-  port: 443
-  server: 31.7.62.50
-  skip-cert-verify: true
-  tls: true
-  type: http
-- name: '14,26|🇨🇭191339 | ⚡️Telegram = t.me/S... #1'
+- name: '14,16,26|🇨🇭191339 | ⚡️Telegram = t.me/S... #1'
   obfs: salamander
   obfs-password: mbQXP2ASuHbF6ZPq
   password: capadm96216165
@@ -119,16 +83,6 @@ proxies:
   uuid: 12e95f93-443c-45f0-9a2a-5b318b9124cf
 - alterId: 0
   cipher: auto
-  name: '22|کانال تلگرام : Free_VPN_CH@'
-  network: tcp
-  port: 9119
-  server: GR1-Public-IR.g2gstore.ir
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: ae56511d-6b39-454b-847b-b711782d18cb
-- alterId: 0
-  cipher: auto
   name: '22|کانال تلگرام : Free_VPN_CH@ #1'
   network: tcp
   port: 4452
@@ -149,6 +103,19 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
+- name: 26|🇨🇭CH_1|2.1MB/s
+  password: None
+  port: 443
+  server: 31.7.62.50
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: 26|🇨🇭CH_2|2.1MB/s
+  port: 9443
+  server: 149.88.27.46
+  skip-cert-verify: true
+  tls: true
+  type: http
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
   name: 30|🇨🇭CH瑞士丨yoyapai.com

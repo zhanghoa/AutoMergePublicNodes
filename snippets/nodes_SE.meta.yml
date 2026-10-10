@@ -47,66 +47,6 @@ proxies:
   port: 443
   server: 37.19.222.214
   type: ss
-- name: '11,26,29|🇸🇪SE_2|1.3MB/s #1'
-  port: 443
-  server: 146.70.242.146
-  skip-cert-verify: true
-  tls: true
-  type: http
-- name: 11|D🔴🇸🇪hos[🎬🤖📺🎭]_dokng.com_e595a8...
-  password: None
-  port: 443
-  server: 146.70.242.146
-  skip-cert-verify: true
-  tls: true
-  type: http
-  username: null
-- name: 11|D🔴🇸🇪hos[🤖📺🎭🎪]_dokng.com_d28f08...
-  port: 8443
-  server: 77.221.136.60
-  skip-cert-verify: true
-  tls: true
-  type: http
-- name: 11|C🟠🇸🇪hos[🎬🤖📺🎭]_dokng.com_775e34...
-  port: 8443
-  server: 138.16.163.249
-  skip-cert-verify: true
-  tls: true
-  type: http
-- name: 11|D🔴🇸🇪hos[🎬🤖📺🎭]_dokng.com_b9fc57...
-  port: 443
-  server: 217.210.129.243
-  skip-cert-verify: true
-  tls: true
-  type: http
-- name: 11|C🟠🇸🇪hos[🎬🤖📺🎭]_dokng.com_9ee75a...
-  password: None
-  port: 443
-  server: 149.50.216.65
-  skip-cert-verify: true
-  tls: true
-  type: http
-  username: null
-- name: 11|D🔴🇸🇪hos[🎬🤖📺🎭]_dokng.com_7dcb6a...
-  port: 443
-  server: 79.142.77.63
-  skip-cert-verify: true
-  tls: true
-  type: http
-- name: 11|D🔴🇸🇪hos[🤖📺🎪📦]_dokng.com_5f65bc...
-  port: 8443
-  server: 45.142.141.5
-  skip-cert-verify: true
-  tls: true
-  type: http
-- name: 11|D🔴🇸🇪hos[🎬🤖📺🎭]_dokng.com_e69f07...
-  password: a7c5d30b-ce9b-4e34-b5cb-66f8308790ef
-  port: 1020
-  server: dvyapq16.zf-mix.9999231.xyz
-  skip-cert-verify: true
-  sni: se-house.9999231.xyz
-  type: anytls
-  udp: true
 - name: '14,16,26|Telegram 🆔@cnetvpn 🇸🇪 #2'
   obfs: salamander
   obfs-password: fuw2k1ddrouwxr3u
@@ -136,24 +76,33 @@ proxies:
         like Gecko) Chrome/70.0.3538.77 Safari/537.36
     path: /cf6Egz6UO8AhOjoO/emFuaS55YWVtaWtvLmdnZmYubmV0
   xudp: true
-- client-fingerprint: firefox
-  encryption: none
-  grpc-opts:
-    grpc-service-name: content.v1.Feed
-  name: '16,26|🇸🇪[www.v2nodes.com] vless-SE-1... #9'
-  network: grpc
+- client-fingerprint: qq
+  flow: xtls-rprx-vision
+  name: 16,20|🇸🇪_瑞典_33
   port: 443
-  server: 163.245.43.50
-  servername: se-twitch.global-cdn.org
-  skip-cert-verify: false
+  reality-opts:
+    public-key: MQrvfivvEfLGzDee7h0j5uC-DwaD_38_NXOY9-NhqxM
+  server: swidenlanzerotte.live
+  servername: swidenlanzerotte.live
+  skip-cert-verify: true
   tls: true
   type: vless
-  uuid: 203d434a-2a92-45df-8973-ca80434ecf73
+  udp: true
+  uuid: 56de13ac-086e-4789-8e1e-1bf2bd90216b
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
   name: '16|🇸🇪[www.v2nodes.com] vless-SE-1... #3'
   port: 443
   server: 132.243.231.12
+  servername: d3-se1.cloud-cdn.xyz
+  tls: true
+  type: vless
+  uuid: 87fd990d-ca93-440a-bbd4-e8281c4a0910
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: '16|🇸🇪[www.v2nodes.com] vless-SE-1... #4'
+  port: 443
+  server: 132.243.231.4
   servername: d3-se1.cloud-cdn.xyz
   tls: true
   type: vless
@@ -174,12 +123,15 @@ proxies:
 - client-fingerprint: safari
   grpc-opts:
     grpc-service-name: grpce5bb9e71
-  name: '16|🇸🇪[www.v2nodes.com] vless-SE-1... #7'
+  name: '16,22|@npv_vpn11 #881'
   network: grpc
   port: 2053
+  reality-opts:
+    public-key: ygmJxS-Mc7g0buNSUTVGhazT-FoBjyYtLLfUYIQxFTw
+    short-id: d0ea1847066af5a6
   server: 62.60.159.81
   servername: www.samsung.com
-  tls: true
+  tls: false
   type: vless
   uuid: fc00adfb-232a-46ce-8b93-0c70e516aa8a
 - client-fingerprint: chrome
@@ -234,25 +186,16 @@ proxies:
   tls: true
   type: vless
   uuid: f4dbc770-016d-4a0f-82f0-d83ee6f45da3
-- client-fingerprint: chrome
-  encryption: none
-  name: '26|🇸🇪[www.v2nodes.com] vless-SE-1... #10'
-  network: ws
-  port: 443
-  server: sub.merky.top
-  servername: sub.merky.top
-  skip-cert-verify: false
-  tls: true
-  type: vless
-  uuid: 6e05822a-e9da-4135-a9db-71aa07a944af
-  ws-opts:
-    headers:
-      Host: sub.merky.top
-    path: /merky-connect/de6/
-- name: '26,29|🇸🇪SE_1|3.1MB/s #1'
+- name: 26|🇸🇪SE_1|3.1MB/s
   password: None
   port: 443
   server: 146.70.242.130
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: 26|🇸🇪SE_2|1.3MB/s
+  port: 443
+  server: 146.70.242.146
   skip-cert-verify: true
   tls: true
   type: http

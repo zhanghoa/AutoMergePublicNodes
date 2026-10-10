@@ -31,16 +31,6 @@ proxies:
   type: ss
 - alterId: 0
   cipher: auto
-  name: '22|کانال تلگرام : Free_VPN_CH@'
-  network: tcp
-  port: 9119
-  server: GR1-Public-IR.g2gstore.ir
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: ae56511d-6b39-454b-847b-b711782d18cb
-- alterId: 0
-  cipher: auto
   name: '22|کانال تلگرام : Free_VPN_CH@ #1'
   network: tcp
   port: 4452

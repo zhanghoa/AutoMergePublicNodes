@@ -119,23 +119,6 @@ proxies:
   port: 25289
   server: 14.29.124.168
   type: ss
-- alpn:
-  - ''
-  alterId: '0'
-  cipher: auto
-  name: 11|A🟢🇨🇳res_dokng.com_2b9683c9
-  network: ws
-  port: 10086
-  server: 120.48.133.162
-  skip-cert-verify: false
-  tls: false
-  type: vmess
-  udp: true
-  uuid: fde10e39-48bb-4dcf-b3ba-71d711323a54
-  ws-opts:
-    headers: {}
-    path: /
-  xudp: true
 - name: 16|CN【机场推荐：https://a9a.xyz】4
   network: tcp
   port: 52683
@@ -243,6 +226,17 @@ proxies:
     headers:
       Host: us4.australiacaregroup.site
     path: /trojan
+- alterId: 0
+  cipher: auto
+  name: 20|🇨🇳_中国_214
+  network: ws
+  port: 10086
+  server: 120.48.133.162
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: fde10e39-48bb-4dcf-b3ba-71d711323a54
 - flow: ''
   name: 25|广东省广州市+腾讯云
   network: tcp
