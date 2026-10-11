@@ -97,6 +97,71 @@ ABFWHITE = (
 FAKE_IPS = "8.8.8.8; 8.8.4.4; 4.2.2.2; 4.2.2.1; 1.1.1.1; 1.0.0.1; 9.9.9.9; 114.114.114.114; 223.5.5.5; 119.29.29.29; 127.0.0.1; 0.0.0.0".split('; ')
 FAKE_DOMAINS = ".google.com .github.com".split()
 
+# ===== GeoIP：剔除中国大陆节点 =====
+# 国内公共源里混有中国大陆机器提供的"代理"（实测如 120.48.133.162，
+# 北京百度云 AS38365 的 vmess 服务）。这类节点在国内、出不去墙，
+# 实际不可用于科学上网，且在国内有管辖权、存在流量劫持/蜜罐风险，
+# 应在抓取阶段（源头）直接剔除，而不是留给下游各自过滤。
+# 依赖 Country.mmdb（MAXMIND 格式），由工作流下载并缓存；
+# 文件不存在时该功能自动跳过，不影响原有流程。
+GEOIP_MMDB = os.environ.get("GEOIP_MMDB", "Country.mmdb")
+GEOIP_BLOCK = [c.strip().upper() for c in
+               os.environ.get("GEOIP_BLOCK", "CN").split(",") if c.strip()]
+
+_geoip_reader = None
+_geoip_tried = False
+
+
+def _get_geoip_reader():
+    """惰性加载 mmdb；失败只提示一次并永久返回 None。"""
+    global _geoip_reader, _geoip_tried
+    if _geoip_tried:
+        return _geoip_reader
+    _geoip_tried = True
+    if not GEOIP_BLOCK:
+        return None
+    if not os.path.exists(GEOIP_MMDB):
+        print(f"[GeoIP] 未找到 {GEOIP_MMDB}，跳过地区过滤。", file=sys.stderr)
+        return None
+    try:
+        import maxminddb
+        _geoip_reader = maxminddb.open_database(GEOIP_MMDB)
+        print(f"[GeoIP] 已加载 {GEOIP_MMDB}，将剔除地区：{','.join(GEOIP_BLOCK)}")
+    except Exception:
+        print("[GeoIP] 加载失败，跳过地区过滤：", file=sys.stderr)
+        traceback.print_exc(file=sys.stderr)
+        _geoip_reader = None
+    return _geoip_reader
+
+
+def geoip_blocked(host: str) -> bool:
+    """host 若解析到被屏蔽地区（默认中国大陆）则返回 True。
+
+    仅对纯 IP 做判断（域名交给后续 DNS 解析，避免额外开销）。
+    查询失败一律返回 False，宁可漏杀不可错杀。
+    """
+    r = _get_geoip_reader()
+    if r is None:
+        return False
+    try:
+        import ipaddress
+        ipaddress.ip_address(host)      # 非 IP（域名）直接跳过
+    except ValueError:
+        return False
+    try:
+        rec = r.get(host)
+    except Exception:
+        return False
+    if not rec:
+        return False
+    code = ""
+    # Country.mmdb：{'country': {'iso_code': 'CN'}}；兼容 registered_country
+    for key in ("country", "registered_country"):
+        node = rec.get(key)
+        if isinstance(node, dict) and node.get("iso_code"):
+            code = str(node["iso_code"]).upper(); break
+    return code in GEOIP_BLOCK
+
 FETCH_TIMEOUT = (6, 5)
 
 BANNED_WORDS = b64decodes('5rOV6L2uIOi9ruWtkCDova4g57uDIOawlCDlip8gb25ndGFpd2Fu').split()
@@ -496,6 +561,8 @@ class Node:
             # 上游部分源混入这类垃圾节点（如 127.0.0.53 的「防范境外势力渗透」
             # 广告节点），FAKE_IPS 只列了 127.0.0.1/0.0.0.0，会漏掉同段其他地址。
             if self.data['server'].startswith('127.'): return True
+            # 中国大陆节点：出不去墙，且存在劫持/蜜罐风险，直接剔除
+            if geoip_blocked(str(self.data['server'])): return True
             if int(str(self.data['port'])) < 20: return True
             for domain in FAKE_DOMAINS:
                 if self.data['server'] == domain.lstrip('.'): return True
