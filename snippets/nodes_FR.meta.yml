@@ -1,286 +1,415 @@
 proxies:
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 💻 #5'
+  name: '10,21| By EbraSha 🤖 #4'
   password: 8zw5j9h
   port: 443
   server: 54.36.174.134
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 📶 #6'
+  name: '10|🇫🇷 [ Configs by DukeMehdi ] SS... #1'
+  password: 97OnDEZYGja4
+  port: 443
+  server: 178.18.244.2
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: '10,21| By EbraSha 🗿 #6'
   password: 94dvoW0TdKRq
   port: 443
   server: 161.97.68.139
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 🌍 #7'
+  name: '10,21| By EbraSha 💻 #13'
   password: ytw2awn
   port: 443
   server: 54.36.174.140
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 🦅 #7'
+  name: '10,19,20,21| By EbraSha 🧲 #6'
   password: BqnqToih0PbU
   port: 8388
   server: 51.255.13.232
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 🔮 #11'
+  name: '10,21| By EbraSha 📶 #9'
   password: E4gyHkKwJGyG
   port: 443
   server: 161.97.66.81
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 🃏 #10'
+  name: '10,21| By EbraSha 🦅 #7'
   password: G!yBwPWH3Vao
   port: 800
   server: 141.95.0.23
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 🕹️ #11'
+  name: '10,21| By EbraSha 🖥️ #10'
   password: G!yBwPWH3Vao
   port: 810
   server: 141.95.0.23
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 🌃 #12'
+  name: '10,21| By EbraSha 🎛️ #7'
   password: G!yBwPWH3Vao
   port: 809
   server: 163.172.110.153
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 🧨 #10'
+  name: '10,21| By EbraSha ⌨️ #8'
   password: G!yBwPWH3Vao
   port: 803
   server: 95.85.90.181
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 🌀 #7'
+  name: '10,21| By EbraSha ⌨️ #9'
   password: G!yBwPWH3Vao
   port: 804
   server: 95.85.90.181
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 📶 #10'
+  name: '10,21| By EbraSha 🦂 #8'
   password: G!yBwPWH3Vao
   port: 810
   server: 95.85.90.181
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 🧿 #11'
+  name: '10,21| By EbraSha 🧬 #8'
   password: Kq3iQqtVlyPJBPcD6QpnGE
   port: 9802
   server: 92.243.27.51
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 🧠 #13'
+  name: '10,21| By EbraSha 🃏 #11'
   password: diOMBU5IDvJcFqyNPbRjYR
   port: 10443
   server: 137.74.119.18
   type: ss
 - cipher: aes-128-gcm
-  name: '10,21| By EbraSha 🌌 #8'
+  name: '10,21| By EbraSha 📱 #13'
   password: SySWDaP8rm1NEK0wdLdoaV5ClkSjFDfw
   port: 51058
   server: 173.212.251.231
   type: ss
-- cipher: aes-128-gcm
-  name: '10,21| By EbraSha 🥷 #9'
-  password: vldolmlmzmypc36okhum
-  port: 15104
-  server: 51.158.26.27
-  type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha 🧊 #18'
+  name: '10,21| By EbraSha 👾 #20'
   password: '!!str 4415934295'
   port: 50004
   server: 62.210.213.6
   type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha 📛 #13'
+  name: '10,21| By EbraSha 🥷 #17'
   password: '!!str 7122910143'
   port: 50007
   server: 135.125.236.229
   type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha ⛓️ #22'
+  name: '10,21| By EbraSha 🐺 #21'
   password: amazonskr05
   port: 443
   server: 13.36.241.80
   type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha 🧨 #19'
+  name: '10,21| By EbraSha 📼 #19'
   password: amazonskr05
   port: 443
   server: 15.237.53.180
   type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha 🔋 #20'
-  password: amazonskr05
-  port: 443
-  server: 52.47.99.71
-  type: ss
-- cipher: aes-256-cfb
-  name: '10,21| By EbraSha 💣 #18'
-  password: amazonskr05
-  port: 443
-  server: 15.237.138.120
-  type: ss
-- cipher: aes-256-cfb
-  name: '10,21| By EbraSha 📶 #17'
-  password: amazonskr05
-  port: 443
-  server: 35.181.4.41
-  type: ss
-- cipher: aes-256-cfb
-  name: '10,21| By EbraSha 🚀 #24'
+  name: '10,21| By EbraSha 🎛️ #14'
   password: amazonskr05
   port: 443
   server: 51.44.86.16
   type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha 🦅 #18'
+  name: '10,21| By EbraSha 📀 #20'
+  password: amazonskr05
+  port: 443
+  server: 52.47.99.71
+  type: ss
+- cipher: aes-256-cfb
+  name: '10,21| By EbraSha 🕹️ #19'
+  password: amazonskr05
+  port: 443
+  server: 15.237.138.120
+  type: ss
+- cipher: aes-256-cfb
+  name: '10,21| By EbraSha 🧲 #17'
+  password: amazonskr05
+  port: 443
+  server: 35.181.4.41
+  type: ss
+- cipher: aes-256-cfb
+  name: '10,21| By EbraSha 🦈 #17'
   password: asdKkaskJKfnsa
   port: 443
   server: 162.19.59.160
   type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha 🔥 #10'
+  name: '10,21| By EbraSha 🌀 #18'
   password: asdKkaskJKfnsa
   port: 443
   server: 162.19.59.161
   type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha 🌀 #15'
+  name: '10|🇫🇷 [ Configs by DukeMehdi ] SS... #26'
+  password: asdKkaskJKfnsa
+  port: 443
+  server: 162.19.59.162
+  type: ss
+- cipher: aes-256-cfb
+  name: '10,21| By EbraSha 👑 #25'
+  password: asdKkaskJKfnsa
+  port: 443
+  server: 162.19.59.165
+  type: ss
+- cipher: aes-256-cfb
+  name: '10|🇫🇷 [ Configs by DukeMehdi ] SS... #28'
   password: f8f7aCzcPKbsF8p3
   port: 989
   server: 135.125.244.103
   type: ss
 - cipher: aes-256-cfb
-  name: '10|🇫🇷 [ Configs by DukeMehdi ] SS... #26'
-  password: f8f7aCzcPKbsF8p3
-  port: 989
-  server: 195.154.169.198
-  type: ss
-- cipher: aes-256-cfb
-  name: '10,21| By EbraSha 🔥 #12'
+  name: '10,21| By EbraSha 👾 #24'
   password: f8f7aCzcPKbsF8p3
   port: 989
   server: 54.37.139.110
   type: ss
 - cipher: aes-256-gcm
-  name: '10,21| By EbraSha 🤖 #19'
+  name: '10,21| By EbraSha 🦅 #13'
   password: 7NuB0Y5m3aNzkKMKlFoMwkiajsu6F36c9ok4VKEZnB4=
   port: 2083
   server: 162.19.254.232
   type: ss
 - cipher: aes-256-gcm
-  name: '10,21| By EbraSha 🕷️ #19'
+  name: '10,21| By EbraSha 🌌 #26'
   password: FWrXcxPZjJxAN89xLgqY3Acp
   port: 44236
   server: 138.199.16.135
   type: ss
 - cipher: aes-256-gcm
-  name: '10,21| By EbraSha 👾 #17'
+  name: '10,21| By EbraSha 🌐 #20'
   password: FoOiGlkAA9yPEGP
   port: 7306
   server: 188.165.32.235
   type: ss
 - cipher: aes-256-gcm
-  name: '10,21| By EbraSha 👾 #18'
+  name: '10,21| By EbraSha 🥷 #21'
   password: FoOiGlkAA9yPEGP
   port: 7306
   server: 54.38.72.170
   type: ss
 - cipher: aes-256-gcm
-  name: '10,21| By EbraSha 🔌 #18'
+  name: '10,21| By EbraSha 🦅 #16'
   password: FjG3IPbny+0ZYU4/p1vULP84GcKpGoZpWKAay16VhIw=
   port: 2083
   server: 51.254.128.106
   type: ss
 - cipher: aes-256-gcm
-  name: '10,21| By EbraSha 📛 #20'
+  name: '10,21| By EbraSha 🥷 #22'
+  password: KixLvKzwjekG00rm
+  port: 5500
+  server: 149.202.82.172
+  type: ss
+- cipher: aes-256-gcm
+  name: '10,21| By EbraSha 🐉 #29'
   password: KixLvKzwjekG00rm
   port: 8080
   server: 149.202.82.172
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇫🇷 [ Configs by DukeMehdi ] SS... #34'
-  password: PCnnH6SQSnfoS27
-  port: 8091
-  server: 149.202.82.172
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇫🇷 [ Configs by DukeMehdi ] SS... #35'
-  password: RexnBgU7EV5ADxG
-  port: 7001
-  server: 149.202.82.172
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇫🇷 [ Configs by DukeMehdi ] SS... #36'
-  password: XKFKl2rULjIp74
-  port: 8008
-  server: 149.202.82.172
-  type: ss
-- cipher: aes-256-gcm
-  name: '10,21| By EbraSha 🌐 #25'
+  name: '10,21| By EbraSha 🧨 #22'
   password: XKFKl2rULjIp74
   port: 8009
   server: 149.202.82.172
   type: ss
 - cipher: aes-256-gcm
-  name: '10,21| By EbraSha 🛰️ #22'
+  name: '10,21| By EbraSha 👑 #32'
   password: XKFKl2rULjIp74
   port: 8009
   server: 188.165.32.235
   type: ss
 - cipher: aes-256-gcm
-  name: '10,21| By EbraSha 🧠 #28'
+  name: '10,21| By EbraSha ⛓️ #31'
   password: Y6R9pAtvxxzmGC
   port: 3306
   server: 149.202.82.172
   type: ss
 - cipher: aes-256-gcm
-  name: '10,21| By EbraSha 💎 #31'
+  name: '10,21| By EbraSha 🩸 #20'
   password: Y6R9pAtvxxzmGC
   port: 3389
   server: 149.202.82.172
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇫🇷 [ Configs by DukeMehdi ] SS... #41'
-  password: Y6R9pAtvxxzmGC
-  port: 5001
-  server: 149.202.82.172
-  type: ss
-- cipher: aes-256-gcm
-  name: '10|🇫🇷 [ Configs by DukeMehdi ] SS... #42'
-  password: Y6R9pAtvxxzmGC
-  port: 5600
-  server: 149.202.82.172
-  type: ss
-- cipher: aes-256-gcm
-  name: '10,21| By EbraSha 👑 #27'
+  name: '10,21| By EbraSha 💻 #35'
   password: Y6R9pAtvxxzmGC
   port: 5601
   server: 149.202.82.172
   type: ss
 - cipher: aes-256-gcm
-  name: '10,21| By EbraSha 🌍 #20'
+  name: '10,21| By EbraSha 🧨 #25'
   password: cdBIDV42DCwnfIN
   port: 8118
   server: 149.202.82.172
   type: ss
 - cipher: aes-256-gcm
-  name: '10,21| By EbraSha 🪬 #21'
+  name: '10,21| By EbraSha 🧊 #25'
   password: cdBIDV42DCwnfIN
   port: 8119
   server: 149.202.82.172
   type: ss
-- cipher: aes-256-gcm
-  name: '10|🇫🇷 [ Configs by DukeMehdi ] SS... #46'
-  password: cdBIDV42DCwnfIN
-  port: 8119
-  server: 54.36.174.181
-  type: ss
+- name: 14|D🔴🇫🇷hos[🎬🤖📺🎭]_dokng.com_13bb1f...
+  port: 443
+  server: 103.82.101.43
+  skip-cert-verify: true
+  sni: 76d1d3ecadca44efa2339867d7dfc9a1-8e928736d0f8dbdc.apache-iv.com
+  tls: true
+  type: http
+- name: 14|D🔴🇫🇷hos[🎬🤖📺🎭]_dokng.com_789dbb...
+  port: 9443
+  server: 213.139.9.142
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: 14|C🟠🇫🇷hos[🎬🤖📺🎭]_dokng.com_3eb9f7...
+  port: 80
+  server: 57.131.128.2
+  type: http
+- name: 14|A🟢🇫🇷res[🎬🤖📺🎭]_dokng.com_da7c19...
+  port: 9443
+  server: 138.199.47.247
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: 14|C🟠🇫🇷hos[🎬🤖📺🎭]_dokng.com_7783da...
+  port: 8156
+  server: 195.154.233.154
+  type: http
+- auth: github.com/Alvin9999-newpac/fanqiang
+  name: 14,21,28|[OpenRay] 🇫🇷FR-132
+  password: github.com/Alvin9999-newpac/fanqiang
+  port: 43115
+  server: 62.210.147.2
+  skip-cert-verify: true
+  sni: www.microsoft.com
+  tls: false
+  type: hysteria2
+  udp: true
+- name: 14|D🔴🇫🇷hos[🎬🤖📺🎭]_dokng.com_b6be29...
+  port: 443
+  server: 51.210.167.149
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: 14|D🔴🇫🇷hos[🎬🤖📺🎭]_dokng.com_29f6fb...
+  port: 6103
+  server: 87.98.174.157
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: 14|D🔴🇫🇷hos[🎬🤖📺🎭]_dokng.com_bafa4f...
+  password: github.com/Alvin9999-newpac/fanqiang
+  port: 30099
+  server: ip5.934618.xyz
+  sni: ip5.934618.xyz
+  type: anytls
+  udp: true
+- name: 14|D🔴🇫🇷hos[🎬🤖📺🎭]_dokng.com_e505b3...
+  port: 443
+  server: 82.65.162.76
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: 14|D🔴🇫🇷hos[🎬🤖📺🎭]_dokng.com_1775ab...
+  port: 8090
+  server: 82.96.128.175
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: 14|D🔴🇫🇷hos[🎬🤖📺🎭]_dokng.com_522320...
+  port: 443
+  server: 82.64.255.151
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: 14|D🔴🇫🇷hos[🎬🤖📺🎭]_dokng.com_e3642a...
+  port: 443
+  server: 103.82.101.44
+  skip-cert-verify: true
+  sni: f3a61d8406d537345747f99f8a281007-3f754ed5da1bba09.apache-iv.com
+  tls: true
+  type: http
+- name: 14|D🔴🇫🇷hos[🎬🤖📺🎭]_dokng.com_f558f5...
+  port: 443
+  server: 82.66.235.221
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: 14|A🟢🇫🇷res[🎬📺🎭🎪]_dokng.com_4608db...
+  password: None
+  port: 443
+  server: fan.132031.xyz
+  skip-cert-verify: true
+  tls: true
+  type: http
+  username: null
+- name: 14|D🔴🇫🇷hos[🎬🤖📺🎭]_dokng.com_09592f...
+  port: 8090
+  server: 80.124.109.22
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: 14|D🔴🇫🇷hos[🎬🤖📺🎭]_dokng.com_8ebd1a...
+  port: 8090
+  server: 83.206.1.225
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: 14|D🔴🇫🇷hos[🎬🤖📺🎪]_dokng.com_fed266...
+  password: None
+  port: 443
+  server: 149.102.245.65
+  skip-cert-verify: true
+  tls: true
+  type: http
+  username: null
+- name: 14|D🔴🇫🇷hos[🎬🤖📺🎭]_dokng.com_49f043...
+  port: 4443
+  server: 83.172.143.53
+  skip-cert-verify: true
+  tls: true
+  type: http
+- client-fingerprint: chrome
+  name: 14|D🔴🇫🇷hos[🎬🤖🎭🎪]_dokng.com_22ef3f...
+  password: a7c5d30b-ce9b-4e34-b5cb-66f8308790ef
+  port: 1012
+  server: va9pr21p.zf-mix.9999231.xyz
+  sni: fr-house.9999231.xyz
+  type: anytls
+  udp: true
+- name: 14|A🟢🇫🇷res[🎬🤖📺🎭]_dokng.com_325ef4...
+  port: 8081
+  server: 31.32.19.111
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: 14|D🔴🇫🇷hos[🎬🤖📺🎭]_dokng.com_674355...
+  port: 443
+  server: 141.94.16.4
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: 14|D🔴🇫🇷hos[📺🎭🎪📦]_dokng.com_312604...
+  port: 8090
+  server: 217.181.201.254
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: 14|D🔴🇫🇷hos[🎪]_dokng.com_12319cf8
+  port: 443
+  server: 84.235.228.156
+  skip-cert-verify: true
+  tls: true
+  type: http
 - alpn:
   - h3
   auth-str: dongtaiwang.com
@@ -298,52 +427,51 @@ proxies:
   up: '100'
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: 19,21,24|日期：10-10
+  name: '19,21| By EbraSha 📛 #171'
   port: 443
   server: rgiw5k0gg5-1492025789-direct.kheibarr.com
   servername: rgiw5k0gg5-1492025789-direct.kheibarr.com
-  skip-cert-verify: true
   tls: true
   type: vless
-  udp: true
   uuid: 88888888-8888-8888-8888-888888888888
-- name: '19|🇫🇷[www.v2nodes.com] vless-FR-1... #1'
+- name: '19|🇫🇷[www.v2nodes.com] vless-FR-1... #2'
   port: 20023
   server: 51.75.118.165
   tls: false
   type: vless
   uuid: 49ade50d-9cd6-81a9-db5d-8e4a7f56930b
-- client-fingerprint: chrome
-  flow: xtls-rprx-vision
-  name: '19|🇫🇷[www.v2nodes.com] vless-FR-1... #3'
-  port: 443
-  server: 157.228.155.238
-  servername: addons.mozilla.org
-  skip-cert-verify: true
-  tls: true
-  type: vless
-  uuid: df53b6c2-8005-475c-9eb9-74e1be785dc8
-- client-fingerprint: randomized
-  flow: xtls-rprx-vision
-  name: '19,21,26|@npv_vpn11 #437'
-  network: tcp
-  port: 443
-  reality-opts:
-    public-key: 4q8nqNb-0c-akP3XqVmen67BLXJVlx48a_GDRw16nVg
-    short-id: 5ea112e8
-  server: 157.228.155.185
-  servername: addons.mozilla.org
-  tls: false
-  type: vless
-  uuid: df53b6c2-8005-475c-9eb9-74e1be785dc8
-  ws-opts:
-    headers:
-      Host: '%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET'
 - alpn:
   - h2
   client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: '19,21,26|@npv_vpn11 #913'
+  name: '19,21,26|@npv_vpn11 #800'
+  network: tcp
+  port: 443
+  server: tyxyrytyro-51255165170-direct.araghchy.com
+  servername: tyxyrytyro-51255165170-direct.araghchy.com
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  uuid: 88888888-8888-8888-8888-888888888888
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: '19,26|@npv_vpn11 #85'
+  network: tcp
+  port: 443
+  reality-opts:
+    public-key: 5BDht3tAZdKEKpJymGlRK9JugOnieA-kMSWz_0FoE0I
+    short-id: 6f76ad09
+  server: 157.228.155.238
+  servername: addons.mozilla.org
+  skip-cert-verify: true
+  tls: false
+  type: vless
+  uuid: df53b6c2-8005-475c-9eb9-74e1be785dc8
+- alpn:
+  - h2
+  client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: '19,21,26|@npv_vpn11 #858'
   network: tcp
   port: 443
   server: e3k67dwms3-51255166202-direct.tavafog.com
@@ -354,7 +482,7 @@ proxies:
   uuid: 88888888-8888-8888-8888-888888888888
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: '19,21| By EbraSha 🧩 #170'
+  name: '19,21| By EbraSha 🌍 #143'
   network: tcp
   port: 443
   reality-opts:
@@ -364,26 +492,13 @@ proxies:
   tls: false
   type: vless
   uuid: d90087c3-54f5-4283-a13f-615260c8b0c7
-- client-fingerprint: chrome
-  flow: ''
-  grpc-opts:
-    grpc-service-name: grpc-common3
-  name: '19,21| By EbraSha 🐉 #104'
-  network: grpc
-  port: 35108
-  reality-opts:
-    public-key: X_lOw5Zz4SJBa1cRHV4dAq5msYE-ClY5-WNcBmBWRxg
-    short-id: 52add08b86a5ccea
-  server: 152.228.139.33
-  servername: www.nvidia.com
-  tls: false
-  type: vless
-  uuid: 81dc0b61-f9fe-4ad6-8b4e-b8c067b73712
-- name: '19|🇫🇷[www.v2nodes.com] vless-FR-1... #9'
+- alpn:
+  - http/1.1
+  name: '19|🇫🇷[www.v2nodes.com] vless-FR-1... #10'
   network: ws
   port: 443
-  server: 199.232.78.170
-  servername: Speedtest.net
+  server: 140.248.186.45
+  servername: ssl.fastly.com
   tls: true
   type: vless
   uuid: 88888888-8888-8888-8888-888888888888
@@ -391,19 +506,7 @@ proxies:
     headers:
       Host: Appxdn.global.ssl.fastly.net
     path: /fp=chrome
-- client-fingerprint: ''
-  name: '19,21| By EbraSha 🎯 #140'
-  network: tcp
-  port: 2053
-  reality-opts:
-    public-key: g63cT3uI0Y5iUtj3m__RYz7nmR1eIK4AYikdnZCl63w
-    short-id: bfe58beb41f1d09f
-  server: 51.77.217.70
-  servername: www.apple.com
-  tls: false
-  type: vless
-  uuid: bf16ee0c-8b3c-41e4-ab3a-8b48033c404e
-- name: '19,20,21| By EbraSha 🕷️ #58'
+- name: '19,20,21| By EbraSha 💣 #47'
   network: ws
   password: humanity
   port: 443
@@ -415,7 +518,7 @@ proxies:
     headers:
       Host: www.calmlunch.com
     path: /assignment
-- name: '19,20,21| By EbraSha 🌐 #71'
+- name: '19,20,21| By EbraSha 🖥️ #65'
   network: ws
   password: humanity
   port: 443
@@ -429,7 +532,7 @@ proxies:
     path: /assignment
 - alpn:
   - v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus
-  name: '19,20,21| By EbraSha 🚧 #56'
+  name: '19,20,21| By EbraSha 🔌 #54'
   network: ws
   password: humanity
   port: 8443
@@ -441,7 +544,7 @@ proxies:
     headers:
       Host: www.calmlunch.com
     path: /assignment
-- name: '19,20,21| By EbraSha 👾 #58'
+- name: '19,20,21| By EbraSha 🗿 #58'
   network: ws
   password: humanity
   port: 443
@@ -453,7 +556,19 @@ proxies:
     headers:
       Host: www.calmlunch.com
     path: /assignment
-- name: '19,20,21| By EbraSha 🌀 #60'
+- name: '19,20,21| By EbraSha 🌍 #48'
+  network: ws
+  password: humanity
+  port: 443
+  server: www.calmlunch.com
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+- name: '19,20,21| By EbraSha ⌨️ #66'
   network: ws
   password: humanity
   port: 2053
@@ -484,7 +599,7 @@ proxies:
   type: trojan
   ws-opts:
     path: '%2Fassignment'
-- name: '19,20,21| By EbraSha 🧠 #57'
+- name: '19,20,21| By EbraSha 🔋 #85'
   network: ws
   password: humanity
   port: 443
@@ -508,7 +623,7 @@ proxies:
     headers:
       Host: www.calmlunch.com
     path: '%2Fassignment'
-- name: '19,20,21| By EbraSha 🐉 #54'
+- name: '19,20,21| By EbraSha ⚡ #65'
   network: ws
   password: humanity
   port: 443
@@ -520,26 +635,42 @@ proxies:
       Host: www.calmlunch.com
     path: '%2Fassignment'
 - client-fingerprint: chrome
-  name: '19,21,26|@npv_vpn11 #460'
-  network: xhttp
-  port: 37783
-  reality-opts:
-    public-key: tQeEamJmYVUUfjRLX7ETvMnPj4DrHzRhR5TI684oYgg
-    short-id: 21569dd6
-  server: 62.210.70.194
-  servername: www.yahoo.com
-  skip-cert-verify: false
-  tls: false
-  type: vless
-  uuid: a289c660-1b12-432b-a06c-c2ae469272b0
-  ws-opts:
-    path: '%2FOCrp5Ajs'
-- name: 28,34|🇫🇷FR_909|4.3MB/s|C002-260622 0...
-  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  name: '19,20|🇫🇷FR_4|3.4MB/s #1'
+  network: ws
+  password: humanity
   port: 443
-  server: 35.181.166.40
+  server: 162.159.36.20
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
+        like Gecko) Chrome/63.0.3239.84 Safari/537.36
+    path: /assignment
+- alpn:
+  - http/1.1
+  name: 19|🇫🇷FR_5|1.5MB/s
+  network: ws
+  port: 11443
+  server: 205.237.105.31
+  servername: f4.vimeostream.online
+  tls: true
+  type: vless
+  uuid: c6db98c5-9959-425e-9340-300779fc4e4b
+  ws-opts:
+    headers:
+      Host: f4.vimeostream.online
+    path: /api/v2/stream/wsfp=firefox
+- alpn:
+  - h3
+  name: 28|[OpenRay] 🇫🇷FR-133
+  password: Krab9Hyst2_Rk7pQ2xL
+  port: 36723
+  server: 151.247.197.253
   skip-cert-verify: true
-  sni: 35.181.166.40
+  sni: 151.247.197.253
   tls: false
   type: hysteria2
 - name: 29|法国
@@ -590,12 +721,6 @@ proxies:
   server: lucky-marmot.rooster465.autos
   skip-cert-verify: true
   type: trojan
-- name: 33|🇫🇷FR_1|2.9MB/s
-  port: 9443
-  server: 138.199.47.247
-  skip-cert-verify: true
-  tls: true
-  type: http
 - name: 34|🇫🇷FR法国丨yoyapai.com
   network: ws
   password: humanity
@@ -830,6 +955,21 @@ proxies:
   type: trojan
   ws-opts:
     path: /assignment
+- alpn:
+  - http/1.1
+  client-fingerprint: chrome
+  name: 34|🇫🇷FR_2|540KB/s 01
+  network: ws
+  port: 443
+  server: www.speedtest.net
+  servername: bpB-01c11365.HJdBcvDbKV.WORKErS.dEV
+  tls: true
+  type: vless
+  uuid: 2db92da9-8ffb-491b-81d6-6e8d50876020
+  ws-opts:
+    headers:
+      Host: bpb-01c11365.hjdbcvdbkv.workers.dev
+    path: /eyJqdW5rIjoiWlFRWlMwRDdLakVqMyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=2560
 - client-fingerprint: chrome
   name: 34|🇫🇷FR_3|270KB/s 01
   network: ws
@@ -1061,19 +1201,6 @@ proxies:
     headers:
       Host: orange-bonus-abd9.dalvandimohammadmahdi.workers.dev
     path: /eyJqdW5rIjoiUWtMSnFJZFM2S3JnIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6W119
-- client-fingerprint: chrome
-  name: 34|🇫🇷FR_26|587KB/s 01
-  network: ws
-  port: 443
-  server: 208.103.161.5
-  servername: dry-butterfly-8eb9.tmpgnacio83.workers.dev
-  tls: true
-  type: vless
-  uuid: d042a74a-c305-4eec-a89f-39a348022c92
-  ws-opts:
-    headers:
-      Host: dry-butterfly-8eb9.tmpgnacio83.workers.dev
-    path: /
 - name: 34|🇫🇷FR_27|1.1MB/s 01
   network: ws
   port: 8880
@@ -1594,17 +1721,6 @@ proxies:
     headers:
       Host: broken-star-c5ae.446.workers.dev
     path: /pyip=ProxyIP.KR.CMLiussss.net@https://t.me/QiangLieTuiJian
-- name: 34|🇫🇷FR_75|456KB/s 01
-  network: ws
-  port: 8880
-  server: www.visa.com.sg
-  tls: false
-  type: vless
-  uuid: 35b94b2c-1b46-4209-a04b-32ecf159b632
-  ws-opts:
-    headers:
-      Host: fragrant-tooth-2180.97-cbb.workers.dev
-    path: /pyip=ProxyIP.SG.CMLiussss.net
 - name: 34|🇫🇷FR_76|301KB/s 01
   network: ws
   port: 8880
@@ -2692,17 +2808,6 @@ proxies:
     headers:
       Host: restless-sky-eb31.438-aa8.workers.dev
     path: /pyip=ProxyIP.KR.CMLiussss.net
-- name: 34|🇫🇷FR_183|395KB/s|C002-260622 0...
-  network: ws
-  port: 8880
-  server: cf3.466688.xyz
-  tls: false
-  type: vless
-  uuid: 50c91104-c1fc-471e-914f-3ad252a0a34c
-  ws-opts:
-    headers:
-      Host: quiet-snowflake-e1dd.374-ac3.workers.dev
-    path: /pyip=ProxyIP.US.CMLiussss.net@https://t.me/QiangLieTuiJian
 - name: 34|🇫🇷FR_184|914KB/s|C002-260622 0...
   network: ws
   port: 8880
@@ -3651,18 +3756,6 @@ proxies:
   uuid: b585dc5e-55bf-4a8b-913a-27c9ccac05c3
   ws-opts:
     path: /vws/
-- client-fingerprint: chrome
-  name: 34|🇫🇷FR_733|546KB/s|A004-260618 0...
-  network: raw
-  port: 40443
-  reality-opts:
-    public-key: MN6QjUHDUXyteMdR-cDna89fq4X3qgQhLnNqTtRUbBQ
-    short-id: a8ae
-  server: 194.76.154.31
-  servername: deepl.com
-  tls: false
-  type: vless
-  uuid: 9f0baff8-bdee-4de9-9515-bcc4932b41fa
 - name: 34|🇫🇷FR_280|448KB/s|B007-260618 0...
   network: ws
   port: 8880
@@ -3940,19 +4033,6 @@ proxies:
     headers:
       Host: silent-cloud-aa63.324-7d8.workers.dev
     path: /pyip=Telegram🇨🇳 @WangCai2
-- client-fingerprint: chrome
-  name: 34|🇫🇷FR_304|370KB/s|B007-260618 0...
-  network: ws
-  port: 443
-  server: chatgpt.com
-  servername: powered-by-surena.user68f797c2f3e1b.workers.dev
-  tls: true
-  type: vless
-  uuid: 5dc15e15-f285-4a9d-959b-0e4fbdd77b63
-  ws-opts:
-    headers:
-      Host: powered-by-surena.user68f797c2f3e1b.workers.dev
-    path: /?ed
 - alpn:
   - h2
   - http/1.1
@@ -4135,18 +4215,6 @@ proxies:
     headers:
       Host: faxf32gkfzoxqv.fx6hsv0.ccwu.cc
     path: /
-- name: 34|🇫🇷FR_323|372KB/s|A001-260618 0...
-  network: ws
-  port: 2086
-  server: www.speedtest.net
-  servername: tight-thunder-ce8e.hamid-r-aliakbari1379-0f0.workers.dev
-  tls: false
-  type: vless
-  uuid: bba14c1d-f08c-4c9a-ac87-cf85d38d8aff
-  ws-opts:
-    headers:
-      Host: tight-thunder-ce8e.hamid-r-aliakbari1379-0f0.workers.dev
-    path: /eyJqdW5rIjoiRGtvTEVIeGU4cXFaTVVZIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19
 - alpn:
   - http/1.1
   client-fingerprint: chrome
@@ -4404,6 +4472,17 @@ proxies:
   ws-opts:
     headers:
       Host: polished-field-4448.186-705.workers.dev
+    path: /pyip=ProxyIP.KR.CMLiussss.net
+- name: 34|🇫🇷FR_348|679KB/s|B007-260618 0...
+  network: ws
+  port: 8880
+  server: 104.21.23.72
+  tls: false
+  type: vless
+  uuid: 25844c02-a1fe-43ec-a6b9-44e3bf375b83
+  ws-opts:
+    headers:
+      Host: dark-breeze-a59a.494.workers.dev
     path: /pyip=ProxyIP.KR.CMLiussss.net
 - alpn:
   - http/1.1
@@ -4668,19 +4747,6 @@ proxies:
       Host: super-sunset-010c.24-43d.workers.dev
     path: /pyip=ProxyIP.KR.CMLiussss.net
 - client-fingerprint: chrome
-  name: 34|🇫🇷FR_372|715KB/s|M003-260806 0...
-  network: ws
-  port: 443
-  server: 172.64.149.192
-  servername: powered-by-surena.configfarsi695fd42d43c58.workers.dev
-  tls: true
-  type: vless
-  uuid: 5dc15e15-f285-4a9d-959b-0e4fbdd77b63
-  ws-opts:
-    headers:
-      Host: powered-by-surena.configfarsi695fd42d43c58.workers.dev
-    path: /?ed
-- client-fingerprint: chrome
   name: 34|🇫🇷FR_373|429KB/s|M003-260806 0...
   network: ws
   port: 2053
@@ -4932,6 +4998,17 @@ proxies:
     headers:
       Host: faxf32gkfzoxqv.fx6hsv0.ccwu.cc
     path: /
+- name: 34|🇫🇷FR_395|959KB/s|F003-260618 0...
+  network: ws
+  port: 8880
+  server: 104.21.19.226
+  tls: false
+  type: vless
+  uuid: abc2f94e-af29-4f59-a0a0-6e3299d51f64
+  ws-opts:
+    headers:
+      Host: cold-bush-a762.lidrezvpn.workers.dev
+    path: /eyJqdW5rIjoiQXZDMHBUakpZIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMjYwMjpmYzU5OjExOjY0OjpdIl19?ed=2560
 - name: 34|🇫🇷FR_396|482KB/s|M003-260806 0...
   network: ws
   port: 8880
@@ -5167,19 +5244,6 @@ proxies:
   type: trojan
   ws-opts:
     path: /tr/zJi4ccv7FeEo780U?ed=2560
-- client-fingerprint: chrome
-  name: 34|🇫🇷FR_417|4.6MB/s|M002-260618 0...
-  network: ws
-  port: 2087
-  server: 104.16.150.108
-  servername: faxf32gkfzoxqv.fx6hsv0.ccwu.cc
-  tls: true
-  type: vless
-  uuid: 77777777-8a3e-6666-b6d1-a9c5f0e8b3a2
-  ws-opts:
-    headers:
-      Host: faxf32gkfzoxqv.fx6hsv0.ccwu.cc
-    path: /
 - name: 34|🇫🇷FR_519|995KB/s|A004-260618 0...
   network: ws
   port: 8880
@@ -6713,6 +6777,28 @@ proxies:
     headers:
       Host: bpb-4dc4958b.hxjkcghchv.workers.dev
     path: /eyJqdW5rIjoiOENNZnB6WTgiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119
+- client-fingerprint: chrome
+  name: 34|🇫🇷FR_566|347KB/s|F003-260618 0...
+  network: ws
+  port: 443
+  server: liang92.dpdns.org
+  servername: liang92.dpdns.org
+  tls: true
+  type: vless
+  uuid: 0aab6adc-104c-4339-8d25-09755ffe2cbd
+  ws-opts:
+    path: /
+- name: 34|🇫🇷FR_567|315KB/s|P002-260618 0...
+  network: ws
+  port: 8080
+  server: 188.114.97.6
+  tls: false
+  type: vless
+  uuid: ad40a583-2d59-44ff-88cf-b5db0e1e00a7
+  ws-opts:
+    headers:
+      Host: edgetunnel.kalmevebto.workers.dev
+    path: /
 - name: 34|🇫🇷FR_569|119KB/s 01
   network: ws
   password: humanity
@@ -7057,19 +7143,6 @@ proxies:
     headers:
       Host: faxf32gkfzoxqv.fx6hsv0.ccwu.cc
     path: /?ed=2560
-- client-fingerprint: chrome
-  name: 34|🇫🇷FR_605|548KB/s|S004-260618 0...
-  network: ws
-  port: 443
-  server: 104.27.52.69
-  servername: icy-pine-5efc.aoigjojowfie123.workers.dev
-  tls: true
-  type: vless
-  uuid: 73796e63-0000-4000-8000-000000000000
-  ws-opts:
-    headers:
-      Host: icy-pine-5efc.aoigjojowfie123.workers.dev
-    path: /sync
 - name: 34|🇫🇷FR_607|944KB/s|C002-260622 0...
   network: ws
   password: humanity
@@ -7151,19 +7224,6 @@ proxies:
     headers:
       Host: shanxp.dpdns.org
     path: /fp=chrome
-- client-fingerprint: chrome
-  name: 34|🇫🇷FR_614|2.8MB/s|M002-260618 0...
-  network: ws
-  port: 2087
-  server: 172.64.52.175
-  servername: faxf32gkfzoxqv.fx6hsv0.ccwu.cc
-  tls: true
-  type: vless
-  uuid: 77777777-8a3e-6666-b6d1-a9c5f0e8b3a2
-  ws-opts:
-    headers:
-      Host: faxf32gkfzoxqv.fx6hsv0.ccwu.cc
-    path: /
 - client-fingerprint: chrome
   name: 34|🇫🇷FR_615|1.1MB/s|T001-260618 0...
   network: ws
@@ -7283,6 +7343,19 @@ proxies:
     headers:
       Host: weathered-math-1f8b.amiralighasempor010.workers.dev
     path: /eyJqdW5rIjoiUHQ4YzBma3IxczlPIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMjYwMjpmYzU5OjExOjY0OjpdIl19?ed
+- client-fingerprint: chrome
+  name: 34|🇫🇷FR_627|414KB/s|M003-260806 0...
+  network: ws
+  port: 443
+  server: 172.64.80.1
+  servername: ez-541f9d.ezaccess1d3db24.workers.dev
+  tls: true
+  type: vless
+  uuid: a5b1d1ec-327c-f1c5-5856-b34600000000
+  ws-opts:
+    headers:
+      Host: ez-541f9d.ezaccess1d3db24.workers.dev
+    path: /sync
 - client-fingerprint: chrome
   name: 34|🇫🇷FR_629|468KB/s|M003-260806 0...
   network: ws
@@ -7596,19 +7669,6 @@ proxies:
     headers:
       Host: long-boat-7113.303-08c.workers.dev
     path: /pyip=ProxyIP.JP.CMLiussss.net
-- client-fingerprint: chrome
-  name: 34|🇫🇷FR_667|450KB/s|C002-260622 0...
-  network: ws
-  port: 443
-  server: 172.67.151.77
-  servername: nahan-core.fatitelegram.workers.dev
-  tls: true
-  type: vless
-  uuid: 73796e63-0000-4000-8000-000000000000
-  ws-opts:
-    headers:
-      Host: nahan-core.fatitelegram.workers.dev
-    path: /sync
 - name: 34|🇫🇷FR_668|455KB/s|C002-260622 0...
   network: ws
   port: 8880
@@ -7920,6 +7980,17 @@ proxies:
     headers:
       Host: shy-mud-e936.15-bb9.workers.dev
     path: /pyip=ProxyIP.JP.CMLiussss.net
+- name: 34|🇫🇷FR_700|343KB/s|C002-260622 0...
+  network: ws
+  port: 8880
+  server: 192.0.54.30
+  tls: false
+  type: vless
+  uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
+  ws-opts:
+    headers:
+      Host: vms.lifetime35.workers.dev
+    path: /
 - name: 34|🇫🇷FR_701|613KB/s|C002-260622 0...
   network: ws
   port: 8880
@@ -8547,6 +8618,17 @@ proxies:
     headers:
       Host: shy-mud-e936.15-bb9.workers.dev
     path: /pyip=ProxyIP.JP.CMLiussss.net
+- name: 34|🇫🇷FR_760|1.5MB/s|A004-260618 0...
+  network: ws
+  port: 8880
+  server: 104.16.8.66
+  tls: false
+  type: vless
+  uuid: b92380e2-e03f-4861-856e-7c2373b04728
+  ws-opts:
+    headers:
+      Host: dry-thunder-7f57.57-1a3.workers.dev
+    path: /pyip=ProxyIP.SG.CMLiussss.net
 - name: 34|🇫🇷FR_761|810KB/s 01
   network: ws
   port: 8880
@@ -9328,17 +9410,6 @@ proxies:
     headers:
       Host: quiet-frost-ac61.333-07d.workers.dev
     path: /pyip=ProxyIP.SG.CMLiussss.net
-- name: 34|🇫🇷FR_839|213KB/s|M003-260806 0...
-  network: ws
-  port: 8080
-  server: 188.114.97.6
-  tls: false
-  type: vless
-  uuid: 36d9003c-7240-40bc-af62-07c39f7a0b94
-  ws-opts:
-    headers:
-      Host: server20.peekconfig5.workers.dev
-    path: /eyJqdW5rIjoiYmNCdUhCVkFEIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIiwiWzI2MDI6ZmM1OTpiMDo2NDo6XSIsIlsyNjAyOmZjNTk6MTE6NjQ6Ol0iXX0=
 - name: 34|🇫🇷FR_840|314KB/s|M003-260806 0...
   network: ws
   port: 8080
@@ -9914,6 +9985,14 @@ proxies:
   type: trojan
   ws-opts:
     path: /assignment
+- name: 34|🇫🇷FR_909|4.3MB/s|C002-260622 0...
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: 443
+  server: 35.181.166.40
+  skip-cert-verify: true
+  sni: 35.181.166.40
+  tls: false
+  type: hysteria2
 - name: 34|🇫🇷FR_895|282KB/s|A004-260618 0...
   network: ws
   port: 8880
@@ -11345,17 +11424,6 @@ proxies:
     headers:
       Host: r5zenrelur2s.pqzdileiu8es.workers.dev
     path: /stream/PANEL_ZEUS/b138b248da68
-- name: 34|🇫🇷FR_1017|432KB/s|T001-260618 ...
-  network: ws
-  port: 2086
-  server: 188.114.97.6
-  tls: false
-  type: vless
-  uuid: 98b6cb05-b5ab-4c82-8683-07de28f796a9
-  ws-opts:
-    headers:
-      Host: holy-glitter-39f9.wwewee2dasdds.workers.dev
-    path: /eyJqdW5rIjoiRHF6VWU4SmYiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyNjAyOmZjNTk6YjA6NjQ6Ol0iXX0
 - alpn:
   - h3
   - h2
@@ -11384,17 +11452,6 @@ proxies:
   type: trojan
   ws-opts:
     path: /tr/5cJhuZZi5ZL6KKmZ5vKVeM?ed=2560
-- alpn:
-  - http/1.1
-  name: 34|🇫🇷FR_1020|549KB/s|B007-260618 ...
-  network: ws
-  password: Telegram_healer_config
-  port: 443
-  server: 104.21.56.225
-  sni: IJM8X9UgwPIQRmN-Lo-s.ZTl55ltkpuB38y36MCTGM.wOrKERs.deV
-  type: trojan
-  ws-opts:
-    path: /tr/MyONKU8UND5ZRBBUz6C?ed=2560
 - alpn:
   - http/1.1
   name: 34|🇫🇷FR_1021|529KB/s|B007-260618 ...
@@ -14727,6 +14784,17 @@ proxies:
     headers:
       Host: rapid-waterfall-7270.255-22b.workers.dev
     path: /pyip=ProxyIP.JP.CMLiussss.net
+- name: 34|🇫🇷FR_1330|868KB/s|M003-260806 ...
+  network: ws
+  port: 8880
+  server: 104.18.39.196
+  tls: false
+  type: vless
+  uuid: 5fc8a5e4-d0c5-4ad2-8bfe-db589553c6c1
+  ws-opts:
+    headers:
+      Host: red-disk-58df.153-2ce.workers.dev
+    path: /pyip
 - name: 34|🇫🇷FR_1331|404KB/s|M003-260806 ...
   network: ws
   port: 8880
@@ -15190,6 +15258,17 @@ proxies:
     headers:
       Host: winter-leaf-b4da.122-6c9.workers.dev
     path: /pyip=ProxyIP.SG.CMLiussss.net
+- name: 34|🇫🇷FR_1374|647KB/s 01
+  network: ws
+  port: 2095
+  server: 172.64.146.66
+  tls: false
+  type: vless
+  uuid: 86c50e3a-5b87-49dd-bd20-03c7f2735e40
+  ws-opts:
+    headers:
+      Host: cnmfangbinxing.cnmfangbinxing-f.workers.dev
+    path: /
 - name: 34|🇫🇷FR_1377|1.5MB/s|B007-260618 ...
   network: ws
   port: 8880

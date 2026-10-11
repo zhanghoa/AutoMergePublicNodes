@@ -1,49 +1,37 @@
 proxies:
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 👾 #4'
+  name: '10,21| By EbraSha 👾 #6'
   password: CxtcZaOSFYiJnloyTZJ0z2
   port: 443
   server: 89.22.234.121
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 🕶️ #7'
+  name: '10,21| By EbraSha 🦈 #8'
   password: N2YzM
   port: 1443
   server: 45.138.103.4
   type: ss
-- cipher: chacha20-ietf-poly1305
-  name: '10|🇸🇪 [ Configs by DukeMehdi ] SS... #2'
-  password: pydQILh06AvJ
-  port: 27092
-  server: 13.49.241.14
-  type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha 🛸 #13'
+  name: '10,21| By EbraSha ⚔️ #19'
   password: asdKkaskJKfnsa
   port: 443
   server: 37.19.222.211
   type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha 🎛️ #22'
+  name: '10,21| By EbraSha 🌪️ #15'
   password: asdKkaskJKfnsa
   port: 443
   server: 37.19.222.212
   type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha 🌃 #15'
+  name: '10,21| By EbraSha ♣️ #15'
   password: asdKkaskJKfnsa
   port: 443
   server: 37.19.222.213
   type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha 🕷️ #13'
+  name: '10,21| By EbraSha 🧩 #19'
   password: asdKkaskJKfnsa
   port: 443
   server: 37.19.222.214
-  type: ss
-- cipher: aes-256-cfb
-  name: '10|🇸🇪 [ Configs by DukeMehdi ] SS... #7'
-  password: f8f7aCzcPKbsF8p3
-  port: 989
-  server: 121.127.46.147
   type: ss

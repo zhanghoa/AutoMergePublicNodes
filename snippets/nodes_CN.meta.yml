@@ -1,71 +1,27 @@
 proxies:
-- client-fingerprint: chrome
-  name: '19,24,34|🇯🇵JP日本丨yoyapai.com #3'
+- name: 12|广东省广州市+腾讯云
   network: tcp
-  port: 58011
-  server: us22.sofast.live
-  skip-cert-verify: true
+  port: 52683
+  server: jp.sofast.live
   tls: false
   type: vless
-  udp: true
-  uuid: 0afc6426-606c-48e7-bd70-3c424a416842
+  uuid: 5aaa5259-f924-4682-a4a3-149d472a9dcc
 - client-fingerprint: chrome
   flow: ''
-  name: 19,21,29|广东省广州市+腾讯云
+  name: '19,21,24,29|广东省广州市+腾讯云 #1'
   network: tcp
   port: 52683
   server: jp.sofast.live
   skip-cert-verify: true
   tls: false
   type: vless
+  udp: true
   uuid: 399b6b23-cc40-4831-a494-61948e2df133
 - client-fingerprint: chrome
-  name: 24|🇨🇳_中国_41
-  port: 3302
-  server: gz1.australiacaregroup.site
-  servername: jp7.vatilon.cc
-  skip-cert-verify: true
-  tls: true
+  name: '19,34|🇯🇵JP日本丨yoyapai.com #3'
+  network: tcp
+  port: 58011
+  server: us22.sofast.live
+  tls: false
   type: vless
-  udp: true
-  uuid: aec8e5e3-bb81-4b22-8802-0b88c54997b3
-- client-fingerprint: chrome
-  name: 24|🇨🇳_中国_44
-  port: 8447
-  server: sh.polymarket.party
-  servername: 48.maoming.org
-  skip-cert-verify: true
-  tls: true
-  type: vless
-  udp: true
-  uuid: aec8e5e3-bb81-4b22-8802-0b88c54997b3
-- name: 24|🇨🇳_中国_51
-  password: aec8e5e3-bb81-4b22-8802-0b88c54997b3
-  port: 23203
-  server: gz1.polymarket.party
-  skip-cert-verify: true
-  sni: jp2.australiacaregroup.site
-  type: trojan
-  udp: true
-- client-fingerprint: chrome
-  name: 24|🇨🇳_中国_61
-  port: 23202
-  server: gz1.polymarket.party
-  servername: jp2.australiacaregroup.site
-  skip-cert-verify: true
-  tls: true
-  type: vless
-  udp: true
-  uuid: aec8e5e3-bb81-4b22-8802-0b88c54997b3
-- name: 24|🇨🇳_中国_191
-  password: aec8e5e3-bb81-4b22-8802-0b88c54997b3
-  port: 23823
-  server: gz2.vatilon.cc
-  skip-cert-verify: true
-  sni: us4.australiacaregroup.site
-  type: trojan
-  udp: true
-  ws-opts:
-    headers:
-      Host: us4.australiacaregroup.site
-    path: /trojan
+  uuid: 0afc6426-606c-48e7-bd70-3c424a416842
