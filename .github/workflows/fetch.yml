@@ -46,6 +46,27 @@ jobs:
         cache: 'pip'
     - name: 安装依赖
       run: pip install -r requirements.txt
+
+    # 缓存 Country.mmdb（约 7.6MB），避免每次下载。
+    # key 里带月份，便于每月自动刷新一次数据。
+    - name: 缓存 GeoIP 数据库
+      uses: actions/cache@v4
+      with:
+        path: Country.mmdb
+        # 固定 key + restore-keys：命中后不再下载；需要刷新数据时改 key 后缀
+        key: country-mmdb-v1
+        restore-keys: |
+          country-mmdb-
+
+    - name: 下载 GeoIP 数据库（用于剔除中国大陆节点）
+      run: |
+        if [ ! -f Country.mmdb ]; then
+          echo "下载 Country.mmdb ..."
+          curl -sSL -o Country.mmdb \
+            https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb
+        fi
+        ls -la Country.mmdb
+
     - name: 执行任务
       run: python ./fetch.py
       env:
