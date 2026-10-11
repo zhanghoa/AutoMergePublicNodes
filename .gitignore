@@ -3,3 +3,5 @@ local*
 _*
 !_config*
 .vscode/
+# GeoIP 数据库（7.6MB，由工作流下载，不入库）
+Country.mmdb
