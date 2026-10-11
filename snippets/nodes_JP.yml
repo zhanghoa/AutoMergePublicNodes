@@ -1,18 +1,4 @@
 proxies:
-- name: 5|🇯🇵 日本2|@stairnode
-  password: 253bc477d4e43c209f2d427272968280
-  port: 1806
-  server: 36.156.102.84
-  skip-cert-verify: false
-  sni: www.nintendogames.net
-  type: trojan
-- name: 5|🇯🇵 日本3|@stairnode
-  password: 253bc477d4e43c209f2d427272968280
-  port: 3160
-  server: 36.156.102.84
-  skip-cert-verify: false
-  sni: www.nintendogames.net
-  type: trojan
 - name: 6|🇯🇵 日本|@stairnode
   password: BxceQaOe
   port: 3022
@@ -35,120 +21,138 @@ proxies:
   sni: www.nintendogames.net
   type: trojan
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 📱 #6'
+  name: '10,21| By EbraSha 🪐 #7'
   password: G!yBwPWH3Vao
   port: 800
   server: 185.172.113.182
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 🚧 #7'
+  name: '10|🇯🇵 [ Configs by DukeMehdi ] SS... #1'
   password: G!yBwPWH3Vao
   port: 804
   server: 185.172.113.182
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10|🇯🇵 [ Configs by DukeMehdi ] SS... #2'
-  password: G!yBwPWH3Vao
-  port: 811
-  server: 185.172.113.182
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  name: '10|🇯🇵 [ Configs by DukeMehdi ] SS... #3'
-  password: G!yBwPWH3Vao
-  port: 806
-  server: 193.38.139.204
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  name: '10|🇯🇵 [ Configs by DukeMehdi ] SS... #4'
-  password: G!yBwPWH3Vao
-  port: 809
-  server: 193.38.139.204
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 🎯 #7'
+  name: '10,21| By EbraSha 💣 #10'
   password: G!yBwPWH3Vao
   port: 812
   server: 89.31.125.101
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 🕹️ #8'
+  name: '10,21| By EbraSha 🔐 #6'
   password: ljqdalu13..
   port: 8316
   server: 3.112.130.53
   type: ss
-- cipher: aes-256-cfb
-  name: '10|🇯🇵 [ Configs by DukeMehdi ] SS... #10'
-  password: amazonskr05
+- cipher: aes-128-gcm
+  name: 10,21,34|🇯🇵JP_7|595KB/s|A004-260618 01
+  password: shadowsocks
   port: 443
-  server: 175.41.205.247
+  server: 149.22.87.240
   type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha 🧨 #16'
+  name: '10,21| By EbraSha 🩸 #12'
   password: amazonskr05
   port: 443
   server: 3.112.193.151
   type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha 💻 #11'
+  name: '10|🇯🇵 [ Configs by DukeMehdi ] SS... #8'
   password: amazonskr05
   port: 443
   server: 43.206.219.140
   type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha 🧲 #15'
+  name: '10|🇯🇵 [ Configs by DukeMehdi ] SS... #9'
   password: amazonskr05
   port: 443
   server: 43.206.221.164
   type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha 🪐 #25'
+  name: '10,21| By EbraSha 🔮 #21'
   password: amazonskr05
   port: 443
   server: 43.207.1.14
   type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha 🚀 #13'
+  name: '10,21| By EbraSha 🦈 #22'
+  password: amazonskr05
+  port: 443
+  server: 43.207.153.185
+  type: ss
+- cipher: aes-256-cfb
+  name: '10,21| By EbraSha 🛸 #12'
   password: amazonskr05
   port: 443
   server: 43.207.166.104
   type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha 🦾 #18'
+  name: '10,21| By EbraSha 🌪️ #16'
   password: amazonskr05
   port: 443
   server: 43.207.68.169
   type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha 💣 #23'
+  name: '10|🇯🇵 [ Configs by DukeMehdi ] SS... #14'
   password: amazonskr05
   port: 443
   server: 43.207.82.53
   type: ss
+- cipher: aes-256-cfb
+  name: '10,21| By EbraSha 🪖 #12'
+  password: amazonskr05
+  port: 443
+  server: 43.207.83.221
+  type: ss
+- cipher: aes-256-cfb
+  name: '10,21| By EbraSha ⛓️ #23'
+  password: amazonskr05
+  port: 443
+  server: 54.178.60.213
+  type: ss
+- cipher: aes-256-cfb
+  name: '10|🇯🇵 [ Configs by DukeMehdi ] SS... #17'
+  password: doub.io
+  port: 2333
+  server: 54.199.83.239
+  type: ss
+- cipher: aes-256-cfb
+  name: '10|🇯🇵 [ Configs by DukeMehdi ] SS... #18'
+  password: eIW0Dnk69454e6nSwuspv9DmS201tQ0D
+  port: 8097
+  server: 172.104.123.158
+  type: ss
+- cipher: aes-256-cfb
+  name: '10|🇯🇵 [ Configs by DukeMehdi ] SS... #19'
+  password: f8f7aCzcPKbsF8p3
+  port: 989
+  server: 103.75.118.27
+  type: ss
 - cipher: aes-256-gcm
-  name: '10,21| By EbraSha 🐺 #15'
+  name: '10,21| By EbraSha 🚀 #25'
   password: 233blog.com
   port: 443
   server: 20.210.122.21
   type: ss
 - cipher: aes-256-gcm
-  name: '10,21| By EbraSha 🧠 #25'
+  name: '10,21| By EbraSha 🧿 #16'
   password: 665e00335bb2fb5f7ee8243952205e5e
   port: 2087
   server: 74.222.12.141
   type: ss
 - cipher: aes-256-gcm
-  name: '10,21| By EbraSha 🗿 #11'
+  name: '10,21| By EbraSha 🖥️ #16'
   password: GTZI5AbjNAeWQG0oVNptvWJogHNKiiKA
   port: 40003
   server: 47.79.144.115
   type: ss
 - cipher: aes-256-gcm
-  name: '10,21| By EbraSha 💣 #34'
+  name: '10,21| By EbraSha 🛜 #23'
   password: XKFKl2rULjIp74
   port: 8009
   server: 103.106.228.175
   type: ss
-- name: '19,20,21| By EbraSha 🔋 #44'
+- name: '19,20,21| By EbraSha 🧪 #43'
   network: tcp
   password: UX82473651
   port: 443
@@ -156,7 +160,7 @@ proxies:
   skip-cert-verify: true
   sni: internal-krill.rooster465.autos
   type: trojan
-- name: '19,20,21| By EbraSha ⚙️ #45'
+- name: '19,20,21| By EbraSha 🧊 #56'
   network: tcp
   password: UX82473651
   port: 443
@@ -218,7 +222,7 @@ proxies:
   type: trojan
 - alterId: 0
   cipher: auto
-  name: '20|🇯🇵 日本|@ripaojiedian #1'
+  name: '20,21|By EbraSha 🌌 #11'
   network: ws
   port: 443
   server: Z9FfBx3zs2q5O0BG.v.3dns.vip
@@ -233,7 +237,7 @@ proxies:
     path: /ws-vmess
 - alterId: 0
   cipher: auto
-  name: '20,21|By EbraSha ⚡ #15'
+  name: '20,21|By EbraSha 🛸 #12'
   network: ws
   port: 443
   server: kQov7UKaDknXb8a3.v.3dns.vip
@@ -248,7 +252,7 @@ proxies:
     path: /ws-vmess
 - alterId: 0
   cipher: auto
-  name: '20|🇯🇵 日本3|@ripaojiedian #1'
+  name: '20,21|By EbraSha 🕷️ #14'
   network: ws
   port: 443
   server: kneNaKHeSXnZH259.v.3dns.vip

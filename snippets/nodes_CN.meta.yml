@@ -1,132 +1,6 @@
 proxies:
-- cipher: chacha20-ietf-poly1305
-  name: 10|🇨🇳 [ Configs by DukeMehdi ] SS...
-  password: a5a0a8d9-ab2c-407f-89a4-bf027d216184
-  port: 870
-  server: 183.240.222.15
-  type: ss
-- cipher: aes-128-cfb
-  name: '10,21| By EbraSha 🕷️ #10'
-  password: QazEdcTgb159@$*
-  port: 24009
-  server: 14.29.124.168
-  type: ss
-- cipher: aes-128-cfb
-  name: '10,21| By EbraSha 🦈 #9'
-  password: QazEdcTgb159@$*
-  port: 25207
-  server: 14.29.124.168
-  type: ss
-- cipher: aes-128-cfb
-  name: '10,21| By EbraSha 🤖 #12'
-  password: QazEdcTgb159@$*
-  port: 25210
-  server: 14.29.124.168
-  type: ss
-- cipher: aes-128-cfb
-  name: '10|🇨🇳 [ Configs by DukeMehdi ] SS... #4'
-  password: QazEdcTgb159@$*
-  port: 25218
-  server: 14.29.124.168
-  type: ss
-- cipher: aes-128-cfb
-  name: '10|🇨🇳 [ Configs by DukeMehdi ] SS... #5'
-  password: QazEdcTgb159@$*
-  port: 25226
-  server: 14.29.124.168
-  type: ss
-- cipher: aes-128-cfb
-  name: '10,21| By EbraSha 🛰️ #9'
-  password: QazEdcTgb159@$*
-  port: 25233
-  server: 14.29.124.168
-  type: ss
-- cipher: aes-128-cfb
-  name: '10,21| By EbraSha 👑 #15'
-  password: QazEdcTgb159@$*
-  port: 25235
-  server: 14.29.124.168
-  type: ss
-- cipher: aes-128-cfb
-  name: '10,21| By EbraSha ⚡ #13'
-  password: QazEdcTgb159@$*
-  port: 25247
-  server: 14.29.124.168
-  type: ss
-- cipher: aes-128-cfb
-  name: '10,21| By EbraSha 🚧 #15'
-  password: QazEdcTgb159@$*
-  port: 25251
-  server: 14.29.124.168
-  type: ss
-- cipher: aes-128-cfb
-  name: '10,21| By EbraSha 🧪 #14'
-  password: QazEdcTgb159@$*
-  port: 25252
-  server: 14.29.124.168
-  type: ss
-- cipher: aes-128-cfb
-  name: '10|🇨🇳 [ Configs by DukeMehdi ] SS... #11'
-  password: QazEdcTgb159@$*
-  port: 25254
-  server: 14.29.124.168
-  type: ss
-- cipher: aes-128-cfb
-  name: '10|🇨🇳 [ Configs by DukeMehdi ] SS... #12'
-  password: QazEdcTgb159@$*
-  port: 25256
-  server: 14.29.124.168
-  type: ss
-- cipher: aes-128-cfb
-  name: '10|🇨🇳 [ Configs by DukeMehdi ] SS... #13'
-  password: QazEdcTgb159@$*
-  port: 25259
-  server: 14.29.124.168
-  type: ss
-- cipher: aes-128-cfb
-  name: '10,21| By EbraSha 🩸 #8'
-  password: QazEdcTgb159@$*
-  port: 25268
-  server: 14.29.124.168
-  type: ss
-- cipher: aes-128-cfb
-  name: '10|🇨🇳 [ Configs by DukeMehdi ] SS... #15'
-  password: QazEdcTgb159@$*
-  port: 25272
-  server: 14.29.124.168
-  type: ss
-- cipher: aes-128-cfb
-  name: '10|🇨🇳 [ Configs by DukeMehdi ] SS... #16'
-  password: QazEdcTgb159@$*
-  port: 25283
-  server: 14.29.124.168
-  type: ss
-- cipher: aes-128-cfb
-  name: '10,21| By EbraSha 🔌 #8'
-  password: QazEdcTgb159@$*
-  port: 25284
-  server: 14.29.124.168
-  type: ss
-- cipher: aes-128-cfb
-  name: '10|🇨🇳 [ Configs by DukeMehdi ] SS... #18'
-  password: QazEdcTgb159@$*
-  port: 25286
-  server: 14.29.124.168
-  type: ss
-- cipher: aes-128-cfb
-  name: '10,21| By EbraSha 🦅 #11'
-  password: QazEdcTgb159@$*
-  port: 25287
-  server: 14.29.124.168
-  type: ss
-- cipher: aes-128-cfb
-  name: '10,21| By EbraSha ⚔️ #12'
-  password: QazEdcTgb159@$*
-  port: 25296
-  server: 14.29.124.168
-  type: ss
 - client-fingerprint: chrome
-  name: '12,19,24,34|🇯🇵JP日本丨yoyapai.com #3'
+  name: '19,24,34|🇯🇵JP日本丨yoyapai.com #3'
   network: tcp
   port: 58011
   server: us22.sofast.live
@@ -135,23 +9,16 @@ proxies:
   type: vless
   udp: true
   uuid: 0afc6426-606c-48e7-bd70-3c424a416842
-- name: '19|广东省广州市+腾讯云 #1'
+- client-fingerprint: chrome
+  flow: ''
+  name: 19,21,29|广东省广州市+腾讯云
   network: tcp
   port: 52683
   server: jp.sofast.live
-  tls: false
-  type: vless
-  uuid: 5aaa5259-f924-4682-a4a3-149d472a9dcc
-- alterId: 0
-  cipher: auto
-  name: 22,24|🇨🇳_中国_92
-  port: 50002
-  server: 112.132.215.108
   skip-cert-verify: true
   tls: false
-  type: vmess
-  udp: true
-  uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
+  type: vless
+  uuid: 399b6b23-cc40-4831-a494-61948e2df133
 - client-fingerprint: chrome
   name: 24|🇨🇳_中国_41
   port: 3302
@@ -163,30 +30,10 @@ proxies:
   udp: true
   uuid: aec8e5e3-bb81-4b22-8802-0b88c54997b3
 - client-fingerprint: chrome
-  name: 24|🇨🇳_中国_43
-  port: 8447
-  server: gz2.vatilon.cc
-  servername: 48.maoming.org
-  skip-cert-verify: true
-  tls: true
-  type: vless
-  udp: true
-  uuid: aec8e5e3-bb81-4b22-8802-0b88c54997b3
-- client-fingerprint: chrome
   name: 24|🇨🇳_中国_44
   port: 8447
   server: sh.polymarket.party
   servername: 48.maoming.org
-  skip-cert-verify: true
-  tls: true
-  type: vless
-  udp: true
-  uuid: aec8e5e3-bb81-4b22-8802-0b88c54997b3
-- client-fingerprint: chrome
-  name: 24|🇨🇳_中国_45
-  port: 50002
-  server: gz1.polymarket.party
-  servername: tyo1.australiacaregroup.site
   skip-cert-verify: true
   tls: true
   type: vless
@@ -222,29 +69,3 @@ proxies:
     headers:
       Host: us4.australiacaregroup.site
     path: /trojan
-- alterId: 0
-  cipher: auto
-  name: 24|🇨🇳_中国_214
-  network: ws
-  port: 10086
-  server: 120.48.133.162
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  udp: true
-  uuid: fde10e39-48bb-4dcf-b3ba-71d711323a54
-- alterId: 0
-  cipher: auto
-  country: 🇨🇳CN
-  delay: 2801
-  h2-opts: {}
-  http-opts: {}
-  name: 25|中国 - 北京 - 1
-  network: ws
-  port: 10086
-  server: 120.48.133.162
-  skip-cert-verify: true
-  type: vmess
-  uuid: fde10e39-48bb-4dcf-b3ba-71d711323a54
-  ws-opts:
-    path: /
