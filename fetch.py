@@ -193,6 +193,23 @@ d = datetime.datetime.now().astimezone()
 if STOP or (d.month, d.day) in ((6, 4), (7, 1), (10, 1)):
     DEBUG_NO_NODES = DEBUG_NO_DYNAMIC = STOP = True
 
+def _prune_none(obj):
+    """递归移除字典/列表中值为 None 的项。
+
+    上游免费源的 YAML 常把字段写成空值（如 ws-opts.headers.Host: ~），
+    PyYAML 解析为 None。代码里多处做字符串拼接或下标取值，
+    遇到 None 会抛 TypeError/KeyError（实测 __hash__ 第 227 行
+    `path += opts.get('headers', {}).get('Host', '')` —— 键存在但值为 None，
+    默认值不生效，导致 str + None 报错）。
+    在节点构造完成时统一清理，比逐个修补取值点更彻底。
+    """
+    if isinstance(obj, dict):
+        return {k: _prune_none(v) for k, v in obj.items() if v is not None}
+    if isinstance(obj, list):
+        return [_prune_none(v) for v in obj if v is not None]
+    return obj
+
+
 class Node:
     names: Set[str] = set()
     DATA_TYPE = Dict[str, Any]
@@ -209,6 +226,12 @@ class Node:
         if 'password' in self.data:
             self.data['password'] = str(self.data['password'])
         self.data['type'] = self.type
+        # 统一清理空值字段（见 _prune_none 说明），避免后续拼接/取值抛异常
+        pruned = _prune_none(self.data)
+        self.data.clear()
+        self.data.update(pruned)
+        if not self.data.get('name'):
+            self.data['name'] = "未命名"
         self.name: str = self.data['name']
 
     def __str__(self):
@@ -632,7 +655,12 @@ class Node:
                 ret += f"alpn={quote(','.join(data['alpn']))}&"
             if 'network' in data:
                 if data['network'] == 'grpc':
-                    ret += f"type=grpc&serviceName={data['grpc-opts']['grpc-service-name']}"
+                    # 上游源存在 network=grpc 但缺 grpc-opts / grpc-service-name 的
+                    # 残缺节点，原先直接下标取值会抛 KeyError，
+                    # 在写出阶段被外层 except Exception 打成堆栈（刷屏且掩盖真实统计）。
+                    # 与下方 ws 分支一致，缺字段时容错处理。
+                    svc = (data.get('grpc-opts') or {}).get('grpc-service-name', '')
+                    ret += f"type=grpc&serviceName={svc}" if svc else "type=grpc&"
                 elif data['network'] == 'ws':
                     ret += "type=ws&"
                     if 'ws-opts' in data:
@@ -656,7 +684,9 @@ class Node:
                 ret += f"alpn={quote(','.join(data['alpn']))}&"
             if 'network' in data:
                 if data['network'] == 'grpc':
-                    ret += f"type=grpc&serviceName={data['grpc-opts']['grpc-service-name']}"
+                    # 同上：残缺节点缺 grpc-opts 时不抛 KeyError
+                    svc = (data.get('grpc-opts') or {}).get('grpc-service-name', '')
+                    ret += f"type=grpc&serviceName={svc}" if svc else "type=grpc&"
                 elif data['network'] == 'ws':
                     ret += "type=ws&"
                     if 'ws-opts' in data:
@@ -1339,7 +1369,10 @@ def main():
                 try:
                     txt += p.url + '\n'
                 except UnsupportedType as e:
-                    print(f"不支持的类型：{e}")
+                    _note_parse_error('UnsupportedType:' + (str(e.args[0]) if e.args else ''), str(p.data.get('name', '')))
+                except Exception as e:
+                    # 单个节点转 URL 失败不应影响整批；归入统一计数而非打印堆栈
+                    _note_parse_error('url:' + type(e).__name__, str(p.data.get('name', '')))
             else: unsupports += 1
         except Exception: traceback.print_exc()
     for p in unknown:
