@@ -1036,6 +1036,10 @@ def extract(url: str) -> Union[Set[str], int]:
 merged: Dict[int, Node] = {}
 merged_keys: Dict[int, Tuple] = {}  # hash -> 完整去重元组，避免不同节点哈希碰撞时互相覆盖
 unknown: Set[str] = set()
+# 节点解析失败统计：{异常类型: [次数, 示例节点(截断)]}
+# 上游公共源混有大量畸形节点，逐个打印完整堆栈会把日志淹没（全量时可达数千条），
+# 因此改为按异常类型累计计数，每类只提示一次，流程结束时汇总。
+parse_errors: Dict[str, List] = {}
 used: Dict[int, Dict[int, str]] = {}
 
 def dedup_key(n: Node) -> Tuple:
@@ -1048,6 +1052,22 @@ def dedup_key(n: Node) -> Tuple:
     d = n.data
     return (str(d.get('server', '')).lower(), str(d.get('port', '')))
 
+def _note_parse_error(kind: str, node: str) -> None:
+    """记录一次节点解析失败；同一类型只在首次出现时打印一行提示。
+
+    上游免费源的畸形节点数量可观（全量抓取时可达数千条），
+    原先每个都 traceback.print_exc()，日志被堆栈淹没、难以看到关键统计。
+    这里按异常类型归并计数，保留排查所需的示例，又不刷屏。
+    """
+    rec = parse_errors.get(kind)
+    if rec is None:
+        sample = node if len(node) <= 70 else node[:70] + '...'
+        parse_errors[kind] = [1, sample]
+        print(f"  [跳过] {kind}  示例: {sample}", flush=True)
+    else:
+        rec[0] += 1
+
+
 def merge(source_obj: Source, sourceId=-1) -> None:
     global merged, unknown
     sub = source_obj.sub
@@ -1057,10 +1077,10 @@ def merge(source_obj: Source, sourceId=-1) -> None:
         try: n = Node(p)
         except KeyboardInterrupt: raise
         except UnsupportedType as e:
-            if len(e.args) == 1:
-                print(f"不支持的类型：{e}")
             unknown.add(p) # type: ignore
-        except Exception: traceback.print_exc()
+            _note_parse_error('UnsupportedType:' + (str(e.args[0]) if e.args else ''), p)
+        except Exception as e:
+            _note_parse_error(type(e).__name__, p)
         else:
             n.format_name()
             Node.names.add(n.data['name'])
@@ -1326,6 +1346,13 @@ def main():
         txt += p+'\n'
     print(f"共有 {len(merged)-unsupports} 个正常节点，{len(unknown)} 个无法解析的节点，共",
             len(merged)+len(unknown),f"个。{unsupports} 个节点不被 V2Ray 支持。")
+
+    # 解析失败分类汇总（合并阶段逐条提示过，这里给出全量统计便于判断源质量）
+    if parse_errors:
+        total_err = sum(v[0] for v in parse_errors.values())
+        print(f"节点解析失败共 {total_err} 条，按原因分类：")
+        for kind, (cnt, sample) in sorted(parse_errors.items(), key=lambda kv: -kv[1][0]):
+            print(f"  {cnt:>6} × {kind}")
 
     with open("list_raw.txt", 'w', encoding="utf-8") as f:
         f.write(txt)
