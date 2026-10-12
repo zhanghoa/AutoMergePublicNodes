@@ -1,12 +1,12 @@
 proxies:
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 🧨 #8'
+  name: 10,21,27|🇰🇷KR-15.164.245.92-0249
   password: 7e68e32f-8015-4f37-9082-70e8b0b58043
   port: 8443
   server: 15.164.245.92
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 🧬 #2'
+  name: '10,21| By EbraSha 🌀 #5'
   password: 7e68e32f-8015-4f37-9082-70e8b0b58043
   port: 8443
   server: 3.35.54.161
@@ -24,7 +24,7 @@ proxies:
   server: 52.78.216.116
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha ⛓️ #7'
+  name: '10,21| By EbraSha 📛 #7'
   password: 7e68e32f-8015-4f37-9082-70e8b0b58043
   port: 8443
   server: 52.78.59.52
@@ -36,73 +36,73 @@ proxies:
   server: 49.254.204.134
   type: ss
 - cipher: aes-256-cfb
-  name: '10|🇰🇷 [ Configs by DukeMehdi ] SS... #7'
+  name: 10,27|🇰🇷KR-43.201.108.109-7716
   password: amazonskr05
   port: 443
   server: 43.201.108.109
   type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha 🕹️ #25'
+  name: 10,21,27|🇰🇷KR-43.201.47.102-3462
   password: amazonskr05
   port: 443
   server: 43.201.47.102
   type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha ⛓️ #16'
+  name: 10,21,27|🇰🇷KR-43.201.48.212-2528
   password: amazonskr05
   port: 443
   server: 43.201.48.212
   type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha 🎛️ #13'
+  name: 10,21,27|🇰🇷KR-43.201.57.66-4393
   password: amazonskr05
   port: 443
   server: 43.201.57.66
   type: ss
 - cipher: aes-256-cfb
-  name: '10|🇰🇷 [ Configs by DukeMehdi ] SS... #11'
+  name: 10,27|🇰🇷KR-43.201.59.8-3257
   password: amazonskr05
   port: 443
   server: 43.201.59.8
   type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha 🌃 #16'
+  name: 10,21,27|🇰🇷KR-43.201.86.30-4472
   password: amazonskr05
   port: 443
   server: 43.201.86.30
   type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha 📛 #18'
+  name: 10,21,27|🇰🇷KR-43.202.49.222-7715
   password: doub.io
   port: 2333
   server: 43.202.49.222
   type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha 🤖 #16'
+  name: '10,21| By EbraSha 🎯 #18'
   password: qwerREWQ@@
   port: 4652
   server: 218.237.185.230
   type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha 🧨 #19'
+  name: '10,21| By EbraSha 🪐 #24'
   password: qwerREWQ@@
   port: 13979
   server: 221.139.79.57
   type: ss
 - cipher: aes-256-gcm
-  name: '10,21| By EbraSha 🌌 #19'
+  name: '10,21| By EbraSha 🤖 #26'
   password: KixLvKzwjekG00rm
   port: 8000
   server: 141.164.45.187
   type: ss
 - cipher: aes-256-gcm
-  name: '10,21| By EbraSha 💣 #32'
+  name: 10,21,27|🇰🇷KR-141.164.45.187-5612
   password: RexnBgU7EV5ADxG
   port: 7001
   server: 141.164.45.187
   type: ss
 - cipher: aes-256-gcm
-  name: '10,21| By EbraSha 🔐 #31'
+  name: 10,21,27|🇰🇷KR-141.164.45.187-0246
   password: TEzjfAYq2IjtuoS
   port: 6679
   server: 141.164.45.187
@@ -114,13 +114,13 @@ proxies:
   server: 141.164.45.187
   type: ss
 - cipher: aes-256-gcm
-  name: 10,19,21,28|[OpenRay] 🇰🇷KR-26
+  name: 10,19,21,27,28|[OpenRay] 🇰🇷KR-26
   password: UsIv5aKJabiqnYtY8IfWd6FfgjzrJlfZ
   port: 8388
   server: 43.155.223.71
   type: ss
 - cipher: aes-256-gcm
-  name: '10,21| By EbraSha 🔐 #32'
+  name: '10,21| By EbraSha 🦅 #25'
   password: XKFKl2rULjIp74
   port: 8008
   server: 141.164.45.187
@@ -132,7 +132,7 @@ proxies:
   server: 141.164.45.187
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇰🇷 [ Configs by DukeMehdi ] SS... #24'
+  name: 10,27|🇰🇷KR-158.247.205.87-2706
   password: Y6R9pAtvxxzmGC
   port: 5601
   server: 158.247.205.87
@@ -144,29 +144,30 @@ proxies:
   server: 141.164.45.187
   type: ss
 - cipher: aes-256-gcm
-  name: '10,21| By EbraSha 🦂 #33'
+  name: '10,21| By EbraSha ✨ #22'
   password: ac9c0a7b
   port: 49642
   server: 211.174.113.172
   type: ss
 - cipher: aes-256-gcm
-  name: '10,21| By EbraSha 🃏 #22'
+  name: '10,21| By EbraSha 🛡️ #29'
   password: lGqs95QkFHo2NV
   port: 5498
   server: 141.164.45.187
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇰🇷 [ Configs by DukeMehdi ] SS... #28'
+  name: 10,27|🇰🇷KR-158.247.205.87-2707
   password: pKEW8JPByTVTLtM
   port: 443
   server: 158.247.205.87
   type: ss
-- name: '10,21| By EbraSha ⚔️ #36'
+- name: 10,21,27|🇰🇷KR-144.24.72.126-3443
   password: 7118b5f4-0ea4-4c11-be7f-11471cb91e4a
   port: 443
   server: 144.24.72.126
+  skip-cert-verify: false
   type: trojan
-- name: '10,21| By EbraSha 🌐 #33'
+- name: '10,21| By EbraSha 👑 #39'
   network: tcp
   password: 81d93f62-15a2-4994-adb9-0b5d906aac7e
   port: 443
@@ -180,7 +181,7 @@ proxies:
   server: 121.178.83.161
   sni: 'vpn1.rnmcnm.com '
   type: trojan
-- name: '10,21| By EbraSha 🪖 #44'
+- name: '10,21| By EbraSha 🦅 #42'
   network: tcp
   password: GKHWMe2R4qwNcNxu6l3KMkdd
   port: 11371
@@ -188,7 +189,7 @@ proxies:
   skip-cert-verify: true
   sni: vpn1.rnmcnm.com
   type: trojan
-- name: '10,21| By EbraSha 📀 #44'
+- name: '10,21| By EbraSha ⚙️ #46'
   network: tcp
   password: GKHWMe2R4qwNcNxu6l3KMkdd
   port: 18853
@@ -216,42 +217,42 @@ proxies:
   server: 3.35.140.99
   sni: 'moved-meerkat.rooster465.autos '
   type: trojan
-- name: '10,21| By EbraSha ⛓️ #50'
+- name: '10,21| By EbraSha 🌃 #37'
   network: tcp
   password: ND91608427
   port: 443
   server: 3.36.59.34
   sni: select-ferret.rooster465.autos
   type: trojan
-- name: '10,21| By EbraSha 🚀 #51'
+- name: '10,21| By EbraSha ✨ #36'
   network: tcp
   password: ND91608427
   port: 443
   server: 3.38.106.2
   sni: communal-sunbird.rooster465.autos
   type: trojan
-- name: '10,21| By EbraSha 🧨 #47'
+- name: '10,21| By EbraSha 🔮 #57'
   network: tcp
   password: ND91608427
   port: 443
   server: 43.201.103.8
   sni: intimate-moray.rooster465.autos
   type: trojan
-- name: '10,21| By EbraSha 🌍 #36'
+- name: '10,21| By EbraSha 🧩 #44'
   network: tcp
   password: ND91608427
   port: 443
   server: 43.201.46.108
   sni: exotic-chow.rooster465.autos
   type: trojan
-- name: '10,21| By EbraSha 🎛️ #44'
+- name: '10,21| By EbraSha 🌍 #38'
   network: tcp
   password: ND91608427
   port: 443
   server: 43.201.56.44
   sni: distinct-llama.rooster465.autos
   type: trojan
-- name: '10,21| By EbraSha 🦅 #47'
+- name: '10,21| By EbraSha 🐺 #31'
   network: tcp
   password: ND91608427
   port: 443
@@ -286,7 +287,7 @@ proxies:
   server: 52.79.210.229
   sni: 'chief-bluegill.rooster465.autos '
   type: trojan
-- name: '10,21| By EbraSha 🧩 #36'
+- name: '10,21| By EbraSha 🚬 #34'
   network: tcp
   password: ND91608427
   port: 443
@@ -364,10 +365,11 @@ proxies:
   skip-cert-verify: false
   sni: 'delicate-buck.rooster465.autos '
   type: trojan
-- name: '10|🇰🇷 [ Configs by DukeMehdi ] TJ... #34'
+- name: 10,27|🇰🇷KR-138.2.113.84-3225
   password: b291d129-ee55-4801-a9b8-b5316e5c37b7
   port: 443
   server: 138.2.113.84
+  skip-cert-verify: false
   type: trojan
 - name: '10|🇰🇷 [ Configs by DukeMehdi ] TJ... #35'
   password: b5fc9fa9-796d-4185-a316-395ecac04a85
@@ -375,10 +377,11 @@ proxies:
   server: 150.230.249.20
   sni: 'www.gomacau.gq '
   type: trojan
-- name: '10,21| By EbraSha 🌀 #54'
+- name: 10,21,27|🇰🇷KR-146.56.179.67-5278
   password: cc05b267-2e17-4e73-92f0-2cf603aa5997
   port: 40005
   server: 146.56.179.67
+  skip-cert-verify: false
   type: trojan
 - name: '10|🇰🇷 [ Configs by DukeMehdi ] TJ... #37'
   password: cd27884b-c5af-34ec-b75f-8248077818fe
@@ -393,12 +396,13 @@ proxies:
   server: 132.226.23.185
   sni: 'hhcm.hhxaf.cc.cd '
   type: trojan
-- name: '10,21| By EbraSha 🗿 #52'
+- name: 10,21,27|🇰🇷KR-146.56.189.146-3998
   password: f2117e99-9b6e-47fd-b0a9-634a0b15b998
   port: 443
   server: 146.56.189.146
+  skip-cert-verify: false
   type: trojan
-- name: '10,15,21| By EbraSha ✨ #60'
+- name: '10,15,21| By EbraSha 🦈 #57'
   password: moist
   port: 27335
   server: 116.47.10.236
@@ -412,39 +416,148 @@ proxies:
   server: 119.195.0.158
   sni: 'vpn5.rnmcnm.com '
   type: trojan
-- name: '10,21| By EbraSha 🔋 #62'
+- name: '10,21| By EbraSha 📟 #67'
   network: tcp
   password: t5FsyeQXkNCY6eVGiqBXmPu4..jBEpNbak
   port: 443
   server: 38.60.220.65
   type: trojan
-- name: '10,21| By EbraSha ♦️ #49'
+- name: 10,21,27|🇰🇷KR-3.34.6.217-4502
   password: xxoo
   port: 443
   server: 3.34.6.217
+  skip-cert-verify: false
   type: trojan
-- alterId: 0
+- alpn:
+  - ''
+  alterId: 0
   cipher: auto
-  http-opts:
-    method: GET
-    path:
-    - /
-  name: 14,21,28|[OpenRay] 🇰🇷KR-12
-  network: http
-  port: 123
-  server: 43.108.103.167
-  servername: ''
-  tls: false
+  name: '14,15,20,21,30|🇰🇷 韩国 | KOR #1 #2'
+  network: ws
+  port: 443
+  server: WIDkzavxwwjiXsNk.v.3dns.vip
+  servername: WIDkzavxwwjiXsNk.v.3dns.vip
+  skip-cert-verify: true
+  tls: true
   type: vmess
-  uuid: 35aa0fda-175a-4aec-c468-0231dee1a121
+  udp: true
+  uuid: efe82ebc-46b3-4242-b612-b652b8fbc870
+  ws-opts:
+    headers:
+      Host: WIDkzavxwwjiXsNk.v.3dns.vip
+    path: /ws-vmess
+- alterId: '0'
+  cipher: auto
+  name: 14|C🟠🇰🇷hos[🎬🤖📺🎭]_dokng.com_898a91...
+  network: ws
+  port: 443
+  server: WF9GmMmFni9WDjK5.v.3dns.vip
+  servername: WF9GmMmFni9WDjK5.v.3dns.vip
+  tls: true
+  type: vmess
+  uuid: efe82ebc-46b3-4242-b612-b652b8fbc870
+  ws-opts:
+    headers:
+      Host: WF9GmMmFni9WDjK5.v.3dns.vip
+    path: /ws-vmess
+- alterId: '0'
+  cipher: auto
+  name: 14|C🟠🇰🇷hos[🎬🤖📺🎭]_dokng.com_596de3...
+  network: ws
+  port: 443
+  server: ncphOJGJgvVUCHB7.v.3dns.vip
+  servername: ncphOJGJgvVUCHB7.v.3dns.vip
+  tls: true
+  type: vmess
+  uuid: efe82ebc-46b3-4242-b612-b652b8fbc870
+  ws-opts:
+    headers:
+      Host: ncphOJGJgvVUCHB7.v.3dns.vip
+    path: /ws-vmess
+- alterId: '0'
+  cipher: auto
+  name: 14|C🟠🇰🇷hos[🎬🤖📺🎭]_dokng.com_ada838...
+  network: ws
+  port: 443
+  server: dC37FuP9XCEWi4vm.v.3dns.vip
+  servername: dC37FuP9XCEWi4vm.v.3dns.vip
+  tls: true
+  type: vmess
+  uuid: efe82ebc-46b3-4242-b612-b652b8fbc870
+  ws-opts:
+    headers:
+      Host: dC37FuP9XCEWi4vm.v.3dns.vip
+    path: /ws-vmess
+- alterId: '0'
+  cipher: auto
+  name: 14|C🟠🇰🇷hos[🎬🤖📺🎭]_dokng.com_c42215...
+  network: ws
+  port: 443
+  server: FseccMcgHIqfKOwR.v.3dns.vip
+  servername: FseccMcgHIqfKOwR.v.3dns.vip
+  tls: true
+  type: vmess
+  uuid: efe82ebc-46b3-4242-b612-b652b8fbc870
+  ws-opts:
+    headers:
+      Host: FseccMcgHIqfKOwR.v.3dns.vip
+    path: /ws-vmess
+- alterId: '0'
+  cipher: auto
+  name: 14|C🟠🇰🇷hos[🎬🤖📺🎭]_dokng.com_1e780b...
+  network: ws
+  port: 443
+  server: gS7dzA0AiWGPoIG0.v.3dns.vip
+  servername: gS7dzA0AiWGPoIG0.v.3dns.vip
+  tls: true
+  type: vmess
+  uuid: efe82ebc-46b3-4242-b612-b652b8fbc870
+  ws-opts:
+    headers:
+      Host: gS7dzA0AiWGPoIG0.v.3dns.vip
+    path: /ws-vmess
+- alterId: '0'
+  cipher: auto
+  name: 14|C🟠🇰🇷hos[🎬🤖📺🎭]_dokng.com_eeb54f...
+  network: ws
+  port: 443
+  server: 4KnPRw5H74w4AVNs.v.3dns.vip
+  servername: 4KnPRw5H74w4AVNs.v.3dns.vip
+  tls: true
+  type: vmess
+  uuid: efe82ebc-46b3-4242-b612-b652b8fbc870
+  ws-opts:
+    headers:
+      Host: 4KnPRw5H74w4AVNs.v.3dns.vip
+    path: /ws-vmess
+- alterId: '0'
+  cipher: auto
+  name: 14|C🟠🇰🇷hos[🎬🤖📺🎭]_dokng.com_db2f4d...
+  network: ws
+  port: 443
+  server: StMONzfjYcGgEOmG.v.3dns.vip
+  servername: StMONzfjYcGgEOmG.v.3dns.vip
+  tls: true
+  type: vmess
+  uuid: efe82ebc-46b3-4242-b612-b652b8fbc870
+  ws-opts:
+    headers:
+      Host: StMONzfjYcGgEOmG.v.3dns.vip
+    path: /ws-vmess
 - alterId: 2
   cipher: auto
-  name: 14|C🟠🇰🇷hos_dokng.com_1ab4b9ae
+  name: 14|C🟠🇰🇷hos[🎬🤖📺🎪]_dokng.com_1ab4b9...
   port: 11264
   server: goldcnmltyljgfwgov.vip64.wogcnmnnagfwgov.com
   type: vmess
   udp: true
   uuid: 605956ee-544d-308e-8b90-51e67c6ea8da
+- cipher: aes-128-gcm
+  name: 14|C🟠🇰🇷hos[📺🎞️✈️🔍]_dokng.com_5385...
+  password: edad69d9-ea99-4ce9-bae8-8fedc2afcbf4
+  port: 40029
+  server: ruot.ayucloudservices.nl
+  type: ss
 - alterId: 0
   cipher: auto
   name: '19,31|🇰🇷 韩国|@ripaojiedian #3'
@@ -460,7 +573,7 @@ proxies:
     headers:
       Host: 8nTzyR5KNivfabaT.v.3dns.vip
     path: /ws-vmess
-- name: '19,20,21,30,32|韩国|@ripaojiedian #3'
+- name: '19,20,21,27,30,32|韩国|@ripaojiedian #3'
   network: tcp
   password: AA885B42-133C-3828-FB69-E45105C06092
   port: 11171
@@ -470,7 +583,7 @@ proxies:
   type: trojan
 - alterId: 0
   cipher: auto
-  name: '20,21,30|🇰🇷 韩国|@ripaojiedian #2'
+  name: '20,21,27,30|🇰🇷 韩国|@ripaojiedian #2'
   network: ws
   port: 443
   server: 8nTzyR5KNivfabaT.v.3dns.vip
@@ -483,25 +596,7 @@ proxies:
     headers:
       Host: 8nTzyR5KNivfabaT.v.3dns.vip
     path: /ws-vmess
-- alpn:
-  - ''
-  alterId: 0
-  cipher: auto
-  name: '20,21,30|🇰🇷 韩国 | KOR #1 #2'
-  network: ws
-  port: 443
-  server: WIDkzavxwwjiXsNk.v.3dns.vip
-  servername: WIDkzavxwwjiXsNk.v.3dns.vip
-  skip-cert-verify: true
-  tls: true
-  type: vmess
-  udp: true
-  uuid: efe82ebc-46b3-4242-b612-b652b8fbc870
-  ws-opts:
-    headers:
-      Host: WIDkzavxwwjiXsNk.v.3dns.vip
-    path: /ws-vmess
-- name: '20,21,30|🇰🇷 韩国 | KOR #4 #1'
+- name: '20,21,27,30|🇰🇷 韩国 | KOR #4 #1'
   password: Trojan@82164024
   port: 443
   server: kr.tronsg.com
@@ -509,6 +604,156 @@ proxies:
   sni: kr.tronsg.com
   type: trojan
   udp: true
+- alterId: 0
+  cipher: auto
+  name: 27|🇰🇷KR-13.124.168.115-0001
+  network: ws
+  port: 443
+  server: 13.124.168.115
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  uuid: 2db5ed09-c32a-4e95-9063-f9b288757efb
+  ws-opts:
+    headers:
+      Host: 13.124.168.115
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 27|🇰🇷KR-152.69.230.170-0406
+  network: ws
+  port: 80
+  server: 152.69.230.170
+  servername: 152.69.230.170
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  uuid: 6aa24ded-5f15-48c7-8cba-3e2a159d6b77
+  ws-opts:
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 27|🇰🇷KR-43.201.253.222-1070
+  network: ws
+  port: 26540
+  server: 43.201.253.222
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  uuid: c841c903-7657-41f7-bf55-b41dd9456179
+  ws-opts:
+    headers:
+      Host: 43.201.253.222
+    path: /c841c903-7657-41f7-bf55-b41dd9456179
+- alterId: 0
+  cipher: auto
+  name: 27|🇰🇷KR-146.56.162.25-1179
+  network: ws
+  port: 443
+  server: 146.56.162.25
+  skip-cert-verify: false
+  tls: true
+  type: vmess
+  uuid: 91646f9a-b4e9-4aca-bfe3-8892b3e58fe7
+  ws-opts:
+    headers:
+      Host: lg30.cfcdn3.xyz
+    path: /ray
+- alterId: 0
+  cipher: auto
+  http-opts:
+    method: GET
+    path:
+    - /
+  name: 27|🇰🇷KR-150.230.249.15-1392
+  network: http
+  port: 46842
+  server: 150.230.249.15
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  uuid: 4530b5ee-ced4-4e64-9285-1867fc5df7f8
+- alterId: 64
+  cipher: auto
+  name: 27|🇰🇷KR-27.124.8.141-2005
+  network: ws
+  port: 443
+  server: 27.124.8.141
+  skip-cert-verify: false
+  tls: true
+  type: vmess
+  uuid: c7e645be-1704-4f0a-afe9-8b21f9c711d6
+  ws-opts:
+    path: /path/220128071100
+- name: 27|🇰🇷KR-144.24.76.54-2096
+  password: cd27884b-c5af-34ec-b75f-8248077818fe
+  port: 8443
+  server: 144.24.76.54
+  skip-cert-verify: false
+  sni: 2.hg.kr.cat77.cloud
+  type: trojan
+- alterId: 0
+  cipher: auto
+  name: 27|🇰🇷KR-52.78.213.224-2137
+  network: ws
+  port: 80
+  server: 52.78.213.224
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  uuid: 6f442823-6b73-4b31-f1f5-aa1e907b051e
+  ws-opts:
+    path: /
+- cipher: aes-256-gcm
+  name: 27|🇰🇷KR-141.164.39.146-2679
+  password: TEzjfAYq2IjtuoS
+  port: 6697
+  server: 141.164.39.146
+  type: ss
+- alterId: 0
+  cipher: auto
+  name: 27|🇰🇷KR-152.67.218.38-2880
+  network: ws
+  port: 443
+  server: 152.67.218.38
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  uuid: b5e9480a-b7aa-40a4-f9a7-5299b5e363b4
+  ws-opts:
+    path: /
+- cipher: aes-256-cfb
+  name: 27|🇰🇷KR-43.200.245.35-3125
+  password: amazonskr05
+  port: 443
+  server: 43.200.245.35
+  type: ss
+- cipher: aes-128-gcm
+  name: 27|🇰🇷KR-129.154.222.205-5310
+  password: 3a308d5f-72a3-42c0-88a8-549f8ebb5713
+  port: 32702
+  server: 129.154.222.205
+  type: ss
+- name: 27|🇰🇷KR-121.78.213.3-7270
+  password: KLF0qOU0ZZGw5Tnu
+  port: 443
+  server: 121.78.213.3
+  skip-cert-verify: false
+  sni: swift.protocolbuffer.com
+  type: trojan
+- alterId: 0
+  cipher: auto
+  name: 27|🇰🇷KR-1.238.102.214-7289
+  network: ws
+  port: 30001
+  server: 1.238.102.214
+  servername: p3.chigua.tk
+  skip-cert-verify: false
+  tls: true
+  type: vmess
+  uuid: ffffffff-ffff-ffff-ffff-ffffffffffff
+  ws-opts:
+    path: /vmess
 - alpn:
   - http/1.1
   name: 28|[OpenRay] 🇰🇷KR-122

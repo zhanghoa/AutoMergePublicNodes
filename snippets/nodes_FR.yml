@@ -1,78 +1,78 @@
 proxies:
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 🩸 #8'
+  name: '10,21| By EbraSha 💻 #8'
   password: 8zw5j9h
   port: 443
   server: 54.36.174.134
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 🧬 #3'
+  name: 10,21,27|🇫🇷FR-161.97.68.139-6531
   password: 94dvoW0TdKRq
   port: 443
   server: 161.97.68.139
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 🔌 #7'
+  name: '10,21| By EbraSha 📶 #9'
   password: ytw2awn
   port: 443
   server: 54.36.174.140
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: 10,19,20,21,28,30,34|🇫🇷FR_2309|2.2MB/s|B007-260618 ...
+  name: 10,19,20,21,27,28,30,34|🇫🇷FR_2309|2.2MB/s|B007-260618 ...
   password: BqnqToih0PbU
   port: 8388
   server: 51.255.13.232
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 🧬 #4'
+  name: 10,21,27|🇫🇷FR-161.97.66.81-7203
   password: E4gyHkKwJGyG
   port: 443
   server: 161.97.66.81
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 🌃 #6'
+  name: '10,21| By EbraSha ♦️ #11'
   password: G!yBwPWH3Vao
   port: 800
   server: 141.95.0.23
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 🛸 #7'
+  name: '10,21| By EbraSha 🧲 #5'
   password: G!yBwPWH3Vao
   port: 810
   server: 141.95.0.23
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 🖥️ #11'
+  name: '10,21| By EbraSha 📀 #12'
   password: G!yBwPWH3Vao
   port: 809
   server: 163.172.110.153
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 🦇 #13'
+  name: '10,21| By EbraSha ♠️ #7'
   password: G!yBwPWH3Vao
   port: 803
   server: 95.85.90.181
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 🃏 #4'
+  name: '10,21| By EbraSha ⚙️ #9'
   password: G!yBwPWH3Vao
   port: 804
   server: 95.85.90.181
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 🌍 #9'
+  name: '10,21| By EbraSha 🚀 #8'
   password: G!yBwPWH3Vao
   port: 810
   server: 95.85.90.181
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 💣 #15'
+  name: 10,21,27|🇫🇷FR-141.95.160.152-8247
   password: N2Y5Y
   port: 8388
   server: 141.95.160.152
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 🌌 #9'
+  name: '10,21| By EbraSha 🔥 #8'
   password: diOMBU5IDvJcFqyNPbRjYR
   port: 10443
   server: 137.74.119.18
@@ -84,13 +84,13 @@ proxies:
   server: 173.212.251.231
   type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha 🦇 #18'
+  name: '10,21| By EbraSha 🧩 #13'
   password: '!!str 4415934295'
   port: 50004
   server: 62.210.213.6
   type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha 🔮 #14'
+  name: '10,21| By EbraSha 📟 #19'
   password: '!!str 7122910143'
   port: 50007
   server: 135.125.236.229
@@ -114,13 +114,13 @@ proxies:
   server: 52.47.99.71
   type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha 🔋 #17'
+  name: '10,21| By EbraSha 🚀 #18'
   password: amazonskr05
   port: 443
   server: 15.237.138.120
   type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha 📱 #10'
+  name: '10,21| By EbraSha 🎯 #16'
   password: amazonskr05
   port: 443
   server: 35.181.4.41
@@ -132,187 +132,187 @@ proxies:
   server: 51.44.86.16
   type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha 🛡️ #16'
+  name: 10,21,27|🇫🇷FR-162.19.59.160-8103
   password: asdKkaskJKfnsa
   port: 443
   server: 162.19.59.160
   type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha 💎 #19'
+  name: 10,21,27|🇫🇷FR-162.19.59.161-8102
   password: asdKkaskJKfnsa
   port: 443
   server: 162.19.59.161
   type: ss
 - cipher: aes-256-cfb
-  name: '10|🇫🇷 [ Configs by DukeMehdi ] SS... #24'
+  name: 10,27|🇫🇷FR-162.19.59.162-8101
   password: asdKkaskJKfnsa
   port: 443
   server: 162.19.59.162
   type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha 🚀 #24'
+  name: '10,21| By EbraSha 🩸 #20'
   password: f8f7aCzcPKbsF8p3
   port: 989
   server: 54.37.139.110
   type: ss
 - cipher: aes-256-gcm
-  name: '10,21| By EbraSha 🧠 #16'
+  name: '10,21| By EbraSha 🃏 #15'
   password: 7NuB0Y5m3aNzkKMKlFoMwkiajsu6F36c9ok4VKEZnB4=
   port: 2083
   server: 162.19.254.232
   type: ss
 - cipher: aes-256-gcm
-  name: '10,21| By EbraSha 📼 #15'
+  name: '10,21| By EbraSha 💻 #18'
   password: FWrXcxPZjJxAN89xLgqY3Acp
   port: 44236
   server: 138.199.16.135
   type: ss
 - cipher: aes-256-gcm
-  name: '10,21| By EbraSha 🔋 #21'
+  name: '10,21| By EbraSha 🪖 #17'
   password: FoOiGlkAA9yPEGP
   port: 7306
   server: 188.165.32.235
   type: ss
 - cipher: aes-256-gcm
-  name: '10,21| By EbraSha 🛸 #22'
+  name: '10,21| By EbraSha 🌌 #12'
   password: FoOiGlkAA9yPEGP
   port: 7306
   server: 54.38.72.170
   type: ss
 - cipher: aes-256-gcm
-  name: '10,21| By EbraSha 🌪️ #24'
+  name: '10,21| By EbraSha ♦️ #19'
   password: FjG3IPbny+0ZYU4/p1vULP84GcKpGoZpWKAay16VhIw=
   port: 2083
   server: 51.254.128.106
   type: ss
 - cipher: aes-256-gcm
-  name: '10,21| By EbraSha 🕷️ #22'
+  name: 10,21,27|🇫🇷FR-149.202.82.172-5886
   password: KixLvKzwjekG00rm
   port: 5500
   server: 149.202.82.172
   type: ss
 - cipher: aes-256-gcm
-  name: '10,21| By EbraSha 🔮 #19'
+  name: 10,21,27|🇫🇷FR-149.202.82.172-0305
   password: KixLvKzwjekG00rm
   port: 8080
   server: 149.202.82.172
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇫🇷 [ Configs by DukeMehdi ] SS... #33'
+  name: 10,27|🇫🇷FR-149.202.82.172-5890
   password: PCnnH6SQSnfoS27
   port: 8091
   server: 149.202.82.172
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇫🇷 [ Configs by DukeMehdi ] SS... #34'
+  name: 10,27|🇫🇷FR-149.202.82.172-5900
   password: RexnBgU7EV5ADxG
   port: 7001
   server: 149.202.82.172
   type: ss
 - cipher: aes-256-gcm
-  name: '10,21| By EbraSha 💎 #27'
+  name: 10,21,27|🇫🇷FR-149.202.82.172-0300
   password: TEzjfAYq2IjtuoS
   port: 6697
   server: 149.202.82.172
   type: ss
 - cipher: aes-256-gcm
-  name: '10,21| By EbraSha 📛 #22'
+  name: 10,21,27|🇫🇷FR-149.202.82.172-5893
   password: XKFKl2rULjIp74
   port: 8009
   server: 149.202.82.172
   type: ss
 - cipher: aes-256-gcm
-  name: '10,21| By EbraSha 🛸 #27'
+  name: '10,21| By EbraSha 🩸 #28'
   password: XKFKl2rULjIp74
   port: 8009
   server: 188.165.32.235
   type: ss
 - cipher: aes-256-gcm
-  name: '10,21| By EbraSha 🤖 #24'
+  name: 10,21,27|🇫🇷FR-149.202.82.172-5884
   password: Y6R9pAtvxxzmGC
   port: 3306
   server: 149.202.82.172
   type: ss
 - cipher: aes-256-gcm
-  name: '10,21| By EbraSha 🕶️ #25'
+  name: 10,21,27|🇫🇷FR-149.202.82.172-5892
   password: Y6R9pAtvxxzmGC
   port: 3389
   server: 149.202.82.172
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇫🇷 [ Configs by DukeMehdi ] SS... #40'
+  name: 10,27|🇫🇷FR-149.202.82.172-5891
   password: Y6R9pAtvxxzmGC
   port: 5001
   server: 149.202.82.172
   type: ss
 - cipher: aes-256-gcm
-  name: '10,21| By EbraSha 👑 #22'
+  name: 10,21,27|🇫🇷FR-149.202.82.172-2420
   password: Y6R9pAtvxxzmGC
   port: 5600
   server: 149.202.82.172
   type: ss
 - cipher: aes-256-gcm
-  name: '10,21| By EbraSha ♠️ #34'
+  name: '10,21| By EbraSha ⚔️ #30'
   password: Y6R9pAtvxxzmGC
   port: 5601
   server: 149.202.82.172
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇫🇷 [ Configs by DukeMehdi ] SS... #43'
+  name: 10,27|🇫🇷FR-149.202.82.172-5907
   password: cdBIDV42DCwnfIN
   port: 8118
   server: 149.202.82.172
   type: ss
 - cipher: aes-256-gcm
-  name: '10,21| By EbraSha 🩸 #27'
+  name: 10,21,27|🇫🇷FR-149.202.82.172-5883
   password: cdBIDV42DCwnfIN
   port: 8119
   server: 149.202.82.172
   type: ss
 - cipher: aes-256-gcm
-  name: '10,21| By EbraSha ⛓️ #33'
+  name: 10,21,27|🇫🇷FR-54.36.174.181-5712
   password: cdBIDV42DCwnfIN
   port: 8119
   server: 54.36.174.181
   type: ss
 - cipher: aes-256-gcm
-  name: '10,21| By EbraSha 🔮 #25'
+  name: 10,21,27|🇫🇷FR-195.154.200.150-0296
   password: faBAoD54k87UJG7
   port: 2376
   server: 195.154.200.150
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇫🇷 [ Configs by DukeMehdi ] SS... #47'
+  name: 10,27|🇫🇷FR-149.202.82.172-5888
   password: kDWvXYZoTBcGkC4
   port: 8881
   server: 149.202.82.172
   type: ss
 - cipher: aes-256-gcm
-  name: '10,21| By EbraSha 👾 #29'
+  name: '10,21| By EbraSha ♠️ #32'
   password: itzvpn@321
   port: 8388
   server: 51.83.192.80
   type: ss
 - cipher: aes-256-gcm
-  name: '10,21| By EbraSha ⌨️ #29'
+  name: 10,21,27|🇫🇷FR-195.154.200.150-5895
   password: pKEW8JPByTVTLtM
   port: 443
   server: 195.154.200.150
   type: ss
 - cipher: aes-256-gcm
-  name: '10,21| By EbraSha 🪖 #33'
+  name: '10,21| By EbraSha 👑 #33'
   password: pX0uhU3ZjUcLWYs0Vez55BO3JoQrRlL
   port: 17000
   server: 141.227.134.63
   type: ss
 - cipher: aes-256-gcm
-  name: '10,21| By EbraSha ⌨️ #30'
+  name: '10,21| By EbraSha 🧪 #24'
   password: t2JnnFqjDMmzWurseJPgBsYY
   port: 47553
   server: 185.166.84.79
   type: ss
 - cipher: aes-256-gcm
-  name: '10,21| By EbraSha 🥷 #23'
+  name: '10,21| By EbraSha 🔌 #27'
   password: zDNVedRFPQexG9v
   port: 6379
   server: 149.202.82.172
@@ -323,7 +323,7 @@ proxies:
   server: 51.195.219.173
   sni: 'ukt1.sshocean.net '
   type: trojan
-- name: '10,21| By EbraSha 💎 #39'
+- name: '10,21| By EbraSha 🧨 #37'
   network: tcp
   password: 364d3aa0-58fc-11ed-b738-225401db9d57
   port: 443
@@ -331,10 +331,11 @@ proxies:
   skip-cert-verify: true
   sni: ebank.bmi.ir
   type: trojan
-- name: '10,21| By EbraSha 🌪️ #37'
+- name: 10,21,27|🇫🇷FR-141.94.76.177-3228
   password: 6e3b4240-38f9-4321-9b3c-bc669a34b848
   port: 443
   server: 141.94.76.177
+  skip-cert-verify: false
   type: trojan
 - name: '10|🇫🇷 [ Configs by DukeMehdi ] TJ... #3'
   network: tcp
@@ -385,22 +386,22 @@ proxies:
   server: 88.218.78.20
   sni: 'Koma-YT.PAGeS.Dev '
   type: trojan
-- name: '10,21| By EbraSha 🥷 #32'
+- name: 10,21,27|🇫🇷FR-51.77.213.197-4769
   network: tcp
   password: 973ed2e0-c4d8-4737-a093-71629148086d
   port: 443
   server: 51.77.213.197
-  skip-cert-verify: true
+  skip-cert-verify: false
   sni: frt2.sshocean.net
   type: trojan
-- name: '10,21| By EbraSha 🧿 #34'
+- name: '10,21| By EbraSha 🔐 #41'
   network: tcp
   password: ND91608427
   port: 443
   server: 15.237.137.197
   sni: fancy-skink.rooster465.autos
   type: trojan
-- name: '10,21| By EbraSha 🪬 #52'
+- name: '10,21| By EbraSha 🤖 #58'
   network: tcp
   password: af4b064a9c39472fb34ad8b113acdc6b
   port: 443
@@ -408,22 +409,22 @@ proxies:
   skip-cert-verify: true
   sni: 162.19.10.218
   type: trojan
-- name: '10,21| By EbraSha 🌪️ #53'
+- name: '10,21| By EbraSha 🚨 #52'
   network: tcp
   password: af6a3685-c423-4579-bfea-784c453d5e23
   port: 443
   server: 146.59.3.14
   skip-cert-verify: true
   type: trojan
-- name: '10,21| By EbraSha 🌀 #52'
+- name: 10,21,27|🇫🇷FR-51.38.99.96-2092
   network: tcp
   password: b8808043-6566-4923-9195-e66bfb553d57
   port: 443
   server: 51.38.99.96
-  skip-cert-verify: true
+  skip-cert-verify: false
   sni: ba24.ir
   type: trojan
-- name: '10,21| By EbraSha 🔥 #45'
+- name: '10,21| By EbraSha 🦅 #52'
   network: tcp
   password: b91cce7b-eda6-40be-b715-794bde77a0b3
   port: 443
@@ -431,7 +432,7 @@ proxies:
   skip-cert-verify: true
   sni: dl-media.viber.com
   type: trojan
-- name: '10,21| By EbraSha 💣 #62'
+- name: '10,21| By EbraSha 🌀 #58'
   network: tcp
   password: bpb-trojan
   port: 443
@@ -439,7 +440,7 @@ proxies:
   skip-cert-verify: true
   sni: bpb.my79801.com
   type: trojan
-- name: '10,21| By EbraSha 📼 #55'
+- name: '10,21| By EbraSha 🚀 #56'
   network: tcp
   password: d2adff89-5143-4d67-921f-3478464de5bb
   port: 443
@@ -453,7 +454,7 @@ proxies:
   server: 51.91.11.29
   sni: 'asriran.com '
   type: trojan
-- name: '10,21| By EbraSha 💻 #68'
+- name: '10,21| By EbraSha 🧊 #60'
   network: tcp
   password: e30dbfd0-f15a-11ed-9080-1239d0255272
   port: 443
@@ -471,7 +472,7 @@ proxies:
     headers:
       Host: 51.75.118.18
     path: '/alibodama-trojan '
-- name: '10,21| By EbraSha ✨ #56'
+- name: '10,21| By EbraSha 🔐 #54'
   network: tcp
   password: hCunaKqdEJDBO+3jCrJUSMevXOw9Q_r4Ey
   port: 443
@@ -516,12 +517,99 @@ proxies:
   server: 35.180.36.215
   sni: 'trj.rollingnext.co.uk '
   type: trojan
-- name: '10,21| By EbraSha 👾 #62'
+- name: 10,21,27|🇫🇷FR-146.19.230.241-3265
   password: xxoo
   port: 443
   server: 146.19.230.241
+  skip-cert-verify: false
   type: trojan
-- name: '19,20,21,28,30|🇫🇷[www.v2nodes.com] trojan-FR-... #15'
+- name: 13|FR法国丨yoyapai.com
+  password: humanity
+  port: 443
+  server: 104.16.174.36
+  skip-cert-verify: false
+  sni: www.ignitelimit.com
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: www.ignitelimit.com
+    path: /assignment
+- name: 13|🇫🇷法国丨yoyapai.com
+  password: humanity
+  port: 443
+  server: 104.18.152.73
+  skip-cert-verify: false
+  sni: www.ignitelimit.com
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: www.ignitelimit.com
+    path: /assignment
+- name: 13|🇫🇷FR法國丨yoyapai.com
+  password: humanity
+  port: 443
+  server: www.speedtest.org
+  skip-cert-verify: false
+  sni: www.ignitelimit.com
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- name: 13|🇫🇷法国丨yoyapai.com_2
+  password: humanity
+  port: 443
+  server: 104.18.22.63
+  skip-cert-verify: false
+  sni: www.ignitelimit.com
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- name: 13|🇨🇦CA加拿大丨yoyapai.com_16
+  password: humanity
+  port: 443
+  server: 104.18.152.133
+  skip-cert-verify: false
+  sni: www.ignitelimit.com
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- name: 13|🇫🇷FR法国丨yoyapai.com_4
+  password: humanity
+  port: 443
+  server: 104.26.15.137
+  skip-cert-verify: false
+  sni: www.ignitelimit.com
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: www.ignitelimit.com
+    path: /assignment
+- name: 13|❓未知丨yoyapai.com_18
+  password: humanity
+  port: 443
+  server: 104.17.111.4
+  skip-cert-verify: false
+  sni: www.ignitelimit.com
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- name: 13|🇫🇷FR法国丨yoyapai.com
+  password: humanity
+  port: 443
+  server: 104.18.152.207
+  skip-cert-verify: false
+  sni: www.ignitelimit.com
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- name: '19,20,21,27,28,30|🇫🇷[www.v2nodes.com] trojan-FR-... #15'
   network: ws
   password: humanity
   port: 443
@@ -533,7 +621,7 @@ proxies:
     headers:
       Host: www.calmlunch.com
     path: /assignment
-- name: '19,20,21,28,30|🇫🇷[www.v2nodes.com] trojan-FR-... #20'
+- name: '19,20,21,27,28,30|🇫🇷[www.v2nodes.com] trojan-FR-... #20'
   network: ws
   password: humanity
   port: 2053
@@ -545,7 +633,7 @@ proxies:
     headers:
       Host: www.calmlunch.com
     path: /assignment
-- name: '19,20,28,30|🇫🇷[www.v2nodes.com] trojan-FR-... #21'
+- name: '19,20,27,28,30|🇫🇷[www.v2nodes.com] trojan-FR-... #21'
   network: ws
   password: humanity
   port: 443
@@ -557,10 +645,11 @@ proxies:
     headers:
       Host: www.calmlunch.com
     path: '%2Fassignment'
-- name: '19,20,30|🇫🇷[www.v2nodes.com] trojan-FR-... #22'
+- name: '19,20,27,30|🇫🇷[www.v2nodes.com] trojan-FR-... #22'
   password: humanity
   port: 443
   server: 165.215.250.14
+  skip-cert-verify: false
   type: trojan
   ws-opts:
     path: '%2Fassignment'
@@ -578,13 +667,231 @@ proxies:
     headers:
       Host: www.calmlunch.com
     path: /assignment
+- cipher: chacha20-ietf-poly1305
+  name: 27,34|🇬🇧GB_78|2.3MB/s|A004-260618 01
+  password: zRZNBszYyWo5
+  port: 8388
+  server: 51.77.225.200
+  type: ss
+- alterId: 0
+  cipher: auto
+  name: 27|🇫🇷FR-51.77.212.145-0361
+  network: ws
+  port: 80
+  server: 51.77.212.145
+  servername: 51.77.212.145
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  uuid: 5f6e42bb-2fd1-478b-8f0f-e52b2d6f7652
+  ws-opts:
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: 27|🇫🇷FR-146.59.43.129-0811
+  network: ws
+  port: 443
+  server: 146.59.43.129
+  skip-cert-verify: false
+  tls: true
+  type: vmess
+  uuid: 54c6c823-4957-4c6c-b10c-359bc51f7cc3
+  ws-opts:
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 27|🇫🇷FR-172.232.50.230-1132
+  network: ws
+  port: 443
+  server: 172.232.50.230
+  skip-cert-verify: false
+  tls: true
+  type: vmess
+  uuid: 76221bfb-e92f-4e80-81c5-6fe48f50ac0b
+  ws-opts:
+    headers:
+      Host: glweidf.sbs
+    path: /linkws
+- alterId: 0
+  cipher: auto
+  name: 27|🇫🇷FR-45.145.165.114-1133
+  network: ws
+  port: 443
+  server: 45.145.165.114
+  skip-cert-verify: false
+  tls: true
+  type: vmess
+  uuid: 9b456c2a-f2c1-45e1-87a9-b7628b04bb24
+  ws-opts:
+    headers:
+      Host: beyonddsz.cfd
+    path: /linkws
+- alterId: 0
+  cipher: auto
+  name: 27|🇫🇷FR-146.19.168.161-1139
+  network: ws
+  port: 443
+  server: 146.19.168.161
+  skip-cert-verify: false
+  tls: true
+  type: vmess
+  uuid: 3f638f34-8dba-4186-bc43-2716a7ddd4be
+  ws-opts:
+    headers:
+      Host: az05.beyondy.cfd
+    path: /link
+- alterId: 0
+  cipher: auto
+  name: 27|🇫🇷FR-146.59.55.50-1149
+  network: ws
+  port: 443
+  server: 146.59.55.50
+  skip-cert-verify: false
+  tls: true
+  type: vmess
+  uuid: 03fcc618-b93d-6796-6aed-8a38c975d581
+  ws-opts:
+    headers:
+      Host: o.metuji.com
+    path: /linkvws
+- alterId: 0
+  cipher: chacha20-poly1305
+  grpc-opts:
+    grpc-service-name: /
+  name: 27|🇫🇷FR-146.70.158.111-8232
+  network: grpc
+  port: 443
+  server: 146.70.158.111
+  servername: ''
+  skip-cert-verify: false
+  tls: true
+  type: vmess
+  uuid: 11ae0edd-2f63-4495-8683-037abbda9986
+- name: 27|🇫🇷FR-62.210.254.72-3601
+  password: 750a29bf-0a40-437f-b120-38de74ae7eaf
+  port: 28443
+  server: 62.210.254.72
+  skip-cert-verify: false
+  type: trojan
+- cipher: aes-256-cfb
+  name: 27|🇫🇷FR-135.125.244.103-6910
+  password: f8f7aCzcPKbsF8p3
+  port: 989
+  server: 135.125.244.103
+  type: ss
+- grpc-opts:
+    grpc-service-name: M9hnxw1wCQSfVHaiznU
+  name: 27|🇫🇷FR-95.179.217.221-7565
+  network: grpc
+  password: 79770a32-9607-4919-9483-0f1794559390
+  port: 443
+  server: 95.179.217.221
+  skip-cert-verify: false
+  sni: nika2.hdfy2.foriran.trade
+  type: trojan
+- name: 27|🇫🇷FR-51.91.11.29-7611
+  password: e0d44ae7-cb7d-4acc-a8c0-9861a6f5eaad
+  port: 80
+  server: 51.91.11.29
+  skip-cert-verify: false
+  sni: namayesh.com
+  type: trojan
+- name: 27|🇫🇷FR-51.91.11.29-7617
+  password: e0d44ae7-cb7d-4acc-a8c0-9861a6f5eaad
+  port: 80
+  server: 51.91.11.29
+  skip-cert-verify: false
+  sni: softsaaz.ir
+  type: trojan
+- alterId: 0
+  cipher: auto
+  name: 27|🇫🇷FR-51.38.82.132-7629
+  network: ws
+  port: 80
+  server: 51.38.82.132
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  uuid: aca76f27-cda3-47f7-af79-7873034fd3bc
+  ws-opts:
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: 27|🇫🇷FR-172.232.44.160-8095
+  network: ws
+  port: 443
+  server: 172.232.44.160
+  skip-cert-verify: false
+  tls: true
+  type: vmess
+  uuid: cae7fe63-6ff7-4443-b532-019fee32a119
+  ws-opts:
+    path: /vmess
+- cipher: aes-256-cfb
+  name: 27|🇫🇷FR-162.19.59.165-8099
+  password: asdKkaskJKfnsa
+  port: 443
+  server: 162.19.59.165
+  type: ss
+- name: 27|🇫🇷FR-15.237.50.200-8211
+  password: telegram-id-privatevpns
+  port: 22222
+  server: 15.237.50.200
+  skip-cert-verify: false
+  sni: trj.rollingnext.co.uk
+  type: trojan
+- name: 27|🇫🇷FR-15.236.122.160-8217
+  password: telegram-id-privatevpns
+  port: 22222
+  server: 15.236.122.160
+  skip-cert-verify: false
+  sni: trj.rollingnext.co.uk
+  type: trojan
+- name: 27|🇫🇷FR-146.70.158.111-8231
+  network: ws
+  password: 11ae0edd-2f63-4495-8683-037abbda9986
+  port: 443
+  server: 146.70.158.111
+  skip-cert-verify: false
+  sni: amin.karkas1.ir
+  type: trojan
+  ws-opts:
+    headers:
+      Host: amin.karkas1.ir
+    path: /6vuNVgOFnqUEvj0sNkGkxxW7
+- name: 27|🇫🇷FR-146.19.230.241-8234
+  password: xxoo
+  port: 443
+  server: 146.19.230.241
+  skip-cert-verify: false
+  sni: loader.tapsell.ir
+  type: trojan
+- name: 27|🇫🇷FR-146.19.230.241-8238
+  password: xxoo
+  port: 443
+  server: 146.19.230.241
+  skip-cert-verify: false
+  sni: bmi.ir
+  type: trojan
+- alterId: 0
+  cipher: auto
+  name: 27|🇫🇷FR-141.95.55.70-8246
+  network: ws
+  port: 80
+  server: 141.95.55.70
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  uuid: 2496f711-f6c5-40ee-b9a3-972241fb09d4
+  ws-opts:
+    path: /
 - name: 29|🇫🇷FR_3|1.3MB/s
   password: PQ05174892
   port: 443
   server: lucky-marmot.rooster465.autos
   skip-cert-verify: true
   type: trojan
-- name: 34|🇫🇷FR法国丨yoyapai.com
+- name: '34|🇫🇷FR法国丨yoyapai.com #1'
   network: ws
   password: humanity
   port: 443

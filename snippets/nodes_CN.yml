@@ -1,1 +1,25 @@
-proxies: []
+proxies:
+- alterId: 0
+  cipher: auto
+  name: 27|🇨🇳CN-59.63.154.101-1407
+  network: ws
+  port: 43815
+  server: blog.voewl.com
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  uuid: 7a9f026f-f7a8-40ca-f2f9-3b380c287c0d
+  ws-opts:
+    headers:
+      Host: blog.voewl.com
+    path: /abc
+- cipher: chacha20-ietf
+  name: 27|🇨🇳CN-120.232.206.251-5043
+  obfs: plain
+  obfs-param: ''
+  password: mblank1port
+  port: 561
+  protocol: auth_aes128_md5
+  protocol-param: 55956:111111
+  server: eduall.buzzline.org
+  type: ssr

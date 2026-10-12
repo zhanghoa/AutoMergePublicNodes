@@ -27,7 +27,7 @@ proxies:
   sni: t.me%252Fripaojiedian
   type: trojan
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 🛡️ #6'
+  name: 10,21,27|🇸🇬SG-51.79.161.232-7625
   password: 4Hub2f9JyhECyAq2Opm0NS
   port: 443
   server: 51.79.161.232
@@ -39,13 +39,13 @@ proxies:
   server: 13.212.141.33
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 🧨 #9'
+  name: '10,21| By EbraSha 🦂 #6'
   password: 7e68e32f-8015-4f37-9082-70e8b0b58043
   port: 8443
   server: 47.129.227.153
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 🕹️ #9'
+  name: '10,21| By EbraSha 🧩 #6'
   password: 7e68e32f-8015-4f37-9082-70e8b0b58043
   port: 8443
   server: 13.212.109.205
@@ -57,7 +57,7 @@ proxies:
   server: 13.212.173.211
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 🚬 #8'
+  name: '10,21| By EbraSha 🩸 #7'
   password: 7e68e32f-8015-4f37-9082-70e8b0b58043
   port: 8443
   server: 13.212.248.1
@@ -75,67 +75,67 @@ proxies:
   server: 54.179.192.171
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 🩸 #7'
+  name: '10,21| By EbraSha ⚙️ #3'
   password: 7e68e32f-8015-4f37-9082-70e8b0b58043
   port: 8443
   server: 54.255.177.5
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha ✨ #7'
+  name: '10,21| By EbraSha 📀 #8'
   password: 24Wk2NSszrfHn22zem1lYV
   port: 37708
   server: 188.166.220.70
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 🕷️ #8'
+  name: '10,21| By EbraSha 📀 #9'
   password: 2db985f6-21bf-40c2-a4f1-4ce2cf90b1c2
   port: 8443
   server: 13.229.204.74
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 🕹️ #12'
+  name: '10,21| By EbraSha 🦇 #6'
   password: DAl6fKaoiAVK64kyuaYFaQ
   port: 443
   server: 45.130.165.90
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10|🇸🇬 [ Configs by DukeMehdi ] SS... #17'
+  name: 10,27|🇸🇬SG-217.197.161.136-7841
   password: G!yBwPWH3Vao
   port: 803
   server: 217.197.161.136
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 🔋 #6'
+  name: 10,21,27|🇸🇬SG-217.197.161.138-7837
   password: G!yBwPWH3Vao
   port: 802
   server: 217.197.161.138
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 🥷 #5'
+  name: 10,21,27|🇸🇬SG-217.197.161.138-7839
   password: G!yBwPWH3Vao
   port: 804
   server: 217.197.161.138
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 🌪️ #7'
+  name: 10,21,27|🇸🇬SG-217.197.161.138-7836
   password: G!yBwPWH3Vao
   port: 807
   server: 217.197.161.138
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 💣 #13'
+  name: 10,21,27|🇸🇬SG-217.197.161.138-7835
   password: G!yBwPWH3Vao
   port: 811
   server: 217.197.161.138
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10|🇸🇬 [ Configs by DukeMehdi ] SS... #22'
+  name: 10,27|🇸🇬SG-81.90.189.41-5985
   password: G!yBwPWH3Vao
   port: 801
   server: 81.90.189.41
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 📛 #8'
+  name: '10,21| By EbraSha 🚨 #6'
   password: G!yBwPWH3Vao
   port: 810
   server: 81.90.189.57
@@ -147,7 +147,7 @@ proxies:
   server: 45.32.122.179
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 🚧 #9'
+  name: '10,21| By EbraSha ⚔️ #10'
   password: TFElG2FVqyqG
   port: 8388
   server: 176.97.64.144
@@ -159,7 +159,7 @@ proxies:
   server: 194.233.74.160
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 🔮 #12'
+  name: '10,21| By EbraSha 💎 #10'
   password: gTYdduTTEBBdVZ4LcBnT
   port: 8389
   server: 84.17.38.144
@@ -171,252 +171,252 @@ proxies:
   server: 103.36.91.32
   type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha 🛜 #14'
+  name: 10,21,27|🇸🇬SG-165.232.169.142-7236
   password: 1e5111699c45496da84112f35db665c4
   port: 29332
   server: 165.232.169.142
   type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha 🧿 #11'
+  name: '10,21| By EbraSha 🪐 #17'
   password: '!!str 4415934295'
   port: 50004
   server: 51.79.157.58
   type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha 🛡️ #13'
+  name: '10,21| By EbraSha 🤖 #15'
   password: '!!str 4415934295'
   port: 50004
   server: 51.79.166.171
   type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha 🧠 #15'
+  name: 10,21,27|🇸🇬SG-103.172.116.6-7344
   password: 9XwYyZsK8SNzQDtY
   port: 9059
   server: 103.172.116.6
   type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha 🦈 #10'
+  name: 10,21,27|🇸🇬SG-103.172.116.6-7343
   password: HSZuyJQcWe8dxNdF
   port: 9043
   server: 103.172.116.6
   type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha 🦅 #13'
+  name: 10,21,27|🇸🇬SG-103.172.116.6-7349
   password: M3t2ZEQcMGRWBjRa
   port: 9011
   server: 103.172.116.6
   type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha 🧨 #16'
+  name: 10,21,27|🇸🇬SG-103.172.116.5-7348
   password: QWDDvVE9npNurQfA
   port: 9026
   server: 103.172.116.5
   type: ss
 - cipher: aes-256-cfb
-  name: '10|🇸🇬 [ Configs by DukeMehdi ] SS... #36'
+  name: 10,27|🇸🇬SG-103.172.116.6-7340
   password: UWZQeLRWnkqgkseq
   port: 9032
   server: 103.172.116.6
   type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha 🌃 #15'
+  name: 10,21,27|🇸🇬SG-103.172.116.5-7341
   password: aLpQtfEZe445QyHk
   port: 9098
   server: 103.172.116.5
   type: ss
 - cipher: aes-256-cfb
-  name: '10|🇸🇬 [ Configs by DukeMehdi ] SS... #38'
+  name: 10,27|🇸🇬SG-13.212.199.120-8313
   password: amazonskr05
   port: 443
   server: 13.212.199.120
   type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha 🧲 #15'
+  name: 10,21,27|🇸🇬SG-13.213.2.160-4608
   password: amazonskr05
   port: 443
   server: 13.213.2.160
   type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha 🔋 #15'
+  name: 10,21,27|🇸🇬SG-13.215.163.54-3062
   password: amazonskr05
   port: 443
   server: 13.215.163.54
   type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha 🗿 #21'
+  name: 10,21,27|🇸🇬SG-13.215.173.2-2931
   password: amazonskr05
   port: 443
   server: 13.215.173.2
   type: ss
 - cipher: aes-256-cfb
-  name: '10|🇸🇬 [ Configs by DukeMehdi ] SS... #42'
+  name: 10,27|🇸🇬SG-13.215.174.243-3675
   password: amazonskr05
   port: 443
   server: 13.215.174.243
   type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha 🦾 #15'
+  name: 10,21,27|🇸🇬SG-13.215.177.216-2270
   password: amazonskr05
   port: 443
   server: 13.215.177.216
   type: ss
 - cipher: aes-256-cfb
-  name: '10|🇸🇬 [ Configs by DukeMehdi ] SS... #44'
+  name: 10,27|🇸🇬SG-13.215.191.190-2120
   password: amazonskr05
   port: 443
   server: 13.215.191.190
   type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha 🛡️ #15'
+  name: 10,21,27|🇸🇬SG-13.215.200.86-4527
   password: amazonskr05
   port: 443
   server: 13.215.200.86
   type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha 🪬 #15'
+  name: 10,21,27|🇸🇬SG-13.215.49.89-2415
   password: amazonskr05
   port: 443
   server: 13.215.49.89
   type: ss
 - cipher: aes-256-cfb
-  name: '10|🇸🇬 [ Configs by DukeMehdi ] SS... #47'
+  name: 10,27|🇸🇬SG-13.250.46.178-4404
   password: amazonskr05
   port: 443
   server: 13.250.46.178
   type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha 📱 #9'
+  name: 10,21,27|🇸🇬SG-13.250.54.18-4503
   password: amazonskr05
   port: 443
   server: 13.250.54.18
   type: ss
 - cipher: aes-256-cfb
-  name: '10|🇸🇬 [ Configs by DukeMehdi ] SS... #49'
+  name: 10,27|🇸🇬SG-18.141.183.204-4468
   password: amazonskr05
   port: 443
   server: 18.141.183.204
   type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha 🪖 #14'
+  name: 10,21,27|🇸🇬SG-18.142.183.235-4547
   password: amazonskr05
   port: 443
   server: 18.142.183.235
   type: ss
 - cipher: aes-256-cfb
-  name: '10|🇸🇬 [ Configs by DukeMehdi ] SS... #51'
+  name: 10,27|🇸🇬SG-3.0.148.195-3236
   password: amazonskr05
   port: 443
   server: 3.0.148.195
   type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha 🥷 #13'
+  name: 10,21,27|🇸🇬SG-54.251.168.143-5420
   password: amazonskr05
   port: 443
   server: 54.251.168.143
   type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha 📼 #13'
+  name: 10,21,27|🇸🇬SG-54.254.129.246-7609
   password: amazonskr05
   port: 443
   server: 54.254.129.246
   type: ss
 - cipher: aes-256-cfb
-  name: '10|🇸🇬 [ Configs by DukeMehdi ] SS... #54'
+  name: 10,27|🇸🇬SG-54.254.199.122-3380
   password: amazonskr05
   port: 443
   server: 54.254.199.122
   type: ss
 - cipher: aes-256-cfb
-  name: '10|🇸🇬 [ Configs by DukeMehdi ] SS... #55'
+  name: 10,27|🇸🇬SG-103.172.116.5-7346
   password: c3NtHJ5ujV2tGDfj
   port: 9084
   server: 103.172.116.5
   type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha 📼 #14'
+  name: '10,21| By EbraSha ⛓️ #21'
   password: f8f7aCzcPKbsF8p3
   port: 989
   server: 194.233.65.67
   type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha 🛜 #17'
+  name: 10,21,27|🇸🇬SG-103.172.116.5-7342
   password: y9VURyNzJWNRYEGQ
   port: 9008
   server: 103.172.116.5
   type: ss
 - cipher: aes-256-gcm
-  name: '10,21| By EbraSha ♦️ #22'
+  name: '10,21| By EbraSha 🔮 #26'
   password: TEzjfAYq2IjtuoS
   port: 6679
   server: 172.104.44.88
   type: ss
 - cipher: aes-256-gcm
-  name: '10,21| By EbraSha 🐺 #20'
+  name: '10,21| By EbraSha 🐉 #34'
   password: XKFKl2rULjIp74
   port: 8009
   server: 172.104.44.88
   type: ss
 - cipher: aes-256-gcm
-  name: '10,21| By EbraSha 💻 #30'
+  name: '10,21| By EbraSha 🔌 #19'
   password: XKFKl2rULjIp74
   port: 8009
   server: 172.104.50.106
   type: ss
 - cipher: aes-256-gcm
-  name: '10,21| By EbraSha 🧊 #25'
+  name: '10,21| By EbraSha ✨ #20'
   password: Y6R9pAtvxxzmGC
   port: 9090
   server: 103.106.229.69
   type: ss
 - cipher: aes-256-gcm
-  name: '10,21| By EbraSha 💣 #37'
+  name: '10,21| By EbraSha 🌍 #20'
   password: Y6R9pAtvxxzmGC
   port: 8888
   server: 139.162.24.50
   type: ss
 - cipher: aes-256-gcm
-  name: '10,21| By EbraSha 🪬 #25'
+  name: '10,21| By EbraSha 🥷 #15'
   password: Y6R9pAtvxxzmGC
   port: 3389
   server: 139.162.58.13
   type: ss
 - cipher: aes-256-gcm
-  name: '10,21| By EbraSha 🧬 #25'
+  name: '10,21| By EbraSha 🔌 #21'
   password: Y6R9pAtvxxzmGC
   port: 5000
   server: 139.99.9.51
   type: ss
 - cipher: aes-256-gcm
-  name: '10,21| By EbraSha 📼 #25'
+  name: '10,21| By EbraSha 🪐 #36'
   password: Y6R9pAtvxxzmGC
   port: 3306
   server: 51.79.178.63
   type: ss
 - cipher: aes-256-gcm
-  name: '10,21| By EbraSha 👾 #21'
+  name: '10,21| By EbraSha 🗿 #23'
   password: cdBIDV42DCwnfIN
   port: 8119
   server: 139.162.58.13
   type: ss
 - cipher: aes-256-gcm
-  name: '10,21| By EbraSha 🎯 #28'
+  name: '10,21| By EbraSha 🪐 #39'
   password: pKEW8JPByTVTLtM
   port: 443
   server: 139.162.58.13
   type: ss
 - cipher: aes-256-gcm
-  name: '10,21| By EbraSha 🧩 #23'
+  name: '10,21| By EbraSha 🧩 #31'
   password: x23Z4LGkGDkThZ9Kaz4DURQp
   port: 40093
   server: 156.146.56.137
   type: ss
 - cipher: aes-256-gcm
-  name: '10,21| By EbraSha 🪖 #35'
+  name: 10,21,27|🇸🇬SG-139.99.68.21-5984
   password: zDNVedRFPQexG9v
   port: 6379
   server: 139.99.68.21
   type: ss
-- name: '10,21| By EbraSha 🚧 #32'
+- name: '10,21| By EbraSha ⚙️ #35'
   network: tcp
   password: '!!str 123456'
   port: 443
@@ -426,7 +426,7 @@ proxies:
   type: trojan
 - alpn:
   - http/1.1
-  name: '10,21| By EbraSha 🌍 #31'
+  name: '10,21| By EbraSha 🌌 #22'
   network: tcp
   password: '!!str 123456'
   port: 443
@@ -440,10 +440,11 @@ proxies:
   server: 15.235.197.4
   sni: '15.235.197.4 '
   type: trojan
-- name: '10,21| By EbraSha 🛡️ #29'
+- name: 10,21,27|🇸🇬SG-43.160.197.160-5437
   password: 38f169d6-d202-4b1b-8db8-e6eb1648f5cf
   port: 443
   server: 43.160.197.160
+  skip-cert-verify: false
   type: trojan
 - name: '10|🇸🇬 [ Configs by DukeMehdi ] TJ... #4'
   network: tcp
@@ -463,10 +464,11 @@ proxies:
     headers:
       Host: node1.bw8848.org
     path: '%2Fnode1-node1-5sczzi'
-- name: '10,21| By EbraSha 🐺 #27'
+- name: 10,21,27|🇸🇬SG-5.44.249.43-6114
   password: 6f0a9d0fa39d65fa
   port: 3389
   server: 5.44.249.43
+  skip-cert-verify: false
   type: trojan
 - name: '10|🇸🇬 [ Configs by DukeMehdi ] TJ... #7'
   network: tcp
@@ -503,7 +505,7 @@ proxies:
   server: 178.128.60.89
   sni: 'Koma-YT.PAGeS.Dev '
   type: trojan
-- name: '10,21| By EbraSha 🛜 #44'
+- name: '10,21| By EbraSha 🕷️ #45'
   network: tcp
   password: 8r<[9'l6hAO#8ZQi
   port: 443
@@ -539,7 +541,7 @@ proxies:
   server: 209.97.171.87
   sni: 'Koma-YT.PAGeS.Dev '
   type: trojan
-- name: '10,21| By EbraSha 🛰️ #35'
+- name: '10,21| By EbraSha 🧲 #39'
   network: tcp
   password: I4bO2YDEgs
   port: 443
@@ -547,7 +549,7 @@ proxies:
   skip-cert-verify: true
   sni: aka.ms
   type: trojan
-- name: '10,21| By EbraSha 🔥 #38'
+- name: '10,21| By EbraSha 🛰️ #45'
   network: tcp
   password: ND91608427
   port: 443
@@ -602,14 +604,14 @@ proxies:
   type: trojan
 - alpn:
   - http/1.1
-  name: '10,21| By EbraSha 🔐 #61'
+  name: '10,21| By EbraSha 🚬 #45'
   network: tcp
   password: d6369144-4fb6-43e5-b9ca-255abf37607d
   port: 443
   server: 139.162.36.248
   skip-cert-verify: true
   type: trojan
-- name: '10,21| By EbraSha 🚬 #59'
+- name: '10,21| By EbraSha 🚧 #51'
   network: tcp
   password: e505ff62-bc60-4113-b922-b40919396462
   port: 443
@@ -630,7 +632,7 @@ proxies:
     path: '%2F'
 - alpn:
   - http/1.1
-  name: '10,21| By EbraSha 🦈 #45'
+  name: '10,21| By EbraSha ⛓️ #58'
   network: ws
   password: humanity
   port: 443
@@ -653,22 +655,25 @@ proxies:
     headers:
       Host: www.creationlong.org
     path: '%2Fassignment'
-- name: '10|🇸🇬 [ Configs by DukeMehdi ] TJ... #40'
+- name: 10,27|🇸🇬SG-13.213.69.245-6084
   password: iyinglong
   port: 443
   server: 13.213.69.245
+  skip-cert-verify: false
   type: trojan
-- name: '10,21| By EbraSha 🚨 #41'
+- name: 10,21,27|🇸🇬SG-18.140.67.76-5991
   password: iyinglong
   port: 443
   server: 18.140.67.76
+  skip-cert-verify: false
   type: trojan
-- name: '10|🇸🇬 [ Configs by DukeMehdi ] TJ... #42'
+- name: 10,27|🇸🇬SG-18.141.8.87-5989
   password: iyinglong
   port: 443
   server: 18.141.8.87
+  skip-cert-verify: false
   type: trojan
-- name: '10,15,21| By EbraSha 🦇 #63'
+- name: '10,15,21| By EbraSha 🧲 #55'
   network: tcp
   password: pvZE3UfT0ziK1omVLlsjINBqeqqwab1M
   port: 50573
@@ -691,18 +696,87 @@ proxies:
     headers:
       Host: gamingdll.ir
     path: /index.html/ed=mitivpn
-- name: '19,20,30|🇸🇬[www.v2nodes.com] trojan-SG #2'
+- alterId: '0'
+  cipher: auto
+  name: 14|C🟠🇸🇬hos[🎬🤖📺🎭]_dokng.com_87e298...
+  network: ws
+  port: 443
+  server: 0PKTZNwsBJKsVOG1.v.3dns.vip
+  servername: 0PKTZNwsBJKsVOG1.v.3dns.vip
+  tls: true
+  type: vmess
+  uuid: efe82ebc-46b3-4242-b612-b652b8fbc870
+  ws-opts:
+    headers:
+      Host: 0PKTZNwsBJKsVOG1.v.3dns.vip
+    path: /ws-vmess
+- cipher: aes-128-gcm
+  name: 14|D🔴🇸🇬hos[🎬🤖📺🎭]_dokng.com_879f9e...
+  password: edad69d9-ea99-4ce9-bae8-8fedc2afcbf4
+  port: 40022
+  server: ruot.ayucloudservices.nl
+  type: ss
+- alterId: '0'
+  cipher: auto
+  name: 14|C🟠🇸🇬hos[🎬🤖📺🎭]_dokng.com_f4b1e0...
+  network: ws
+  port: 443
+  server: t0MMM1NGPHWYTgYc.v.3dns.vip
+  servername: t0MMM1NGPHWYTgYc.v.3dns.vip
+  tls: true
+  type: vmess
+  uuid: efe82ebc-46b3-4242-b612-b652b8fbc870
+  ws-opts:
+    headers:
+      Host: t0MMM1NGPHWYTgYc.v.3dns.vip
+    path: /ws-vmess
+- alterId: '0'
+  cipher: auto
+  name: 14|C🟠🇸🇬hos[🎬🤖📺🎭]_dokng.com_703f37...
+  network: ws
+  port: 443
+  server: y1WjfC7444TCe4AM.v.3dns.vip
+  servername: y1WjfC7444TCe4AM.v.3dns.vip
+  tls: true
+  type: vmess
+  uuid: efe82ebc-46b3-4242-b612-b652b8fbc870
+  ws-opts:
+    headers:
+      Host: y1WjfC7444TCe4AM.v.3dns.vip
+    path: /ws-vmess
+- alterId: '0'
+  cipher: auto
+  name: 14|C🟠🇸🇬hos[🎬🤖📺🎭]_dokng.com_9d7e8b...
+  network: ws
+  port: 443
+  server: eQHqDeQGUGx580oC.v.3dns.vip
+  servername: eQHqDeQGUGx580oC.v.3dns.vip
+  tls: true
+  type: vmess
+  uuid: efe82ebc-46b3-4242-b612-b652b8fbc870
+  ws-opts:
+    headers:
+      Host: eQHqDeQGUGx580oC.v.3dns.vip
+    path: /ws-vmess
+- cipher: aes-256-gcm
+  name: 14|C🟠🇸🇬hos[🎬🤖📺🎭]_dokng.com_724e03...
+  password: c2fe9024-d253-401a-b868-97421f6eb9e0
+  port: 22051
+  server: ruot.ayucloudservices.nl
+  type: ss
+- name: '19,20,27,30|🇸🇬[www.v2nodes.com] trojan-SG #2'
   network: ws
   password: 19877587-ed94-4033-88cd-4ac50a5e8718
   port: 443
   server: 104.18.153.182
+  skip-cert-verify: false
   sni: dimskiee.biz.id
   type: trojan
   ws-opts:
     headers:
       Host: dimskiee.biz.id
     path: /WangCai-8
-- name: 19,21,28|[OpenRay] 🇸🇬SG-94
+- name: 19,21,27,28|[OpenRay] 🇸🇬SG-94
   network: tcp
   password: UX82473651
   port: 443
@@ -727,7 +801,7 @@ proxies:
     headers:
       Host: ASaqYIDZa9WDQ9Kq.v.3dns.vip
     path: /ws-vmess
-- name: '19,20,21,30,32|新加坡|@ripaojiedian #4'
+- name: '19,20,21,27,30,32|新加坡|@ripaojiedian #4'
   network: tcp
   password: AA885B42-133C-3828-FB69-E45105C06092
   port: 10135
@@ -737,7 +811,7 @@ proxies:
   type: trojan
 - alterId: 0
   cipher: auto
-  name: '20,21,30|🇸🇬 新加坡|@ripaojiedian #2'
+  name: '20,21,27,30|🇸🇬 新加坡|@ripaojiedian #2'
   network: ws
   port: 443
   server: ASaqYIDZa9WDQ9Kq.v.3dns.vip
@@ -752,7 +826,7 @@ proxies:
     path: /ws-vmess
 - alterId: 0
   cipher: auto
-  name: '20,21,30|🇸🇬 新加坡2|@ripaojiedian #2'
+  name: '20,21,27,30|🇸🇬 新加坡2|@ripaojiedian #2'
   network: ws
   port: 443
   server: 6JiziO8PxQAXBAtZ.v.3dns.vip
@@ -770,6 +844,314 @@ proxies:
   password: edad69d9-ea99-4ce9-bae8-8fedc2afcbf4
   port: 40023
   server: ruot.ayucloudservices.nl
+  type: ss
+- alterId: 0
+  cipher: auto
+  name: 27|🇸🇬SG-139.180.211.152-1072
+  network: ws
+  port: 16737
+  server: 139.180.211.152
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  uuid: 1458e38c-9f71-4c3c-aa70-aaccda6789dd
+  ws-opts:
+    headers:
+      Host: m.twitter.com
+    path: /
+- alterId: 1
+  cipher: auto
+  name: 27|🇸🇬SG-104.248.148.147-1315
+  network: ws
+  port: 21888
+  server: 104.248.148.147
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  uuid: ae7486f9-d7b7-4f26-97a0-dc5b093dfa89
+  ws-opts:
+    headers:
+      Host: 104.248.148.147
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 27|🇸🇬SG-139.99.61.154-1320
+  network: ws
+  port: 80
+  server: 139.99.61.154
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  uuid: 932a1f0d-f5ce-418d-8560-c88f53c534b9
+  ws-opts:
+    headers:
+      Host: 139.99.61.154
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: 27|🇸🇬SG-15.235.202.196-1324
+  network: ws
+  port: 80
+  server: 15.235.202.196
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  uuid: 66f7af16-9d20-4df2-9849-0f65a8bb5527
+  ws-opts:
+    headers:
+      Host: 15.235.202.196
+    path: /
+- alterId: 0
+  cipher: auto
+  http-opts:
+    method: GET
+    path:
+    - /
+  name: 27|🇸🇬SG-152.69.211.235-1391
+  network: http
+  port: 80
+  server: 152.69.211.235
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  uuid: d345916f-1673-4a98-f37d-49357c84ce03
+- alterId: 4
+  cipher: auto
+  name: 27|🇸🇬SG-103.253.26.134-1461
+  network: ws
+  port: 443
+  server: 103.253.26.134
+  skip-cert-verify: false
+  tls: true
+  type: vmess
+  uuid: aba50dd4-5484-3b05-b14a-4661caf862d5
+  ws-opts:
+    headers:
+      Host: eeh7iewe.com
+    path: /ws
+- alterId: 4
+  cipher: auto
+  name: 27|🇸🇬SG-202.61.141.130-1473
+  network: ws
+  port: 443
+  server: 202.61.141.130
+  skip-cert-verify: false
+  tls: true
+  type: vmess
+  uuid: aba50dd4-5484-3b05-b14a-4661caf862d5
+  ws-opts:
+    headers:
+      Host: 202.61.141.130
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 27|🇸🇬SG-3.1.211.207-1491
+  network: ws
+  port: 5001
+  server: steam.dnspro.icu
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  uuid: d4c93465-70f0-30d5-ab5f-a8881f3f49e7
+  ws-opts:
+    headers:
+      Host: steam.dnspro.icu
+    path: /iso
+- alterId: 0
+  cipher: auto
+  name: 27|🇸🇬SG-139.99.61.53-1861
+  network: ws
+  port: 80
+  server: 139.99.61.53
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  uuid: ce3868a4-e2ca-4a6f-8731-e7e88d098886
+  ws-opts:
+    headers:
+      Host: 139.99.61.53
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 27|🇸🇬SG-146.190.82.241-2057
+  network: ws
+  port: 80
+  server: 146.190.82.241
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  uuid: ee76cecf-1219-42be-ae3f-6b8077e4cacc
+  ws-opts:
+    path: /
+- cipher: aes-256-cfb
+  name: 27|🇸🇬SG-13.214.212.124-2771
+  password: amazonskr05
+  port: 443
+  server: 13.214.212.124
+  type: ss
+- alterId: 0
+  cipher: auto
+  name: 27|🇸🇬SG-129.150.44.64-3145
+  network: ws
+  port: 46075
+  server: 129.150.44.64
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  uuid: da257e73-f02b-45ab-9916-7baf154c47a3
+  ws-opts:
+    path: /jhndsmlanj11223
+- alterId: 0
+  cipher: auto
+  name: 27|🇸🇬SG-109.123.237.41-3049
+  network: ws
+  port: 80
+  server: 109.123.237.41
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  uuid: 03a77360-808d-11ed-b736-205c6d5f5d78
+  ws-opts:
+    path: /fastssh
+- name: 27|🇸🇬SG-168.138.189.17-3163
+  password: 750a29bf-0a40-437f-b120-38de74ae7eaf
+  port: 28443
+  server: 168.138.189.17
+  skip-cert-verify: false
+  type: trojan
+- alterId: 0
+  cipher: auto
+  name: 27|🇸🇬SG-8.219.58.58-4871
+  network: ws
+  port: 443
+  server: 8.219.58.58
+  skip-cert-verify: false
+  tls: true
+  type: vmess
+  uuid: 91646f9a-b4e9-4aca-bfe3-8892b3e58fe7
+  ws-opts:
+    path: /ray
+- alterId: 0
+  cipher: auto
+  name: 27|🇸🇬SG-8.214.33.158-5165
+  network: ws
+  port: 80
+  server: 8.214.33.158
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  uuid: cb81e6ab-1d83-4ac1-f0ad-ae5c2a7c29ef
+  ws-opts:
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 27|🇸🇬SG-180.215.130.123-5195
+  network: ws
+  port: 46452
+  server: 180.215.130.123
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  uuid: c5414fe0-018b-473a-aa3b-f210f2ba42f5
+  ws-opts:
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 27|🇸🇬SG-139.99.61.53-5207
+  network: ws
+  port: 80
+  server: 139.99.61.53
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  uuid: ce3868a4-e2ca-4a6f-8731-e7e88d098886
+  ws-opts:
+    path: /
+- alterId: 4
+  cipher: auto
+  name: 27|🇸🇬SG-159.223.32.230-5391
+  network: ws
+  port: 8080
+  server: 159.223.32.230
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  uuid: d019484c-2181-4d4a-a0fb-302a55351156
+  ws-opts:
+    path: /cctv13/hd.m3u8
+- cipher: aes-256-cfb
+  name: 27|🇸🇬SG-13.213.46.196-5418
+  password: amazonskr05
+  port: 443
+  server: 13.213.46.196
+  type: ss
+- name: 27|🇸🇬SG-5.44.249.43-6112
+  password: cd39f62aed7b90f6
+  port: 3389
+  server: 5.44.249.43
+  skip-cert-verify: false
+  type: trojan
+- alterId: 0
+  cipher: auto
+  name: 27|🇸🇬SG-8.219.120.168-7313
+  network: ws
+  port: 443
+  server: 8.219.120.168
+  servername: p3.chigua.tk
+  skip-cert-verify: false
+  tls: true
+  type: vmess
+  uuid: ffffffff-ffff-ffff-ffff-ffffffffffff
+  ws-opts:
+    path: /vmess
+- cipher: aes-256-cfb
+  name: 27|🇸🇬SG-103.172.116.6-7345
+  password: KnJGad3FqTvjqbaX
+  port: 9014
+  server: 103.172.116.6
+  type: ss
+- cipher: aes-256-cfb
+  name: 27|🇸🇬SG-103.172.116.5-7347
+  password: UWZQeLRWnkqgkseq
+  port: 9032
+  server: 103.172.116.5
+  type: ss
+- alterId: 0
+  cipher: auto
+  name: 27|🇸🇬SG-8.222.138.164-7584
+  network: ws
+  port: 80
+  server: 8.222.138.164
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  uuid: 7e7f8398-bd39-49d8-9ce6-e48ffef463dd
+  ws-opts:
+    path: /2TokGE9A/
+- cipher: chacha20-ietf-poly1305
+  name: 27|🇸🇬SG-217.197.161.138-7838
+  password: G!yBwPWH3Vao
+  port: 800
+  server: 217.197.161.138
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: 27|🇸🇬SG-217.197.161.136-7846
+  password: G!yBwPWH3Vao
+  port: 801
+  server: 217.197.161.136
+  type: ss
+- name: 27|🇸🇬SG-15.235.197.4-8220
+  password: 16bcc187-a1a0-4b8a-8b69-627f38b7cc0d
+  port: 80
+  server: 15.235.197.4
+  skip-cert-verify: false
+  sni: getandroid.com
+  type: trojan
+- cipher: aes-256-cfb
+  name: 27|🇸🇬SG-103.172.116.79-8527
+  password: KBGjZYcy4SyRShmA
+  port: 9044
+  server: 103.172.116.79
   type: ss
 - name: 28|[OpenRay] 🇸🇬SG-25
   password: WvH8ooM9hom4KOOJHFJz1x5umE0aV4R0
@@ -828,7 +1210,7 @@ proxies:
   sni: t.me%252Fripaojiedian
   type: trojan
 - cipher: aes-256-gcm
-  name: 30|🇸🇬SG_4|4.1MB/s
+  name: 30,33|🇸🇬SG_1|1016KB/s
   password: c2fe9024-d253-401a-b868-97421f6eb9e0
   port: 22059
   server: ruot.ayucloudservices.nl

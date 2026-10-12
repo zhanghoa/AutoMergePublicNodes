@@ -1,47 +1,47 @@
 proxies:
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 🛸 #5'
+  name: '10,21| By EbraSha 🌃 #4'
   password: CxtcZaOSFYiJnloyTZJ0z2
   port: 443
   server: 89.22.234.121
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 🧨 #11'
+  name: '10,21| By EbraSha 🔥 #5'
   password: N2YzM
   port: 1443
   server: 45.138.103.4
   type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha 💣 #28'
+  name: 10,21,27|🇸🇪SE-37.19.222.211-7736
   password: asdKkaskJKfnsa
   port: 443
   server: 37.19.222.211
   type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha 🛸 #18'
+  name: 10,21,27|🇸🇪SE-37.19.222.212-7735
   password: asdKkaskJKfnsa
   port: 443
   server: 37.19.222.212
   type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha 🔌 #19'
+  name: 10,21,27|🇸🇪SE-37.19.222.213-7734
   password: asdKkaskJKfnsa
   port: 443
   server: 37.19.222.213
   type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha 📀 #13'
+  name: 10,21,27|🇸🇪SE-37.19.222.214-7733
   password: asdKkaskJKfnsa
   port: 443
   server: 37.19.222.214
   type: ss
 - cipher: aes-256-gcm
-  name: '10,21| By EbraSha 🛰️ #26'
+  name: '10,21| By EbraSha 🪐 #40'
   password: pX0uhU3ZjUcLWYs0Vez55BO3JoQrRlL
   port: 17000
   server: 172.238.244.13
   type: ss
-- name: '10,21| By EbraSha 📟 #35'
+- name: '10,21| By EbraSha 🦅 #40'
   network: tcp
   password: Bw5Mz7QkVp
   port: 443
@@ -51,7 +51,7 @@ proxies:
   type: trojan
 - alpn:
   - http/1.1
-  name: '10,21| By EbraSha ⌨️ #55'
+  name: '10,21| By EbraSha 🌃 #49'
   network: tcp
   password: e72c6ea7e61f4dcea568aa569fb9b771
   port: 9443
@@ -89,3 +89,23 @@ proxies:
   server: 16.171.58.121
   sni: 'trj.rollingnext.co.uk '
   type: trojan
+- name: 27|🇸🇪SE-16.171.58.121-8135
+  password: telegram-id-privatevpns
+  port: 22222
+  server: 16.171.58.121
+  skip-cert-verify: false
+  sni: trj.rollingnext.co.uk
+  type: trojan
+- name: 27|🇸🇪SE-13.48.105.114-8304
+  password: telegram-id-directvpn
+  port: 22222
+  server: 13.48.105.114
+  skip-cert-verify: false
+  sni: trj.rollingnext.co.uk
+  type: trojan
+- cipher: aes-256-cfb
+  name: 27|🇸🇪SE-121.127.46.147-8315
+  password: f8f7aCzcPKbsF8p3
+  port: 989
+  server: 121.127.46.147
+  type: ss

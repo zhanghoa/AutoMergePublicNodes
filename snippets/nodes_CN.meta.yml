@@ -1,6 +1,6 @@
 proxies:
 - client-fingerprint: chrome
-  name: '10,15,21| By EbraSha 🌌 #123'
+  name: '10,15,21| By EbraSha ⚙️ #122'
   network: xhttp
   port: 443
   reality-opts:
@@ -12,14 +12,38 @@ proxies:
   uuid: 72d334af-a4e9-ed8f-cbec-75317ce0b463
   ws-opts:
     path: /
-- client-fingerprint: chrome
-  name: '19,34|🇯🇵JP日本丨yoyapai.com #3'
-  network: tcp
-  port: 58011
-  server: us22.sofast.live
+- name: 13|🇨🇳CN中國丨yoyapai.com
+  port: 52683
+  server: jp.sofast.live
+  skip-cert-verify: false
   tls: false
   type: vless
-  uuid: 0afc6426-606c-48e7-bd70-3c424a416842
+  udp: true
+  uuid: 5aaa5259-f924-4682-a4a3-149d472a9dcc
+- alterId: 0
+  cipher: auto
+  name: 27|🇨🇳CN-59.63.154.101-1407
+  network: ws
+  port: 43815
+  server: blog.voewl.com
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  uuid: 7a9f026f-f7a8-40ca-f2f9-3b380c287c0d
+  ws-opts:
+    headers:
+      Host: blog.voewl.com
+    path: /abc
+- cipher: chacha20-ietf
+  name: 27|🇨🇳CN-120.232.206.251-5043
+  obfs: plain
+  obfs-param: ''
+  password: mblank1port
+  port: 561
+  protocol: auth_aes128_md5
+  protocol-param: 55956:111111
+  server: eduall.buzzline.org
+  type: ssr
 - client-fingerprint: chrome
   grpc-opts:
     grpc-service-name: TunService
