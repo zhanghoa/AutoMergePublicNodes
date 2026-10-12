@@ -290,11 +290,15 @@ class Node:
                 # print(self.url)
                 # return hash(self.url)
             path += '@'+','.join(data.get('alpn', []))+'@'+data.get('password', '')+data.get('uuid', '')
-            hashstr = f"{self.type}:{data['server']}:{data['port']}:{path}"
+            # server/port 用 .get()：上游存在缺字段的残缺节点，
+            # 原先直接下标取值会抛 KeyError（实测个别源出现），
+            # 被下方 except 捕获后返回统一的 '__ERROR__' 哈希并打印堆栈。
+            # 缺失时以空值参与哈希，语义上等价于"无法区分"，不影响去重正确性。
+            hashstr = f"{self.type}:{data.get('server', '')}:{data.get('port', '')}:{path}"
             return hash(hashstr)
-        except Exception:
-            print("节点 Hash 计算失败！", file=sys.stderr)
-            traceback.print_exc(file=sys.stderr)
+        except Exception as e:
+            # 不再打印完整堆栈（全量抓取时会刷屏），归入统一计数。
+            _note_parse_error('hash:' + type(e).__name__, str(data.get('name', '')))
             return hash('__ERROR__')
     
     def __eq__(self, other: Union['Node', Any]):
