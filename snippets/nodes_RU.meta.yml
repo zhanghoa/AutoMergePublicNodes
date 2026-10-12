@@ -1,102 +1,128 @@
 proxies:
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 🔥 #13'
+  name: '10|🇷🇺 [ Configs by DukeMehdi ] SS... #1'
   password: V7jmsA6PQsLn
   port: 444
   server: 146.185.198.44
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 🐉 #15'
+  name: '10,21| By EbraSha 💎 #11'
+  password: eicdhshSrFLCx/sZ1PSpuKyoVWGZpU95tFS4iGC1c04=
+  port: 43558
+  server: 130.49.189.158
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: '10,21| By EbraSha 👑 #15'
   password: frcYfFRuQRks932EpCWvX7
   port: 57925
   server: 157.22.240.141
   type: ss
-- cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 🧬 #9'
-  password: mX1q8sv17wA5LGDHIHD6Jo
-  port: 15720
-  server: 91.207.183.63
-  type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha 🃏 #15'
+  name: '10,21| By EbraSha 🃏 #21'
   password: '!!str 7620447880'
   port: 50005
   server: 92.38.139.95
   type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha 🕹️ #14'
+  name: '10,21| By EbraSha 📟 #19'
+  password: BwcAUZk8hUFAkDGN
+  port: 9031
+  server: 45.89.52.66
+  type: ss
+- cipher: aes-256-cfb
+  name: '10,21| By EbraSha 🛰️ #9'
   password: EXN3S3eQpjE7EJu8
   port: 9027
   server: 213.183.41.38
   type: ss
 - cipher: aes-256-cfb
   name: '10|🇷🇺 [ Configs by DukeMehdi ] SS... #7'
+  password: KnJGad3FqTvjqbaX
+  port: 9014
+  server: 213.183.53.222
+  type: ss
+- cipher: aes-256-cfb
+  name: '10,21| By EbraSha 🛸 #13'
+  password: HSZuyJQcWe8dxNdF
+  port: 9043
+  server: 45.89.52.66
+  type: ss
+- cipher: aes-256-cfb
+  name: '10|🇷🇺 [ Configs by DukeMehdi ] SS... #9'
   password: TN2YqghxeFDKZfLU
   port: 9037
   server: 45.89.52.66
   type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha 🕷️ #16'
+  name: '10,21| By EbraSha 🦂 #14'
   password: asdKkaskJKfnsa
   port: 443
   server: 31.172.67.43
   type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha 🎛️ #15'
+  name: '10|🇷🇺 [ Configs by DukeMehdi ] SS... #11'
+  password: f8f7aCzcPKbsF8p3
+  port: 989
+  server: 92.223.109.126
+  type: ss
+- cipher: aes-256-cfb
+  name: '10|🇷🇺 [ Configs by DukeMehdi ] SS... #12'
   password: p9z5BVADH2YFs3MN
   port: 9040
   server: 45.89.52.66
   type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha 🌑 #22'
+  name: '10,21| By EbraSha 🐉 #20'
   password: qazplmn1236547dr42q
   port: 3001
   server: 45.144.176.135
   type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha 🚀 #19'
+  name: '10,21| By EbraSha 🛸 #17'
   password: vDS9G2p
   port: 21247
   server: 185.4.65.6
   type: ss
 - cipher: aes-256-gcm
-  name: '10,21| By EbraSha 🛜 #18'
+  name: '10,21| By EbraSha 🤖 #20'
   password: 1eadd4e4a37b6601
   port: 10801
   server: 45.8.158.176
   type: ss
 - cipher: aes-256-gcm
-  name: '10,21| By EbraSha 📛 #23'
+  name: '10,21| By EbraSha 🌑 #18'
   password: 4938e975724d0ed1
   port: 40440
   server: 194.87.196.107
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇷🇺 [ Configs by DukeMehdi ] SS... #14'
-  password: 4938e975724d0ed1
-  port: 40440
-  server: 194.87.196.13
-  type: ss
-- cipher: aes-256-gcm
-  name: '10,21| By EbraSha 🕹️ #20'
+  name: '10,21| By EbraSha 📱 #16'
   password: 6b39ae3234dfd68b
   port: 10808
   server: 185.22.155.162
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇷🇺 [ Configs by DukeMehdi ] SS... #16'
-  password: 6b39ae3234dfd68b
-  port: 20221
-  server: 46.17.42.141
-  type: ss
-- cipher: aes-256-gcm
-  name: '10,21| By EbraSha 👾 #25'
+  name: '10|🇷🇺 [ Configs by DukeMehdi ] SS... #18'
   password: 6b39ae3234dfd68b
   port: 20880
   server: 46.17.42.141
   type: ss
 - cipher: aes-256-gcm
-  name: '10,21| By EbraSha 📟 #20'
+  delay: 752
+  name: 10,21,25|俄罗斯 - 莫斯科 - 1
+  password: 6b39ae3234dfd68b
+  port: 20221
+  server: 46.29.166.27
+  type: ss
+  udp: true
+- cipher: aes-256-gcm
+  name: '10,21| By EbraSha ♦️ #16'
+  password: 994ccabf6f0950d6
+  port: 20111
+  server: 89.125.103.208
+  type: ss
+- cipher: aes-256-gcm
+  name: '10|🇷🇺 [ Configs by DukeMehdi ] SS... #21'
   password: bdb313adf74c2ede
   port: 20880
   server: 46.17.45.31
@@ -138,7 +164,7 @@ proxies:
   skip-cert-verify: true
   tls: true
   type: http
-- name: '17,19,21| By EbraSha 🚨 #1'
+- name: '17,19,21| By EbraSha 🛸 #1'
   obfs: salamander
   obfs-password: 09p333uviv2qal0y
   password: 617z9r1mbzbm1t5z
@@ -206,7 +232,7 @@ proxies:
     path: '%2F'
 - client-fingerprint: random
   flow: xtls-rprx-vision
-  name: '19,21| By EbraSha ⛓️ #93'
+  name: '19,21| By EbraSha 🐉 #76'
   network: tcp
   port: 443
   reality-opts:
@@ -218,7 +244,7 @@ proxies:
   type: vless
   uuid: 1b7ee703-fa08-4305-8469-ae3e30e61e44
 - client-fingerprint: chrome
-  name: '19,21,26|@npv_vpn11 #321'
+  name: '19,21| By EbraSha 📟 #170'
   network: ws
   port: 443
   server: cloud.korroh.com
@@ -232,7 +258,7 @@ proxies:
     path: /remote.php/dav/89f7661a0011ce46
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: '19,21| By EbraSha 🛰️ #105'
+  name: '19,21| By EbraSha 🛡️ #127'
   network: tcp
   port: 443
   reality-opts:
@@ -246,7 +272,7 @@ proxies:
 - client-fingerprint: chrome
   grpc-opts:
     grpc-service-name: grpc-ru
-  name: '19,21| By EbraSha 🔮 #149'
+  name: '19,21| By EbraSha 📟 #150'
   network: grpc
   port: 443
   server: xsru1.ddnsfree.com
@@ -266,6 +292,20 @@ proxies:
     headers:
       Host: 194.87.143.165
     path: /fp=random
+- client-fingerprint: ios
+  grpc-opts:
+    grpc-service-name: astracat
+  name: '19,21| By EbraSha 🥷 #88'
+  network: grpc
+  port: 2088
+  reality-opts:
+    public-key: Eq3c19Y0WGB1APWMADQB-oxCvZFSVFAQxG5L6b8EkUg
+    short-id: b1ad165f903c62fe
+  server: 31.59.210.26
+  servername: www.yandex.ru
+  tls: false
+  type: vless
+  uuid: 5413edfb-08d6-4fba-b51c-809c04feb127
 - client-fingerprint: ios
   flow: xtls-rprx-vision
   name: 24|🇷🇺_俄罗斯_62
@@ -333,7 +373,16 @@ proxies:
     headers:
       Host: ru05.abvpn.ru
     path: /websocket
-- name: 28|[OpenRay] 🇷🇺RU-318
+- alpn:
+  - h3
+  name: 28|[OpenRay] 🇷🇺RU-72
+  password: mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj
+  port: 443
+  server: 91.196.32.163
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
+- name: 28|[OpenRay] 🇷🇺RU-315
   password: mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj
   port: 443
   server: 91.196.32.163
@@ -342,7 +391,7 @@ proxies:
   type: hysteria2
 - alpn:
   - h3
-  name: 28|[OpenRay] 🇷🇺RU-73
+  name: 28|[OpenRay] 🇷🇺RU-74
   password: mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj
   port: 443
   server: 91.196.32.163

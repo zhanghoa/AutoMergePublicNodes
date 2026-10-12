@@ -21,7 +21,7 @@ proxies:
   type: trojan
 - alterId: 2
   cipher: auto
-  name: '6,19,20,21,29,32|香港|@ripaojiedian #3'
+  name: '6,15,19,20,21,29,32|香港|@ripaojiedian #3'
   network: tcp
   port: 30807
   server: v10.hdacd.com
@@ -51,86 +51,50 @@ proxies:
   sni: t.me%2Fripaojiedian
   type: trojan
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 🌑 #11'
+  name: '10,21| By EbraSha 🖥️ #8'
   password: tjwRqQvteAjt3xFmbZTA
   port: 8389
   server: 84.17.37.55
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 🚀 #6'
-  password: G!yBwPWH3Vao
-  port: 800
-  server: 148.66.56.99
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  name: '10|🇭🇰 [ Configs by DukeMehdi ] SS... #2'
+  name: '10,21| By EbraSha 🚬 #4'
   password: G!yBwPWH3Vao
   port: 801
   server: 148.66.56.99
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10|🇭🇰 [ Configs by DukeMehdi ] SS... #3'
+  name: '10|🇭🇰 [ Configs by DukeMehdi ] SS... #2'
   password: G!yBwPWH3Vao
-  port: 803
-  server: 148.66.56.99
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 🛰️ #4'
-  password: G!yBwPWH3Vao
-  port: 804
-  server: 148.66.56.99
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 🦂 #6'
-  password: G!yBwPWH3Vao
-  port: 805
-  server: 148.66.56.99
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 🪐 #8'
-  password: G!yBwPWH3Vao
-  port: 807
-  server: 148.66.56.99
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  name: '10|🇭🇰 [ Configs by DukeMehdi ] SS... #7'
-  password: G!yBwPWH3Vao
-  port: 809
-  server: 148.66.56.99
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  name: '10|🇭🇰 [ Configs by DukeMehdi ] SS... #8'
-  password: G!yBwPWH3Vao
-  port: 811
+  port: 812
   server: 148.66.56.99
   type: ss
 - cipher: chacha20-ietf
-  name: '10,21| By EbraSha 🧲 #11'
+  name: '10,21| By EbraSha 🚨 #17'
   password: asd123456
   port: 8388
   server: 103.149.182.79
   type: ss
 - cipher: aes-128-gcm
-  name: '10,21| By EbraSha 💣 #12'
+  name: '10,21| By EbraSha 🧿 #12'
   password: bKgENdAl@8Zx3lAc-HK-BD-20260622
   port: 24443
   server: 154.86.30.45
   type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha 📶 #19'
+  name: '10,21| By EbraSha 🐉 #16'
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   port: 38388
   server: 216.250.97.82
   type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha 🪖 #26'
+  name: '10,21| By EbraSha 🚬 #13'
   password: qwerREWQ@@
   port: 41632
   server: 112.213.102.188
   type: ss
 - alterId: 0
   cipher: auto
-  name: '14,15,21|By EbraSha 🎛️ #80'
+  name: '14,21|By EbraSha 🖥️ #72'
   network: ws
   port: 443
   server: yg1.ygkkk.dpdns.org
@@ -159,7 +123,7 @@ proxies:
       Host: a4e9c5f4-sv0xs0-sv37gm-81nv.hk.p5pv.com
     path: /
   xudp: true
-- name: '19,20,21| By EbraSha 📶 #58'
+- name: '19,20,21| By EbraSha 👑 #51'
   password: UX82473651
   port: 443
   server: strong-haddock.rooster465.autos
@@ -225,7 +189,7 @@ proxies:
     headers:
       Host: syJ2gGUgMwBwQwQx.v.3dns.vip
     path: /ws-vmess
-- name: '19,20,21,32|香港2|@ripaojiedian #2'
+- name: '19,20,32|香港2|@ripaojiedian #2'
   network: tcp
   password: AA885B42-133C-3828-FB69-E45105C06092
   port: 12103
@@ -233,7 +197,7 @@ proxies:
   skip-cert-verify: true
   sni: m.ctrip.com
   type: trojan
-- name: '19,20,32|香港3|@ripaojiedian #3'
+- name: '19,20,21,32|香港3|@ripaojiedian #3'
   network: tcp
   password: AA885B42-133C-3828-FB69-E45105C06092
   port: 10115
@@ -259,7 +223,44 @@ proxies:
   type: trojan
 - alterId: 0
   cipher: auto
-  name: '19,20,21|By EbraSha 🤖 #68'
+  name: '19,20|🇭🇰 香港 | HKG #1 #1'
+  network: ws
+  port: 443
+  server: 8.217.254.88
+  servername: 2b9hwy8ocx7q74nm.v.3dns.vip
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  udp: true
+  uuid: f23bb427-c1f9-4373-876c-2f43e9f790f3
+  ws-opts:
+    headers:
+      Host: 2b9hwy8ocx7q74nm.v.3dns.vip
+    path: /ws-vmess
+- alpn:
+  - ''
+  alterId: 0
+  cipher: auto
+  http-opts:
+    headers:
+      Host:
+      - sjskendn.dingtalk.com
+    method: GET
+    path:
+    - /x
+  name: '19,20,21|By EbraSha 📱 #15'
+  network: http
+  port: 800
+  server: 47.86.167.194
+  servername: ''
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: f2c67cae-c09d-4739-947d-f5302d87a3c0
+- alterId: 0
+  cipher: auto
+  name: '19,20,21|By EbraSha 🌌 #68'
   network: ws
   port: 443
   server: 93ucrn4i0pffuabk.v.3dns.vip
@@ -273,107 +274,6 @@ proxies:
     headers:
       Host: 93ucrn4i0pffuabk.v.3dns.vip
     path: /ws-vmess
-- alterId: 0
-  cipher: auto
-  name: '19,20,21|By EbraSha ♦️ #67'
-  network: ws
-  port: 443
-  server: 6JDvArazgU3qQR6Q.v.3dns.vip
-  servername: ''
-  skip-cert-verify: true
-  tls: true
-  type: vmess
-  udp: true
-  uuid: f23bb427-c1f9-4373-876c-2f43e9f790f3
-  ws-opts:
-    headers:
-      Host: 6JDvArazgU3qQR6Q.v.3dns.vip
-    path: /ws-vmess
-- alterId: 0
-  cipher: auto
-  name: 19,20,21|By EbraSha 🐉
-  network: ws
-  port: 23026
-  server: 47.244.120.197
-  servername: null
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  udp: true
-  uuid: b9de1bc9-baa7-41ac-86f7-ccd59695cb21
-  ws-opts:
-    headers:
-      Host: 47.244.120.197
-    path: /arki
-- alpn:
-  - ''
-  alterId: 0
-  cipher: auto
-  http-opts:
-    headers:
-      Host:
-      - sjskendn.dingtalk.com
-    method: GET
-    path:
-    - /x
-  name: '19,20|🇭🇰 香港 | HKG #5 #1'
-  network: http
-  port: 800
-  server: 47.86.167.194
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  udp: true
-  uuid: f2c67cae-c09d-4739-947d-f5302d87a3c0
-- alterId: 0
-  cipher: auto
-  name: '19,20,21|By EbraSha 🃏 #76'
-  network: ws
-  port: 443
-  server: qtkdr8jxe3wefxjm.v.3dns.vip
-  servername: qtkdr8jxe3wefxjm.v.3dns.vip
-  skip-cert-verify: true
-  tls: true
-  type: vmess
-  udp: true
-  uuid: f23bb427-c1f9-4373-876c-2f43e9f790f3
-  ws-opts:
-    headers:
-      Host: qTKDR8jXE3wEFxJM.v.3dns.vip
-    path: /ws-vmess
-- alpn:
-  - ''
-  alterId: 0
-  cipher: auto
-  name: '19,20,21,26|@npv_vpn11 #402'
-  network: ws
-  port: 44867
-  server: 47.244.120.197
-  servername: ''
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 845e6b08-2919-4290-ade0-5dc7dcea59ca
-  ws-opts:
-    headers:
-      Host: ''
-    path: /arki
-- alterId: 0
-  cipher: auto
-  name: '19,20|🇭🇰 香港 | HKG #11 #1'
-  network: ws
-  port: 443
-  server: 47.243.194.125
-  skip-cert-verify: true
-  tls: true
-  type: vmess
-  udp: true
-  uuid: f23bb427-c1f9-4373-876c-2f43e9f790f3
-  ws-opts:
-    headers:
-      Host: nycqg19zkwacpm1b.v.3dns.vip
-    path: /ws-vmess
 - alterId: 2
   cipher: auto
   name: '20,24,31|🇭🇰 香港|@ripaojiedian #3'
@@ -386,7 +286,7 @@ proxies:
   uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
 - alterId: 0
   cipher: auto
-  name: '20,21|By EbraSha 🩸 #15'
+  name: '20,21|By EbraSha 👑 #13'
   network: ws
   port: 443
   server: ADncdOvLHR4M1P36.v.3dns.vip
@@ -401,7 +301,7 @@ proxies:
     path: /ws-vmess
 - alterId: 0
   cipher: auto
-  name: '20,21|By EbraSha 💎 #16'
+  name: '20,21|By EbraSha 🕷️ #16'
   network: ws
   port: 443
   server: kBONDXW9liFCi4h4.v.3dns.vip
@@ -416,7 +316,7 @@ proxies:
     path: /ws-vmess
 - alterId: 0
   cipher: auto
-  name: '20,21|By EbraSha 🛜 #13'
+  name: '20,21|By EbraSha 🖥️ #12'
   network: ws
   port: 443
   server: aZW0eunYVdvRe73k.v.3dns.vip
@@ -431,7 +331,7 @@ proxies:
     path: /ws-vmess
 - alterId: 0
   cipher: auto
-  name: '20,21|By EbraSha 🌌 #19'
+  name: '20,21|By EbraSha 🦈 #9'
   network: ws
   port: 443
   server: syJ2gGUgMwBwQwQx.v.3dns.vip
@@ -444,16 +344,6 @@ proxies:
     headers:
       Host: syJ2gGUgMwBwQwQx.v.3dns.vip
     path: /ws-vmess
-- alterId: 2
-  cipher: auto
-  name: '20|🇭🇰 香港 | HKG #12'
-  port: 30829
-  server: v29.hdacd.com
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  udp: true
-  uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
 - name: '29|香港3|@ripaojiedian #2'
   password: 6ec301428255a78a1d826988d86cc87e
   port: 14684

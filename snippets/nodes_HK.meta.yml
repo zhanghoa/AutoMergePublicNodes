@@ -21,7 +21,7 @@ proxies:
   type: trojan
 - alterId: 2
   cipher: auto
-  name: '6,19,20,21,29,32|香港|@ripaojiedian #3'
+  name: '6,15,19,20,21,29,32|香港|@ripaojiedian #3'
   network: tcp
   port: 30807
   server: v10.hdacd.com
@@ -51,79 +51,43 @@ proxies:
   sni: t.me%2Fripaojiedian
   type: trojan
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 🌑 #11'
+  name: '10,21| By EbraSha 🖥️ #8'
   password: tjwRqQvteAjt3xFmbZTA
   port: 8389
   server: 84.17.37.55
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 🚀 #6'
-  password: G!yBwPWH3Vao
-  port: 800
-  server: 148.66.56.99
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  name: '10|🇭🇰 [ Configs by DukeMehdi ] SS... #2'
+  name: '10,21| By EbraSha 🚬 #4'
   password: G!yBwPWH3Vao
   port: 801
   server: 148.66.56.99
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10|🇭🇰 [ Configs by DukeMehdi ] SS... #3'
+  name: '10|🇭🇰 [ Configs by DukeMehdi ] SS... #2'
   password: G!yBwPWH3Vao
-  port: 803
-  server: 148.66.56.99
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 🛰️ #4'
-  password: G!yBwPWH3Vao
-  port: 804
-  server: 148.66.56.99
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 🦂 #6'
-  password: G!yBwPWH3Vao
-  port: 805
-  server: 148.66.56.99
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 🪐 #8'
-  password: G!yBwPWH3Vao
-  port: 807
-  server: 148.66.56.99
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  name: '10|🇭🇰 [ Configs by DukeMehdi ] SS... #7'
-  password: G!yBwPWH3Vao
-  port: 809
-  server: 148.66.56.99
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  name: '10|🇭🇰 [ Configs by DukeMehdi ] SS... #8'
-  password: G!yBwPWH3Vao
-  port: 811
+  port: 812
   server: 148.66.56.99
   type: ss
 - cipher: chacha20-ietf
-  name: '10,21| By EbraSha 🧲 #11'
+  name: '10,21| By EbraSha 🚨 #17'
   password: asd123456
   port: 8388
   server: 103.149.182.79
   type: ss
 - cipher: aes-128-gcm
-  name: '10,21| By EbraSha 💣 #12'
+  name: '10,21| By EbraSha 🧿 #12'
   password: bKgENdAl@8Zx3lAc-HK-BD-20260622
   port: 24443
   server: 154.86.30.45
   type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha 📶 #19'
+  name: '10,21| By EbraSha 🐉 #16'
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   port: 38388
   server: 216.250.97.82
   type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha 🪖 #26'
+  name: '10,21| By EbraSha 🚬 #13'
   password: qwerREWQ@@
   port: 41632
   server: 112.213.102.188
@@ -148,7 +112,7 @@ proxies:
   username: null
 - alterId: 0
   cipher: auto
-  name: '14,15,21|By EbraSha 🎛️ #80'
+  name: '14,21|By EbraSha 🖥️ #72'
   network: ws
   port: 443
   server: yg1.ygkkk.dpdns.org
@@ -160,6 +124,16 @@ proxies:
     headers:
       Host: jmp1.907737.xyz
     path: /b2ba4a73-3123-479e-aa96-5973a9ecd0c0-vm
+- name: 17,19,21,34|香港 26
+  obfs: salamander
+  obfs-password: 7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9
+  password: eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ
+  port: 5010
+  server: nas.aizhzo.com
+  skip-cert-verify: true
+  sni: nas.aizhzo.com
+  tls: false
+  type: hysteria2
 - alterId: 2
   cipher: auto
   name: 18|🇭🇰HK_1 | ⬇️ 1.7MB/s
@@ -177,34 +151,39 @@ proxies:
       Host: a4e9c5f4-sv0xs0-sv37gm-81nv.hk.p5pv.com
     path: /
   xudp: true
-- name: 19|🇭🇰[www.v2nodes.com] vless-HK
+- alpn:
+  - http/1.1
+  name: 19|Telegram---PLANB_NET---PLANB_N...
   network: ws
-  port: 2096
+  port: 443
   server: 188.114.97.6
-  servername: PEekCoNFig.hAMRahfreE2.wORKERs.dEv
-  tls: true
-  type: vless
-  uuid: c648c6d0-4d3e-4f51-8ee6-4fcdbdddd684
-  ws-opts:
-    headers:
-      Host: peekconfig.hamrahfree2.workers.dev
-    path: /eyJqdW5rIjoibTBZdXp5cm93NSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzJhMDI6ODk4OjE0Njo2NDo6XSIsIlsyNjAyOmZjNTk6MTE6NjQ6Ol0iLCJbMjYwMjpmYzU5OmIwOjY0OjpdIl19fp=chrome
-- name: 19,34|🇫🇷FR_839|213KB/s|M003-260806 0...
-  network: ws
-  port: 8080
-  server: 188.114.97.6
+  servername: lucasjow.us.ci
+  skip-cert-verify: false
   tls: false
   type: vless
-  uuid: 36d9003c-7240-40bc-af62-07c39f7a0b94
+  uuid: e6df2095-a73c-4043-8693-8d5a03686870
   ws-opts:
     headers:
-      Host: server20.peekconfig5.workers.dev
-    path: /eyJqdW5rIjoiYmNCdUhCVkFEIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIiwiWzI2MDI6ZmM1OTpiMDo2NDo6XSIsIlsyNjAyOmZjNTk6MTE6NjQ6Ol0iXX0=
+      Host: lucasjow.us.ci
+    path: /cart/docs/www/proxyip=108.160.132.132?ed
+- client-fingerprint: firefox
+  flow: xtls-rprx-vision
+  name: '19,21| By EbraSha 🪐 #149'
+  network: tcp
+  port: 443
+  reality-opts:
+    public-key: 0i_xAxYgSNx5NMpK2lOaWGS-CvAiD_LneYPO0MF0owo
+    short-id: 1a
+  server: 42.200.173.5
+  servername: s3.ap-east-1.amazonaws.com
+  tls: false
+  type: vless
+  uuid: b98d4c6e-6770-4a31-8256-a4750cdea0e7
 - alpn:
   - h2
   - http/1.1
   client-fingerprint: chrome
-  name: '19,21| By EbraSha 💻 #70'
+  name: '19,21| By EbraSha 🧊 #41'
   port: 11907
   server: 195.58.144.56
   skip-cert-verify: false
@@ -213,7 +192,7 @@ proxies:
   uuid: 07cb07b9-0c4d-46c1-a15a-b147511b6b07
 - client-fingerprint: chrome
   flow: ''
-  name: '19,21,26|@npv_vpn11 #882'
+  name: '19,21| By EbraSha 📶 #122'
   network: tcp
   port: 13779
   reality-opts:
@@ -224,7 +203,7 @@ proxies:
   tls: false
   type: vless
   uuid: 928e6cce-8ced-4243-9a48-a6642edd09b0
-- name: '19|🇭🇰[www.v2nodes.com] vless-HK-1... #1'
+- name: '19|🇭🇰[www.v2nodes.com] vless-HK-1... #3'
   network: ws
   port: 8443
   server: 103.148.73.173
@@ -236,7 +215,7 @@ proxies:
     headers:
       Host: ty986gfazs.cainiaohub.xyz
     path: /81574b6b-c9d7-44a0-b83d-dad56e8cb530fp=chrome
-- name: '19|🇭🇰[www.v2nodes.com] vless-HK-1... #2'
+- name: '19|🇭🇰[www.v2nodes.com] vless-HK-1... #4'
   network: ws
   port: 8443
   server: 103.180.20.108
@@ -248,7 +227,7 @@ proxies:
     headers:
       Host: ty986gfazs.cainiaohub.xyz
     path: /81574b6b-c9d7-44a0-b83d-dad56e8cb530fp=chrome
-- name: '19,20,21| By EbraSha 📶 #58'
+- name: '19,20,21| By EbraSha 👑 #51'
   password: UX82473651
   port: 443
   server: strong-haddock.rooster465.autos
@@ -314,7 +293,7 @@ proxies:
     headers:
       Host: syJ2gGUgMwBwQwQx.v.3dns.vip
     path: /ws-vmess
-- name: '19,20,21,32|香港2|@ripaojiedian #2'
+- name: '19,20,32|香港2|@ripaojiedian #2'
   network: tcp
   password: AA885B42-133C-3828-FB69-E45105C06092
   port: 12103
@@ -322,7 +301,7 @@ proxies:
   skip-cert-verify: true
   sni: m.ctrip.com
   type: trojan
-- name: '19,20,32|香港3|@ripaojiedian #3'
+- name: '19,20,21,32|香港3|@ripaojiedian #3'
   network: tcp
   password: AA885B42-133C-3828-FB69-E45105C06092
   port: 10115
@@ -348,7 +327,44 @@ proxies:
   type: trojan
 - alterId: 0
   cipher: auto
-  name: '19,20,21|By EbraSha 🤖 #68'
+  name: '19,20|🇭🇰 香港 | HKG #1 #1'
+  network: ws
+  port: 443
+  server: 8.217.254.88
+  servername: 2b9hwy8ocx7q74nm.v.3dns.vip
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  udp: true
+  uuid: f23bb427-c1f9-4373-876c-2f43e9f790f3
+  ws-opts:
+    headers:
+      Host: 2b9hwy8ocx7q74nm.v.3dns.vip
+    path: /ws-vmess
+- alpn:
+  - ''
+  alterId: 0
+  cipher: auto
+  http-opts:
+    headers:
+      Host:
+      - sjskendn.dingtalk.com
+    method: GET
+    path:
+    - /x
+  name: '19,20,21|By EbraSha 📱 #15'
+  network: http
+  port: 800
+  server: 47.86.167.194
+  servername: ''
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: f2c67cae-c09d-4739-947d-f5302d87a3c0
+- alterId: 0
+  cipher: auto
+  name: '19,20,21|By EbraSha 🌌 #68'
   network: ws
   port: 443
   server: 93ucrn4i0pffuabk.v.3dns.vip
@@ -362,107 +378,6 @@ proxies:
     headers:
       Host: 93ucrn4i0pffuabk.v.3dns.vip
     path: /ws-vmess
-- alterId: 0
-  cipher: auto
-  name: '19,20,21|By EbraSha ♦️ #67'
-  network: ws
-  port: 443
-  server: 6JDvArazgU3qQR6Q.v.3dns.vip
-  servername: ''
-  skip-cert-verify: true
-  tls: true
-  type: vmess
-  udp: true
-  uuid: f23bb427-c1f9-4373-876c-2f43e9f790f3
-  ws-opts:
-    headers:
-      Host: 6JDvArazgU3qQR6Q.v.3dns.vip
-    path: /ws-vmess
-- alterId: 0
-  cipher: auto
-  name: 19,20,21|By EbraSha 🐉
-  network: ws
-  port: 23026
-  server: 47.244.120.197
-  servername: null
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  udp: true
-  uuid: b9de1bc9-baa7-41ac-86f7-ccd59695cb21
-  ws-opts:
-    headers:
-      Host: 47.244.120.197
-    path: /arki
-- alpn:
-  - ''
-  alterId: 0
-  cipher: auto
-  http-opts:
-    headers:
-      Host:
-      - sjskendn.dingtalk.com
-    method: GET
-    path:
-    - /x
-  name: '19,20|🇭🇰 香港 | HKG #5 #1'
-  network: http
-  port: 800
-  server: 47.86.167.194
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  udp: true
-  uuid: f2c67cae-c09d-4739-947d-f5302d87a3c0
-- alterId: 0
-  cipher: auto
-  name: '19,20,21|By EbraSha 🃏 #76'
-  network: ws
-  port: 443
-  server: qtkdr8jxe3wefxjm.v.3dns.vip
-  servername: qtkdr8jxe3wefxjm.v.3dns.vip
-  skip-cert-verify: true
-  tls: true
-  type: vmess
-  udp: true
-  uuid: f23bb427-c1f9-4373-876c-2f43e9f790f3
-  ws-opts:
-    headers:
-      Host: qTKDR8jXE3wEFxJM.v.3dns.vip
-    path: /ws-vmess
-- alpn:
-  - ''
-  alterId: 0
-  cipher: auto
-  name: '19,20,21,26|@npv_vpn11 #402'
-  network: ws
-  port: 44867
-  server: 47.244.120.197
-  servername: ''
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 845e6b08-2919-4290-ade0-5dc7dcea59ca
-  ws-opts:
-    headers:
-      Host: ''
-    path: /arki
-- alterId: 0
-  cipher: auto
-  name: '19,20|🇭🇰 香港 | HKG #11 #1'
-  network: ws
-  port: 443
-  server: 47.243.194.125
-  skip-cert-verify: true
-  tls: true
-  type: vmess
-  udp: true
-  uuid: f23bb427-c1f9-4373-876c-2f43e9f790f3
-  ws-opts:
-    headers:
-      Host: nycqg19zkwacpm1b.v.3dns.vip
-    path: /ws-vmess
 - alterId: 2
   cipher: auto
   name: '20,24,31|🇭🇰 香港|@ripaojiedian #3'
@@ -475,7 +390,7 @@ proxies:
   uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
 - alterId: 0
   cipher: auto
-  name: '20,21|By EbraSha 🩸 #15'
+  name: '20,21|By EbraSha 👑 #13'
   network: ws
   port: 443
   server: ADncdOvLHR4M1P36.v.3dns.vip
@@ -490,7 +405,7 @@ proxies:
     path: /ws-vmess
 - alterId: 0
   cipher: auto
-  name: '20,21|By EbraSha 💎 #16'
+  name: '20,21|By EbraSha 🕷️ #16'
   network: ws
   port: 443
   server: kBONDXW9liFCi4h4.v.3dns.vip
@@ -505,7 +420,7 @@ proxies:
     path: /ws-vmess
 - alterId: 0
   cipher: auto
-  name: '20,21|By EbraSha 🛜 #13'
+  name: '20,21|By EbraSha 🖥️ #12'
   network: ws
   port: 443
   server: aZW0eunYVdvRe73k.v.3dns.vip
@@ -520,7 +435,7 @@ proxies:
     path: /ws-vmess
 - alterId: 0
   cipher: auto
-  name: '20,21|By EbraSha 🌌 #19'
+  name: '20,21|By EbraSha 🦈 #9'
   network: ws
   port: 443
   server: syJ2gGUgMwBwQwQx.v.3dns.vip
@@ -533,16 +448,6 @@ proxies:
     headers:
       Host: syJ2gGUgMwBwQwQx.v.3dns.vip
     path: /ws-vmess
-- alterId: 2
-  cipher: auto
-  name: '20|🇭🇰 香港 | HKG #12'
-  port: 30829
-  server: v29.hdacd.com
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  udp: true
-  uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
 - client-fingerprint: firefox
   name: 24|🇭🇰_香港_159
   network: ws
@@ -960,6 +865,22 @@ proxies:
   sni: https://t.me/WangCai2🇨🇳
   tls: false
   type: hysteria2
+- name: 34|香港 06
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: 443
+  server: 202.146.222.29
+  skip-cert-verify: true
+  sni: "https://t.me/wangcai2ð\x9F\x87¨ð\x9F\x87³"
+  tls: false
+  type: hysteria2
+- name: 34|香港 08
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: 443
+  server: 202.146.222.29
+  skip-cert-verify: true
+  sni: css.rbxcdn.com
+  tls: false
+  type: hysteria2
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
   name: 34|香港 12
@@ -973,6 +894,14 @@ proxies:
   tls: false
   type: vless
   uuid: 5e8e81ac-a1c4-4543-b81e-651bf9872b54
+- name: 34|香港 10
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: 443
+  server: 202.146.222.29
+  skip-cert-verify: true
+  sni: https://t.me/wangcai2рҹү
+  tls: false
+  type: hysteria2
 - name: 34|香港 13
   password: H7mP2xY9kJ4nQ8wR5tF6vB3z
   port: 443
@@ -1002,6 +931,38 @@ proxies:
   tls: false
   type: vless
   uuid: 928e6cce-8ced-4243-9a48-a6642edd09b0
+- name: 34|香港 16
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: 443
+  server: 202.146.222.89
+  skip-cert-verify: true
+  sni: https%3a%2f%2ft.me%2fclashv8%f0%9f%87%a8%f0%9f%87%b3
+  tls: false
+  type: hysteria2
+- name: 34|香港 17
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: 443
+  server: 202.146.222.89
+  skip-cert-verify: true
+  sni: t.me
+  tls: false
+  type: hysteria2
+- name: 34|香港 18
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: 443
+  server: 202.146.222.174
+  skip-cert-verify: true
+  sni: https%3a%2f%2ft.me%2fwangcai2%f0%9f%87%a8%f0%9f%87%b3
+  tls: false
+  type: hysteria2
+- name: 34|香港 19
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: 443
+  server: 202.146.222.29
+  skip-cert-verify: true
+  sni: https://t.me/wangcai2üá
+  tls: false
+  type: hysteria2
 - client-fingerprint: firefox
   flow: xtls-rprx-vision
   name: 34|香港 24
@@ -1015,6 +976,14 @@ proxies:
   tls: false
   type: vless
   uuid: 5e8e81ac-a1c4-4543-b81e-651bf9872b54
+- name: 34|香港 22
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: 443
+  server: 202.146.222.29
+  skip-cert-verify: true
+  sni: https://t.me/wangcai2🇨🇳
+  tls: false
+  type: hysteria2
 - name: 34|香港 23
   network: tcp
   password: BxceQaOe
@@ -1039,12 +1008,52 @@ proxies:
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
+- name: 34|香港 29
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: 443
+  server: 202.146.222.29
+  skip-cert-verify: true
+  sni: "https://t.me/wangcai2ð\x9F\x87"
+  tls: false
+  type: hysteria2
+- name: 34|香港 30
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: 443
+  server: 202.146.222.29
+  skip-cert-verify: true
+  sni: t.me
+  tls: false
+  type: hysteria2
 - name: 34|香港 31
   password: H7mP2xY9kJ4nQ8wR5tF6vB3z
   port: 443
   server: 202.146.222.29
   skip-cert-verify: true
   sni: https://t.me/wangcai2
+  tls: false
+  type: hysteria2
+- name: 34|香港 32
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: 443
+  server: 202.146.222.89
+  skip-cert-verify: true
+  sni: https://t.me/clashv8
+  tls: false
+  type: hysteria2
+- name: 34|香港 33
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: 443
+  server: 202.146.222.174
+  skip-cert-verify: true
+  sni: https%3a%2f%2ft.me%2foneclickvpnkeys
+  tls: false
+  type: hysteria2
+- name: 34|香港 34
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: 443
+  server: 202.146.222.89
+  skip-cert-verify: true
+  sni: https%3a%2f%2ft.me%2fclashv8
   tls: false
   type: hysteria2
 - name: 34|香港 35
@@ -1073,6 +1082,22 @@ proxies:
   sni: https://t.me/wangcai2рҹүёрҹүі
   tls: false
   type: hysteria2
+- name: 34|香港 40
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: 443
+  server: 202.146.222.29
+  skip-cert-verify: true
+  sni: https://t.me/wangcai2üá®üá≥
+  tls: false
+  type: hysteria2
+- name: 34|香港 41
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: 443
+  server: 202.146.222.29
+  skip-cert-verify: true
+  sni: whatsapp.com
+  tls: false
+  type: hysteria2
 - name: 34|香港 46
   obfs: salamander
   obfs-password: c8827ab99e316c5bd414e21afa915ddf
@@ -1083,6 +1108,30 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
+- name: 34|香港 47
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: 443
+  server: 202.146.222.174
+  skip-cert-verify: true
+  sni: https%3a%2f%2ft.me%2fwangcai2
+  tls: false
+  type: hysteria2
+- name: 34|香港 49
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: 443
+  server: 202.146.222.29
+  skip-cert-verify: true
+  sni: "https://t.me/wangcai2ð\x9F\x87ð\x9F\x87"
+  tls: false
+  type: hysteria2
+- name: 34|香港 50
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: 443
+  server: 202.146.222.29
+  skip-cert-verify: true
+  sni: https://t.me/wangcai2рҹүрҹү
+  tls: false
+  type: hysteria2
 - name: 34|香港 52
   network: tcp
   password: BxceQaOe
@@ -1091,12 +1140,36 @@ proxies:
   skip-cert-verify: true
   sni: t.me
   type: trojan
+- name: 34|香港 53
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: 443
+  server: 202.146.222.174
+  skip-cert-verify: true
+  sni: https://t.me/wangcai2🇨🇳
+  tls: false
+  type: hysteria2
 - name: 34|香港 54
   password: H7mP2xY9kJ4nQ8wR5tF6vB3z
   port: 443
   server: 202.146.222.174
   skip-cert-verify: true
   sni: https://t.me/wangcai2
+  tls: false
+  type: hysteria2
+- name: 34|香港 55
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: 443
+  server: 202.146.222.89
+  skip-cert-verify: true
+  sni: https://t.me/clashv8🇨🇳
+  tls: false
+  type: hysteria2
+- name: 34|香港 57
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: 443
+  server: 202.146.222.29
+  skip-cert-verify: true
+  sni: https%3a%2f%2ft.me%2fwangcai2%f0%9f%87%a8%f0%9f%87%b3
   tls: false
   type: hysteria2
 - client-fingerprint: chrome
@@ -1183,6 +1256,14 @@ proxies:
     headers:
       Host: cdn8848.776676.xyz
     path: /html?ed=2560
+- name: 34|香港 70
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: 443
+  server: 202.146.222.29
+  skip-cert-verify: true
+  sni: https%3a%2f%2ft.me%2fwangcai2%d1%80%d2%b9%d2%af%d1%80%d2%b9%d2%af
+  tls: false
+  type: hysteria2
 - cipher: chacha20-ietf-poly1305
   name: 34|香港 71
   password: uez5t2b4575tgkoi

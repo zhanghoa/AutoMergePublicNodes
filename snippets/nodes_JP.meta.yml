@@ -37,120 +37,113 @@ proxies:
   tls: false
   type: hysteria2
 - cipher: chacha20-ietf-poly1305
-  name: 10|🇯🇵 [ Configs by DukeMehdi ] SS...
+  name: '10,21| By EbraSha 🌀 #12'
   password: G!yBwPWH3Vao
   port: 800
   server: 185.172.113.182
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10|🇯🇵 [ Configs by DukeMehdi ] SS... #1'
+  name: '10,21| By EbraSha 👾 #10'
   password: G!yBwPWH3Vao
-  port: 811
+  port: 804
   server: 185.172.113.182
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 🧬 #4'
+  name: '10,21| By EbraSha 🧲 #7'
   password: G!yBwPWH3Vao
-  port: 806
+  port: 809
   server: 193.38.139.204
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 🔐 #5'
+  name: '10,21| By EbraSha 🐉 #6'
   password: G!yBwPWH3Vao
   port: 812
   server: 89.31.125.101
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 🪖 #17'
+  name: '10,21| By EbraSha 🕹️ #12'
+  password: Xs9ORT4j65b8HreZrg0p
+  port: 1664
+  server: 185.160.26.91
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: '10,21| By EbraSha 📀 #3'
   password: ljqdalu13..
   port: 8316
   server: 3.112.130.53
   type: ss
 - cipher: aes-128-gcm
-  name: 10,21,34|🇯🇵JP_3|607KB/s|A004-260618 01
+  name: '10,21| By EbraSha 🩸 #15'
   password: shadowsocks
   port: 443
-  server: 149.22.87.204
+  server: 149.22.87.241
   type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha ⚙️ #10'
+  name: '10,21| By EbraSha 🛡️ #6'
   password: amazonskr05
   port: 443
   server: 175.41.205.247
   type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha 🎛️ #13'
+  name: '10,21| By EbraSha 📼 #10'
   password: amazonskr05
   port: 443
   server: 3.112.193.151
   type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha 📛 #21'
-  password: amazonskr05
-  port: 443
-  server: 43.207.1.14
-  type: ss
-- cipher: aes-256-cfb
-  name: '10,21| By EbraSha 🛡️ #11'
+  name: '10,21| By EbraSha 🌐 #15'
   password: amazonskr05
   port: 443
   server: 43.207.153.185
   type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha 🌃 #18'
+  name: '10,21| By EbraSha 🌐 #16'
   password: amazonskr05
   port: 443
   server: 43.207.166.104
   type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha ⚡ #12'
+  name: '10|🇯🇵 [ Configs by DukeMehdi ] SS... #13'
   password: amazonskr05
   port: 443
   server: 43.207.68.169
   type: ss
 - cipher: aes-256-cfb
-  name: '10|🇯🇵 [ Configs by DukeMehdi ] SS... #14'
+  name: '10,21| By EbraSha 🛜 #21'
   password: amazonskr05
   port: 443
-  server: 43.207.83.221
+  server: 43.207.82.53
   type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha 🔮 #10'
-  password: amazonskr05
-  port: 443
-  server: 54.178.60.213
+  name: '10,21| By EbraSha ♦️ #12'
+  password: eIW0Dnk69454e6nSwuspv9DmS201tQ0D
+  port: 8097
+  server: 172.104.123.158
   type: ss
 - cipher: aes-256-gcm
-  name: '10,21| By EbraSha 🤖 #15'
+  name: '10,21| By EbraSha ✨ #27'
   password: 233blog.com
   port: 443
   server: 20.210.122.21
   type: ss
 - cipher: aes-256-gcm
-  name: '10,21| By EbraSha 🔥 #18'
+  name: '10,21| By EbraSha 💣 #12'
   password: 665e00335bb2fb5f7ee8243952205e5e
   port: 2087
   server: 74.222.12.141
   type: ss
 - cipher: aes-256-gcm
-  name: '10,21| By EbraSha 🚨 #25'
+  name: '10,21| By EbraSha 🪐 #16'
   password: GTZI5AbjNAeWQG0oVNptvWJogHNKiiKA
   port: 40003
   server: 47.79.144.115
   type: ss
 - cipher: aes-256-gcm
-  name: '10,21| By EbraSha ♣️ #22'
+  name: '10,21| By EbraSha 🌍 #29'
   password: XKFKl2rULjIp74
   port: 8009
   server: 103.106.228.175
   type: ss
-- cipher: aes-256-gcm
-  name: '14,19,20,21| By EbraSha 🔥 #27'
-  password: bd962c9a-d6f2-4561-bd80-34206c4d5279
-  port: 22069
-  server: ruot.ayucloudservices.nl
-  type: ss
-  udp: true
 - alterId: '0'
   cipher: auto
   name: 14|D🔴🇯🇵hos[🎬🤖📺🎭]_dokng.com_e6ac24...
@@ -163,6 +156,12 @@ proxies:
     headers:
       Host: 212.50.251.193
     path: /vmess
+- name: 14|C🟠🇯🇵hos[🤖📺🎪]_dokng.com_5db07fc...
+  password: usqmqUKJFIlCmvkCNSY64L3k
+  port: 443
+  server: 8.209.247.109
+  skip-cert-verify: true
+  type: hysteria2
 - name: 14|D🔴🇯🇵hos[🎬🤖📺🎭]_dokng.com_1b81f8...
   port: 10808
   server: 101.36.104.46
@@ -172,13 +171,6 @@ proxies:
   server: fan.587475.xyz
   tls: true
   type: http
-- cipher: aes-256-gcm
-  name: '14,19,20,21| By EbraSha 🦇 #32'
-  password: bd962c9a-d6f2-4561-bd80-34206c4d5279
-  port: 22073
-  server: ruot.ayucloudservices.nl
-  type: ss
-  udp: true
 - name: 14|D🔴🇯🇵hos[🎬🤖📺🎭]_dokng.com_5e6784...
   port: 1080
   server: 217.142.236.180
@@ -217,7 +209,35 @@ proxies:
   udp: true
   uuid: 6b76a8d6-37b1-4ff8-94cb-65d47e1a9bb3
   xudp: true
-- name: '19,20,21| By EbraSha 📟 #44'
+- client-fingerprint: firefox
+  flow: xtls-rprx-vision
+  name: 19,21,24|🇺🇸_美国_24
+  network: tcp
+  port: 8443
+  reality-opts:
+    public-key: 1MLoHw7RVkGefh7XUyuGg4ndxwv4vDU9en-f9JxpXRQ
+    short-id: d2061bb1
+  server: 13.143.137.206
+  servername: ya.ru
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: 9ebf4fda-7395-4800-b42f-b2dda649880a
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: '19,21| By EbraSha 💻 #155'
+  network: tcp
+  port: 443
+  reality-opts:
+    public-key: 0i_xAxYgSNx5NMpK2lOaWGS-CvAiD_LneYPO0MF0owo
+    short-id: 1a
+  server: t14.qifei.app
+  servername: www.amazon.com
+  tls: false
+  type: vless
+  uuid: b98d4c6e-6770-4a31-8256-a4750cdea0e7
+- name: '19,20,21| By EbraSha 🎯 #49'
   network: tcp
   password: UX82473651
   port: 443
@@ -270,7 +290,7 @@ proxies:
     headers:
       Host: kneNaKHeSXnZH259.v.3dns.vip
     path: /ws-vmess
-- name: '19,20,32|日本2|@ripaojiedian #3'
+- name: '19,20,21,32|日本2|@ripaojiedian #3'
   network: tcp
   password: AA885B42-133C-3828-FB69-E45105C06092
   port: 10125
@@ -278,9 +298,50 @@ proxies:
   skip-cert-verify: true
   sni: m.ctrip.com
   type: trojan
+- client-fingerprint: random
+  flow: xtls-rprx-vision
+  name: 19|🇯🇵JP_2|4.8MB/s
+  port: 443
+  server: 47.74.25.186
+  servername: www.microsoft.com
+  tls: true
+  type: vless
+  uuid: cbd9b987-5c4e-4e1e-98a7-c536a2ef9b4c
+- name: 19|🇯🇵 日本 | JPN
+  obfs: salamander
+  obfs-password: xK9mN2pLq5vR8wB3
+  password: 8A9905B7-801B-41AF-BFC9-2034212770F6
+  port: 20141
+  server: jp1.dexlos.com
+  skip-cert-verify: true
+  sni: jp1.dexlos.com
+  tls: false
+  type: hysteria2
+- name: '19|🇯🇵 日本 | JPN #2'
+  network: ws
+  port: 443
+  server: 143.20.156.116
+  servername: jp3.yohototo.top
+  tls: true
+  type: vless
+  uuid: 4e4f1f70-5e56-4a76-bb9d-db087f4690c4
+  ws-opts:
+    headers:
+      Host: jp3.yohototo.top
+    path: /tyxywsfp=unsafe
+- name: '19|🇯🇵 日本 | JPN #1'
+  obfs: salamander
+  obfs-password: salamander
+  password: 8A9905B7-801B-41AF-BFC9-2034212770F6
+  port: 20141
+  server: jp1.dexlos.com
+  skip-cert-verify: true
+  sni: jp1.dexlos.com
+  tls: false
+  type: hysteria2
 - alterId: 0
   cipher: auto
-  name: '20,21|By EbraSha 🧬 #16'
+  name: '20,21|By EbraSha ⚔️ #11'
   network: ws
   port: 443
   server: Z9FfBx3zs2q5O0BG.v.3dns.vip
@@ -295,7 +356,7 @@ proxies:
     path: /ws-vmess
 - alterId: 0
   cipher: auto
-  name: '20,21|By EbraSha 🗿 #11'
+  name: '20,21|By EbraSha 🔥 #15'
   network: ws
   port: 443
   server: kQov7UKaDknXb8a3.v.3dns.vip
@@ -310,7 +371,7 @@ proxies:
     path: /ws-vmess
 - alterId: 0
   cipher: auto
-  name: '20,21|By EbraSha 🛜 #15'
+  name: '20,21|By EbraSha 🧩 #20'
   network: ws
   port: 443
   server: kneNaKHeSXnZH259.v.3dns.vip
@@ -340,6 +401,20 @@ proxies:
     path: /
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
+  name: 24|🇯🇵_日本_7
+  port: 443
+  reality-opts:
+    public-key: DbiBFFM_s7eBSN20U4fxvliZdcBfV2_41T_PWX2mrj0
+    short-id: 708f353722c36d17
+  server: 158.179.191.37
+  servername: www.apple.com
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: 53f1e11a-2b55-43f0-953f-d44c5fba92b6
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
   name: 24|🇯🇵_日本_8
   port: 443
   reality-opts:
@@ -366,6 +441,20 @@ proxies:
   type: vless
   udp: true
   uuid: fea92fee-3202-43bf-bca5-ff06db0f95c0
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: 24|🇯🇵_日本_10
+  port: 2053
+  reality-opts:
+    public-key: FE18081Cm-WUzpu6JyGpmlJqHEZpDmeWCAcisuRKtX4
+    short-id: 2235c8526bc59d67
+  server: 141.147.150.232
+  servername: www.cloudflare.com
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: fa13a9f7-5cba-4dca-b6b7-c14953f0ac65
 - name: 24|🇯🇵_日本_27
   password: aec8e5e3-bb81-4b22-8802-0b88c54997b3
   port: 10003
@@ -404,9 +493,7 @@ proxies:
     headers:
       Host: jln31qtswdkut5.60kohcognywybguuq3ouc818oofnxfvn35daott.workers.dev
     path: /@Marisa_kristi
-- alpn:
-  - h3
-  name: 28|[OpenRay] 🇯🇵JP-4
+- name: 28|[OpenRay] 🇯🇵JP-111
   password: u63SxILNwtrQZ7Y1ZrFaZfsA
   port: 8443
   server: 8.211.175.236
@@ -416,7 +503,17 @@ proxies:
   type: hysteria2
 - alpn:
   - h3
-  name: 28|[OpenRay] 🇯🇵JP-266
+  name: 28|[OpenRay] 🇯🇵JP-3
+  password: u63SxILNwtrQZ7Y1ZrFaZfsA
+  port: 8443
+  server: 8.211.175.236
+  skip-cert-verify: true
+  sni: bing.com
+  tls: false
+  type: hysteria2
+- alpn:
+  - h3
+  name: 28|[OpenRay] 🇯🇵JP-256
   password: usqmqUKJFIlCmvkCNSY64L3k
   port: 443
   server: 8.209.247.109

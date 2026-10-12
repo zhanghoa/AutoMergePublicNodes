@@ -1,24 +1,24 @@
 proxies:
 - cipher: aes-128-cfb
-  name: '10,21| By EbraSha 🪖 #21'
+  name: '10,21| By EbraSha 🤖 #15'
   password: shadowsocks
   port: 443
   server: 156.146.62.160
   type: ss
 - cipher: aes-128-gcm
-  name: '10,21| By EbraSha 🔌 #12'
+  name: '10,21| By EbraSha 🧲 #13'
   password: shadowsocks
   port: 443
   server: 156.146.62.162
   type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha 🌃 #16'
+  name: '10,21| By EbraSha ♠️ #14'
   password: '!!str 4415934295'
   port: 50004
   server: 37.120.213.230
   type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha 🌃 #20'
+  name: '10,21| By EbraSha 🚬 #11'
   password: f8f7aCzcPKbsF8p3
   port: 989
   server: 212.237.210.158
@@ -29,7 +29,7 @@ proxies:
   skip-cert-verify: true
   tls: true
   type: http
-- name: 14,33|🇨🇭CH_1|1.1MB/s
+- name: 14|D🔴🇨🇭hos[🎬🤖📺🎭]_dokng.com_a74c39...
   password: None
   port: 443
   server: 31.7.62.50
@@ -37,7 +37,7 @@ proxies:
   tls: true
   type: http
   username: null
-- name: 14|C🟠🇨🇭hos[🎬🤖📺🎭]_dokng.com_d10161...
+- name: 14,33|🇨🇭CH_1|2.0MB/s
   port: 443
   server: 31.7.62.50
   skip-cert-verify: true
@@ -51,7 +51,7 @@ proxies:
   sni: ch-wy.9999231.xyz
   type: anytls
   udp: true
-- name: 17,19,21,28|[OpenRay] 🇨🇦CA-128
+- name: 17,21,28|[OpenRay] 🇨🇦CA-125
   obfs: salamander
   obfs-password: mbQXP2ASuHbF6ZPq
   password: capadm96216165
@@ -59,14 +59,6 @@ proxies:
   server: 208.69.78.217
   skip-cert-verify: true
   sni: vpn.local
-  tls: false
-  type: hysteria2
-- name: 17,19,21,28|[OpenRay] 🇬🇧GB-406
-  password: we9_I1893UFj3149xbr1_k8qvJ8734ic_Mx82gH
-  port: 8443
-  server: 82.38.64.237
-  skip-cert-verify: false
-  sni: hopp-swizland-new.mysynology.net
   tls: false
   type: hysteria2
 - cipher: chacha20-ietf-poly1305
