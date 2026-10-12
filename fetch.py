@@ -906,60 +906,38 @@ class Source():
             self.parse()
 
     def _download(self, r: requests.Response) -> str:
-        content: str = ""
-        tp = None
-        pending = None
-        early_stop = False
-        # requests 的 iter_content() 默认 chunk_size=1（每次 1 字节），
-        # 对 MB 级订阅会退化成逐字节往返：实测 5MB 源从 2s 拖到 35s+ 仍下不完，
-        # 最终超时被丢弃。显式给 64KB 块，兼顾吞吐与内存。
-        for chunk in r.iter_content(chunk_size=65536):
-            if early_stop: pending = None; break
-            chunk: bytes
-            if pending is not None:
-                chunk = pending + chunk
-                pending = None
-            if tp == 'sub':
-                content += chunk.decode(errors='ignore')
-                continue
-            lines: List[bytes] = chunk.splitlines()
-            if lines and lines[-1] and chunk and lines[-1][-1] == chunk[-1]:
-                pending = lines.pop()
-            while lines:
-                line = lines.pop(0).rstrip().decode(errors='ignore').replace('\\r','')
-                if not line: continue
-                if not tp:
-                    if ': ' in line:
-                        kv = line.split(': ')
-                        if len(kv) == 2 and kv[0].isalpha():
-                            tp = 'yaml'
-                    elif line[0] == '#': pass
-                    else: tp = 'sub'
-                if tp == 'yaml':
-                    if content:
-                        if line in ("proxy-groups:", "rules:", "script:"):
-                            early_stop=True; break
-                        content += line+'\n'
-                    elif line == "proxies:":
-                        content = line+'\n'
-                elif tp == 'sub':
-                    content = chunk.decode(errors='ignore')
-        if pending is not None: content += pending.decode(errors='ignore')
-        # 部分源（如 xiaoji235/airport-free）是 GBK/GB18030 编码，
-        # 按 UTF-8 解出的内容会变成乱码而解析不到节点，这里做一次编码回退。
+        """把响应体读成文本（简单、可靠）。
+
+        历史实现为了"省内存"只截取 Clash 配置里的 proxies 段，
+        需要按行增量解析、并在遇到 proxy-groups/rules 时提前停止。
+        但该逻辑与跨 chunk 的行拼接纠缠在一起，极易出错：
+        splitlines() 丢弃行尾换行，若某个 chunk 恰好在行中间断开，
+        相邻两行会被粘成一行，对 `- {…}` 这类流式 YAML 是致命的
+        （产出 `...'skip-cert-verify': F  - {'name': ...`，
+        YAML 报 "expected ',' or '}', but got '{'"，整个源被丢弃；
+        实测 mahdibland / Ruk1ng001 / Q3dlaXpoaQ / Au1rxx 均因此全废）。
+
+        现在改为：完整累积字节后一次性解码。省下的那点内存不值得
+        用正确性去换（单个订阅最多几 MB）。段截取交给下游 parse()。
+
+        注意 chunk_size 必须显式指定：requests 默认 chunk_size=1，
+        对 MB 级订阅会退化成逐字节往返（实测 5MB 源从 2s 拖到 35s+）。
+        """
+        raw = b"".join(r.iter_content(chunk_size=65536))
+        content = raw.decode('utf-8', errors='ignore')
+
+        # 部分源（如 xiaoji235/airport-free）为 GBK/GB18030 编码，
+        # 按 UTF-8 解码会得到大量替换字符，进而解析不到任何节点。
+        # 检测到替换字符时，改用原始字节按常见中文编码重试。
         if content and '\ufffd' in content:
-            try:
-                raw = r.content
-                for enc in ('gb18030', 'gbk', 'big5'):
-                    try:
-                        alt = raw.decode(enc)
-                    except (UnicodeDecodeError, LookupError):
-                        continue
-                    if '://' in alt:
-                        return alt.replace('\r', '')
-            except Exception:
-                pass
-        return content
+            for enc in ('gb18030', 'gbk', 'big5'):
+                try:
+                    alt = raw.decode(enc)
+                except (UnicodeDecodeError, LookupError):
+                    continue
+                if '://' in alt:
+                    return alt.replace('\r', '')
+        return content.replace('\r', '')
 
     def parse(self) -> None:
         global exc_queue
