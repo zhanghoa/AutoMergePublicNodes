@@ -1,6 +1,6 @@
 proxies:
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 🚧 #9'
+  name: '10,21| By EbraSha 🌐 #6'
   password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4
   port: 50099
   server: 36.224.141.124
@@ -12,7 +12,7 @@ proxies:
   server: 36.224.152.189
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 📱 #18'
+  name: '10,21| By EbraSha 🪐 #17'
   password: q2jToxsx4vTevqrFiLGuwRx96SXM3C96id1MWpnSECHq3MaTWnEV76aN5PYEigRfqf7rxAcuAMWUzYNxrYRG6QhMcYw5QnqL
   port: 56594
   server: 46.249.109.128
@@ -24,25 +24,25 @@ proxies:
   server: 61.220.130.70
   type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha ♠️ #20'
+  name: '10,21| By EbraSha 🛜 #21'
   password: qwerREWQ@@
   port: 41632
   server: 185.189.160.105
   type: ss
 - cipher: aes-256-gcm
-  name: '10,21| By EbraSha 📀 #22'
+  name: '10,21| By EbraSha ♦️ #18'
   password: 8n6pwAcrrv2pj6tFY2p3TbQ6
   port: 33992
   server: 2.58.242.157
   type: ss
 - cipher: aes-256-gcm
-  name: '10,21| By EbraSha 🕹️ #22'
+  name: '10,21| By EbraSha 🤖 #15'
   password: 8n6pwAcrrv2pj6tFY2p3TbQ6
   port: 33992
   server: 2.58.242.43
   type: ss
 - cipher: aes-256-gcm
-  name: '10,21| By EbraSha ⌨️ #28'
+  name: '10,21| By EbraSha 🩸 #29'
   password: xpQwyV4W5FdA6NMANJJx73US
   port: 38033
   server: 2.58.241.45
@@ -65,7 +65,7 @@ proxies:
   server: 60.249.3.125
   skip-cert-verify: false
   type: trojan
-- name: '10,21| By EbraSha 🚨 #29'
+- name: '10,21| By EbraSha 🐉 #49'
   network: tcp
   password: 6e1b9a65-884f-3aa9-9469-bf6ec0f08610
   port: 3462
@@ -73,7 +73,7 @@ proxies:
   skip-cert-verify: true
   sni: a03.taipeicitygovernment.cn.ua
   type: trojan
-- name: '10,21| By EbraSha 🃏 #29'
+- name: '10,21| By EbraSha 🔮 #35'
   network: tcp
   password: 6e1b9a65-884f-3aa9-9469-bf6ec0f08610
   port: 3462
@@ -81,7 +81,7 @@ proxies:
   skip-cert-verify: true
   sni: a03.taipeicitygovernment.cn.ua
   type: trojan
-- name: '10,21| By EbraSha 🪖 #34'
+- name: '10,21| By EbraSha 📀 #29'
   network: tcp
   password: 6e1b9a65-884f-3aa9-9469-bf6ec0f08610
   port: 3462
@@ -89,7 +89,7 @@ proxies:
   skip-cert-verify: true
   sni: a03.taipeicitygovernment.cn.ua
   type: trojan
-- name: '10,21| By EbraSha 🧩 #38'
+- name: '10,21| By EbraSha 🐺 #36'
   network: tcp
   password: 736cd94d-7b94-3e44-8106-3419f64eaf09
   port: 3462
@@ -127,7 +127,7 @@ proxies:
   server: 211.72.35.157
   skip-cert-verify: false
   type: trojan
-- name: '10,21| By EbraSha 🗿 #34'
+- name: '10,21| By EbraSha 🧪 #53'
   network: tcp
   password: 96983eb4-c8f1-316e-ab00-500014ed3d8b
   port: 8443
@@ -135,7 +135,7 @@ proxies:
   skip-cert-verify: true
   sni: official.taipeicitygovernment.net.ua
   type: trojan
-- name: '10,21| By EbraSha ⌨️ #39'
+- name: '10,21| By EbraSha ⚔️ #43'
   network: tcp
   password: 96983eb4-c8f1-316e-ab00-500014ed3d8b
   port: 8443
@@ -191,7 +191,7 @@ proxies:
   type: vless
   uuid: 5b01dc2d-6892-49b8-8289-3f73a32e00e4
 - client-fingerprint: chrome
-  name: '10,15,21| By EbraSha 🪐 #136'
+  name: '10,15,21| By EbraSha 🦂 #114'
   network: tcp
   port: 15570
   reality-opts:
@@ -204,7 +204,7 @@ proxies:
   uuid: 931220c8-15ac-41f4-ba7b-8736a82a3ba2
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: '10,21| By EbraSha 📼 #123'
+  name: '10,21| By EbraSha 🐺 #131'
   network: tcp
   port: 443
   reality-opts:
@@ -633,14 +633,6 @@ proxies:
   tls: false
   type: vless
   uuid: 3a62a0c2-ba80-43a9-b757-9aca88b0552e
-- name: 34|🇹🇼TW_29|474KB/s|A004-260618 01
-  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
-  port: 443
-  server: vpn-tw-002.fastervpn.world
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: false
-  type: hysteria2
 - name: 34|🇹🇼TW_30|411KB/s 01
   password: H7mP2xY9kJ4nQ8wR5tF6vB3z
   port: 443

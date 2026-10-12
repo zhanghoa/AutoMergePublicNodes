@@ -1,18 +1,18 @@
 proxies:
 - cipher: aes-128-gcm
-  name: '10,21| By EbraSha 🖥️ #12'
+  name: '10,21| By EbraSha ♣️ #7'
   password: shadowsocks
   port: 443
   server: 156.146.62.162
   type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha 🤖 #14'
+  name: '10,21| By EbraSha 🧪 #17'
   password: '!!str 4415934295'
   port: 50004
   server: 37.120.213.230
   type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha ♠️ #19'
+  name: '10,21| By EbraSha 🧪 #20'
   password: f8f7aCzcPKbsF8p3
   port: 989
   server: 212.237.210.158
@@ -72,7 +72,7 @@ proxies:
     headers:
       Host: www.calmlunch.com
     path: '%2Fassignment'
-- name: '10,15,21| By EbraSha 🧿 #64'
+- name: '10,15,21| By EbraSha 🦅 #42'
   network: tcp
   password: l6R5znJSPJ
   port: 16350
@@ -84,7 +84,7 @@ proxies:
     headers:
       Host: rd.autos.yahoo.com:41636
     path: /5747463414152474635353366347474334
-- name: '10,15,21| By EbraSha 🔥 #61'
+- name: '10,15,21| By EbraSha ♦️ #62'
   network: tcp
   password: uCzwXi06tusoiP5kAUKrsg
   port: 80
@@ -118,7 +118,7 @@ proxies:
     headers:
       Host: www.calmlunch.com
     path: '/assignment '
-- name: '10,15|🔥Join+Telegram:@Farah_VPN🟣 #5155'
+- name: '10,15|🔥Join+Telegram:@Farah_VPN🟣 #6754'
   network: tcp
   password: uRkZYGid1r
   port: 41464
@@ -129,6 +129,12 @@ proxies:
     headers:
       Host: rd.autos.yahoo.com:41636
     path: /5747463414152474635353366347474334?ed=2048?@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn
+- cipher: chacha20-ietf-poly1305
+  name: 19,20,27,30,34|未知 SS-506 | free-nodes
+  password: e8KgS8fD0yDqYFpgN4G5piCOt9aFyqA3
+  port: 8388
+  server: 132.243.175.144
+  type: ss
 - cipher: aes-128-cfb
   name: 27|🇨🇭CH-156.146.62.160-4755
   password: shadowsocks

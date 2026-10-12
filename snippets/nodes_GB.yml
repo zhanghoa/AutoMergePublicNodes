@@ -1,24 +1,24 @@
 proxies:
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 🦾 #7'
+  name: '10,21| By EbraSha 🛸 #4'
   password: 4a055e9e903128a1
   port: 19308
   server: 57.129.129.247
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha ⛓️ #6'
+  name: '10,21| By EbraSha ⌨️ #5'
   password: 78b6e93e54225803
   port: 26179
   server: 51.75.168.50
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 🚨 #3'
+  name: '10,21| By EbraSha 👑 #6'
   password: 7a5af500cb295935
   port: 18337
   server: 149.102.144.110
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 🤖 #9'
+  name: '10,21| By EbraSha 🧬 #6'
   password: 15b0573830081d01
   port: 11201
   server: 51.89.119.213
@@ -66,19 +66,19 @@ proxies:
   server: 78.129.253.9
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 🧪 #5'
+  name: '10,21| By EbraSha 🛜 #9'
   password: G!yBwPWH3Vao
   port: 805
   server: 185.160.24.217
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 🕹️ #10'
+  name: '10,21| By EbraSha 🔋 #11'
   password: G!yBwPWH3Vao
   port: 812
   server: 185.160.24.217
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 📶 #11'
+  name: '10,21| By EbraSha 🧩 #9'
   password: G!yBwPWH3Vao
   port: 801
   server: 195.12.49.82
@@ -90,7 +90,7 @@ proxies:
   server: 78.129.253.9
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 🛸 #10'
+  name: '10,21| By EbraSha 📶 #6'
   password: G!yBwPWH3Vao
   port: 812
   server: 78.129.253.9
@@ -102,19 +102,19 @@ proxies:
   server: 144.24.226.223
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 🎯 #7'
+  name: '10,21| By EbraSha ⛓️ #12'
   password: W74XFALLLuw6m5IA
   port: 443
   server: 20.254.21.147
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 🪬 #10'
+  name: '10,21| By EbraSha 🌍 #20'
   password: bZ87amPpdG7KuWM62bKtm1KHoowuVjnV8CKtq653ymHcg2dPYcPJfnaQ61stuAjr2ZiLDaqH56XpkxEYuwDzzRrMWieebWGt
   port: 55988
   server: 185.5.38.111
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 🗿 #12'
+  name: '10,21| By EbraSha 🧨 #7'
   password: e936372a-d976-4e25-8b3b-29c1a5841e06
   port: 42345
   server: 140.238.64.207
@@ -124,12 +124,6 @@ proxies:
   password: k1dBOmOB4oqi7Ump37a1bQ
   port: 8080
   server: 82.38.31.176
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  name: 10,21,27,28,34|未知 SS-520 | free-nodes
-  password: k1dBOmOB4oqi7Ump37a1bQ
-  port: 8080
-  server: 82.38.31.180
   type: ss
 - cipher: chacha20-ietf-poly1305
   name: 10,21,27,28,34|未知 SS-521 | free-nodes
@@ -156,6 +150,12 @@ proxies:
   server: 82.38.31.189
   type: ss
 - cipher: chacha20-ietf-poly1305
+  name: 10,21,27,28,34|未知 SS-523 | free-nodes
+  password: k1dBOmOB4oqi7Ump37a1bQ
+  port: 8080
+  server: 82.38.31.190
+  type: ss
+- cipher: chacha20-ietf-poly1305
   name: 10,21,27,28,34|未知 SS-524 | free-nodes
   password: k1dBOmOB4oqi7Ump37a1bQ
   port: 8080
@@ -168,10 +168,22 @@ proxies:
   server: 82.38.31.192
   type: ss
 - cipher: chacha20-ietf-poly1305
+  name: 10,21,27,28,34|未知 SS-526 | free-nodes
+  password: k1dBOmOB4oqi7Ump37a1bQ
+  port: 8080
+  server: 82.38.31.193
+  type: ss
+- cipher: chacha20-ietf-poly1305
   name: 10,21,27,28,34|🇳🇱NL_5|3.3MB/s 01
   password: k1dBOmOB4oqi7Ump37a1bQ
   port: 8080
   server: 82.38.31.194
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: 10,21,28|[OpenRay] 🇳🇱NL-184
+  password: k1dBOmOB4oqi7Ump37a1bQ
+  port: 8080
+  server: 82.38.31.198
   type: ss
 - cipher: chacha20-ietf-poly1305
   name: 10,21,27,28,34|🇳🇱NL_36|3.8MB/s|A004-260618 01
@@ -184,12 +196,6 @@ proxies:
   password: k1dBOmOB4oqi7Ump37a1bQ
   port: 8080
   server: 82.38.31.200
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  name: 10,21,27,28,34|未知 SS-527 | free-nodes
-  password: k1dBOmOB4oqi7Ump37a1bQ
-  port: 8080
-  server: 82.38.31.203
   type: ss
 - cipher: chacha20-ietf-poly1305
   name: 10,21,27,28,34|未知 SS-529 | free-nodes
@@ -258,13 +264,13 @@ proxies:
   server: 57.129.140.88
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 🛡️ #10'
+  name: '10,21| By EbraSha 🪬 #7'
   password: oZIoA69Q8yhcQV8ka3Pa3A
   port: 443
   server: 82.38.31.11
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 🧪 #10'
+  name: '10,21| By EbraSha 💻 #14'
   password: oZIoA69Q8yhcQV8ka3Pa3A
   port: 8080
   server: 82.38.31.122
@@ -294,13 +300,7 @@ proxies:
   server: 82.38.31.16
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: 10,19,21,27|🇬🇧GB-82.38.31.170-0101
-  password: oZIoA69Q8yhcQV8ka3Pa3A
-  port: 443
-  server: 82.38.31.170
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha ⛓️ #17'
+  name: '10,21| By EbraSha 🎛️ #16'
   password: oZIoA69Q8yhcQV8ka3Pa3A
   port: 443
   server: 82.38.31.171
@@ -322,6 +322,12 @@ proxies:
   password: oZIoA69Q8yhcQV8ka3Pa3A
   port: 8080
   server: 82.38.31.28
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: 10,21,27,28,34|未知 SS-554 | free-nodes
+  password: oZIoA69Q8yhcQV8ka3Pa3A
+  port: 8080
+  server: 82.38.31.2
   type: ss
 - cipher: chacha20-ietf-poly1305
   name: 10,13,21,27|🇬🇧GB-82.38.31.35-5334
@@ -350,7 +356,7 @@ proxies:
   server: 82.38.31.3
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 👑 #17'
+  name: '10,21| By EbraSha 🛜 #12'
   password: oZIoA69Q8yhcQV8ka3Pa3A
   port: 443
   server: 82.38.31.42
@@ -386,25 +392,25 @@ proxies:
   server: 212.102.53.197
   type: ss
 - cipher: aes-128-gcm
-  name: '10,21| By EbraSha 🕹️ #16'
+  name: '10,21| By EbraSha 🛡️ #17'
   password: shadowsocks
   port: 443
   server: 212.102.53.198
   type: ss
 - cipher: aes-128-gcm
-  name: '10,21| By EbraSha ♠️ #12'
+  name: '10,21| By EbraSha ⛓️ #18'
   password: shadowsocks
   port: 443
   server: 141.98.101.178
   type: ss
 - cipher: aes-128-gcm
-  name: '10,21| By EbraSha 🧪 #14'
+  name: '10,21| By EbraSha 🌀 #17'
   password: shadowsocks
   port: 443
   server: 141.98.101.179
   type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha 🔋 #19'
+  name: '10,21| By EbraSha 🧩 #14'
   password: 7eadc6dbe2ae
   port: 65443
   server: 31.57.35.41
@@ -416,13 +422,13 @@ proxies:
   server: 77.72.5.150
   type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha 🔮 #20'
+  name: '10,21| By EbraSha 🌪️ #23'
   password: f8f7aCzcPKbsF8p3
   port: 989
   server: 176.10.80.6
   type: ss
 - cipher: aes-256-gcm
-  name: '10,21| By EbraSha 🛸 #24'
+  name: '10,21| By EbraSha 🌃 #19'
   password: 4ejJ8n5ddLuYDUHGXJre2ufJ
   port: 48938
   server: 185.134.22.115
@@ -524,7 +530,7 @@ proxies:
   server: 172.99.190.149
   type: ss
 - cipher: aes-256-gcm
-  name: '10,21| By EbraSha 🐺 #12'
+  name: '10,21| By EbraSha 💻 #21'
   password: PCnnH6SQSnfoS27
   port: 8090
   server: 172.99.190.35
@@ -548,7 +554,7 @@ proxies:
   server: 172.99.190.7
   type: ss
 - cipher: aes-256-gcm
-  name: '10,21| By EbraSha 🛸 #29'
+  name: '10,21| By EbraSha 📛 #24'
   password: PCnnH6SQSnfoS27
   port: 8090
   server: 172.99.190.90
@@ -692,7 +698,7 @@ proxies:
   server: 172.99.190.87
   type: ss
 - cipher: aes-256-gcm
-  name: '10,21| By EbraSha 🌑 #33'
+  name: '10,21| By EbraSha ✨ #28'
   password: gqtwGu9bVreJqL3FTHSVKGzy
   port: 50695
   server: 89.238.133.123
@@ -764,6 +770,12 @@ proxies:
   server: 172.99.190.61
   type: ss
 - cipher: aes-256-gcm
+  name: 10,21,27,34|🇬🇧GB_11|1.6MB/s|A004-260618 01
+  password: g5h5jleTRSyO3Rk4
+  port: 443
+  server: 149.102.132.184
+  type: ss
+- cipher: aes-256-gcm
   name: 10,21,27|🇬🇧GB-172.99.190.39-7234
   password: kDWvXYZoTBcGkC4
   port: 8882
@@ -788,19 +800,19 @@ proxies:
   server: 172.99.190.149
   type: ss
 - cipher: aes-256-gcm
-  name: '10,21| By EbraSha ⚙️ #34'
+  name: '10,21| By EbraSha 🧿 #32'
   password: pX0uhU3ZjUcLWYs0Vez55BO3JoQrRlL
   port: 17000
   server: 143.110.161.156
   type: ss
 - cipher: aes-256-gcm
-  name: '10,21| By EbraSha 🪖 #27'
+  name: '10,21| By EbraSha 🦾 #29'
   password: r6hDrkP4Et6EENTS8Qy7Tcmg
   port: 44539
   server: 185.125.207.201
   type: ss
 - cipher: aes-256-gcm
-  name: '10,21| By EbraSha 🦂 #43'
+  name: '10,21| By EbraSha 🧨 #30'
   password: zDNVedRFPQexG9v
   port: 445
   server: 172.99.190.158
@@ -932,19 +944,19 @@ proxies:
   server: 185.49.33.47
   sni: '$jp.swiftfalcon.app '
   type: trojan
-- name: '10,21| By EbraSha 🦅 #67'
+- name: '10,21| By EbraSha ⚔️ #67'
   network: tcp
   password: t=59N=Mo9Mri3fydoIizU9vBbePqKilHij
   port: 443
   server: 192.248.173.25
   type: trojan
-- name: '10,21| By EbraSha 🧿 #65'
+- name: '10,21| By EbraSha 🚀 #61'
   network: tcp
   password: t=59N=Mo9Mri3fydoIizU9vBbePqKilHij
   port: 443
   server: 45.32.176.168
   type: trojan
-- name: '10,21| By EbraSha 🐺 #53'
+- name: '10,21| By EbraSha 💎 #53'
   network: tcp
   password: t=59N=Mo9Mri3fydoIizU9vBbePqKilHij
   port: 443

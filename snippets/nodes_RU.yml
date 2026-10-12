@@ -12,25 +12,25 @@ proxies:
   server: 146.185.198.44
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 🪖 #10'
+  name: '10,21| By EbraSha 🌍 #21'
   password: eicdhshSrFLCx/sZ1PSpuKyoVWGZpU95tFS4iGC1c04=
   port: 43558
   server: 130.49.189.158
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha ⌨️ #6'
+  name: '10,21| By EbraSha 🚀 #15'
   password: frcYfFRuQRks932EpCWvX7
   port: 57925
   server: 157.22.240.141
   type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha 🌃 #12'
+  name: '10,21| By EbraSha 🚬 #17'
   password: '!!str 7620447880'
   port: 50005
   server: 92.38.139.95
   type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha 💎 #12'
+  name: '10,21| By EbraSha 🔋 #19'
   password: EXN3S3eQpjE7EJu8
   port: 9027
   server: 213.183.41.38
@@ -72,37 +72,37 @@ proxies:
   server: 45.89.52.66
   type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha 🌪️ #11'
+  name: '10,21| By EbraSha 🌃 #17'
   password: qazplmn1236547dr42q
   port: 3001
   server: 45.144.176.135
   type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha ⛓️ #24'
+  name: '10,21| By EbraSha 📶 #21'
   password: vDS9G2p
   port: 21247
   server: 185.4.65.6
   type: ss
 - cipher: aes-256-gcm
-  name: '10,21| By EbraSha ♦️ #17'
+  name: '10,21| By EbraSha 🚧 #24'
   password: 1eadd4e4a37b6601
   port: 10801
   server: 45.8.158.176
   type: ss
 - cipher: aes-256-gcm
-  name: '10,21| By EbraSha 👑 #24'
+  name: '10,21| By EbraSha 🌀 #21'
   password: 4938e975724d0ed1
   port: 40440
   server: 194.87.196.107
   type: ss
 - cipher: aes-256-gcm
-  name: '10,21| By EbraSha 🪖 #16'
+  name: '10,21| By EbraSha 🦇 #18'
   password: 6b39ae3234dfd68b
   port: 10808
   server: 185.22.155.162
   type: ss
 - cipher: aes-256-gcm
-  name: '10,21| By EbraSha ⚙️ #21'
+  name: '10,21| By EbraSha 🦅 #9'
   password: 895b4b796a357570
   port: 20999
   server: 46.17.41.166
@@ -114,7 +114,7 @@ proxies:
   server: 89.125.103.208
   type: ss
 - cipher: aes-256-gcm
-  name: '10,21| By EbraSha 💻 #30'
+  name: '10,21| By EbraSha 🌀 #31'
   password: bdb313adf74c2ede
   port: 20111
   server: 176.32.35.102
@@ -127,7 +127,7 @@ proxies:
   type: ss
 - alpn:
   - http/1.1
-  name: '10,21| By EbraSha 📀 #35'
+  name: '10,21| By EbraSha 👾 #32'
   network: tcp
   password: 265f092f-418b-30c9-a479-4800fd44dd19mielink
   port: 443
@@ -170,7 +170,7 @@ proxies:
   server: 185.148.104.251
   sni: 'bpb.my79801.com '
   type: trojan
-- name: '10,21| By EbraSha 🛜 #56'
+- name: '10,21| By EbraSha 🌃 #56'
   network: tcp
   password: bpb-trojan
   port: 443
