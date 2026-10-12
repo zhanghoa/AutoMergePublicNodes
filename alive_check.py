@@ -9,6 +9,7 @@
   python alive_check.py [--url URL] [--timeout MS] [--workers N] [--in FILE] [--out FILE]
 """
 import argparse
+import base64
 import concurrent.futures as cf
 import json
 import os
@@ -78,6 +79,64 @@ def sanitize_node(n: dict) -> dict:
     n.clear()
     n.update(cleaned)
     return n
+
+
+def node_invalid_reason(n: dict):
+    """校验单个节点能否被 mihomo 正常加载，返回原因字符串；合法则返回 None。
+
+    上游免费源的字段值常不规范，且 mihomo 只要遇到一个节点解析失败就
+    fatal 退出，导致整批（数千个）节点都无法测活。此前的做法是"启动失败后
+    按报错索引逐个剔除再重试"，虽然有效但很慢——一次启动就要几十秒。
+    改为在生成配置前主动校验，把已知类型的坏节点一次性清掉，
+    使 mihomo 通常一次即可启动成功。
+    """
+    # REALITY public-key：mihomo 要求 base64 解码后为 32 字节，否则
+    # 报 "invalid REALITY public key" 并拒绝启动。
+    ro = n.get("reality-opts")
+    if isinstance(ro, dict):
+        pk = str(ro.get("public-key", "") or "")
+        if not pk:
+            return "reality-opts.public-key 缺失"
+        try:
+            raw = base64.urlsafe_b64decode(pk + "=" * ((4 - len(pk) % 4) % 4))
+        except (ValueError, TypeError):
+            # 仅把"内容不是合法 base64"判为非法；
+            # 不用宽泛的 Exception，避免把 NameError 等编程错误
+            # 误判成节点问题（曾因漏 import base64 而误杀 3055 个节点）
+            return "reality-opts.public-key 非合法 base64"
+        if len(raw) != 32:
+            return f"reality-opts.public-key 解码后为 {len(raw)} 字节（应为 32）"
+    # ws-opts.headers 必须是 {str: str}
+    for key in ("ws-opts", "h2-opts", "grpc-opts", "http-opts"):
+        opts = n.get(key)
+        if isinstance(opts, dict):
+            hdr = opts.get("headers")
+            if hdr is not None and not isinstance(hdr, dict):
+                return f"{key}.headers 不是字典"
+            if isinstance(hdr, dict):
+                for hk, hv in hdr.items():
+                    if not isinstance(hv, str):
+                        return f"{key}.headers[{hk}] 不是字符串"
+    return None
+
+
+def filter_invalid_nodes(nodes, verbose: bool = True):
+    """移除 mihomo 无法加载的节点，返回 (合法节点列表, 被移除数)。"""
+    good = []
+    removed = 0
+    reasons = {}
+    for n in nodes:
+        why = node_invalid_reason(n)
+        if why is None:
+            good.append(n)
+        else:
+            removed += 1
+            reasons[why] = reasons.get(why, 0) + 1
+    if verbose and removed:
+        print(f"预校验：剔除 {removed} 个 mihomo 无法加载的节点", flush=True)
+        for why, cnt in sorted(reasons.items(), key=lambda kv: -kv[1]):
+            print(f"   {cnt:>5} × {why}", flush=True)
+    return good, removed
 
 
 def node_fingerprint(n: dict) -> str:
@@ -234,6 +293,8 @@ def main():
     ap.add_argument("--url", default=TEST_URL)
     ap.add_argument("--timeout", type=int, default=5000)
     ap.add_argument("--workers", type=int, default=32)
+    ap.add_argument("--keep-failed", action="store_true",
+                    help="不跳过 TCP 粗筛标记为 ❌ 的节点（默认跳过）")
     ap.add_argument("--in", dest="inp", default="snippets/nodes.check.yml")
     ap.add_argument("--out", dest="out", default="snippets/nodes.alive.yml")
     ap.add_argument("--report", default="alive_result.csv")
@@ -254,6 +315,24 @@ def main():
             fixed += 1
     if fixed:
         print(f"字段修正：{fixed} 个节点的 fingerprint 已转为 client-fingerprint", flush=True)
+
+    # 主动校验并剔除 mihomo 无法加载的节点（如 REALITY public-key 非法），
+    # 避免因单个坏节点导致整批测活失败、进而走"启动失败逐个剔除重试"的慢路径
+    nodes, invalid_removed = filter_invalid_nodes(nodes)
+
+    # 跳过 TCP 粗筛已标记为不可达（❌）的节点。
+    # nodes.check.yml 的节点名带 ✅/❌ 前缀（fetch.py 的 TCP 粗筛结果），
+    # ❌ 表示端口连不上，对其做协议级测活必然超时（每个白等 timeout），
+    # 实测 17260 个节点中约 6700 个为 ❌，按并发 32 估算浪费约 17 分钟。
+    # 这与本地 SubsCheck 的 filter "^[^❌]" 行为一致。
+    # 可用 --keep-failed 关闭该行为（全量测活，用于排查粗筛误判）。
+    if not args.keep_failed:
+        before_n = len(nodes)
+        nodes = [n for n in nodes if not str(n.get("name", "")).startswith("❌")]
+        skipped = before_n - len(nodes)
+        if skipped:
+            print(f"跳过 ❌ 节点 {skipped} 个（TCP 粗筛不可达），"
+                  f"剩余 {len(nodes)} 个进入测活", flush=True)
 
     # 测活前按内容指纹去重：同一节点可能来自多个源、被起了不同名字
     nodes, removed = dedup_nodes(nodes)
