@@ -37,113 +37,1071 @@ proxies:
   tls: false
   type: hysteria2
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 🌀 #12'
+  name: '10,21| By EbraSha ⚙️ #3'
   password: G!yBwPWH3Vao
   port: 800
   server: 185.172.113.182
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 👾 #10'
+  name: '10|🇯🇵 [ Configs by DukeMehdi ] SS... #1'
   password: G!yBwPWH3Vao
-  port: 804
+  port: 811
   server: 185.172.113.182
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 🧲 #7'
-  password: G!yBwPWH3Vao
-  port: 809
-  server: 193.38.139.204
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 🐉 #6'
+  name: '10,21| By EbraSha 🦂 #13'
   password: G!yBwPWH3Vao
   port: 812
   server: 89.31.125.101
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 🕹️ #12'
+  name: '10,21| By EbraSha 🛜 #12'
   password: Xs9ORT4j65b8HreZrg0p
   port: 1664
   server: 185.160.26.91
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 📀 #3'
+  name: '10,21| By EbraSha 🧊 #10'
   password: ljqdalu13..
   port: 8316
   server: 3.112.130.53
   type: ss
-- cipher: aes-128-gcm
-  name: '10,21| By EbraSha 🩸 #15'
-  password: shadowsocks
-  port: 443
-  server: 149.22.87.241
-  type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha 🛡️ #6'
+  name: '10|🇯🇵 [ Configs by DukeMehdi ] SS... #8'
   password: amazonskr05
   port: 443
   server: 175.41.205.247
   type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha 📼 #10'
+  name: '10,21| By EbraSha 🔥 #14'
   password: amazonskr05
   port: 443
-  server: 3.112.193.151
+  server: 43.206.219.140
   type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha 🌐 #15'
+  name: '10,21| By EbraSha 🦂 #23'
+  password: amazonskr05
+  port: 443
+  server: 43.206.221.164
+  type: ss
+- cipher: aes-256-cfb
+  name: '10,21| By EbraSha 📟 #12'
   password: amazonskr05
   port: 443
   server: 43.207.153.185
   type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha 🌐 #16'
+  name: '10,21| By EbraSha 🌀 #10'
   password: amazonskr05
   port: 443
   server: 43.207.166.104
   type: ss
 - cipher: aes-256-cfb
-  name: '10|🇯🇵 [ Configs by DukeMehdi ] SS... #13'
-  password: amazonskr05
-  port: 443
-  server: 43.207.68.169
-  type: ss
-- cipher: aes-256-cfb
-  name: '10,21| By EbraSha 🛜 #21'
-  password: amazonskr05
-  port: 443
-  server: 43.207.82.53
-  type: ss
-- cipher: aes-256-cfb
-  name: '10,21| By EbraSha ♦️ #12'
+  name: '10,21| By EbraSha 🚀 #23'
   password: eIW0Dnk69454e6nSwuspv9DmS201tQ0D
   port: 8097
   server: 172.104.123.158
   type: ss
+- cipher: aes-256-cfb
+  name: '10,21| By EbraSha 🪖 #16'
+  password: f8f7aCzcPKbsF8p3
+  port: 989
+  server: 103.75.118.27
+  type: ss
 - cipher: aes-256-gcm
-  name: '10,21| By EbraSha ✨ #27'
+  name: '10|🇯🇵 [ Configs by DukeMehdi ] SS... #16'
   password: 233blog.com
   port: 443
   server: 20.210.122.21
   type: ss
 - cipher: aes-256-gcm
-  name: '10,21| By EbraSha 💣 #12'
+  name: '10,21| By EbraSha 🔋 #19'
   password: 665e00335bb2fb5f7ee8243952205e5e
   port: 2087
   server: 74.222.12.141
   type: ss
 - cipher: aes-256-gcm
-  name: '10,21| By EbraSha 🪐 #16'
+  name: '10,21| By EbraSha 🌐 #11'
   password: GTZI5AbjNAeWQG0oVNptvWJogHNKiiKA
   port: 40003
   server: 47.79.144.115
   type: ss
 - cipher: aes-256-gcm
-  name: '10,21| By EbraSha 🌍 #29'
+  name: '10,21| By EbraSha 🌐 #16'
   password: XKFKl2rULjIp74
   port: 8009
   server: 103.106.228.175
   type: ss
+- name: 10|🇯🇵 [ Configs by DukeMehdi ] TJ...
+  network: tcp
+  password: 18844@zxcvbn
+  port: 443
+  server: 153.121.52.154
+  sni: 'tk-tr-4.cats22.net '
+  type: trojan
+- name: '10,21| By EbraSha 🎛️ #32'
+  network: tcp
+  password: 18844@zxcvbn
+  port: 443
+  server: 49.212.178.155
+  skip-cert-verify: true
+  sni: os13.cats22.net
+  type: trojan
+- alpn:
+  - http/1.1
+  name: '10,21| By EbraSha 🪐 #33'
+  network: tcp
+  password: 18844@zxcvbn
+  port: 443
+  server: 49.212.203.7
+  skip-cert-verify: true
+  sni: os-tr-2.cats22.net
+  type: trojan
+- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #3'
+  password: 1b5eff5a-f36b-4149-8001-7c8c0c4ed2eb
+  port: 36306
+  server: 43.206.67.76
+  sni: 'sunmoon02.abzoones.xyz '
+  type: trojan
+- name: '10,15,21| By EbraSha 🚨 #26'
+  network: tcp
+  password: 347ca311-8fc2-499c-8fe1-bd0ecb50f1b3
+  port: 43074
+  server: 5.34.222.4
+  skip-cert-verify: true
+  sni: iepl.jpz2.cat.bilibili.com
+  type: trojan
+- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #5'
+  network: tcp
+  password: 44e660b0ee21cf3ac66aee2c08af85d2
+  port: 3169
+  server: 160.16.107.37
+  sni: 'www.nintendogames.net '
+  type: trojan
+- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #6'
+  network: tcp
+  password: 4c3164ee-abcf-4091-abea-d1cd4937a68d
+  port: 443
+  server: 138.2.59.112
+  sni: 'jy.hhllfly.kdns.fr '
+  type: trojan
+- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #7'
+  network: tcp
+  password: 4c3164ee-abcf-4091-abea-d1cd4937a68d
+  port: 8443
+  server: 161.33.14.183
+  sni: 'jy.hhllfly.kdns.fr '
+  type: trojan
+- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #8'
+  network: tcp
+  password: 4c3164ee-abcf-4091-abea-d1cd4937a68d
+  port: 443
+  server: 45.76.208.253
+  sni: 'jy.hhllfly.kdns.fr '
+  type: trojan
+- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #9'
+  password: 4f7dc540-d244-4e64-af21-4b5bb300add3
+  port: 443
+  server: 132.226.5.246
+  sni: 'www.tokyo2023.ga '
+  type: trojan
+- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #10'
+  password: 6d64570c-81d4-30fa-b2e2-dce73e1a2702
+  port: 44301
+  server: 138.2.45.89
+  sni: 'osav101.jd0001.top '
+  type: trojan
+- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #12'
+  password: 750a29bf-0a40-437f-b120-38de74ae7eaf
+  port: 28443
+  server: 155.248.172.87
+  type: trojan
+- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #13'
+  network: tcp
+  password: 8r<[9'l6hAO#8ZQi
+  port: 8443
+  server: 140.83.34.214
+  sni: 'Koma-YT.PAGeS.Dev '
+  type: trojan
+- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #14'
+  network: tcp
+  password: 8r<[9'l6hAO#8ZQi
+  port: 443
+  server: 140.83.50.165
+  sni: 'Koma-YT.PAGeS.Dev '
+  type: trojan
+- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #15'
+  password: 96983eb4-c8f1-316e-ab00-500014ed3d8b
+  port: 2053
+  server: 160.16.145.107
+  type: trojan
+- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #16'
+  password: 96983eb4-c8f1-316e-ab00-500014ed3d8b
+  port: 2053
+  server: 219.94.250.108
+  type: trojan
+- name: '10,21| By EbraSha 🔮 #44'
+  password: JA96378052
+  port: 443
+  server: 3.112.1.122
+  type: trojan
+- name: '10,21| By EbraSha 🧨 #45'
+  network: tcp
+  password: ND91608427
+  port: 443
+  server: 13.192.168.51
+  sni: learning-leopard.rooster465.autos
+  type: trojan
+- name: '10,21| By EbraSha 🐉 #25'
+  network: tcp
+  password: ND91608427
+  port: 443
+  server: 13.231.232.184
+  sni: better-molly.rooster465.autos
+  type: trojan
+- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #20'
+  network: tcp
+  password: ND91608427
+  port: 443
+  server: 18.178.132.111
+  sni: 'devoted-heron.rooster465.autos '
+  type: trojan
+- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #21'
+  network: tcp
+  password: ND91608427
+  port: 443
+  server: 18.179.31.199
+  sni: 'prompt-duckling.rooster465.autos '
+  type: trojan
+- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #22'
+  network: tcp
+  password: ND91608427
+  port: 443
+  server: 18.181.164.216
+  sni: 'upright-impala.rooster465.autos '
+  type: trojan
+- name: '10,21| By EbraSha ⚔️ #41'
+  network: tcp
+  password: ND91608427
+  port: 443
+  server: 18.181.175.120
+  sni: sure-humpback.rooster465.autos
+  type: trojan
+- name: '10,21| By EbraSha 💣 #45'
+  network: tcp
+  password: ND91608427
+  port: 443
+  server: 18.181.194.227
+  sni: moral-buzzard.rooster465.autos
+  type: trojan
+- name: '10,21| By EbraSha 🎯 #41'
+  network: tcp
+  password: ND91608427
+  port: 443
+  server: 3.112.15.214
+  sni: adjusted-labrador.rooster465.autos
+  type: trojan
+- name: '10,21| By EbraSha 💣 #46'
+  network: tcp
+  password: ND91608427
+  port: 443
+  server: 3.112.223.141
+  sni: internal-sunbird.rooster465.autos
+  type: trojan
+- name: '10,21| By EbraSha 🪬 #37'
+  network: tcp
+  password: ND91608427
+  port: 443
+  server: 3.113.1.131
+  sni: perfect-slug.rooster465.autos
+  type: trojan
+- name: '10,21| By EbraSha 🚀 #52'
+  network: tcp
+  password: ND91608427
+  port: 443
+  server: 43.207.139.153
+  sni: sensible-mongrel.rooster465.autos
+  type: trojan
+- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #29'
+  network: tcp
+  password: ND91608427
+  port: 443
+  server: 43.207.140.98
+  sni: 'right-seahorse.rooster465.autos '
+  type: trojan
+- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #30'
+  network: tcp
+  password: ND91608427
+  port: 443
+  server: 43.207.155.134
+  sni: 'smart-pup.rooster465.autos '
+  type: trojan
+- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #31'
+  network: tcp
+  password: ND91608427
+  port: 443
+  server: 43.207.89.29
+  sni: 'relaxing-bluebird.rooster465.autos '
+  type: trojan
+- name: '10,21| By EbraSha 🧪 #46'
+  network: tcp
+  password: ND91608427
+  port: 443
+  server: 54.249.34.120
+  sni: social-mutt.rooster465.autos
+  type: trojan
+- name: '10,21| By EbraSha 🖥️ #47'
+  network: tcp
+  password: ND91608427
+  port: 443
+  server: 54.65.167.167
+  sni: tough-robin.rooster465.autos
+  type: trojan
+- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #34'
+  network: tcp
+  password: ND91608427
+  port: 443
+  server: 57.180.13.78
+  sni: 'healthy-louse.rooster465.autos '
+  type: trojan
+- name: '10,21| By EbraSha 🛜 #48'
+  network: tcp
+  password: ND91608427
+  port: 443
+  server: 57.180.27.225
+  sni: picked-guinea.rooster465.autos
+  type: trojan
+- name: '10,21| By EbraSha 🕶️ #48'
+  network: tcp
+  password: T9qoEuuxUEa9Dk3KxnTWrs6J8ilng9sCIf
+  port: 443
+  server: 103.125.216.11
+  type: trojan
+- name: '10,21| By EbraSha 📟 #39'
+  network: tcp
+  password: T9qoEuuxUEa9Dk3KxnTWrs6J8ilng9sCIf
+  port: 443
+  server: 103.125.216.18
+  type: trojan
+- name: '10,21| By EbraSha 🌪️ #42'
+  network: tcp
+  password: T9qoEuuxUEa9Dk3KxnTWrs6J8ilng9sCIf
+  port: 443
+  server: 103.125.216.68
+  type: trojan
+- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #40'
+  network: tcp
+  password: UX82473651
+  port: 443
+  server: 13.230.139.12
+  skip-cert-verify: false
+  sni: 'brief-glider.rooster465.autos '
+  type: trojan
+- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #42'
+  network: tcp
+  password: UX82473651
+  port: 443
+  server: 13.230.91.226
+  skip-cert-verify: false
+  sni: 'musical-terrier.rooster465.autos '
+  type: trojan
+- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #44'
+  network: tcp
+  password: UX82473651
+  port: 443
+  server: 176.34.5.100
+  skip-cert-verify: false
+  sni: 'assuring-skink.rooster465.autos '
+  type: trojan
+- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #46'
+  network: tcp
+  password: UX82473651
+  port: 443
+  server: 18.176.61.69
+  skip-cert-verify: true
+  sni: intense-sole.rooster465.autos
+  type: trojan
+- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #50'
+  network: tcp
+  password: UX82473651
+  port: 443
+  server: 3.112.245.255
+  skip-cert-verify: false
+  sni: 'dynamic-imp.rooster465.autos '
+  type: trojan
+- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #52'
+  network: tcp
+  password: UX82473651
+  port: 443
+  server: 43.207.198.39
+  skip-cert-verify: false
+  sni: 'fancy-javelin.rooster465.autos '
+  type: trojan
+- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #53'
+  password: UX82473651
+  port: 443
+  server: 43.207.89.91
+  skip-cert-verify: true
+  sni: 'organic-caribou.rooster465.autos '
+  type: trojan
+- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #75'
+  network: tcp
+  password: UX82473651
+  port: 443
+  server: 52.192.217.187
+  skip-cert-verify: false
+  sni: 'evolving-platypus.rooster465.autos '
+  type: trojan
+- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #55'
+  password: UX82473651
+  port: 443
+  server: 52.192.45.137
+  skip-cert-verify: true
+  sni: 'promoted-rattler.rooster465.autos '
+  type: trojan
+- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #57'
+  network: tcp
+  password: UX82473651
+  port: 443
+  server: 54.199.66.128
+  skip-cert-verify: false
+  sni: 'integral-rodent.rooster465.autos '
+  type: trojan
+- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #59'
+  network: tcp
+  password: UX82473651
+  port: 443
+  server: 54.249.36.167
+  skip-cert-verify: false
+  sni: 'comic-poodle.rooster465.autos '
+  type: trojan
+- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #60'
+  network: tcp
+  password: UX82473651
+  port: 443
+  server: 54.249.55.154
+  skip-cert-verify: false
+  sni: 'prime-corgi.rooster465.autos '
+  type: trojan
+- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #61'
+  network: tcp
+  password: UX82473651
+  port: 443
+  server: 54.250.237.143
+  skip-cert-verify: false
+  sni: 'accurate-frog.rooster465.autos '
+  type: trojan
+- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #62'
+  network: tcp
+  password: UX82473651
+  port: 443
+  server: 54.65.177.190
+  skip-cert-verify: false
+  sni: 'winning-marten.rooster465.autos '
+  type: trojan
+- name: '10,21| By EbraSha 🐺 #47'
+  password: a196faa4-403e-4a8b-987a-d1789f379685
+  port: 49755
+  server: 139.162.100.58
+  type: trojan
+- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #64'
+  network: tcp
+  password: ba07a8af-5544-48ac-ab62-3b6c00a44fa6
+  port: 9450
+  server: 154.64.226.149
+  sni: 'hk.catxstar.com '
+  type: trojan
+- name: '10,21| By EbraSha 🌀 #53'
+  password: c09eb137-bf68-4658-84e0-102d94b74168
+  port: 443
+  server: 150.230.217.213
+  type: trojan
+- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #66'
+  password: c19d1432-8b3e-4818-8837-3d160cf65908
+  port: 443
+  server: 138.2.45.243
+  type: trojan
+- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #67'
+  password: c51d3975-a40c-4a5b-929b-c8595ed87850
+  port: 443
+  server: 15.168.28.231
+  sni: 'wel-usgt.optage.moe '
+  type: trojan
+- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #68'
+  password: da777aae-defb-41d0-a183-2c27da2b4677
+  port: 443
+  server: 150.230.96.103
+  type: trojan
+- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #69'
+  password: e26a229d-e8f2-4ff9-8c7d-58a9d83ee437
+  port: 8886
+  server: 45.32.52.173
+  skip-cert-verify: true
+  sni: '45.32.52.173 '
+  type: trojan
+- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #70'
+  network: ws
+  password: hV66LcSGyxUdHq2aAeqxmLfpBDQmRYxo8Wte43oZr8L379SS
+  port: 443
+  server: 43.207.87.133
+  sni: 'node2.bw8848.org '
+  type: trojan
+  ws-opts:
+    headers:
+      Host: node2.bw8848.org
+    path: '%2Fnode2-node2-gu7bfd'
+- client-fingerprint: chrome
+  name: 10|🇯🇵 [ Configs by DukeMehdi ] VL...
+  network: ws
+  port: 57554
+  server: 203.137.165.164
+  servername: kqjifhg9rw.tradsc8p9xp7wxyqmc1wy0ah.workers.dev
+  tls: true
+  type: vless
+  uuid: 0985e268-5c1c-4141-9d96-139f8046c47c
+  ws-opts:
+    headers:
+      Host: kqjifhg9rw.tradsc8p9xp7wxyqmc1wy0ah.workers.dev
+    path: '%2F%40Marisa_kristi '
+- client-fingerprint: chrome
+  name: '10|🇯🇵 [ Configs by DukeMehdi ] VL... #1'
+  network: ws
+  port: 19364
+  server: 210.152.85.154
+  servername: ruu2rx-oycdrnsrzc.9uokolpk04vmg2ecqb8oys7.workers.dev
+  tls: true
+  type: vless
+  uuid: 0c4f2fbc-df76-4320-bc6d-52e1df96ae25
+  ws-opts:
+    headers:
+      Host: ruu2rx-oycdrnsrzc.9uokolpk04vmg2ecqb8oys7.workers.dev
+    path: '%2F%40Marisa_kristi '
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: '10,15,21| By EbraSha 🧿 #64'
+  network: tcp
+  port: 37533
+  reality-opts:
+    public-key: sMCL5iZlxohNM99-YH1tg56J74WL8ZO64rfcw95xdgQ
+    short-id: '72'
+  server: 172.81.102.142
+  servername: www.amazon.com
+  tls: false
+  type: vless
+  uuid: 1416a27c-edba-4822-90d5-728b4333114d
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: '10,21| By EbraSha 🗿 #69'
+  network: raw
+  port: 39975
+  reality-opts:
+    public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
+    short-id: ''
+  server: 116.80.58.239
+  servername: cloudcircus.jp
+  tls: false
+  type: vless
+  uuid: 15b84012-d261-4b4c-807a-061bb4a901fd
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: '10,21| By EbraSha 🌃 #83'
+  network: tcp
+  port: 21562
+  reality-opts:
+    public-key: saEF9IjGEOga3eZG962AMJRTM93cnsVVziketYU6s1M
+    short-id: ''
+  server: 178.253.245.144
+  servername: www.nazhumi.com
+  tls: false
+  type: vless
+  uuid: 36477315-2e11-4478-b85c-549133624eef
+- name: 10,15,21,29|🇯🇵JP_2|1.4MB/s
+  network: tcp
+  port: 10000
+  server: 14.137.238.40
+  tls: false
+  type: vless
+  uuid: 431fe973-a43a-4fac-bf83-2a772e0d0625
+- client-fingerprint: chrome
+  name: '10|🇯🇵 [ Configs by DukeMehdi ] VL... #6'
+  network: ws
+  port: 443
+  server: 103.53.80.44
+  servername: x.m-90.xyz
+  tls: true
+  type: vless
+  uuid: 489f1717-d3c7-4940-ad68-bdbdbab857f4
+  ws-opts:
+    headers:
+      Host: 'x.m-90.xyz '
+    path: t.me%2FTEAMNETGRATISCOL
+- client-fingerprint: chrome
+  name: '10|🇯🇵 [ Configs by DukeMehdi ] VL... #7'
+  network: ws
+  port: 443
+  server: 129.225.175.227
+  servername: x.m-90.xyz
+  tls: true
+  type: vless
+  uuid: 489f1717-d3c7-4940-ad68-bdbdbab857f4
+  ws-opts:
+    headers:
+      Host: 'x.m-90.xyz '
+    path: t.me%2FTEAMNETGRATISCOL
+- client-fingerprint: chrome
+  name: '10|🇯🇵 [ Configs by DukeMehdi ] VL... #8'
+  network: ws
+  port: 443
+  server: 13.231.221.179
+  servername: x.m-90.xyz
+  tls: true
+  type: vless
+  uuid: 489f1717-d3c7-4940-ad68-bdbdbab857f4
+  ws-opts:
+    headers:
+      Host: 'x.m-90.xyz '
+    path: t.me%2FTEAMNETGRATISCOL
+- client-fingerprint: firefox
+  name: '10|🇯🇵 [ Configs by DukeMehdi ] VL... #9'
+  network: ws
+  port: 443
+  server: 64.110.97.200
+  servername: x.m-90.xyz
+  tls: true
+  type: vless
+  uuid: 489f1717-d3c7-4940-ad68-bdbdbab857f4
+  ws-opts:
+    headers:
+      Host: 'x.m-90.xyz '
+    path: t.me%2FTEAMNETGRATISCOL
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: '10,15,21| By EbraSha ⌨️ #118'
+  network: tcp
+  port: 443
+  reality-opts:
+    public-key: kb1uhDsBcfsCD6acCuFcVERW29dscNGIjKPd67NArVk
+    short-id: ab3b914f0c9d9de5
+  server: 47.74.3.200
+  servername: www.logitech.com
+  tls: false
+  type: vless
+  uuid: 7fb42fab-ea8a-4f0f-af9e-55df8ae6cb1d
+  ws-opts:
+    headers:
+      Host: www.logitech.com
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: 10,21,28,34|🇯🇵JP_12|550KB/s|A004-260618 01
+  network: raw
+  port: 11452
+  reality-opts:
+    public-key: k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0
+    short-id: 48050fab
+  server: 103.75.118.228
+  servername: www.apple.com
+  tls: false
+  type: vless
+  uuid: 814bd064-544d-4255-a070-5705c03f6da9
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: 10,21,28|[OpenRay] 🇯🇵JP-264
+  network: tcp
+  port: 12683
+  reality-opts:
+    public-key: k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0
+    short-id: 48050fab
+  server: 103.75.118.228
+  servername: www.apple.com
+  tls: false
+  type: vless
+  uuid: 814bd064-544d-4255-a070-5705c03f6da9
+- name: '10,15,21| By EbraSha 🧊 #110'
+  network: tcp
+  port: 443
+  server: 20.78.4.41
+  tls: false
+  type: vless
+  uuid: 8dc3a9ee-51a6-4737-c40a-472246303713
+- name: 10,21,28|[OpenRay] 🇯🇵JP-277
+  network: ws
+  port: 80
+  server: 172.111.146.64
+  tls: false
+  type: vless
+  uuid: 904f8ffa-4652-4076-8f2f-e586807840ec
+  ws-opts:
+    path: /vless/
+- name: '10|🇯🇵 [ Configs by DukeMehdi ] VL... #19'
+  network: ws
+  port: 25242
+  server: 47.79.144.103
+  tls: false
+  type: vless
+  uuid: a12b0d31-f599-498e-b76e-8558a14b766b
+  ws-opts:
+    path: '%2Fa12b0d31 '
+- client-fingerprint: chrome
+  name: '10|🇯🇵 [ Configs by DukeMehdi ] VL... #20'
+  network: ws
+  port: 443
+  server: 161.33.15.101
+  servername: asia.csmaster.site
+  tls: true
+  type: vless
+  uuid: a853e120-3570-462b-aec1-e8f3d4f92d24
+  ws-opts:
+    headers:
+      Host: 'asia.csmaster.site '
+- client-fingerprint: chrome
+  name: 10,21,28|[OpenRay] 🇭🇰HK-147
+  network: ws
+  port: 443
+  server: 178.239.117.24
+  servername: asia.csmaster.site
+  tls: true
+  type: vless
+  uuid: a853e120-3570-462b-aec1-e8f3d4f92d24
+  ws-opts:
+    headers:
+      Host: asia.csmaster.site
+    path: '%2F'
+- client-fingerprint: ios
+  flow: xtls-rprx-vision
+  name: 10,21,28|[OpenRay] 🇯🇵JP-33
+  network: tcp
+  port: 443
+  reality-opts:
+    public-key: 0i_xAxYgSNx5NMpK2lOaWGS-CvAiD_LneYPO0MF0owo
+    short-id: 1a
+  server: 153.121.36.102
+  servername: www.amazon.com
+  skip-cert-verify: false
+  tls: false
+  type: vless
+  uuid: b98d4c6e-6770-4a31-8256-a4750cdea0e7
+- client-fingerprint: firefox
+  flow: xtls-rprx-vision
+  name: 10,21,28|[OpenRay] 🇯🇵JP-216
+  network: tcp
+  port: 443
+  reality-opts:
+    public-key: 0i_xAxYgSNx5NMpK2lOaWGS-CvAiD_LneYPO0MF0owo
+    short-id: 1a
+  server: 160.16.139.182
+  servername: www.amazon.com
+  tls: false
+  type: vless
+  uuid: b98d4c6e-6770-4a31-8256-a4750cdea0e7
+- flow: xtls-rprx-vision
+  name: '10,21| By EbraSha 🥷 #123'
+  network: tcp
+  port: 47381
+  reality-opts:
+    public-key: kiMGo34R7wN3bHFbY_6MqIHePd7rlnOkxGCt-Ek1Ej0
+    short-id: 67e2075367998314
+  server: 13.231.185.74
+  servername: www.yahoo.com
+  tls: false
+  type: vless
+  uuid: c6508e59-dd68-4dc0-b14f-3192e84ef843
+- client-fingerprint: firefox
+  flow: xtls-rprx-vision
+  name: 10,21,28|[OpenRay] 🇯🇵JP-242
+  network: tcp
+  port: 443
+  reality-opts:
+    public-key: sDKrtAJk2VP_w1w7cFi2O86RdlvQ2E2An5xsRdJlgGE
+    short-id: 5ea30fc4
+  server: 38.207.130.15
+  servername: yp.amazon.com
+  tls: false
+  type: vless
+  uuid: ce7beb9a-5dc1-47b3-b3ff-94521430c446
+- name: '10|🇯🇵 [ Configs by DukeMehdi ] VL... #26'
+  network: ws
+  port: 443
+  server: 141.11.139.215
+  servername: ccc.010304.xyz
+  tls: true
+  type: vless
+  uuid: d342d11e-d224-4463-b982-532309285094
+  ws-opts:
+    headers:
+      Host: ccc.010304.xyz
+    path: '%2Ffp '
+- client-fingerprint: chrome
+  name: 10,21,28,34|🇯🇵JP_22|198KB/s|M003-260806 01
+  network: ws
+  port: 4443
+  server: 54.178.110.17
+  servername: sxyyvihkektlx4rjxsdj.pkc73phpweu4rbxbatm444.workers.dev
+  tls: true
+  type: vless
+  uuid: d5fbd83b-7346-4ad9-94c0-76293724824d
+  ws-opts:
+    headers:
+      Host: sxyyvihkektlx4rjxsdj.pkc73phpweu4rbxbatm444.workers.dev
+    path: /@Marisa_kristi
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: 10,21,28|[OpenRay] 🇯🇵JP-165
+  network: tcp
+  port: 443
+  reality-opts:
+    public-key: hTweFDvbSucrGERtiiwDfoqD3vo_Z9cuaqboff3FTXQ
+  server: 207.148.97.59
+  servername: googleapis.com
+  tls: false
+  type: vless
+  uuid: d90087c3-54f5-4283-a13f-615260c8b0c7
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: '10,21| By EbraSha 🐺 #162'
+  network: tcp
+  port: 443
+  reality-opts:
+    public-key: QVkd5uoSbUA7rHVLtIoJB4iRp4l0zuw0H9qzQBh3lHs
+    short-id: 7a3f9e2b1c8d4f6a
+  server: 31.76.91.12
+  servername: jp.s3-cloud.org
+  tls: false
+  type: vless
+  uuid: dfc0cb9d-f005-41b0-848c-7703bd39d0de
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: '10,21| By EbraSha 🛜 #155'
+  network: tcp
+  port: 443
+  reality-opts:
+    public-key: QVkd5uoSbUA7rHVLtIoJB4iRp4l0zuw0H9qzQBh3lHs
+    short-id: 7a3f9e2b1c8d4f6a
+  server: 31.76.91.18
+  servername: jp.s3-cloud.org
+  tls: false
+  type: vless
+  uuid: dfc0cb9d-f005-41b0-848c-7703bd39d0de
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: '10,21| By EbraSha 🔋 #137'
+  network: tcp
+  port: 443
+  reality-opts:
+    public-key: QVkd5uoSbUA7rHVLtIoJB4iRp4l0zuw0H9qzQBh3lHs
+    short-id: 7a3f9e2b1c8d4f6a
+  server: 31.76.91.19
+  servername: jp.s3-cloud.org
+  tls: false
+  type: vless
+  uuid: dfc0cb9d-f005-41b0-848c-7703bd39d0de
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: '10,21| By EbraSha 🦅 #154'
+  network: tcp
+  port: 443
+  reality-opts:
+    public-key: QVkd5uoSbUA7rHVLtIoJB4iRp4l0zuw0H9qzQBh3lHs
+    short-id: 7a3f9e2b1c8d4f6a
+  server: 31.76.91.24
+  servername: jp.s3-cloud.org
+  tls: false
+  type: vless
+  uuid: dfc0cb9d-f005-41b0-848c-7703bd39d0de
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: '10,21| By EbraSha 🎯 #147'
+  network: tcp
+  port: 443
+  reality-opts:
+    public-key: QVkd5uoSbUA7rHVLtIoJB4iRp4l0zuw0H9qzQBh3lHs
+    short-id: 7a3f9e2b1c8d4f6a
+  server: 31.76.91.26
+  servername: jp.s3-cloud.org
+  tls: false
+  type: vless
+  uuid: dfc0cb9d-f005-41b0-848c-7703bd39d0de
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: '10,21| By EbraSha 🦾 #146'
+  network: tcp
+  port: 443
+  reality-opts:
+    public-key: QVkd5uoSbUA7rHVLtIoJB4iRp4l0zuw0H9qzQBh3lHs
+    short-id: 7a3f9e2b1c8d4f6a
+  server: 31.76.91.28
+  servername: jp.s3-cloud.org
+  tls: false
+  type: vless
+  uuid: dfc0cb9d-f005-41b0-848c-7703bd39d0de
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: '10,21| By EbraSha 🦈 #136'
+  network: tcp
+  port: 443
+  reality-opts:
+    public-key: QVkd5uoSbUA7rHVLtIoJB4iRp4l0zuw0H9qzQBh3lHs
+    short-id: 7a3f9e2b1c8d4f6a
+  server: 31.76.91.33
+  servername: jp.s3-cloud.org
+  tls: false
+  type: vless
+  uuid: dfc0cb9d-f005-41b0-848c-7703bd39d0de
+- client-fingerprint: firefox
+  flow: xtls-rprx-vision
+  name: 10,21,28|[OpenRay] 🇯🇵JP-30
+  network: tcp
+  port: 26518
+  reality-opts:
+    public-key: 1fa6iCY7vhoQyKu91FeaK04FN-mr1qeHnrtdyLZ79mk
+    short-id: 6caead99
+  server: 156.246.88.125
+  servername: github.com
+  tls: false
+  type: vless
+  uuid: e01fcb68-3112-49da-b85d-dffb799cfc9b
+- name: 10,21,28|[OpenRay] 🇯🇵JP-26
+  network: tcp
+  port: 47878
+  server: 152.69.195.67
+  tls: false
+  type: vless
+  uuid: eb8613e3-8393-4cff-a3ad-6501fd4adc63
+- client-fingerprint: firefox
+  flow: xtls-rprx-vision
+  name: '10,21| By EbraSha ⛓️ #163'
+  network: tcp
+  port: 27724
+  reality-opts:
+    public-key: rYH4wPTVzSwtpXgI3U7YxppIP6oudD-425vT7pyhj1w
+    short-id: ''
+  server: 116.80.44.144
+  servername: www.yahoo.co.jp
+  tls: false
+  type: vless
+  uuid: ebd8539d-e249-4a39-8f90-e8585e8cc35e
+- name: '10,21| By EbraSha 🩸 #158'
+  network: ws
+  port: 443
+  server: 104.238.151.159
+  servername: t1s1.rittbo.kdns.fr
+  tls: true
+  type: vless
+  uuid: eeb6823c-b926-4ea2-866a-5542edd26e59
+  ws-opts:
+    headers:
+      Host: t1s1.rittbo.kdns.fr
+    path: '%2F'
+- name: '10,21| By EbraSha 🔮 #152'
+  network: ws
+  port: 443
+  server: 108.160.132.178
+  servername: t1s1.rittbo.kdns.fr
+  tls: true
+  type: vless
+  uuid: eeb6823c-b926-4ea2-866a-5542edd26e59
+  ws-opts:
+    headers:
+      Host: t1s1.rittbo.kdns.fr
+    path: '%2Ffp%3Dchrome'
+- client-fingerprint: chrome
+  flow: ''
+  name: '10,21| By EbraSha 🌀 #162'
+  network: ws
+  port: 443
+  server: 141.147.174.243
+  servername: t1s1.rittbo.kdns.fr
+  tls: true
+  type: vless
+  uuid: eeb6823c-b926-4ea2-866a-5542edd26e59
+  ws-opts:
+    headers:
+      Host: t1s1.rittbo.kdns.fr
+    path: '%2F'
+- client-fingerprint: chrome
+  flow: ''
+  name: '10,21| By EbraSha 🗿 #162'
+  network: ws
+  port: 443
+  server: 150.230.5.126
+  servername: t1s1.rittbo.kdns.fr
+  tls: true
+  type: vless
+  uuid: eeb6823c-b926-4ea2-866a-5542edd26e59
+  ws-opts:
+    headers:
+      Host: t1s1.rittbo.kdns.fr
+    path: '%2F'
+- name: '10,21| By EbraSha ♦️ #142'
+  network: ws
+  port: 443
+  server: 154.83.95.129
+  servername: t1s1.rittbo.kdns.fr
+  tls: true
+  type: vless
+  uuid: eeb6823c-b926-4ea2-866a-5542edd26e59
+  ws-opts:
+    headers:
+      Host: t1s1.rittbo.kdns.fr
+    path: '%2Ffp%3Dchrome'
+- client-fingerprint: chrome
+  name: '10,21| By EbraSha ⚡ #154'
+  network: ws
+  port: 2083
+  server: 158.101.131.94
+  servername: t1s1.rittbo.kdns.fr
+  tls: true
+  type: vless
+  uuid: eeb6823c-b926-4ea2-866a-5542edd26e59
+  ws-opts:
+    headers:
+      Host: t1s1.rittbo.kdns.fr
+    path: '%2F'
+- name: '10,21| By EbraSha 🌪️ #164'
+  network: ws
+  port: 443
+  server: 207.148.108.85
+  servername: t1s1.rittbo.kdns.fr
+  tls: true
+  type: vless
+  uuid: eeb6823c-b926-4ea2-866a-5542edd26e59
+  ws-opts:
+    headers:
+      Host: t1s1.rittbo.kdns.fr
+    path: '****%2Ffp****%3Dchrome'
+- client-fingerprint: chrome
+  flow: ''
+  name: '10,21| By EbraSha 🖥️ #166'
+  network: ws
+  port: 443
+  server: 45.77.21.148
+  servername: t1s1.rittbo.kdns.fr
+  tls: true
+  type: vless
+  uuid: eeb6823c-b926-4ea2-866a-5542edd26e59
+  ws-opts:
+    headers:
+      Host: t1s1.rittbo.kdns.fr
+    path: '%2F'
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: '10,21| By EbraSha 🪖 #175'
+  network: tcp
+  port: 8765
+  reality-opts:
+    public-key: 9-MpQYNkvUf6bHm8s8F1K9HYzd9Iz5Q5Q8GTuHTLTnY
+    short-id: 63e6fbb6aa4f57f8
+  server: 45.196.233.70
+  servername: www.ntt.com
+  tls: false
+  type: vless
+  uuid: f71e29f8-0608-4705-99b9-33e0e128ca6d
+- name: '10,15|🔥Join+Telegram:@Farah_VPN🟣 #2580'
+  network: tcp
+  password: PQ05174892
+  port: 443
+  server: 13.192.168.51
+  sni: learning-leopard.rooster465.autos
+  type: trojan
 - alterId: '0'
   cipher: auto
   name: 14|D🔴🇯🇵hos[🎬🤖📺🎭]_dokng.com_e6ac24...
@@ -209,45 +1167,9 @@ proxies:
   udp: true
   uuid: 6b76a8d6-37b1-4ff8-94cb-65d47e1a9bb3
   xudp: true
-- client-fingerprint: firefox
-  flow: xtls-rprx-vision
-  name: 19,21,24|🇺🇸_美国_24
-  network: tcp
-  port: 8443
-  reality-opts:
-    public-key: 1MLoHw7RVkGefh7XUyuGg4ndxwv4vDU9en-f9JxpXRQ
-    short-id: d2061bb1
-  server: 13.143.137.206
-  servername: ya.ru
-  skip-cert-verify: true
-  tls: true
-  type: vless
-  udp: true
-  uuid: 9ebf4fda-7395-4800-b42f-b2dda649880a
-- client-fingerprint: chrome
-  flow: xtls-rprx-vision
-  name: '19,21| By EbraSha 💻 #155'
-  network: tcp
-  port: 443
-  reality-opts:
-    public-key: 0i_xAxYgSNx5NMpK2lOaWGS-CvAiD_LneYPO0MF0owo
-    short-id: 1a
-  server: t14.qifei.app
-  servername: www.amazon.com
-  tls: false
-  type: vless
-  uuid: b98d4c6e-6770-4a31-8256-a4750cdea0e7
-- name: '19,20,21| By EbraSha 🎯 #49'
-  network: tcp
-  password: UX82473651
-  port: 443
-  server: internal-krill.rooster465.autos
-  skip-cert-verify: true
-  sni: internal-krill.rooster465.autos
-  type: trojan
 - alterId: 0
   cipher: auto
-  name: '19,31|🇯🇵 日本|@ripaojiedian #2'
+  name: '19,31|🇯🇵 日本|@ripaojiedian #3'
   network: ws
   port: 443
   server: Z9FfBx3zs2q5O0BG.v.3dns.vip
@@ -262,22 +1184,7 @@ proxies:
     path: /ws-vmess
 - alterId: 0
   cipher: auto
-  name: '19,21,31|🇯🇵 日本2|@ripaojiedian #2'
-  network: ws
-  port: 443
-  server: kQov7UKaDknXb8a3.v.3dns.vip
-  servername: kQov7UKaDknXb8a3.v.3dns.vip
-  skip-cert-verify: false
-  tls: true
-  type: vmess
-  uuid: 88888888-8888-8888-8888-888888888888
-  ws-opts:
-    headers:
-      Host: kQov7UKaDknXb8a3.v.3dns.vip
-    path: /ws-vmess
-- alterId: 0
-  cipher: auto
-  name: '19,31|🇯🇵 日本3|@ripaojiedian #2'
+  name: '19,31|🇯🇵 日本3|@ripaojiedian #3'
   network: ws
   port: 443
   server: kneNaKHeSXnZH259.v.3dns.vip
@@ -290,7 +1197,7 @@ proxies:
     headers:
       Host: kneNaKHeSXnZH259.v.3dns.vip
     path: /ws-vmess
-- name: '19,20,21,32|日本2|@ripaojiedian #3'
+- name: '19,20,21,30,32|日本2|@ripaojiedian #4'
   network: tcp
   password: AA885B42-133C-3828-FB69-E45105C06092
   port: 10125
@@ -298,15 +1205,6 @@ proxies:
   skip-cert-verify: true
   sni: m.ctrip.com
   type: trojan
-- client-fingerprint: random
-  flow: xtls-rprx-vision
-  name: 19|🇯🇵JP_2|4.8MB/s
-  port: 443
-  server: 47.74.25.186
-  servername: www.microsoft.com
-  tls: true
-  type: vless
-  uuid: cbd9b987-5c4e-4e1e-98a7-c536a2ef9b4c
 - name: 19|🇯🇵 日本 | JPN
   obfs: salamander
   obfs-password: xK9mN2pLq5vR8wB3
@@ -341,7 +1239,7 @@ proxies:
   type: hysteria2
 - alterId: 0
   cipher: auto
-  name: '20,21|By EbraSha ⚔️ #11'
+  name: '20,30|🇯🇵 日本|@ripaojiedian #2'
   network: ws
   port: 443
   server: Z9FfBx3zs2q5O0BG.v.3dns.vip
@@ -356,7 +1254,7 @@ proxies:
     path: /ws-vmess
 - alterId: 0
   cipher: auto
-  name: '20,21|By EbraSha 🔥 #15'
+  name: '20,30|🇯🇵 日本2|@ripaojiedian #2'
   network: ws
   port: 443
   server: kQov7UKaDknXb8a3.v.3dns.vip
@@ -371,7 +1269,7 @@ proxies:
     path: /ws-vmess
 - alterId: 0
   cipher: auto
-  name: '20,21|By EbraSha 🧩 #20'
+  name: '20,21,30|🇯🇵 日本3|@ripaojiedian #2'
   network: ws
   port: 443
   server: kneNaKHeSXnZH259.v.3dns.vip
@@ -385,7 +1283,7 @@ proxies:
       Host: kneNaKHeSXnZH259.v.3dns.vip
     path: /ws-vmess
 - client-fingerprint: chrome
-  name: '22|🇯🇵_JP_日本 #6'
+  name: 22,34|🇯🇵JP_62|347KB/s|F003-260618 01
   network: ws
   port: 443
   server: 35.72.179.15
@@ -401,35 +1299,7 @@ proxies:
     path: /
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: 24|🇯🇵_日本_7
-  port: 443
-  reality-opts:
-    public-key: DbiBFFM_s7eBSN20U4fxvliZdcBfV2_41T_PWX2mrj0
-    short-id: 708f353722c36d17
-  server: 158.179.191.37
-  servername: www.apple.com
-  skip-cert-verify: true
-  tls: true
-  type: vless
-  udp: true
-  uuid: 53f1e11a-2b55-43f0-953f-d44c5fba92b6
-- client-fingerprint: chrome
-  flow: xtls-rprx-vision
-  name: 24|🇯🇵_日本_8
-  port: 443
-  reality-opts:
-    public-key: FE18081Cm-WUzpu6JyGpmlJqHEZpDmeWCAcisuRKtX4
-    short-id: e295fe30ac8e9c41
-  server: 141.147.150.232
-  servername: www.cloudflare.com
-  skip-cert-verify: true
-  tls: true
-  type: vless
-  udp: true
-  uuid: bf6f8771-654f-4072-a1c9-dadb3b36da56
-- client-fingerprint: chrome
-  flow: xtls-rprx-vision
-  name: 24|🇯🇵_日本_9
+  name: 24|🇯🇵_日本_36
   port: 443
   reality-opts:
     public-key: zRYILDpfkddIbXYu10kE3d-NouoDNvQR_Rq9UPx-lyM
@@ -442,29 +1312,7 @@ proxies:
   udp: true
   uuid: fea92fee-3202-43bf-bca5-ff06db0f95c0
 - client-fingerprint: chrome
-  flow: xtls-rprx-vision
-  name: 24|🇯🇵_日本_10
-  port: 2053
-  reality-opts:
-    public-key: FE18081Cm-WUzpu6JyGpmlJqHEZpDmeWCAcisuRKtX4
-    short-id: 2235c8526bc59d67
-  server: 141.147.150.232
-  servername: www.cloudflare.com
-  skip-cert-verify: true
-  tls: true
-  type: vless
-  udp: true
-  uuid: fa13a9f7-5cba-4dca-b6b7-c14953f0ac65
-- name: 24|🇯🇵_日本_27
-  password: aec8e5e3-bb81-4b22-8802-0b88c54997b3
-  port: 10003
-  server: jp7.vatilon.cc
-  skip-cert-verify: true
-  sni: jp7.vatilon.cc
-  type: trojan
-  udp: true
-- client-fingerprint: chrome
-  name: 24|🇯🇵_日本_97
+  name: 24|🇯🇵_日本_98
   network: ws
   port: 26418
   server: 154.31.112.237
@@ -479,7 +1327,7 @@ proxies:
       Host: jln31qtswdkut5.60kohcognywybguuq3ouc818oofnxfvn35daott.workers.dev
     path: /@Marisa_kristi
 - client-fingerprint: chrome
-  name: 24|🇯🇵_日本_127
+  name: 24|🇯🇵_日本_103
   network: ws
   port: 4798
   server: 107.191.53.86
@@ -493,14 +1341,34 @@ proxies:
     headers:
       Host: jln31qtswdkut5.60kohcognywybguuq3ouc818oofnxfvn35daott.workers.dev
     path: /@Marisa_kristi
-- name: 28|[OpenRay] 🇯🇵JP-111
-  password: u63SxILNwtrQZ7Y1ZrFaZfsA
-  port: 8443
-  server: 8.211.175.236
+- client-fingerprint: chrome
+  name: 24|🇯🇵_日本_240
+  network: ws
+  port: 443
+  server: 3.113.169.241
   skip-cert-verify: true
-  sni: bing.com
-  tls: false
-  type: hysteria2
+  tls: true
+  type: vless
+  udp: true
+  uuid: 235e318a-8bcb-4480-b256-7b65cc5d0b0a
+  ws-opts:
+    headers:
+      Host: jp.lovehk.xyz
+    path: /Tokyo1
+- client-fingerprint: chrome
+  name: 24|🇯🇵_日本_252
+  network: ws
+  port: 443
+  server: 3.113.169.241
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: 1c3fb1c0-1204-49db-b842-f72d50f014c1
+  ws-opts:
+    headers:
+      Host: jp.lovehk.xyz
+    path: /Tokyo1
 - alpn:
   - h3
   name: 28|[OpenRay] 🇯🇵JP-3
@@ -513,7 +1381,7 @@ proxies:
   type: hysteria2
 - alpn:
   - h3
-  name: 28|[OpenRay] 🇯🇵JP-256
+  name: 28|[OpenRay] 🇯🇵JP-261
   password: usqmqUKJFIlCmvkCNSY64L3k
   port: 443
   server: 8.209.247.109
@@ -521,6 +1389,191 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
+- client-fingerprint: chrome
+  name: 28|[OpenRay] 🇯🇵JP-178
+  network: ws
+  port: 443
+  server: 13.115.139.162
+  servername: x.m-90.xyz
+  tls: true
+  type: vless
+  uuid: 489f1717-d3c7-4940-ad68-bdbdbab857f4
+  ws-opts:
+    headers:
+      Host: x.m-90.xyz
+    path: t.me%2FTEAMNETGRATISCOL
+- client-fingerprint: chrome
+  name: 28|[OpenRay] 🇯🇵JP-4
+  network: ws
+  port: 443
+  server: 13.231.221.179
+  servername: x.m-90.xyz
+  tls: true
+  type: vless
+  uuid: 489f1717-d3c7-4940-ad68-bdbdbab857f4
+  ws-opts:
+    headers:
+      Host: x.m-90.xyz
+    path: '%2Ft.me%2FTEAMNETGRATISCOL'
+- client-fingerprint: chrome
+  name: 28|[OpenRay] 🇯🇵JP-139
+  network: ws
+  port: 443
+  server: 150.230.63.93
+  servername: x.m-90.xyz
+  tls: true
+  type: vless
+  uuid: 489f1717-d3c7-4940-ad68-bdbdbab857f4
+  ws-opts:
+    headers:
+      Host: x.m-90.xyz
+    path: t.me%2FTEAMNETGRATISCOL
+- client-fingerprint: chrome
+  name: 28|[OpenRay] 🇯🇵JP-250
+  network: ws
+  port: 443
+  server: 217.60.6.103
+  servername: x.m-90.xyz
+  tls: true
+  type: vless
+  uuid: 489f1717-d3c7-4940-ad68-bdbdbab857f4
+  ws-opts:
+    headers:
+      Host: x.m-90.xyz
+    path: t.me%2FTEAMNETGRATISCOL
+- client-fingerprint: chrome
+  name: 28|[OpenRay] 🇯🇵JP-238
+  network: ws
+  port: 443
+  server: 35.78.243.103
+  servername: x.m-90.xyz
+  tls: true
+  type: vless
+  uuid: 489f1717-d3c7-4940-ad68-bdbdbab857f4
+  ws-opts:
+    headers:
+      Host: x.m-90.xyz
+    path: t.me%2FTEAMNETGRATISCOL
+- client-fingerprint: chrome
+  name: 28|[OpenRay] 🇯🇵JP-23
+  network: ws
+  port: 443
+  server: 35.78.243.103
+  servername: x.m-90.xyz
+  tls: true
+  type: vless
+  uuid: 489f1717-d3c7-4940-ad68-bdbdbab857f4
+  ws-opts:
+    headers:
+      Host: x.m-90.xyz
+    path: '%2Ft.me%2FTEAMNETGRATISCOL'
+- client-fingerprint: chrome
+  name: 28|[OpenRay] 🇯🇵JP-142
+  network: ws
+  port: 57554
+  server: 203.137.165.164
+  servername: d-l28t5-65-b.pbe40wmcujaw726h7cpqernzmawz4stwtrnqve0n1s5reht.workers.dev
+  tls: true
+  type: vless
+  uuid: 980df025-74b9-4853-93e8-fb813006d7e5
+  ws-opts:
+    headers:
+      Host: d-l28t5-65-b.pbe40wmcujaw726h7cpqernzmawz4stwtrnqve0n1s5reht.workers.dev
+    path: /@Marisa_kristi
+- client-fingerprint: chrome
+  name: 28|[OpenRay] 🇯🇵JP-64
+  network: ws
+  port: 19364
+  server: 210.152.85.154
+  servername: d-l28t5-65-b.pbe40wmcujaw726h7cpqernzmawz4stwtrnqve0n1s5reht.workers.dev
+  tls: true
+  type: vless
+  uuid: 9dc0aa1f-8df6-4d80-b17c-7b92cdfc514d
+  ws-opts:
+    headers:
+      Host: d-l28t5-65-b.pbe40wmcujaw726h7cpqernzmawz4stwtrnqve0n1s5reht.workers.dev
+    path: /@Marisa_kristi
+- client-fingerprint: firefox
+  flow: xtls-rprx-vision
+  name: 28|[OpenRay] 🇯🇵JP-134
+  network: tcp
+  port: 443
+  reality-opts:
+    public-key: sDKrtAJk2VP_w1w7cFi2O86RdlvQ2E2An5xsRdJlgGE
+    short-id: 6d962e8d8a0dce
+  server: 38.207.130.15
+  servername: amazon.com
+  tls: false
+  type: vless
+  uuid: e4cd263b-c5c7-4410-bf61-8893179ec429
+- alpn:
+  - networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-
+  client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: 28|[OpenRay] 🇯🇵JP-101
+  network: tcp
+  port: 43000
+  reality-opts:
+    public-key: onJvbzSx_vZUyycafvPuhsiSQsr9tw4zotyVMSWCvm4
+    short-id: 8d66106f
+  server: 142.91.106.31
+  tls: false
+  type: vless
+  uuid: f8681dba-d368-4bab-a3c2-a8dc712ba368
+- client-fingerprint: chrome
+  name: 28|[OpenRay] 🇯🇵JP-280
+  network: ws
+  port: 19364
+  server: 210.152.85.154
+  servername: sxyyvihkektlx4rjxsdj.pkc73phpweu4rbxbatm444.workers.dev
+  tls: true
+  type: vless
+  uuid: fbdc2b46-7208-4499-abd1-5b5a148b2197
+  ws-opts:
+    headers:
+      Host: sxyyvihkektlx4rjxsdj.pkc73phpweu4rbxbatm444.workers.dev
+    path: /@Marisa_kristi
+- client-fingerprint: random
+  flow: xtls-rprx-vision
+  name: 28|[OpenRay] 🇯🇵JP-177
+  network: tcp
+  port: 9443
+  reality-opts:
+    public-key: 0hIFPaEn4RdFib8_eP8HYxMywR5izEwM3JA2W1Zo8U4
+    short-id: b390142456517acc
+  server: 38.180.202.173
+  servername: www.amazon.com
+  tls: false
+  type: vless
+  uuid: fe0721ac-c577-4938-b7ca-8ab5f43bb8da
+- alterId: 0
+  cipher: auto
+  name: 28|[OpenRay] 🇯🇵JP-160
+  network: ws
+  port: 80
+  server: 172.111.146.64
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 05b8c783-7f59-47f9-9923-06a465679f6a
+  ws-opts:
+    headers:
+      Host: ''
+    path: /vmess/
+- alterId: 0
+  cipher: auto
+  name: 28|[OpenRay] 🇯🇵JP-120
+  network: ws
+  port: 80
+  server: 172.111.146.64
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 05b8c783-7f59-47f9-9923-06a465679f6a
+  ws-opts:
+    headers:
+      Host: zoom.us
+    path: /vmess/
 - client-fingerprint: chrome
   name: '29,34|🇺🇸US美国丨yoyapai.com #10'
   network: ws
@@ -789,7 +1842,7 @@ proxies:
       Host: shuma.ccwu.cc
     path: '%2F'
 - client-fingerprint: chrome
-  name: '34|JP日本(mibei77.com 米贝节点分享) #7'
+  name: '34|🇯🇵_JP_日本 #7'
   network: ws
   port: 443
   server: 35.72.179.15
@@ -843,17 +1896,6 @@ proxies:
   sni: 45.88.43.116
   tls: false
   type: hysteria2
-- name: 34|🇯🇵JP_8|686KB/s|C002-260622 01
-  network: ws
-  port: 8880
-  server: 162.159.156.214
-  tls: false
-  type: vless
-  uuid: d9c01a13-cb60-4c48-9fbc-ba1d3a8b5bfb
-  ws-opts:
-    headers:
-      Host: little-silence-1ee8.449.workers.dev
-    path: /pyip=ProxyIP.JP.CMLiussss.net
 - client-fingerprint: chrome
   name: 34|🇯🇵JP_9|265KB/s|M003-260806 01
   network: ws
@@ -880,3 +1922,354 @@ proxies:
     headers:
       Host: jln31qtswdkut5.60kohcognywybguuq3ouc818oofnxfvn35daott.workers.dev
     path: /@Marisa_kristi
+- client-fingerprint: chrome
+  name: 34|🇯🇵JP_24|166KB/s|M003-260806 01
+  network: ws
+  port: 19364
+  server: 210.152.85.154
+  servername: wjwkhoaftdgrt8qus.mp8pmwdgwf3sdapasouszjobjr57nrxxgtx9n.workers.dev
+  tls: true
+  type: vless
+  uuid: 59b6ac03-2f22-490e-9f97-a6b942b49f60
+  ws-opts:
+    headers:
+      Host: wjwkhoaftdgrt8qus.mp8pmwdgwf3sdapasouszjobjr57nrxxgtx9n.workers.dev
+    path: /@Marisa_kristi
+- client-fingerprint: chrome
+  name: 34|🇯🇵JP_25|208KB/s|M002-260618 01
+  network: ws
+  port: 57554
+  server: 203.137.165.164
+  servername: 3tmj2egtm-fno.49bnithzk8vphybv36d1z1xkzfvogt2m6.workers.dev
+  tls: true
+  type: vless
+  uuid: 7fdb95f9-c758-486c-865a-7c1219823670
+  ws-opts:
+    headers:
+      Host: 3tmj2egtm-fno.49bnithzk8vphybv36d1z1xkzfvogt2m6.workers.dev
+    path: /@Marisa_kristi
+- client-fingerprint: chrome
+  name: 34|🇯🇵JP_26|346KB/s|F003-260618 01
+  network: ws
+  port: 28863
+  server: 129.153.71.28
+  servername: mw5qisav.wjwqvie0wb1eqhb8e83clqdoq3m5p9a4on.workers.dev
+  tls: true
+  type: vless
+  uuid: 3e956106-7f92-4cbf-bf77-715d3890fa84
+  ws-opts:
+    headers:
+      Host: mw5qisav.wjwqvie0wb1eqhb8e83clqdoq3m5p9a4on.workers.dev
+    path: /@Marisa_kristi
+- client-fingerprint: chrome
+  name: 34|🇯🇵JP_28|268KB/s|A004-260618 01
+  network: ws
+  port: 19364
+  server: 210.152.85.154
+  servername: kqjifhg9rw.tradsc8p9xp7wxyqmc1wy0ah.workers.dev
+  tls: true
+  type: vless
+  uuid: 2b1d61e5-6835-488a-a5fe-b91874a8c1a1
+  ws-opts:
+    headers:
+      Host: kqjifhg9rw.tradsc8p9xp7wxyqmc1wy0ah.workers.dev
+    path: /@Marisa_kristi
+- client-fingerprint: chrome
+  name: 34|🇯🇵JP_29|269KB/s|A004-260618 01
+  network: ws
+  port: 19364
+  server: 210.152.85.154
+  servername: 3t1yvbyla-rj740g.28m7r63dttya6gazmhoo.workers.dev
+  tls: true
+  type: vless
+  uuid: d6c21f6f-2e7e-479d-a4d9-4069995867ed
+  ws-opts:
+    headers:
+      Host: 3t1yvbyla-rj740g.28m7r63dttya6gazmhoo.workers.dev
+    path: /@Marisa_kristi
+- name: 34|🇯🇵JP_39|717KB/s|R002-260618 01
+  password: 9e98496a-0036-4cc6-8302-3929c29ba772
+  port: 35791
+  server: iijjp.mggl.wang
+  skip-cert-verify: true
+  sni: www.apple.com
+  type: anytls
+- alpn:
+  - v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus
+  client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: 34|🇯🇵JP_42|527KB/s|B007-260618 01
+  network: tcp
+  port: 443
+  reality-opts:
+    public-key: kb1uhDsBcfsCD6acCuFcVERW29dscNGIjKPd67NArVk
+    short-id: ab3b914f0c9d9de5
+  server: 47.74.3.200
+  servername: www.logitech.com
+  tls: false
+  type: vless
+  uuid: 7fb42fab-ea8a-4f0f-af9e-55df8ae6cb1d
+- client-fingerprint: firefox
+  name: 34|🇯🇵JP_44|435KB/s|T001-260618 01
+  network: ws
+  port: 443
+  server: 8.219.155.125
+  servername: vp10.pages.dev
+  tls: true
+  type: vless
+  uuid: 7b102311-43fd-4e8f-877e-8090623c101d
+  ws-opts:
+    headers:
+      Host: vp10.pages.dev
+    path: /
+- client-fingerprint: chrome
+  name: 34|🇯🇵JP_45|495KB/s|T001-260618 01
+  network: ws
+  port: 443
+  server: 64.204.49.68
+  servername: vp10.pages.dev
+  tls: true
+  type: vless
+  uuid: 7b102311-43fd-4e8f-877e-8090623c101d
+  ws-opts:
+    headers:
+      Host: vp10.pages.dev
+    path: /fp=firefox
+- client-fingerprint: chrome
+  name: 34|🇯🇵JP_46|302KB/s|F003-260618 01
+  network: ws
+  port: 443
+  server: 207.148.99.230
+  servername: cdn8848.776676.xyz
+  tls: true
+  type: vless
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  ws-opts:
+    headers:
+      Host: cdn8848.776676.xyz
+    path: /test/company/library?ed=2560
+- client-fingerprint: chrome
+  name: 34|🇯🇵JP_47|499KB/s|A004-260618 01
+  network: ws
+  port: 19364
+  server: 210.152.85.154
+  servername: cdn8848.776676.xyz
+  tls: true
+  type: vless
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  ws-opts:
+    headers:
+      Host: cdn8848.776676.xyz
+    path: /collect/user/products?ed=2560
+- client-fingerprint: chrome
+  name: 34|🇯🇵JP_48|557KB/s|R002-260618 01
+  network: ws
+  port: 10129
+  server: 138.2.59.96
+  servername: cdn8848.776676.xyz
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  ws-opts:
+    headers:
+      Host: cdn8848.776676.xyz
+    path: /movie/help/events?ed=2560
+- client-fingerprint: chrome
+  name: 34|🇯🇵JP_49|444KB/s|R002-260618 01
+  network: ws
+  port: 443
+  server: 107.191.53.84
+  servername: mia10.pages.dev
+  tls: true
+  type: vless
+  uuid: 3db635e4-f9ec-42d6-8aba-e23df8b0e6da
+  ws-opts:
+    headers:
+      Host: mia10.pages.dev
+    path: /TG:@MiaChatChannel
+- client-fingerprint: chrome
+  name: 34|🇯🇵JP_50|537KB/s|R002-260618 01
+  network: ws
+  port: 443
+  server: 64.176.60.226
+  servername: cdn8848.776676.xyz
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  ws-opts:
+    headers:
+      Host: cdn8848.776676.xyz
+    path: /documents?ed=2560
+- client-fingerprint: chrome
+  name: 34|🇯🇵JP_51|385KB/s|R002-260618 01
+  network: ws
+  port: 443
+  server: 45.76.207.88
+  servername: mia0.pages.dev
+  tls: true
+  type: vless
+  uuid: 3db635e4-f9ec-42d6-8aba-e23df8b0e6da
+  ws-opts:
+    headers:
+      Host: mia0.pages.dev
+    path: /TG:@MiaChatChannel
+- client-fingerprint: chrome
+  name: 34|🇯🇵JP_52|460KB/s|F003-260618 01
+  network: ws
+  port: 443
+  server: 103.115.18.54
+  servername: cdn8848.776676.xyz
+  tls: true
+  type: vless
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  ws-opts:
+    headers:
+      Host: cdn8848.776676.xyz
+    path: /episode/files?ed=2560
+- client-fingerprint: chrome
+  name: 34|🇯🇵JP_54|340KB/s|A004-260618 01
+  network: ws
+  port: 57554
+  server: 203.137.165.164
+  servername: 9-7u3b6e.wzkija0v0du4yhk6jfyfafml3nh22kne.workers.dev
+  tls: true
+  type: vless
+  uuid: e5b2a063-a114-4bd0-802d-b2da1fe1d1da
+  ws-opts:
+    headers:
+      Host: 9-7u3b6e.wzkija0v0du4yhk6jfyfafml3nh22kne.workers.dev
+    path: /@Marisa_kristi
+- client-fingerprint: chrome
+  name: 34|🇯🇵JP_55|244KB/s|A004-260618 01
+  network: ws
+  port: 19364
+  server: 210.152.85.154
+  servername: 9-7u3b6e.wzkija0v0du4yhk6jfyfafml3nh22kne.workers.dev
+  tls: true
+  type: vless
+  uuid: 73fd7403-7286-4839-97ad-257ab536054c
+  ws-opts:
+    headers:
+      Host: 9-7u3b6e.wzkija0v0du4yhk6jfyfafml3nh22kne.workers.dev
+    path: /@Marisa_kristi
+- client-fingerprint: chrome
+  name: 34|🇯🇵JP_57|560KB/s|R002-260618 01
+  network: ws
+  port: 443
+  server: 92.113.124.253
+  servername: cdn8848.776676.xyz
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  ws-opts:
+    headers:
+      Host: cdn8848.776676.xyz
+    path: /redirect.html/list/episode?ed=2560
+- client-fingerprint: chrome
+  name: 34|🇯🇵JP_58|532KB/s|R002-260618 01
+  network: ws
+  port: 443
+  server: 92.113.124.40
+  servername: cdn8848.776676.xyz
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  ws-opts:
+    headers:
+      Host: cdn8848.776676.xyz
+    path: /star/manhua/p?ed=2560
+- client-fingerprint: chrome
+  name: 34|🇯🇵JP_59|247KB/s|R002-260618 01
+  network: ws
+  port: 443
+  server: 45.63.124.130
+  servername: mia10.pages.dev
+  tls: true
+  type: vless
+  uuid: 3db635e4-f9ec-42d6-8aba-e23df8b0e6da
+  ws-opts:
+    headers:
+      Host: mia10.pages.dev
+    path: /TG:@MiaChatChannel
+- client-fingerprint: chrome
+  name: 34|🇯🇵JP_60|206KB/s|F003-260618 01
+  network: ws
+  port: 443
+  server: 92.113.124.228
+  servername: shuma.ccwu.cc
+  tls: true
+  type: vless
+  uuid: c18b978e-1c4e-415c-8bea-07942b563a64
+  ws-opts:
+    headers:
+      Host: shuma.ccwu.cc
+    path: /
+- client-fingerprint: chrome
+  name: 34|🇯🇵JP_61|436KB/s|F003-260618 01
+  network: ws
+  port: 8443
+  server: 102.134.49.108
+  servername: shuma.ccwu.cc
+  tls: true
+  type: vless
+  uuid: c18b978e-1c4e-415c-8bea-07942b563a64
+  ws-opts:
+    headers:
+      Host: shuma.ccwu.cc
+    path: /
+- client-fingerprint: chrome
+  name: 34|🇯🇵JP_63|276KB/s|F003-260618 01
+  network: ws
+  port: 443
+  server: 161.33.29.51
+  servername: shuma.ccwu.cc
+  tls: true
+  type: vless
+  uuid: c18b978e-1c4e-415c-8bea-07942b563a64
+  ws-opts:
+    headers:
+      Host: shuma.ccwu.cc
+    path: /
+- client-fingerprint: chrome
+  name: 34|🇯🇵JP_64|239KB/s|F003-260618 01
+  network: ws
+  port: 443
+  server: 101.142.129.72
+  servername: shuma.ccwu.cc
+  tls: true
+  type: vless
+  uuid: c18b978e-1c4e-415c-8bea-07942b563a64
+  ws-opts:
+    headers:
+      Host: shuma.ccwu.cc
+    path: /
+- client-fingerprint: chrome
+  name: 34|🇯🇵JP_65|348KB/s|F003-260618 01
+  network: ws
+  port: 443
+  server: 45.202.254.133
+  servername: shuma.ccwu.cc
+  tls: true
+  type: vless
+  uuid: c18b978e-1c4e-415c-8bea-07942b563a64
+  ws-opts:
+    headers:
+      Host: shuma.ccwu.cc
+    path: /
+- client-fingerprint: chrome
+  name: 34|🇯🇵JP_66|295KB/s|F003-260618 01
+  network: ws
+  port: 8443
+  server: 46.250.250.48
+  servername: shuma.ccwu.cc
+  tls: true
+  type: vless
+  uuid: c18b978e-1c4e-415c-8bea-07942b563a64
+  ws-opts:
+    headers:
+      Host: shuma.ccwu.cc
+    path: /

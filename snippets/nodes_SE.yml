@@ -1,49 +1,91 @@
 proxies:
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 🧨 #11'
+  name: '10,21| By EbraSha 🛸 #5'
   password: CxtcZaOSFYiJnloyTZJ0z2
   port: 443
   server: 89.22.234.121
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 🔋 #10'
+  name: '10,21| By EbraSha 🧨 #11'
   password: N2YzM
   port: 1443
   server: 45.138.103.4
   type: ss
-- cipher: chacha20-ietf-poly1305
-  name: '10|🇸🇪 [ Configs by DukeMehdi ] SS... #2'
-  password: pydQILh06AvJ
-  port: 27092
-  server: 13.49.241.14
-  type: ss
 - cipher: aes-256-cfb
-  name: '10|🇸🇪 [ Configs by DukeMehdi ] SS... #3'
+  name: '10,21| By EbraSha 💣 #28'
   password: asdKkaskJKfnsa
   port: 443
   server: 37.19.222.211
   type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha 🔋 #13'
+  name: '10,21| By EbraSha 🛸 #18'
   password: asdKkaskJKfnsa
   port: 443
   server: 37.19.222.212
   type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha 🦂 #15'
+  name: '10,21| By EbraSha 🔌 #19'
   password: asdKkaskJKfnsa
   port: 443
   server: 37.19.222.213
   type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha ✨ #22'
+  name: '10,21| By EbraSha 📀 #13'
   password: asdKkaskJKfnsa
   port: 443
   server: 37.19.222.214
   type: ss
-- cipher: aes-256-cfb
-  name: '10,21| By EbraSha 🌌 #18'
-  password: f8f7aCzcPKbsF8p3
-  port: 989
-  server: 121.127.46.147
+- cipher: aes-256-gcm
+  name: '10,21| By EbraSha 🛰️ #26'
+  password: pX0uhU3ZjUcLWYs0Vez55BO3JoQrRlL
+  port: 17000
+  server: 172.238.244.13
   type: ss
+- name: '10,21| By EbraSha 📟 #35'
+  network: tcp
+  password: Bw5Mz7QkVp
+  port: 443
+  server: 70.34.206.32
+  skip-cert-verify: true
+  sni: z-v2-077787.kailib.com
+  type: trojan
+- alpn:
+  - http/1.1
+  name: '10,21| By EbraSha ⌨️ #55'
+  network: tcp
+  password: e72c6ea7e61f4dcea568aa569fb9b771
+  port: 9443
+  server: 185.117.89.88
+  skip-cert-verify: true
+  sni: apple.com
+  type: trojan
+- name: '10|🇸🇪 [ Configs by DukeMehdi ] TJ... #2'
+  password: telegram-id-directvpn
+  port: 22222
+  server: 13.48.105.114
+  sni: 'trj.rollingnext.co.uk '
+  type: trojan
+- name: '10|🇸🇪 [ Configs by DukeMehdi ] TJ... #3'
+  password: telegram-id-privatevpns
+  port: 22222
+  server: 13.48.202.26
+  sni: 'trj.rollingnext.co.uk '
+  type: trojan
+- name: '10|🇸🇪 [ Configs by DukeMehdi ] TJ... #4'
+  password: telegram-id-privatevpns
+  port: 22222
+  server: 13.48.45.205
+  sni: 'trj.rollingnext.co.uk '
+  type: trojan
+- name: '10|🇸🇪 [ Configs by DukeMehdi ] TJ... #5'
+  password: telegram-id-privatevpns
+  port: 22222
+  server: 13.50.16.231
+  sni: 'trj.rollingnext.co.uk '
+  type: trojan
+- name: '10|🇸🇪 [ Configs by DukeMehdi ] TJ... #6'
+  password: telegram-id-privatevpns
+  port: 22222
+  server: 16.171.58.121
+  sni: 'trj.rollingnext.co.uk '
+  type: trojan

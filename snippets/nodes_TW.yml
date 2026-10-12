@@ -1,53 +1,151 @@
 proxies:
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 🚀 #9'
+  name: '10,21| By EbraSha ⛓️ #8'
   password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4
   port: 50099
   server: 36.224.141.124
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 🕹️ #9'
+  name: 10,21,34|未知 SS-293 | free-nodes
   password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4
   port: 50099
   server: 36.224.152.189
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10|🇹🇼 [ Configs by DukeMehdi ] SS... #2'
-  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
-  port: 2377
-  server: 211.72.214.20
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 🖥️ #19'
+  name: '10,21| By EbraSha 🌃 #10'
   password: q2jToxsx4vTevqrFiLGuwRx96SXM3C96id1MWpnSECHq3MaTWnEV76aN5PYEigRfqf7rxAcuAMWUzYNxrYRG6QhMcYw5QnqL
   port: 56594
   server: 46.249.109.128
   type: ss
 - cipher: aes-256-cfb
-  name: '10|🇹🇼 [ Configs by DukeMehdi ] SS... #4'
+  name: '10|🇹🇼 [ Configs by DukeMehdi ] SS... #3'
   password: qwerREWQ@@
   port: 50701
   server: 61.220.130.70
   type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha 🚀 #23'
+  name: '10,21| By EbraSha 🗿 #22'
   password: qwerREWQ@@
   port: 41632
   server: 185.189.160.105
   type: ss
 - cipher: aes-256-gcm
-  name: '10,21| By EbraSha 🪖 #14'
+  name: '10,21| By EbraSha 🌪️ #23'
   password: 8n6pwAcrrv2pj6tFY2p3TbQ6
   port: 33992
   server: 2.58.242.157
   type: ss
 - cipher: aes-256-gcm
-  name: '10,21| By EbraSha 🐺 #11'
+  name: '10,21| By EbraSha 🤖 #18'
   password: 8n6pwAcrrv2pj6tFY2p3TbQ6
   port: 33992
   server: 2.58.242.43
   type: ss
-- name: '19,20,32|台湾|@ripaojiedian #2'
+- cipher: aes-256-gcm
+  name: '10,21| By EbraSha ♠️ #39'
+  password: xpQwyV4W5FdA6NMANJJx73US
+  port: 38033
+  server: 2.58.241.45
+  type: ss
+- name: '10,21| By EbraSha 🌃 #34'
+  password: 182228812d1e0f23
+  port: 3389
+  server: 60.249.3.229
+  type: trojan
+- name: '10|🇹🇼 [ Configs by DukeMehdi ] TJ... #1'
+  password: 182228812d1e0f23
+  port: 3389
+  server: 60.249.3.230
+  type: trojan
+- name: '10|🇹🇼 [ Configs by DukeMehdi ] TJ... #2'
+  password: 3febb05ea76a940f
+  port: 3389
+  server: 60.249.3.125
+  type: trojan
+- name: '10,21| By EbraSha 🐉 #19'
+  network: tcp
+  password: 6e1b9a65-884f-3aa9-9469-bf6ec0f08610
+  port: 3462
+  server: 60.250.152.229
+  skip-cert-verify: true
+  sni: a03.taipeicitygovernment.cn.ua
+  type: trojan
+- name: '10,21| By EbraSha 🕹️ #42'
+  network: tcp
+  password: 6e1b9a65-884f-3aa9-9469-bf6ec0f08610
+  port: 3462
+  server: 60.250.152.230
+  skip-cert-verify: true
+  sni: a03.taipeicitygovernment.cn.ua
+  type: trojan
+- name: '10,21| By EbraSha 🕶️ #38'
+  network: tcp
+  password: 6e1b9a65-884f-3aa9-9469-bf6ec0f08610
+  port: 3462
+  server: 61.222.160.199
+  skip-cert-verify: true
+  sni: a03.taipeicitygovernment.cn.ua
+  type: trojan
+- name: '10,21| By EbraSha 🥷 #25'
+  network: tcp
+  password: 736cd94d-7b94-3e44-8106-3419f64eaf09
+  port: 3462
+  server: 60.250.152.209
+  skip-cert-verify: true
+  sni: a12.taipeicitygovernment.org.ua
+  type: trojan
+- name: '10|🇹🇼 [ Configs by DukeMehdi ] TJ... #7'
+  password: 7ac49a893e0bd10c
+  port: 3389
+  server: 60.249.3.226
+  type: trojan
+- name: '10,21| By EbraSha 🌐 #31'
+  password: 7ac49a893e0bd10c
+  port: 3389
+  server: 60.249.3.227
+  type: trojan
+- name: '10|🇹🇼 [ Configs by DukeMehdi ] TJ... #9'
+  password: 7ac49a893e0bd10c
+  port: 3389
+  server: 60.249.3.228
+  type: trojan
+- name: '10,21| By EbraSha 🥷 #26'
+  password: 7b06d22a8a7c764f
+  port: 3389
+  server: 211.72.35.156
+  type: trojan
+- name: '10,21| By EbraSha 🛜 #41'
+  password: 8b475d9e868e43e0
+  port: 3389
+  server: 211.72.35.157
+  type: trojan
+- name: '10,21| By EbraSha 🦅 #44'
+  network: tcp
+  password: 96983eb4-c8f1-316e-ab00-500014ed3d8b
+  port: 8443
+  server: 60.250.152.209
+  skip-cert-verify: true
+  sni: official.taipeicitygovernment.net.ua
+  type: trojan
+- name: '10,21| By EbraSha 🕶️ #42'
+  network: tcp
+  password: 96983eb4-c8f1-316e-ab00-500014ed3d8b
+  port: 8443
+  server: 60.250.152.230
+  skip-cert-verify: true
+  sni: official.taipeicitygovernment.ivano-frankivsk.ua
+  type: trojan
+- name: '10|🇹🇼 [ Configs by DukeMehdi ] TJ... #14'
+  password: YWVzLTI1Ni1nY206eHBRd3lWNFc1RmRBNk5NQU5KSng3M1VT
+  port: 443
+  server: 2.58.242.43
+  type: trojan
+- name: '10|🇹🇼 [ Configs by DukeMehdi ] TJ... #15'
+  password: b84d16a244460e09
+  port: 3389
+  server: 211.72.35.152
+  type: trojan
+- name: '19,20,30,32|台湾|@ripaojiedian #3'
   network: tcp
   password: AA885B42-133C-3828-FB69-E45105C06092
   port: 12142
@@ -55,3 +153,13 @@ proxies:
   skip-cert-verify: true
   sni: m.ctrip.com
   type: trojan
+- alterId: 0
+  cipher: auto
+  name: 28|[OpenRay] 🇹🇼TW-4
+  network: raw
+  port: 35034
+  server: 165.154.195.38
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 959a8caf-4cea-43d0-a548-3628e7ddfafc

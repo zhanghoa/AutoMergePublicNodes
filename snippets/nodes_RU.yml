@@ -1,129 +1,210 @@
 proxies:
 - cipher: chacha20-ietf-poly1305
-  name: '10|🇷🇺 [ Configs by DukeMehdi ] SS... #1'
+  name: '10,21| By EbraSha 📼 #6'
+  password: MjU9yGcudqQlVH1y3KiA8f
+  port: 46717
+  server: 90.156.228.141
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: '10,21| By EbraSha 🐺 #9'
   password: V7jmsA6PQsLn
   port: 444
   server: 146.185.198.44
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 💎 #11'
+  name: '10,21| By EbraSha 📱 #5'
   password: eicdhshSrFLCx/sZ1PSpuKyoVWGZpU95tFS4iGC1c04=
   port: 43558
   server: 130.49.189.158
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 👑 #15'
+  name: '10,21| By EbraSha 🚀 #14'
   password: frcYfFRuQRks932EpCWvX7
   port: 57925
   server: 157.22.240.141
   type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha 🃏 #21'
+  name: '10,21| By EbraSha 🔮 #15'
   password: '!!str 7620447880'
   port: 50005
   server: 92.38.139.95
   type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha 📟 #19'
-  password: BwcAUZk8hUFAkDGN
-  port: 9031
-  server: 45.89.52.66
-  type: ss
-- cipher: aes-256-cfb
-  name: '10,21| By EbraSha 🛰️ #9'
+  name: '10,21| By EbraSha ⛓️ #14'
   password: EXN3S3eQpjE7EJu8
   port: 9027
   server: 213.183.41.38
   type: ss
 - cipher: aes-256-cfb
-  name: '10|🇷🇺 [ Configs by DukeMehdi ] SS... #7'
+  name: '10,21| By EbraSha 🌃 #14'
   password: KnJGad3FqTvjqbaX
   port: 9014
   server: 213.183.53.222
   type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha 🛸 #13'
-  password: HSZuyJQcWe8dxNdF
-  port: 9043
+  name: '10,21| By EbraSha 🌪️ #18'
+  password: M3t2ZEQcMGRWBjRa
+  port: 9011
+  server: 80.92.204.106
+  type: ss
+- cipher: aes-256-cfb
+  name: '10,21| By EbraSha ⚙️ #11'
+  password: S7KwUu7yBy58S3Ga
+  port: 9042
   server: 45.89.52.66
   type: ss
 - cipher: aes-256-cfb
-  name: '10|🇷🇺 [ Configs by DukeMehdi ] SS... #9'
-  password: TN2YqghxeFDKZfLU
-  port: 9037
+  name: '10,21| By EbraSha 📶 #21'
+  password: U6qnYRhfyDmn8sgn
+  port: 9041
   server: 45.89.52.66
   type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha 🦂 #14'
+  name: '10,21| By EbraSha 🌍 #20'
   password: asdKkaskJKfnsa
   port: 443
   server: 31.172.67.43
   type: ss
 - cipher: aes-256-cfb
-  name: '10|🇷🇺 [ Configs by DukeMehdi ] SS... #11'
-  password: f8f7aCzcPKbsF8p3
-  port: 989
-  server: 92.223.109.126
-  type: ss
-- cipher: aes-256-cfb
-  name: '10|🇷🇺 [ Configs by DukeMehdi ] SS... #12'
+  name: '10,21| By EbraSha 🦅 #16'
   password: p9z5BVADH2YFs3MN
   port: 9040
   server: 45.89.52.66
   type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha 🐉 #20'
+  name: '10,21| By EbraSha 🌌 #15'
   password: qazplmn1236547dr42q
   port: 3001
   server: 45.144.176.135
   type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha 🛸 #17'
+  name: '10,21| By EbraSha 🕷️ #19'
   password: vDS9G2p
   port: 21247
   server: 185.4.65.6
   type: ss
 - cipher: aes-256-gcm
-  name: '10,21| By EbraSha 🤖 #20'
+  name: '10,21| By EbraSha ⌨️ #16'
   password: 1eadd4e4a37b6601
   port: 10801
   server: 45.8.158.176
   type: ss
 - cipher: aes-256-gcm
-  name: '10,21| By EbraSha 🌑 #18'
+  name: '10,21| By EbraSha 🌃 #22'
   password: 4938e975724d0ed1
   port: 40440
   server: 194.87.196.107
   type: ss
 - cipher: aes-256-gcm
-  name: '10,21| By EbraSha 📱 #16'
+  name: '10,21| By EbraSha 🌃 #23'
   password: 6b39ae3234dfd68b
   port: 10808
   server: 185.22.155.162
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇷🇺 [ Configs by DukeMehdi ] SS... #18'
-  password: 6b39ae3234dfd68b
-  port: 20880
-  server: 46.17.42.141
+  name: '10,21| By EbraSha 🔐 #26'
+  password: 895b4b796a357570
+  port: 20999
+  server: 46.17.41.166
   type: ss
 - cipher: aes-256-gcm
-  delay: 752
-  name: 10,21,25|俄罗斯 - 莫斯科 - 1
-  password: 6b39ae3234dfd68b
-  port: 20221
-  server: 46.29.166.27
-  type: ss
-  udp: true
-- cipher: aes-256-gcm
-  name: '10,21| By EbraSha ♦️ #16'
+  name: '10,19,21| By EbraSha 🧊 #20'
   password: 994ccabf6f0950d6
   port: 20111
   server: 89.125.103.208
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇷🇺 [ Configs by DukeMehdi ] SS... #21'
+  name: '10,21| By EbraSha 📶 #33'
   password: bdb313adf74c2ede
-  port: 20880
-  server: 46.17.45.31
+  port: 20111
+  server: 176.32.35.102
   type: ss
+- cipher: aes-256-gcm
+  name: 10,21,28|[OpenRay] 🇷🇺RU-194
+  password: zwmwm8j1enx0kphp
+  port: 39844
+  server: 151.248.116.248
+  type: ss
+- alpn:
+  - http/1.1
+  name: '10,21| By EbraSha 🛸 #35'
+  network: tcp
+  password: 265f092f-418b-30c9-a479-4800fd44dd19mielink
+  port: 443
+  server: 45.147.200.44
+  skip-cert-verify: true
+  sni: '%24%24paydiu.com'
+  type: trojan
+- name: '10|🇷🇺 [ Configs by DukeMehdi ] TJ... #1'
+  password: 750a29bf-0a40-437f-b120-38de74ae7eaf
+  port: 28443
+  server: 45.88.148.234
+  type: trojan
+- name: '10|🇷🇺 [ Configs by DukeMehdi ] TJ... #2'
+  network: tcp
+  password: 8r<[9'l6hAO#8ZQi
+  port: 443
+  server: 185.148.105.253
+  sni: 'Koma-YT.PAGeS.Dev '
+  type: trojan
+- grpc-opts:
+    grpc-service-name: 62eec6c16880
+  name: 10,21,26,28|[OpenRay] 🇺🇸US-2070
+  network: grpc
+  password: 95621b8e-5cf7-4123-9df4-38d903054a1b
+  port: 443
+  server: 193.233.216.27
+  sni: www.garmin.com
+  type: trojan
+- name: '10|🇷🇺 [ Configs by DukeMehdi ] TJ... #4'
+  password: a1b16d10-4f43-4dd9-8c4f-52065b2b0910
+  port: 28443
+  server: 45.88.148.237
+  sni: 'sbank.ir '
+  type: trojan
+- name: '10|🇷🇺 [ Configs by DukeMehdi ] TJ... #5'
+  network: tcp
+  password: bpb-trojan
+  port: 443
+  server: 185.148.104.251
+  sni: 'bpb.my79801.com '
+  type: trojan
+- name: '10,21| By EbraSha ⚔️ #60'
+  network: tcp
+  password: bpb-trojan
+  port: 443
+  server: 5.182.85.176
+  skip-cert-verify: true
+  sni: bpb.my79801.com
+  type: trojan
+- name: '10|🇷🇺 [ Configs by DukeMehdi ] TJ... #8'
+  network: tcp
+  password: d6b8011a-c725-435a-9fec-bf6d3530392c
+  port: 2096
+  server: 194.53.53.11
+  sni: 'vle.amclubssss.dpdns.org '
+  type: trojan
+- name: '10|🇷🇺 [ Configs by DukeMehdi ] TJ... #9'
+  network: tcp
+  password: d6b8011a-c725-435a-9fec-bf6d3530392c
+  port: 2083
+  server: 194.53.53.249
+  sni: 'vle.amclubdns.dpdns.org '
+  type: trojan
+- grpc-opts:
+    grpc-service-name: 5344db68cd2f
+  name: '10|🇷🇺 [ Configs by DukeMehdi ] TJ... #11'
+  network: grpc
+  password: cc3f42eb-6301-4fe1-82ef-0d3443162a88
+  port: 443
+  server: 94.228.166.45
+  sni: www.corsair.com
+  type: trojan
+- cipher: aes-256-gcm
+  delay: 752
+  name: 25|俄罗斯 - 莫斯科 - 1
+  password: 6b39ae3234dfd68b
+  port: 20221
+  server: 46.29.166.27
+  type: ss
+  udp: true
