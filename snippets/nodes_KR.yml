@@ -6,7 +6,7 @@ proxies:
   server: 15.164.245.92
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 🛡️ #6'
+  name: '10,21| By EbraSha 🧪 #8'
   password: 7e68e32f-8015-4f37-9082-70e8b0b58043
   port: 8443
   server: 3.35.54.161
@@ -24,7 +24,7 @@ proxies:
   server: 52.78.216.116
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 🔌 #6'
+  name: '10,21| By EbraSha ♠️ #6'
   password: 7e68e32f-8015-4f37-9082-70e8b0b58043
   port: 8443
   server: 52.78.59.52
@@ -78,19 +78,19 @@ proxies:
   server: 43.202.49.222
   type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha 🔥 #13'
+  name: '10,21| By EbraSha ⚔️ #18'
   password: qwerREWQ@@
   port: 4652
   server: 218.237.185.230
   type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha 🪖 #16'
+  name: '10,21| By EbraSha 🔮 #24'
   password: qwerREWQ@@
   port: 13979
   server: 221.139.79.57
   type: ss
 - cipher: aes-256-gcm
-  name: '10,21| By EbraSha 🌍 #31'
+  name: '10,21| By EbraSha 🥷 #22'
   password: KixLvKzwjekG00rm
   port: 8000
   server: 141.164.45.187
@@ -120,7 +120,7 @@ proxies:
   server: 43.155.223.71
   type: ss
 - cipher: aes-256-gcm
-  name: '10,21| By EbraSha ⚔️ #30'
+  name: '10,21| By EbraSha 🧬 #30'
   password: XKFKl2rULjIp74
   port: 8008
   server: 141.164.45.187
@@ -144,13 +144,13 @@ proxies:
   server: 141.164.45.187
   type: ss
 - cipher: aes-256-gcm
-  name: '10,21| By EbraSha 🛜 #26'
+  name: '10,21| By EbraSha 🔌 #30'
   password: ac9c0a7b
   port: 49642
   server: 211.174.113.172
   type: ss
 - cipher: aes-256-gcm
-  name: '10,21| By EbraSha 🦅 #24'
+  name: '10,21| By EbraSha 🌪️ #33'
   password: lGqs95QkFHo2NV
   port: 5498
   server: 141.164.45.187
@@ -167,7 +167,7 @@ proxies:
   server: 144.24.72.126
   skip-cert-verify: false
   type: trojan
-- name: '10,21| By EbraSha 🛰️ #40'
+- name: '10,21| By EbraSha 📛 #36'
   network: tcp
   password: 81d93f62-15a2-4994-adb9-0b5d906aac7e
   port: 443
@@ -181,7 +181,7 @@ proxies:
   server: 121.178.83.161
   sni: 'vpn1.rnmcnm.com '
   type: trojan
-- name: '10,21| By EbraSha 🗿 #40'
+- name: '10,21| By EbraSha 🌍 #40'
   network: tcp
   password: GKHWMe2R4qwNcNxu6l3KMkdd
   port: 11371
@@ -189,7 +189,7 @@ proxies:
   skip-cert-verify: true
   sni: vpn1.rnmcnm.com
   type: trojan
-- name: '10,21| By EbraSha 🧿 #38'
+- name: '10,21| By EbraSha 📶 #40'
   network: tcp
   password: GKHWMe2R4qwNcNxu6l3KMkdd
   port: 18853
@@ -217,42 +217,42 @@ proxies:
   server: 3.35.140.99
   sni: 'moved-meerkat.rooster465.autos '
   type: trojan
-- name: '10,21| By EbraSha 🦂 #38'
+- name: '10,21| By EbraSha ⛓️ #42'
   network: tcp
   password: ND91608427
   port: 443
   server: 3.36.59.34
   sni: select-ferret.rooster465.autos
   type: trojan
-- name: '10,21| By EbraSha 🔥 #38'
+- name: '10,21| By EbraSha 🛰️ #38'
   network: tcp
   password: ND91608427
   port: 443
   server: 3.38.106.2
   sni: communal-sunbird.rooster465.autos
   type: trojan
-- name: '10,21| By EbraSha 🥷 #39'
+- name: '10,21| By EbraSha 🛡️ #50'
   network: tcp
   password: ND91608427
   port: 443
   server: 43.201.103.8
   sni: intimate-moray.rooster465.autos
   type: trojan
-- name: '10,21| By EbraSha 💎 #35'
+- name: '10,21| By EbraSha 🦅 #39'
   network: tcp
   password: ND91608427
   port: 443
   server: 43.201.46.108
   sni: exotic-chow.rooster465.autos
   type: trojan
-- name: '10,21| By EbraSha 📱 #44'
+- name: '10,21| By EbraSha 🦂 #40'
   network: tcp
   password: ND91608427
   port: 443
   server: 43.201.56.44
   sni: distinct-llama.rooster465.autos
   type: trojan
-- name: '10,21| By EbraSha 🚧 #55'
+- name: '10,21| By EbraSha 🕶️ #27'
   network: tcp
   password: ND91608427
   port: 443
@@ -287,7 +287,7 @@ proxies:
   server: 52.79.210.229
   sni: 'chief-bluegill.rooster465.autos '
   type: trojan
-- name: '10,21| By EbraSha 🪐 #54'
+- name: '10,21| By EbraSha 📼 #36'
   network: tcp
   password: ND91608427
   port: 443
@@ -402,7 +402,7 @@ proxies:
   server: 146.56.189.146
   skip-cert-verify: false
   type: trojan
-- name: '10,15,21| By EbraSha 📼 #58'
+- name: '10,15,21| By EbraSha ⚡ #57'
   password: moist
   port: 27335
   server: 116.47.10.236
@@ -416,7 +416,7 @@ proxies:
   server: 119.195.0.158
   sni: 'vpn5.rnmcnm.com '
   type: trojan
-- name: '10,21| By EbraSha ⚙️ #83'
+- name: '10,21| By EbraSha ♠️ #61'
   network: tcp
   password: t5FsyeQXkNCY6eVGiqBXmPu4..jBEpNbak
   port: 443
@@ -596,7 +596,16 @@ proxies:
     headers:
       Host: 8nTzyR5KNivfabaT.v.3dns.vip
     path: /ws-vmess
-- name: '20,21,27,30|🇰🇷 韩国 | KOR #4 #1'
+- cipher: chacha20-ietf-poly1305
+  name: '20,21,30|🇰🇷 韩国 | KOR #2 #1'
+  password: 7e68e32f-8015-4f37-9082-70e8b0b58043
+  port: 8443
+  server: 3.35.135.174
+  type: ss
+  udp: true
+- country: 🇰🇷KR
+  delay: 420
+  name: '20,21,25,27,30|🇰🇷 韩国 | KOR #4 #1'
   password: Trojan@82164024
   port: 443
   server: kr.tronsg.com
