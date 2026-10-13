@@ -1,333 +1,351 @@
 proxies:
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 🔐 #9'
+  name: '10,21| By EbraSha ⚔️ #11'
   password: ytw2awn
   port: 443
   server: 142.4.216.225
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: 10,27|🇨🇦CA-138.197.174.245-1785
-  password: yuMqkGIx6Ia0
-  port: 56443
-  server: 138.197.174.245
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  name: 10,27|🇨🇦CA-196.247.59.154-0309
-  password: G!yBwPWH3Vao
-  port: 800
-  server: 196.247.59.154
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  name: 10,21,27|🇨🇦CA-196.247.59.154-5700
-  password: G!yBwPWH3Vao
-  port: 803
-  server: 196.247.59.154
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  name: 10,21,27|🇨🇦CA-196.247.59.154-6116
+  name: 10,27|🇨🇦CA-134.195.196.143-6229
   password: G!yBwPWH3Vao
   port: 805
-  server: 196.247.59.154
+  server: 134.195.196.143
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: 10,27|🇨🇦CA-196.247.59.154-5699
+  name: 10,21,27|🇨🇦CA-134.195.196.178-6231
   password: G!yBwPWH3Vao
-  port: 809
+  port: 804
+  server: 134.195.196.178
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: 10,27|🇨🇦CA-196.247.59.154-5685
+  password: G!yBwPWH3Vao
+  port: 801
   server: 196.247.59.154
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: 10,21,27|🇨🇦CA-196.247.59.156-6130
+  name: 10,21,27|🇨🇦CA-196.247.59.154-6133
+  password: G!yBwPWH3Vao
+  port: 802
+  server: 196.247.59.154
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: 10,27|🇨🇦CA-196.247.59.156-6132
+  password: G!yBwPWH3Vao
+  port: 803
+  server: 196.247.59.156
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: 10,21,27|🇨🇦CA-196.247.59.156-6141
   password: G!yBwPWH3Vao
   port: 804
   server: 196.247.59.156
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: 10,27|🇨🇦CA-196.247.59.156-6124
+  name: 10,21,27|🇨🇦CA-196.247.59.156-4929
   password: G!yBwPWH3Vao
-  port: 808
+  port: 806
   server: 196.247.59.156
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: 10,27|🇨🇦CA-51.161.118.38-2048
+  name: 10,27|🇨🇦CA-51.161.118.38-2121
   password: G!yBwPWH3Vao
-  port: 801
+  port: 800
   server: 51.161.118.38
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: 10,21,27|🇨🇦CA-51.161.118.38-2126
+  name: 10,27|🇨🇦CA-51.161.118.38-2116
   password: G!yBwPWH3Vao
   port: 802
   server: 51.161.118.38
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: 10,21,27|🇨🇦CA-51.161.118.38-2130
+  name: 10,21,27|🇨🇦CA-51.161.118.38-2120
   password: G!yBwPWH3Vao
   port: 803
   server: 51.161.118.38
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: 10,21,27|🇨🇦CA-51.161.118.38-2127
+  name: 10,27|🇨🇦CA-51.161.118.38-2117
   password: G!yBwPWH3Vao
   port: 804
   server: 51.161.118.38
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: 10,21,27|🇨🇦CA-51.161.118.38-2122
+  name: 10,21,27|🇨🇦CA-51.161.118.38-2112
   password: G!yBwPWH3Vao
   port: 805
   server: 51.161.118.38
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: 10,21,27|🇨🇦CA-51.161.118.38-2125
+  name: 10,21,27|🇨🇦CA-51.161.118.38-2113
+  password: G!yBwPWH3Vao
+  port: 808
+  server: 51.161.118.38
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: 10,27|🇨🇦CA-51.161.118.38-2118
+  password: G!yBwPWH3Vao
+  port: 810
+  server: 51.161.118.38
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: 10,27|🇨🇦CA-51.161.118.38-2114
+  password: G!yBwPWH3Vao
+  port: 811
+  server: 51.161.118.38
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: 10,27|🇨🇦CA-51.161.118.38-2111
+  password: G!yBwPWH3Vao
+  port: 812
+  server: 51.161.118.38
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: 10,21,27|🇨🇦CA-196.247.59.154-5711
+  password: G!yBwPWH3Vao
+  port: 803
+  server: 196.247.59.154
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: 10,21,27|🇨🇦CA-196.247.59.154-6127
+  password: G!yBwPWH3Vao
+  port: 805
+  server: 196.247.59.154
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: 10,21,27|🇨🇦CA-51.161.118.38-2115
   password: G!yBwPWH3Vao
   port: 807
   server: 51.161.118.38
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: 10,27|🇨🇦CA-72.140.224.195-2877
-  password: G!yBwPWH3Vao
-  port: 800
-  server: 72.140.224.195
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  name: 10,21,27|🇨🇦CA-51.161.118.38-2123
-  password: G!yBwPWH3Vao
-  port: 808
-  server: 51.161.118.38
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 🚀 #9'
+  name: '10,21| By EbraSha 🪐 #8'
   password: G!yBwPWH3Vao
   port: 801
   server: 72.140.224.197
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 🛰️ #6'
+  name: '10,21| By EbraSha ♠️ #6'
   password: G!yBwPWH3Vao
   port: 802
   server: 72.140.224.197
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 🐺 #3'
+  name: '10,21| By EbraSha 📀 #5'
   password: G!yBwPWH3Vao
   port: 808
   server: 72.140.224.197
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 🚬 #10'
+  name: '10,21| By EbraSha 🧠 #7'
   password: G!yBwPWH3Vao
   port: 812
   server: 72.140.224.197
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: 10,21,28|[OpenRay] 🇺🇸US-3635
+  name: 10,21,28|[OpenRay] 🇺🇸US-3630
   password: G5p6ww4o67HB
   port: 8388
   server: 108.181.118.10
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 💣 #12'
+  name: '10,21| By EbraSha 🚬 #10'
   password: Ultr@r00t_2017
   port: 811
   server: 138.197.166.205
   type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha 🔐 #15'
+  name: '10,21| By EbraSha 🃏 #24'
   password: amazonskr05
   port: 443
   server: 52.60.99.199
   type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha 📼 #17'
+  name: '10,21| By EbraSha 📟 #18'
   password: f8f7aCzcPKbsF8p3
   port: 989
   server: 192.71.227.17
   type: ss
 - cipher: aes-256-gcm
-  name: 10,27|🇨🇦CA-198.8.92.84-1806
-  password: F5bKkb9ggkLx4JbQrbLn7LjZ
-  port: 44945
-  server: 198.8.92.84
+  name: 10,27|🇨🇦CA-134.195.196.107-6230
+  password: FoOiGlkAA9yPEGP
+  port: 7306
+  server: 134.195.196.107
   type: ss
 - cipher: aes-256-gcm
-  name: 10,21,27|🇨🇦CA-85.208.108.20-5926
+  name: 10,21,27|🇨🇦CA-85.208.108.20-5937
   password: FoOiGlkAA9yPEGP
   port: 7306
   server: 85.208.108.20
   type: ss
 - cipher: aes-256-gcm
-  name: 10,27|🇨🇦CA-85.208.108.21-5927
-  password: FoOiGlkAA9yPEGP
-  port: 7307
-  server: 85.208.108.21
-  type: ss
-- cipher: aes-256-gcm
-  name: 10,27|🇨🇦CA-85.208.108.59-5930
-  password: FoOiGlkAA9yPEGP
-  port: 7307
-  server: 85.208.108.59
-  type: ss
-- cipher: aes-256-gcm
-  name: 10,27|🇨🇦CA-85.208.108.60-3095
-  password: FoOiGlkAA9yPEGP
-  port: 7306
-  server: 85.208.108.60
-  type: ss
-- cipher: aes-256-gcm
-  name: 10,21,27|🇨🇦CA-85.208.108.93-5716
+  name: 10,21,27|🇨🇦CA-85.208.108.93-5727
   password: FoOiGlkAA9yPEGP
   port: 7306
   server: 85.208.108.93
   type: ss
 - cipher: aes-256-gcm
-  name: 10,27|🇨🇦CA-134.195.196.149-6231
-  password: KixLvKzwjekG00rm
-  port: 8080
-  server: 134.195.196.149
-  type: ss
-- cipher: aes-256-gcm
-  name: 10,27|🇨🇦CA-85.208.108.20-5932
+  name: 10,27|🇨🇦CA-85.208.108.59-5945
   password: KixLvKzwjekG00rm
   port: 8000
-  server: 85.208.108.20
+  server: 85.208.108.59
   type: ss
 - cipher: aes-256-gcm
-  name: 10,21,27|🇨🇦CA-85.208.108.60-2944
+  name: 10,27|🇨🇦CA-85.208.108.60-2955
   password: KixLvKzwjekG00rm
   port: 5500
   server: 85.208.108.60
   type: ss
 - cipher: aes-256-gcm
-  name: 10,21,27|🇨🇦CA-85.208.108.60-3069
+  name: 10,21,27|🇨🇦CA-85.208.108.60-3151
+  password: KixLvKzwjekG00rm
+  port: 8000
+  server: 85.208.108.60
+  type: ss
+- cipher: aes-256-gcm
+  name: 10,27|🇨🇦CA-85.208.108.60-3080
   password: KixLvKzwjekG00rm
   port: 8080
   server: 85.208.108.60
   type: ss
 - cipher: aes-256-gcm
-  name: '10,21| By EbraSha ⌨️ #24'
+  name: 10,21,27|🇨🇦CA-85.208.108.94-5948
+  password: KixLvKzwjekG00rm
+  port: 8080
+  server: 85.208.108.94
+  type: ss
+- cipher: aes-256-gcm
+  name: '10,21| By EbraSha 🧊 #20'
   password: KixLvKzwjekG00rm
   port: 8080
   server: 185.196.61.82
   type: ss
 - cipher: aes-256-gcm
-  name: 10,21,27|🇨🇦CA-198.8.92.84-1818
+  name: 10,21,27|🇨🇦CA-198.8.92.84-1808
   password: Kquv5UhvZXNMemAQy8DxZ7qn
   port: 38620
   server: 198.8.92.84
   type: ss
 - cipher: aes-256-gcm
-  name: 10,21,27|🇨🇦CA-134.195.196.149-5667
+  name: 10,21,27|🇨🇦CA-134.195.196.149-5678
   password: PCnnH6SQSnfoS27
   port: 8090
   server: 134.195.196.149
   type: ss
 - cipher: aes-256-gcm
-  name: 10,27|🇨🇦CA-134.195.198.95-6226
+  name: 10,21,27|🇨🇦CA-134.195.196.231-5779
   password: PCnnH6SQSnfoS27
   port: 8090
-  server: 134.195.198.95
+  server: 134.195.196.231
   type: ss
 - cipher: aes-256-gcm
-  name: 10,27|🇨🇦CA-134.195.198.95-6225
-  password: PCnnH6SQSnfoS27
-  port: 8091
-  server: 134.195.198.95
-  type: ss
-- cipher: aes-256-gcm
-  name: 10,21,27|🇨🇦CA-85.208.108.20-5968
+  name: 10,27|🇨🇦CA-85.208.108.20-5979
   password: PCnnH6SQSnfoS27
   port: 8091
   server: 85.208.108.20
   type: ss
 - cipher: aes-256-gcm
-  name: 10,21,27|🇨🇦CA-85.208.108.21-5967
+  name: 10,27|🇨🇦CA-85.208.108.21-5978
   password: PCnnH6SQSnfoS27
   port: 8091
   server: 85.208.108.21
   type: ss
 - cipher: aes-256-gcm
-  name: 10,21,27|🇨🇦CA-85.208.108.59-5966
+  name: 10,27|🇨🇦CA-85.208.108.59-5977
   password: PCnnH6SQSnfoS27
   port: 8091
   server: 85.208.108.59
   type: ss
 - cipher: aes-256-gcm
-  name: 10,27|🇨🇦CA-85.208.108.20-5922
+  name: 10,27|🇨🇦CA-85.208.108.60-3085
+  password: PCnnH6SQSnfoS27
+  port: 8090
+  server: 85.208.108.60
+  type: ss
+- cipher: aes-256-gcm
+  name: 10,21,27|🇨🇦CA-85.208.108.60-3102
+  password: PCnnH6SQSnfoS27
+  port: 8091
+  server: 85.208.108.60
+  type: ss
+- cipher: aes-256-gcm
+  name: 10,21,27|🇨🇦CA-85.208.108.21-5936
+  password: RexnBgU7EV5ADxG
+  port: 7002
+  server: 85.208.108.21
+  type: ss
+- cipher: aes-256-gcm
+  name: 10,27|🇨🇦CA-85.208.108.59-5932
   password: RexnBgU7EV5ADxG
   port: 7001
-  server: 85.208.108.20
+  server: 85.208.108.59
   type: ss
 - cipher: aes-256-gcm
-  name: 10,27|🇨🇦CA-134.195.196.149-5694
-  password: TEzjfAYq2IjtuoS
-  port: 6679
-  server: 134.195.196.149
+  name: 10,27|🇨🇦CA-85.208.108.60-3092
+  password: RexnBgU7EV5ADxG
+  port: 7002
+  server: 85.208.108.60
   type: ss
 - cipher: aes-256-gcm
-  name: 10,21,27|🇨🇦CA-134.195.196.230-5769
+  name: 10,27|🇨🇦CA-134.195.196.230-5780
   password: TEzjfAYq2IjtuoS
   port: 6679
   server: 134.195.196.230
   type: ss
 - cipher: aes-256-gcm
-  name: 10,21,27|🇨🇦CA-85.208.108.18-5919
+  name: 10,27|🇨🇦CA-85.208.108.18-5930
   password: TEzjfAYq2IjtuoS
   port: 6679
   server: 85.208.108.18
   type: ss
 - cipher: aes-256-gcm
-  name: 10,21,27|🇨🇦CA-85.208.108.21-5923
+  name: 10,21,27|🇨🇦CA-85.208.108.20-5966
+  password: TEzjfAYq2IjtuoS
+  port: 6679
+  server: 85.208.108.20
+  type: ss
+- cipher: aes-256-gcm
+  name: 10,27|🇨🇦CA-85.208.108.21-5934
   password: TEzjfAYq2IjtuoS
   port: 6679
   server: 85.208.108.21
   type: ss
 - cipher: aes-256-gcm
-  name: 10,27|🇨🇦CA-85.208.108.60-3108
-  password: TEzjfAYq2IjtuoS
-  port: 6679
-  server: 85.208.108.60
-  type: ss
-- cipher: aes-256-gcm
-  name: 10,21,27|🇨🇦CA-85.208.108.60-5918
+  name: 10,21,27|🇨🇦CA-85.208.108.60-5929
   password: TEzjfAYq2IjtuoS
   port: 6697
   server: 85.208.108.60
   type: ss
 - cipher: aes-256-gcm
-  name: 10,21,27|🇨🇦CA-134.195.196.107-6224
+  name: 10,21,27|🇨🇦CA-134.195.196.107-6235
   password: XKFKl2rULjIp74
   port: 8009
   server: 134.195.196.107
   type: ss
 - cipher: aes-256-gcm
-  name: 10,21,27|🇨🇦CA-134.195.196.149-6213
+  name: 10,21,27|🇨🇦CA-134.195.196.149-6224
   password: XKFKl2rULjIp74
   port: 8009
   server: 134.195.196.149
   type: ss
 - cipher: aes-256-gcm
-  name: 10,21,27|🇨🇦CA-85.208.108.59-3493
+  name: 10,21,27|🇨🇦CA-85.208.108.59-5946
+  password: XKFKl2rULjIp74
+  port: 8008
+  server: 85.208.108.59
+  type: ss
+- cipher: aes-256-gcm
+  name: 10,27|🇨🇦CA-85.208.108.59-3504
   password: XKFKl2rULjIp74
   port: 8009
   server: 85.208.108.59
   type: ss
 - cipher: aes-256-gcm
-  name: 10,21,27|🇨🇦CA-134.195.196.149-5668
+  name: 10,27|🇨🇦CA-134.195.196.149-5679
   password: Y6R9pAtvxxzmGC
   port: 3306
   server: 134.195.196.149
-  type: ss
-- cipher: aes-256-gcm
-  name: 10,27|🇨🇦CA-134.195.196.231-5770
-  password: Y6R9pAtvxxzmGC
-  port: 3306
-  server: 134.195.196.231
-  type: ss
-- cipher: aes-256-gcm
-  name: 10,27|🇨🇦CA-134.195.196.85-5696
-  password: Y6R9pAtvxxzmGC
-  port: 5001
-  server: 134.195.196.85
   type: ss
 - cipher: aes-256-gcm
   name: 10,19,20,21,27,28,30,34|❓Other_28|251KB/s|B007-260618 ...
@@ -336,76 +354,58 @@ proxies:
   server: 51.222.155.113
   type: ss
 - cipher: aes-256-gcm
-  name: 10,21,27|🇨🇦CA-85.208.108.18-3354
+  name: 10,19,20,21,27,28,30,34|未知 SS-597 | free-nodes
+  password: Y6R9pAtvxxzmGC
+  port: 5000
+  server: 51.222.200.165
+  type: ss
+- cipher: aes-256-gcm
+  name: 10,21,27|🇨🇦CA-85.208.108.18-3365
   password: Y6R9pAtvxxzmGC
   port: 5001
   server: 85.208.108.18
   type: ss
 - cipher: aes-256-gcm
-  name: 10,27|🇨🇦CA-85.208.108.59-5949
-  password: Y6R9pAtvxxzmGC
-  port: 5001
-  server: 85.208.108.59
-  type: ss
-- cipher: aes-256-gcm
-  name: 10,21,27|🇨🇦CA-85.208.108.59-5940
+  name: 10,21,27|🇨🇦CA-85.208.108.59-5951
   password: Y6R9pAtvxxzmGC
   port: 5601
   server: 85.208.108.59
   type: ss
 - cipher: aes-256-gcm
-  name: 10,27|🇨🇦CA-85.208.108.60-2961
-  password: Y6R9pAtvxxzmGC
-  port: 3389
-  server: 85.208.108.60
-  type: ss
-- cipher: aes-256-gcm
-  name: 10,21,27|🇨🇦CA-85.208.108.60-4438
+  name: 10,21,27|🇨🇦CA-85.208.108.60-4449
   password: Y6R9pAtvxxzmGC
   port: 5000
   server: 85.208.108.60
   type: ss
 - cipher: aes-256-gcm
-  name: 10,27|🇨🇦CA-85.208.108.60-3068
+  name: 10,27|🇨🇦CA-85.208.108.60-3124
   password: Y6R9pAtvxxzmGC
-  port: 5001
+  port: 5600
   server: 85.208.108.60
   type: ss
 - cipher: aes-256-gcm
-  name: 10,27|🇨🇦CA-85.208.108.60-3064
-  password: Y6R9pAtvxxzmGC
-  port: 5601
-  server: 85.208.108.60
-  type: ss
-- cipher: aes-256-gcm
-  name: 10,21,27|🇨🇦CA-85.208.108.60-3102
+  name: 10,27|🇨🇦CA-85.208.108.60-3113
   password: Y6R9pAtvxxzmGC
   port: 8888
   server: 85.208.108.60
   type: ss
 - cipher: aes-256-gcm
-  name: '10,21| By EbraSha 🧨 #27'
+  name: 10,27|🇨🇦CA-85.208.108.94-5967
+  password: Y6R9pAtvxxzmGC
+  port: 5001
+  server: 85.208.108.94
+  type: ss
+- cipher: aes-256-gcm
+  name: '10,21| By EbraSha 🛸 #21'
   password: Y6R9pAtvxxzmGC
   port: 8888
   server: 85.208.108.18
   type: ss
 - cipher: aes-256-gcm
-  name: 10,27|🇨🇦CA-134.195.196.107-6229
-  password: cdBIDV42DCwnfIN
-  port: 8118
-  server: 134.195.196.107
-  type: ss
-- cipher: aes-256-gcm
-  name: 10,21,27|🇨🇦CA-134.195.196.149-5695
+  name: 10,27|🇨🇦CA-134.195.196.149-5706
   password: cdBIDV42DCwnfIN
   port: 8119
   server: 134.195.196.149
-  type: ss
-- cipher: aes-256-gcm
-  name: 10,27|🇨🇦CA-38.111.114.246-5870
-  password: cdBIDV42DCwnfIN
-  port: 8119
-  server: 38.111.114.246
   type: ss
 - cipher: aes-256-gcm
   name: 10,19,20,21,27,28,30,34|🇨🇦CA_15|1.3MB/s|B007-260618 01
@@ -420,39 +420,39 @@ proxies:
   server: 51.79.85.185
   type: ss
 - cipher: aes-256-gcm
-  name: 10,27|🇨🇦CA-85.208.108.60-3750
+  name: 10,21,27|🇨🇦CA-85.208.108.59-5982
   password: cdBIDV42DCwnfIN
-  port: 8118
-  server: 85.208.108.60
+  port: 8119
+  server: 85.208.108.59
   type: ss
 - cipher: aes-256-gcm
-  name: 10,21,27|🇨🇦CA-85.208.108.60-3071
+  name: 10,27|🇨🇦CA-85.208.108.60-3082
   password: cdBIDV42DCwnfIN
   port: 8119
   server: 85.208.108.60
   type: ss
 - cipher: aes-256-gcm
-  name: '10,21| By EbraSha ♦️ #30'
+  name: '10,21| By EbraSha 🦾 #22'
   password: gqtwGu9bVreJqL3FTHSVKGzy
   port: 50695
   server: 37.19.211.114
   type: ss
 - cipher: aes-256-gcm
-  name: 10,21,27|🇨🇦CA-85.208.108.21-5952
+  name: 10,21,27|🇨🇦CA-85.208.108.21-5963
   password: e4FCWrgpkji3QY
   port: 9102
   server: 85.208.108.21
   type: ss
 - cipher: aes-256-gcm
-  name: 10,21,27|🇨🇦CA-85.208.108.60-4413
+  name: 10,27|🇨🇦CA-85.208.108.59-5985
   password: e4FCWrgpkji3QY
   port: 9101
-  server: 85.208.108.60
+  server: 85.208.108.59
   type: ss
 - cipher: aes-256-gcm
-  name: 10,27|🇨🇦CA-85.208.108.60-3120
+  name: 10,21,27|🇨🇦CA-85.208.108.60-4424
   password: e4FCWrgpkji3QY
-  port: 9102
+  port: 9101
   server: 85.208.108.60
   type: ss
 - cipher: aes-256-gcm
@@ -462,34 +462,40 @@ proxies:
   server: 185.156.47.97
   type: ss
 - cipher: aes-256-gcm
-  name: 10,21,27|🇨🇦CA-85.208.108.59-5960
+  name: 10,27|🇨🇦CA-85.208.108.59-5969
+  password: faBAoD54k87UJG7
+  port: 2375
+  server: 85.208.108.59
+  type: ss
+- cipher: aes-256-gcm
+  name: 10,21,27|🇨🇦CA-85.208.108.59-5971
   password: faBAoD54k87UJG7
   port: 2376
   server: 85.208.108.59
   type: ss
 - cipher: aes-256-gcm
-  name: 10,21,27|🇨🇦CA-85.208.108.60-3760
+  name: 10,21,27|🇨🇦CA-85.208.108.60-3771
   password: faBAoD54k87UJG7
   port: 2375
   server: 85.208.108.60
   type: ss
 - cipher: aes-256-gcm
-  name: 10,21,27|🇨🇦CA-85.208.108.90-2064
+  name: 10,27|🇨🇦CA-85.208.108.90-2054
   password: faBAoD54k87UJG7
   port: 2375
   server: 85.208.108.90
   type: ss
 - cipher: aes-256-gcm
-  name: 10,21,27|🇨🇦CA-85.208.108.90-2132
+  name: 10,21,27|🇨🇦CA-85.208.108.90-2122
   password: faBAoD54k87UJG7
   port: 2376
   server: 85.208.108.90
   type: ss
 - cipher: aes-256-gcm
-  name: '10|🇨🇦 [ Configs by DukeMehdi ] SS... #84'
+  name: 10,27|🇨🇦CA-134.195.196.149-6233
   password: g5MeD6Ft3CWlJId
-  port: 5004
-  server: 38.111.114.246
+  port: 5003
+  server: 134.195.196.149
   type: ss
 - cipher: aes-256-gcm
   name: 10,19,20,21,27,28,30,34|🇨🇦CA_36|233KB/s|M003-260806 01
@@ -498,22 +504,34 @@ proxies:
   server: 51.222.155.32
   type: ss
 - cipher: aes-256-gcm
-  name: 10,21,27|🇨🇦CA-85.208.108.59-5945
+  name: 10,21,27|🇨🇦CA-85.208.108.59-5956
   password: g5MeD6Ft3CWlJId
   port: 5004
   server: 85.208.108.59
   type: ss
 - cipher: aes-256-gcm
-  name: 10,27|🇨🇦CA-134.195.196.149-6217
+  name: 10,27|🇨🇦CA-85.208.108.60-4410
+  password: g5MeD6Ft3CWlJId
+  port: 5003
+  server: 85.208.108.60
+  type: ss
+- cipher: aes-256-gcm
+  name: 10,21,27|🇨🇦CA-85.208.108.60-3087
+  password: g5MeD6Ft3CWlJId
+  port: 5004
+  server: 85.208.108.60
+  type: ss
+- cipher: aes-256-gcm
+  name: 10,27|🇨🇦CA-134.195.196.149-6226
   password: kDWvXYZoTBcGkC4
-  port: 8882
+  port: 8881
   server: 134.195.196.149
   type: ss
 - cipher: aes-256-gcm
-  name: 10,19,20,21,27,28,30,34|未知 SS-603 | free-nodes
+  name: 10,21,27|🇨🇦CA-38.111.114.246-5882
   password: kDWvXYZoTBcGkC4
   port: 8882
-  server: 51.222.136.236
+  server: 38.111.114.246
   type: ss
 - cipher: aes-256-gcm
   name: 10,19,20,21,27,28,30,34|🇨🇦CA_39|1.2MB/s|B007-260618 01
@@ -522,31 +540,55 @@ proxies:
   server: 51.79.49.116
   type: ss
 - cipher: aes-256-gcm
-  name: 10,27|🇨🇦CA-85.208.108.59-5957
-  password: pKEW8JPByTVTLtM
-  port: 443
+  name: 10,21,27|🇨🇦CA-85.208.108.59-5984
+  password: kDWvXYZoTBcGkC4
+  port: 8882
   server: 85.208.108.59
   type: ss
 - cipher: aes-256-gcm
-  name: 10,21,27|🇨🇦CA-85.208.108.61-4742
+  name: 10,21,27|🇨🇦CA-85.208.108.60-3130
+  password: kDWvXYZoTBcGkC4
+  port: 8881
+  server: 85.208.108.60
+  type: ss
+- cipher: aes-256-gcm
+  name: 10,21,27|🇨🇦CA-134.195.198.95-6227
+  password: pKEW8JPByTVTLtM
+  port: 443
+  server: 134.195.198.95
+  type: ss
+- cipher: aes-256-gcm
+  name: 10,27|🇨🇦CA-85.208.108.60-3099
+  password: pKEW8JPByTVTLtM
+  port: 443
+  server: 85.208.108.60
+  type: ss
+- cipher: aes-256-gcm
+  name: 10,21,27|🇨🇦CA-85.208.108.60-2356
+  password: pKEW8JPByTVTLtM
+  port: 4444
+  server: 85.208.108.60
+  type: ss
+- cipher: aes-256-gcm
+  name: 10,27|🇨🇦CA-85.208.108.61-4753
   password: pKEW8JPByTVTLtM
   port: 443
   server: 85.208.108.61
   type: ss
 - cipher: aes-256-gcm
-  name: 10,21,27|🇨🇦CA-85.208.108.92-4743
+  name: 10,21,27|🇨🇦CA-85.208.108.92-4754
   password: pKEW8JPByTVTLtM
   port: 443
   server: 85.208.108.92
   type: ss
 - cipher: aes-256-gcm
-  name: 10,21,27|🇨🇦CA-198.8.92.84-1763
+  name: 10,21,27|🇨🇦CA-198.8.92.84-1753
   password: ugyBkSEFxVEmUYSHyvxmWNj9
   port: 40220
   server: 198.8.92.84
   type: ss
 - cipher: aes-256-gcm
-  name: '10,21| By EbraSha 🧨 #35'
+  name: '10,21| By EbraSha 💎 #39'
   password: zDNVedRFPQexG9v
   port: 6379
   server: 134.195.196.230
@@ -564,36 +606,24 @@ proxies:
   server: 51.222.141.125
   type: ss
 - cipher: aes-256-gcm
-  name: 10,21,27|🇨🇦CA-85.208.108.20-3739
+  name: 10,21,27|🇨🇦CA-85.208.108.20-3750
   password: zDNVedRFPQexG9v
   port: 6379
   server: 85.208.108.20
   type: ss
-- cipher: aes-256-gcm
-  name: 10,27|🇨🇦CA-85.208.108.59-3632
-  password: zDNVedRFPQexG9v
-  port: 6379
-  server: 85.208.108.59
-  type: ss
-- cipher: aes-256-gcm
-  name: 10,27|🇨🇦CA-85.208.108.60-3132
-  password: zDNVedRFPQexG9v
-  port: 6379
-  server: 85.208.108.60
-  type: ss
-- name: 10,21,27|🇨🇦CA-149.56.141.11-3367
+- name: 10,21,27|🇨🇦CA-149.56.141.11-3378
   password: 8b6daf15-8342-482d-b894-1239fd98ce7f
   port: 443
   server: 149.56.141.11
   skip-cert-verify: false
   type: trojan
-- name: 10,21,27|🇨🇦CA-148.113.141.99-1608
+- name: 10,21,27|🇨🇦CA-148.113.141.99-1598
   password: HdsUZmsHQW
   port: 443
   server: 148.113.141.99
   skip-cert-verify: false
   type: trojan
-- name: '10,21| By EbraSha 🎛️ #58'
+- name: '10,21| By EbraSha 🪐 #52'
   network: tcp
   password: acfef609-b3c7-4e52-b292-8921d5fca90d
   port: 443
@@ -601,7 +631,7 @@ proxies:
   skip-cert-verify: true
   sni: ca-full.privateip.net
   type: trojan
-- name: '10,21| By EbraSha 🌐 #51'
+- name: '10,21| By EbraSha 🛸 #50'
   network: tcp
   password: b17fa17d-13a0-4e8a-a398-8e549ea8b208
   port: 443
@@ -609,7 +639,7 @@ proxies:
   skip-cert-verify: true
   sni: syndication-statutes-wanted-logo.trycloudflare.com
   type: trojan
-- name: '10,21| By EbraSha 🐺 #47'
+- name: '10,21| By EbraSha 🦈 #48'
   network: tcp
   password: bpb-trojan
   port: 443
@@ -643,7 +673,7 @@ proxies:
   - h2
   - http/1.1
   client-fingerprint: chrome
-  name: '10,21| By EbraSha 🐺 #62'
+  name: '10,21| By EbraSha 👾 #60'
   network: ws
   port: 443
   server: 23.227.39.123
@@ -656,7 +686,7 @@ proxies:
     headers:
       Host: api5.htve.ir
     path: '%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI%3Fed%3D512'
-- name: '10,15,21| By EbraSha ♠️ #67'
+- name: '10,15,21| By EbraSha 🌌 #65'
   network: xhttp
   port: 443
   server: 104.234.135.88
@@ -680,24 +710,24 @@ proxies:
   uuid: 2b781b4a-5942-48e0-a7f3-5a07b7b488c1
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: '10,15,21| By EbraSha 🦾 #90'
+  name: '10|🇨🇦 [ Configs by DukeMehdi ] VL... #4'
   network: tcp
   port: 443
   reality-opts:
     public-key: GCANC7DeRAKLmXKEWXd2bkRwKl1XTyuWy1ObBB0AKC0
   server: 51.79.29.205
-  servername: play-apps-features.googleusercontent.com
+  servername: 'play-apps-features.googleusercontent.com '
   tls: false
   type: vless
   uuid: 2cb2774b-475b-4759-f6f2-18b70e8501f8
-- name: '10,21| By EbraSha 💣 #82'
+- name: '10,21| By EbraSha 💻 #92'
   network: tcp
   port: 27775
   server: 15.223.39.80
   tls: false
   type: vless
   uuid: 309c4bd0-7430-b8aa-2238-1075e9e29370
-- name: '10,21| By EbraSha 🌪️ #93'
+- name: '10,21| By EbraSha 🛜 #90'
   network: tcp
   port: 27775
   server: 3.99.207.191
@@ -706,7 +736,7 @@ proxies:
   uuid: 309c4bd0-7430-b8aa-2238-1075e9e29370
 - client-fingerprint: firefox
   flow: xtls-rprx-vision
-  name: '10,21| By EbraSha 🚨 #109'
+  name: '10,21| By EbraSha 💣 #98'
   network: raw
   port: 41087
   reality-opts:
@@ -717,21 +747,21 @@ proxies:
   tls: false
   type: vless
   uuid: 57d94cf7-ca36-4c2a-bec5-90cf38588cda
-- name: '10,15,21| By EbraSha 🦈 #127'
+- name: '10,15,21| By EbraSha 🤖 #94'
   network: tcp
   port: 80
   server: 3.96.145.16
   tls: false
   type: vless
   uuid: 6daa0b95-9210-4f29-be40-8c6db00bc5bb
-- name: '10,15,21| By EbraSha 🌐 #125'
+- name: '10,15,21| By EbraSha 🥷 #95'
   network: tcp
   port: 80
   server: 35.183.148.110
   tls: false
   type: vless
   uuid: 6daa0b95-9210-4f29-be40-8c6db00bc5bb
-- name: '10,15,21| By EbraSha 🕷️ #103'
+- name: '10,15,21| By EbraSha 📶 #95'
   network: tcp
   port: 443
   server: 184.107.106.68
@@ -743,7 +773,7 @@ proxies:
   ws-opts:
     headers:
       Host: Telegram-Leviko_v2ray
-- name: '10,21| By EbraSha 🐉 #127'
+- name: '10,21| By EbraSha 🔌 #106'
   network: tcp
   port: 443
   server: 51.79.89.68
@@ -765,7 +795,7 @@ proxies:
   uuid: a71c8954-66a8-4321-bedb-2336230d81ce
 - client-fingerprint: firefox
   flow: xtls-rprx-vision
-  name: 10,21,28|[OpenRay] 🇨🇦CA-340
+  name: 10,21,28|[OpenRay] 🇨🇦CA-128
   network: tcp
   port: 443
   reality-opts:
@@ -778,7 +808,7 @@ proxies:
   uuid: ab9929fd-ab22-48e3-8723-480733c0eca9
 - client-fingerprint: firefox
   flow: xtls-rprx-vision
-  name: '10,21| By EbraSha 🥷 #137'
+  name: '10,21| By EbraSha 📀 #128'
   network: raw
   port: 51072
   reality-opts:
@@ -792,7 +822,7 @@ proxies:
 - alpn:
   - networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-
   flow: xtls-rprx-vision
-  name: 10,21,28|[OpenRay] 🇪🇸ES-52
+  name: 10,21,28|[OpenRay] 🇪🇸ES-48
   network: tcp
   port: 443
   reality-opts:
@@ -804,7 +834,7 @@ proxies:
   type: vless
   uuid: bc8446e7-ba8e-4dfd-92df-8681793fe31e
 - flow: xtls-rprx-vision
-  name: '10,21| By EbraSha 🚀 #132'
+  name: '10,21| By EbraSha 🃏 #167'
   network: tcp
   port: 443
   reality-opts:
@@ -817,7 +847,7 @@ proxies:
   uuid: d205ae68-0819-473c-b425-6c5947ac2f8d
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: '10,15,21| By EbraSha 🦾 #180'
+  name: '10,15,21| By EbraSha 🪐 #172'
   network: tcp
   port: 20184
   reality-opts:
@@ -828,7 +858,7 @@ proxies:
   tls: false
   type: vless
   uuid: d4d4d103-5074-47e9-96e6-5431f4e35c57
-- name: '10,21| By EbraSha 🦾 #181'
+- name: '10,21| By EbraSha 🦾 #142'
   network: ws
   port: 443
   server: 23.227.60.7
@@ -844,7 +874,7 @@ proxies:
   - h2
   - http/1.1
   client-fingerprint: firefox
-  name: '10,21| By EbraSha 🚨 #161'
+  name: '10,21| By EbraSha 🚨 #175'
   network: ws
   port: 2096
   server: 23.227.60.12
@@ -858,13 +888,13 @@ proxies:
     path: /
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: '10,15,21| By EbraSha 📟 #176'
+  name: '10|🇨🇦 [ Configs by DukeMehdi ] VL... #22'
   network: tcp
   port: 10103
   reality-opts:
     public-key: BEbRvaOBf0Vm-HovuysfKge6jHMgK4AGl4U0kA7w8QI
   server: 51.79.29.205
-  servername: play-apps-features.googleusercontent.com
+  servername: 'play-apps-features.googleusercontent.com '
   tls: false
   type: vless
   uuid: f6c29358-4b06-445a-bf01-360a418aca1e
@@ -881,7 +911,7 @@ proxies:
     path: '%2Fpyip%3DTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2 '
 - client-fingerprint: firefox
   flow: xtls-rprx-vision
-  name: '10,21| By EbraSha 🔮 #177'
+  name: '10,21| By EbraSha 👑 #149'
   network: tcp
   port: 443
   reality-opts:
@@ -1119,7 +1149,7 @@ proxies:
   udp: true
   ws-opts:
     path: /assignment
-- name: '13,21| By EbraSha ⚙️ #50'
+- name: '13,21| By EbraSha 🪐 #58'
   network: tcp
   password: humanity
   port: 443
@@ -1198,13 +1228,6 @@ proxies:
       Host: ygwp.sbbz.tech
     path: /
 - cipher: aes-256-cfb
-  name: 14|C🟠🇨🇦hos[🎬🤖📺🎭]_dokng.com_3da042...
-  password: amazonskr05
-  port: 443
-  server: 3.96.190.88
-  type: ss
-  udp: true
-- cipher: aes-256-cfb
   delay: 540
   name: 14,25|加拿大 - Montreal - 1
   password: amazonskr05
@@ -1212,17 +1235,10 @@ proxies:
   server: 15.223.120.64
   type: ss
   udp: true
-- name: 14|C🟠🇨🇦hos[🎬🤖📺🎭]_dokng.com_691202...
-  network: tcp
-  password: Trojan@82164024
-  port: 443
-  server: ca.tronsg.com
-  sni: ca.tronsg.com
-  type: trojan
-- name: 14,27,30|🇨🇦CA_1|1.5MB/s
+- name: 14,27|🇨🇦CA-198.44.157.19-0556
   port: 9443
   server: 198.44.157.19
-  skip-cert-verify: true
+  skip-cert-verify: false
   tls: true
   type: http
 - cipher: aes-256-cfb
@@ -1232,31 +1248,31 @@ proxies:
   server: 15.175.220.220
   type: ss
   udp: true
-- name: 14|D🔴🇨🇦hos[🎬🤖📺🎭]_dokng.com_ff0913...
+- name: 14,30,33|🇨🇦CA_2|2.8MB/s
   port: 9443
   server: 198.44.157.27
   skip-cert-verify: true
   tls: true
   type: http
-- name: 14|D🔴🇨🇦hos[🎬🤖📺🎭]_dokng.com_f72332...
+- name: 14,30|🇨🇦CA_4|2.1MB/s
   port: 443
   server: 35.183.131.26
   skip-cert-verify: true
   tls: true
   type: http
-- name: 14|A🟢🇨🇦res[🎬🤖📺🎭]_dokng.com_1647a2...
+- name: 14,33|🇨🇦CA_3|1.7MB/s
   port: 443
   server: 206.223.183.21
   skip-cert-verify: true
   tls: true
   type: http
-- name: 14,30|🇨🇦CA_2|2.5MB/s
+- name: 14,27,30,33|🇨🇦CA_1|2.2MB/s
   port: 443
   server: 206.223.183.13
   skip-cert-verify: true
   tls: true
   type: http
-- name: 14,33|🇨🇦CA_1|2.1MB/s
+- name: 14,30|🇨🇦CA_5|1.7MB/s
   port: 9443
   server: 149.88.98.81
   skip-cert-verify: true
@@ -1268,10 +1284,10 @@ proxies:
   skip-cert-verify: true
   tls: true
   type: http
-- name: 14,27|🇨🇦CA-206.223.161.47-0608
+- name: 14,30,33|🇨🇦CA_4|2.3MB/s
   port: 443
   server: 206.223.161.47
-  skip-cert-verify: false
+  skip-cert-verify: true
   tls: true
   type: http
 - name: 14|C🟠🇨🇦hos[🎬🤖📺🎭]_dokng.com_e70669...
@@ -1302,7 +1318,7 @@ proxies:
   sni: www.bing.com
   type: hysteria2
   udp: true
-- name: '19,21| By EbraSha 🚧 #99'
+- name: '19,21| By EbraSha 🔌 #72'
   network: ws
   port: 443
   server: saas.sin.fan
@@ -1314,22 +1330,10 @@ proxies:
     headers:
       Host: snip.edgeoneai.cc.cd
     path: '%2Ffdip%3Dsstp%3A%2F%2Fvpn%3Avpn%40public-vpn-200.opengw.net%3A443'
-- name: 19,28|[OpenRay] 🌐XX-2491
-  network: ws
-  port: 443
-  server: 162.159.130.234
-  servername: snip.edgeoneai.cc.cd
-  tls: true
-  type: vless
-  uuid: 495c7195-85b8-498a-bf20-2ea9ce9175b5
-  ws-opts:
-    headers:
-      Host: snip.edgeoneai.cc.cd
-    path: '%2F'
 - alpn:
   - h3
   - h2
-  name: '19|美国+CloudFlare节点 #6'
+  name: 19|CA【机场推荐：https://a9a.xyz】8
   network: ws
   port: 443
   server: 162.159.135.234
@@ -1379,27 +1383,80 @@ proxies:
       Host: brightlux.forum
     path: /raccoonwsvlessfp=chrome
 - cipher: aes-256-cfb
-  name: '20,30|🇨🇦 加拿大 | CAN #1 #1'
+  name: 19,27|🇨🇦CA-3.97.11.240-0591
   password: amazonskr05
   port: 443
   server: 3.97.11.240
   type: ss
-  udp: true
 - cipher: aes-256-gcm
-  name: 27|🇨🇦CA-134.195.196.149-0292
-  password: FoOiGlkAA9yPEGP
-  port: 7307
-  server: 134.195.196.149
+  name: 27|🇨🇦CA-134.195.198.95-0045
+  password: PCnnH6SQSnfoS27
+  port: 8091
+  server: 134.195.198.95
   type: ss
 - cipher: aes-256-gcm
-  name: 27|🇨🇦CA-85.208.108.61-0412
-  password: XKFKl2rULjIp74
-  port: 8008
-  server: 85.208.108.61
+  name: 27|🇨🇦CA-134.195.198.95-0046
+  password: Y6R9pAtvxxzmGC
+  port: 3389
+  server: 134.195.198.95
+  type: ss
+- cipher: aes-256-gcm
+  name: 27|🇨🇦CA-134.195.196.231-0047
+  password: e4FCWrgpkji3QY
+  port: 9102
+  server: 134.195.196.231
+  type: ss
+- cipher: aes-256-gcm
+  name: 27|🇨🇦CA-134.195.198.95-0048
+  password: g5MeD6Ft3CWlJId
+  port: 5003
+  server: 134.195.198.95
+  type: ss
+- cipher: aes-256-gcm
+  name: 27|🇨🇦CA-134.195.198.95-0049
+  password: faBAoD54k87UJG7
+  port: 2375
+  server: 134.195.198.95
+  type: ss
+- cipher: aes-256-gcm
+  name: 27|🇨🇦CA-134.195.198.95-0050
+  password: KixLvKzwjekG00rm
+  port: 8080
+  server: 134.195.198.95
+  type: ss
+- cipher: aes-256-gcm
+  name: 27|🇨🇦CA-134.195.196.231-0051
+  password: g5MeD6Ft3CWlJId
+  port: 5003
+  server: 134.195.196.231
+  type: ss
+- cipher: aes-256-gcm
+  name: 27|🇨🇦CA-85.208.108.21-0066
+  password: Y6R9pAtvxxzmGC
+  port: 3306
+  server: 85.208.108.21
+  type: ss
+- cipher: aes-256-gcm
+  name: 27|🇨🇦CA-85.208.108.21-0067
+  password: g5MeD6Ft3CWlJId
+  port: 5004
+  server: 85.208.108.21
+  type: ss
+- cipher: aes-256-gcm
+  name: 27|🇨🇦CA-85.208.108.93-0068
+  password: cdBIDV42DCwnfIN
+  port: 8119
+  server: 85.208.108.93
+  type: ss
+- cipher: aes-256-gcm
+  name: 27|🇨🇦CA-85.208.108.60-3775
+  password: kDWvXYZoTBcGkC4
+  port: 8882
+  server: 85.208.108.60
   type: ss
 - alterId: 0
   cipher: auto
-  name: 27|🇨🇦CA-51.79.102.253-0922
+  name: 27|🇨🇦CA-51.79.102.253-0883
   network: ws
   port: 80
   server: 51.79.102.253
@@ -1414,7 +1471,7 @@ proxies:
     path: /IOebhLMhl1CTbFHbL95myfRX2
 - alterId: 0
   cipher: auto
-  name: 27|🇨🇦CA-134.195.198.147-1115
+  name: 27|🇨🇦CA-134.195.198.147-1095
   network: ws
   port: 443
   server: 134.195.198.147
@@ -1428,21 +1485,21 @@ proxies:
     path: /linkvws
 - alterId: 0
   cipher: auto
-  name: 27|🇨🇦CA-15.235.13.69-1117
+  name: 27|🇨🇦CA-23.162.200.227-1096
   network: ws
   port: 443
-  server: 15.235.13.69
+  server: 23.162.200.227
   skip-cert-verify: false
   tls: true
   type: vmess
   uuid: 03fcc618-b93d-6796-6aed-8a38c975d581
   ws-opts:
     headers:
-      Host: tilebani.com
+      Host: vk.com
     path: /linkvws
 - alterId: 0
   cipher: auto
-  name: 27|🇨🇦CA-15.235.50.172-1118
+  name: 27|🇨🇦CA-15.235.50.172-1098
   network: ws
   port: 443
   server: 15.235.50.172
@@ -1456,7 +1513,7 @@ proxies:
     path: /linkvws
 - alterId: 0
   cipher: auto
-  name: 27|🇨🇦CA-15.235.83.227-1119
+  name: 27|🇨🇦CA-15.235.83.227-1099
   network: ws
   port: 443
   server: 15.235.83.227
@@ -1468,177 +1525,166 @@ proxies:
     headers:
       Host: mankadmu.com
     path: /linkvws
-- cipher: aes-256-gcm
-  name: 27|🇨🇦CA-198.8.92.84-1802
-  password: J9Y2ncrdPEC38gwydNFFGBna
-  port: 35294
-  server: 198.8.92.84
+- alterId: 0
+  cipher: auto
+  name: 27|🇨🇦CA-15.235.83.228-1100
+  network: ws
+  port: 443
+  server: 15.235.83.228
+  skip-cert-verify: false
+  tls: true
+  type: vmess
+  uuid: 03fcc618-b93d-6796-6aed-8a38c975d581
+  ws-opts:
+    headers:
+      Host: f.khilei.com
+    path: /linkvws
+- cipher: chacha20-ietf-poly1305
+  name: 27|🇨🇦CA-51.161.118.38-2038
+  password: G!yBwPWH3Vao
+  port: 801
+  server: 51.161.118.38
   type: ss
 - cipher: aes-256-gcm
-  name: 27|🇨🇦CA-198.8.92.84-1819
-  password: BdRWC38L5JUDMTYNNxJGcUwB
-  port: 49396
-  server: 198.8.92.84
-  type: ss
-- cipher: aes-256-gcm
-  name: 27|🇨🇦CA-85.208.108.90-2083
+  name: 27|🇨🇦CA-85.208.108.90-2073
   password: zDNVedRFPQexG9v
   port: 6379
   server: 85.208.108.90
   type: ss
-- alterId: 0
-  cipher: auto
-  name: 27|🇨🇦CA-132.145.99.228-2183
-  network: ws
-  port: 13724
-  server: 132.145.99.228
-  skip-cert-verify: false
-  tls: false
-  type: vmess
-  uuid: 52768552-c2b2-4460-89f1-e740cc145b99
-  ws-opts:
-    path: /ws-path
-- name: 27|🇨🇦CA-35.182.251.60-2235
-  password: telegram-id-directvpn
-  port: 22222
-  server: 35.182.251.60
-  skip-cert-verify: false
-  sni: trj.rollingnext.co.uk
-  type: trojan
 - cipher: aes-256-gcm
-  name: 27|🇨🇦CA-85.208.108.60-2310
-  password: Y6R9pAtvxxzmGC
-  port: 3306
+  name: 27|🇨🇦CA-85.208.108.60-3761
+  password: cdBIDV42DCwnfIN
+  port: 8118
   server: 85.208.108.60
   type: ss
 - cipher: aes-256-gcm
-  name: 27|🇨🇦CA-198.57.27.218-2760
-  password: g5MeD6Ft3CWlJId
-  port: 5004
-  server: 198.57.27.218
-  type: ss
-- cipher: aes-256-gcm
-  name: 27|🇨🇦CA-85.208.108.60-2907
-  password: XKFKl2rULjIp74
-  port: 8009
-  server: 85.208.108.60
-  type: ss
-- cipher: aes-256-gcm
-  name: 27|🇨🇦CA-85.208.108.60-3070
-  password: faBAoD54k87UJG7
-  port: 2376
-  server: 85.208.108.60
-  type: ss
-- cipher: aes-256-gcm
-  name: 27|🇨🇦CA-85.208.108.60-3072
+  name: 27|🇨🇦CA-85.208.108.60-3083
   password: RexnBgU7EV5ADxG
   port: 7001
   server: 85.208.108.60
   type: ss
 - cipher: aes-256-gcm
-  name: 27|🇨🇦CA-85.208.108.60-3073
+  name: 27|🇨🇦CA-85.208.108.60-3084
   password: XKFKl2rULjIp74
   port: 8008
   server: 85.208.108.60
   type: ss
 - cipher: aes-256-gcm
-  name: 27|🇨🇦CA-85.208.108.60-3764
-  password: kDWvXYZoTBcGkC4
-  port: 8882
-  server: 85.208.108.60
-  type: ss
-- cipher: aes-256-gcm
-  name: 27|🇨🇦CA-85.208.108.60-4389
+  name: 27|🇨🇦CA-85.208.108.60-3106
   password: FoOiGlkAA9yPEGP
-  port: 7307
+  port: 7306
   server: 85.208.108.60
   type: ss
-- cipher: chacha20-ietf-poly1305
-  name: 27|🇨🇦CA-196.247.59.154-5697
-  password: G!yBwPWH3Vao
-  port: 806
-  server: 196.247.59.154
+- cipher: aes-256-gcm
+  name: 27|🇨🇦CA-85.208.108.60-3143
+  password: zDNVedRFPQexG9v
+  port: 6379
+  server: 85.208.108.60
+  type: ss
+- alterId: 4
+  cipher: auto
+  name: 27|🇨🇦CA-138.197.165.31-5404
+  network: ws
+  port: 8080
+  server: 138.197.165.31
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  uuid: 2ed609d0-7467-471b-94a9-34a734ccc40a
+  ws-opts:
+    path: /cctv13/hd.m3u8
+- cipher: aes-256-gcm
+  name: 27|🇨🇦CA-134.195.196.149-5705
+  password: TEzjfAYq2IjtuoS
+  port: 6679
+  server: 134.195.196.149
   type: ss
 - cipher: aes-256-gcm
-  name: 27|🇨🇦CA-85.208.108.59-5917
+  name: 27|🇨🇦CA-134.195.196.85-5707
+  password: Y6R9pAtvxxzmGC
+  port: 5001
+  server: 134.195.196.85
+  type: ss
+- cipher: aes-256-gcm
+  name: 27|🇨🇦CA-134.195.196.231-5781
+  password: Y6R9pAtvxxzmGC
+  port: 3306
+  server: 134.195.196.231
+  type: ss
+- cipher: aes-256-gcm
+  name: 27|🇨🇦CA-85.208.108.59-5928
   password: TEzjfAYq2IjtuoS
   port: 6697
   server: 85.208.108.59
   type: ss
 - cipher: aes-256-gcm
-  name: 27|🇨🇦CA-85.208.108.59-5924
-  password: RexnBgU7EV5ADxG
-  port: 7002
+  name: 27|🇨🇦CA-85.208.108.59-5941
+  password: FoOiGlkAA9yPEGP
+  port: 7307
   server: 85.208.108.59
   type: ss
 - cipher: aes-256-gcm
-  name: 27|🇨🇦CA-85.208.108.20-5931
-  password: FoOiGlkAA9yPEGP
-  port: 7307
+  name: 27|🇨🇦CA-85.208.108.20-5943
+  password: KixLvKzwjekG00rm
+  port: 8000
   server: 85.208.108.20
   type: ss
 - cipher: aes-256-gcm
-  name: 27|🇨🇦CA-85.208.108.59-5950
-  password: PCnnH6SQSnfoS27
-  port: 8090
+  name: 27|🇨🇦CA-85.208.108.59-5960
+  password: Y6R9pAtvxxzmGC
+  port: 5001
   server: 85.208.108.59
   type: ss
 - cipher: aes-256-gcm
-  name: 27|🇨🇦CA-85.208.108.59-5953
+  name: 27|🇨🇦CA-85.208.108.59-5964
   password: e4FCWrgpkji3QY
   port: 9102
   server: 85.208.108.59
   type: ss
 - cipher: aes-256-gcm
-  name: 27|🇨🇦CA-85.208.108.58-5954
-  password: e4FCWrgpkji3QY
-  port: 9101
-  server: 85.208.108.58
-  type: ss
-- cipher: aes-256-gcm
-  name: 27|🇨🇦CA-85.208.108.59-5962
-  password: Y6R9pAtvxxzmGC
-  port: 3389
-  server: 85.208.108.59
-  type: ss
-- cipher: aes-256-gcm
-  name: 27|🇨🇦CA-85.208.108.20-5970
+  name: 27|🇨🇦CA-85.208.108.20-5981
   password: cdBIDV42DCwnfIN
   port: 8119
   server: 85.208.108.20
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: 27|🇨🇦CA-196.247.59.156-6123
+  name: 27|🇨🇦CA-196.247.59.156-6134
   password: G!yBwPWH3Vao
   port: 801
   server: 196.247.59.156
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: 27|🇨🇦CA-196.247.59.156-6127
+  name: 27|🇨🇦CA-196.247.59.156-6138
   password: G!yBwPWH3Vao
   port: 809
   server: 196.247.59.156
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: 27|🇨🇦CA-51.161.118.38-6132
+  name: 27|🇨🇦CA-51.161.118.38-6143
   password: G!yBwPWH3Vao
   port: 806
   server: 51.161.118.38
   type: ss
 - cipher: aes-256-gcm
-  name: 27|🇨🇦CA-134.195.198.95-6214
-  password: faBAoD54k87UJG7
-  port: 2376
+  name: 27|🇨🇦CA-134.195.196.149-6228
+  password: kDWvXYZoTBcGkC4
+  port: 8882
+  server: 134.195.196.149
+  type: ss
+- cipher: aes-256-gcm
+  name: 27|🇨🇦CA-134.195.198.95-6237
+  password: PCnnH6SQSnfoS27
+  port: 8090
   server: 134.195.198.95
   type: ss
-- name: 27|🇨🇦CA-35.182.28.167-7738
+- name: 27|🇨🇦CA-35.182.28.167-7749
   password: telegram-id-directvpn
   port: 22222
   server: 35.182.28.167
   skip-cert-verify: false
   sni: trj.rollingnext.co.uk
   type: trojan
-- name: 28|[OpenRay] 🇨🇦CA-184
+- name: 28|[OpenRay] 🇨🇦CA-164
   network: ws
   password: 018b8e7b-7813-4dcb-84a5-3c98f1521e00
   port: 443
@@ -1649,7 +1695,7 @@ proxies:
     headers:
       Host: id1.nathaya.web.id
     path: '%2Ftrojan'
-- name: 28|[OpenRay] 🇨🇦CA-284
+- name: 28|[OpenRay] 🇨🇦CA-251
   network: ws
   password: '!!str 1710442808'
   port: 443
@@ -1660,7 +1706,7 @@ proxies:
     headers:
       Host: subb.nrshop198.workers.dev
     path: '%2F'
-- name: 28|[OpenRay] 🇨🇦CA-236
+- name: 28|[OpenRay] 🇨🇦CA-210
   network: ws
   password: A4u^p(_UR*F6
   port: 8080
@@ -1672,7 +1718,7 @@ proxies:
     path: '%2FeyJqdW5rIjoidlhnMXN5OXFUSiIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D2560'
 - alpn:
   - http/1.1
-  name: 28|[OpenRay] 🇨🇦CA-154
+  name: 28|[OpenRay] 🇨🇦CA-139
   network: ws
   password: A4u^p(_UR*F6
   port: 443
@@ -1683,20 +1729,7 @@ proxies:
     headers:
       Host: 027.electrocellco-cf-027.workers.dev
     path: '%2FeyJqdW5rIjoidlhnMXN5OXFUSiIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D2560'
-- alpn:
-  - http/1.1
-  name: 28|[OpenRay] 🇨🇦CA-74
-  network: ws
-  password: Telegram_healer_config
-  port: 443
-  server: 188.114.96.3
-  sni: cdtfrgmtcsbaarmz-9owpz7g4.f9w96pzky6un-covzx6b-hzlm80woj2.workers.dev
-  type: trojan
-  ws-opts:
-    headers:
-      Host: cdtfrgmtcsbaarmz-9owpz7g4.f9w96pzky6un-covzx6b-hzlm80woj2.workers.dev
-    path: /tr/3F3fUAGJks9doKvjt8AREH4QR%3Fed%3D2560
-- name: 28|[OpenRay] 🇨🇦CA-224
+- name: 28|[OpenRay] 🇨🇦CA-198
   network: ws
   password: humanity
   port: 443
@@ -1708,7 +1741,7 @@ proxies:
     headers:
       Host: www.calmlunch.com
     path: '%2Fassignment'
-- name: 28|[OpenRay] 🇨🇦CA-152
+- name: 28|[OpenRay] 🇨🇦CA-137
   network: ws
   password: humanity
   port: 443
@@ -1719,7 +1752,7 @@ proxies:
     headers:
       Host: www.calmlunch.com
     path: '%2Fassignment'
-- name: 28|[OpenRay] 🇨🇦CA-95
+- name: 28|[OpenRay] 🇨🇦CA-85
   network: ws
   password: humanity
   port: 443
@@ -1733,7 +1766,7 @@ proxies:
     path: '%2F%2Fassignment%23Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET%3Fed%3D512'
 - alpn:
   - http/1.1
-  name: 28|[OpenRay] 🌐XX-1894
+  name: 28|[OpenRay] 🌐XX-1780
   network: ws
   password: humanity
   port: 443
@@ -1747,7 +1780,7 @@ proxies:
     path: '%2Fassignment'
 - alpn:
   - http/1.1
-  name: 28|[OpenRay] 🇨🇦CA-237
+  name: 28|[OpenRay] 🇨🇦CA-211
   network: ws
   password: humanity
   port: 443
@@ -1759,7 +1792,7 @@ proxies:
     headers:
       Host: www.ignitelimit.com
     path: '%2F%2Fassignment'
-- name: 28|[OpenRay] 🇨🇦CA-293
+- name: 28|[OpenRay] 🇨🇦CA-259
   network: ws
   password: humanity
   port: 443
@@ -1773,7 +1806,7 @@ proxies:
     path: '%2F%2Fassignment'
 - alpn:
   - http/1.1
-  name: 28|[OpenRay] 🇨🇦CA-72
+  name: 28|[OpenRay] 🇨🇦CA-67
   network: ws
   password: humanity
   port: 443
@@ -1787,7 +1820,7 @@ proxies:
     path: '%2Fassignment%23Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET'
 - alpn:
   - http/1.1
-  name: 28|[OpenRay] 🇨🇦CA-33
+  name: 28|[OpenRay] 🇨🇦CA-31
   network: ws
   password: humanity
   port: 443
@@ -1799,19 +1832,7 @@ proxies:
     headers:
       Host: www.ignitelimit.com
     path: '%2Fassignment'
-- name: 28|[OpenRay] 🇨🇦CA-347
-  network: ws
-  password: humanity
-  port: 443
-  server: 188.114.97.6
-  skip-cert-verify: false
-  sni: www.pleadcourt.org
-  type: trojan
-  ws-opts:
-    headers:
-      Host: www.pleadcourt.org
-    path: '%2Fassignment'
-- name: 28|[OpenRay] 🇨🇦CA-296
+- name: 28|[OpenRay] 🇨🇦CA-262
   network: ws
   password: humanity
   port: 443
@@ -1822,7 +1843,7 @@ proxies:
     headers:
       Host: www.calmlunch.com
     path: '%2F%2Fassignment'
-- name: 28|[OpenRay] 🇨🇦CA-64
+- name: 28|[OpenRay] 🇨🇦CA-59
   network: ws
   password: humanity
   port: 443
@@ -1834,7 +1855,7 @@ proxies:
     headers:
       Host: www.calmlunch.com
     path: '%2Fassignment'
-- name: 28|[OpenRay] 🇨🇦CA-79
+- name: 28|[OpenRay] 🇨🇦CA-71
   network: ws
   password: humanity
   port: 443
@@ -1844,7 +1865,7 @@ proxies:
   type: trojan
   ws-opts:
     path: '%2Fassignment%23Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET'
-- name: 28|[OpenRay] 🇨🇦CA-114
+- name: 28|[OpenRay] 🇨🇦CA-102
   network: ws
   password: humanity
   port: 443
@@ -1856,7 +1877,7 @@ proxies:
     path: '%2Fassignment%23Telegram---bored_vpn'
 - alpn:
   - 'null'
-  name: 28|[OpenRay] 🇨🇦CA-281
+  name: 28|[OpenRay] 🇨🇦CA-248
   network: ws
   password: humanity
   port: 443
@@ -1868,7 +1889,7 @@ proxies:
     headers:
       Host: www.calmlunch.com
     path: '%2Fassignment'
-- name: 28|[OpenRay] 🇨🇦CA-11
+- name: 28|[OpenRay] 🇨🇦CA-10
   network: ws
   password: humanity
   port: 443
@@ -1881,7 +1902,7 @@ proxies:
     path: '%2Fassignment'
 - alpn:
   - http/1.1
-  name: 28|[OpenRay] 🇨🇦CA-182
+  name: 28|[OpenRay] 🇨🇦CA-162
   network: ws
   port: 443
   server: 188.114.97.6
@@ -1894,7 +1915,7 @@ proxies:
     headers:
       Host: snapp.matialz.ir
     path: '%2Fpgcfws-d7k'
-- name: 28|[OpenRay] 🇨🇦CA-369
+- name: 28|[OpenRay] 🇨🇦CA-324
   network: ws
   port: 8880
   server: 104.17.123.204
@@ -1919,7 +1940,7 @@ proxies:
     headers:
       Host: long-firefly-a226.216-ce0.workers.dev
     path: /pyip=ProxyIP.SG.CMLiussss.net
-- name: 28|[OpenRay] 🇨🇦CA-56
+- name: 28|[OpenRay] 🇨🇦CA-51
   network: ws
   port: 8880
   server: 162.159.156.214
@@ -1931,7 +1952,7 @@ proxies:
       Host: shy-star-7967.311-f0b.workers.dev
     path: '%2Fpyip%3DProxyIP.JP.CMLiussss.net'
 - client-fingerprint: unsafe
-  name: 28|[OpenRay] 🇨🇦CA-113
+  name: 28|[OpenRay] 🇨🇦CA-101
   network: ws
   port: 443
   server: 188.114.97.6
@@ -1944,7 +1965,7 @@ proxies:
       Host: yellow-hall-d482.260-d22.workers.dev
     path: '%2Fpyip%3DProxyIP.KR.CMLiussss.net'
 - client-fingerprint: unsafe
-  name: 28|[OpenRay] 🇨🇦CA-42
+  name: 28|[OpenRay] 🇨🇦CA-39
   network: ws
   port: 443
   server: 188.114.97.6
@@ -1957,7 +1978,7 @@ proxies:
       Host: icy-fog-9a41.70-a39.workers.dev
     path: '%2Fpyip%3Dproxyip.%CE%93%C3%87%C2%AA'
 - client-fingerprint: unsafe
-  name: 28|[OpenRay] 🇨🇦CA-25
+  name: 28|[OpenRay] 🇨🇦CA-24
   network: ws
   port: 443
   server: 188.114.97.6
@@ -1970,7 +1991,7 @@ proxies:
       Host: lingering-lab-91a6.54-8c3.workers.dev
     path: '%2Fpyip%3DProxyIP.US.CMLiussss.net'
 - client-fingerprint: unsafe
-  name: 28|[OpenRay] 🇨🇦CA-208
+  name: 28|[OpenRay] 🇨🇦CA-182
   network: ws
   port: 443
   server: 188.114.97.6
@@ -1993,7 +2014,22 @@ proxies:
     headers:
       Host: yellow-sky-38b3.154-d73.workers.dev
     path: /pyip=ProxyIP.SG.CMLiussss.net
-- name: 28|[OpenRay] 🇨🇦CA-78
+- alpn:
+  - http/1.1
+  name: 28|[OpenRay] 🇨🇦CA-271
+  network: ws
+  port: 443
+  server: 188.114.97.6
+  servername: 2yijonkovdic86iq5ebnd1moqqf.yyuz0mhr4awg8vw-wwycuu4.workers.dev
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  uuid: 26168a04-a91c-48fc-b8d0-3ba5a4e719c4
+  ws-opts:
+    headers:
+      Host: 2yijonkovdic86iq5ebnd1moqqf.yyuz0mhr4awg8vw-wwycuu4.workers.dev
+    path: '%2Fvl%2F17NBgz64AfwQ4Dd6qdNR%3Fed%3D2560'
+- name: 28|[OpenRay] 🇨🇦CA-70
   network: ws
   port: 8880
   server: 104.16.72.41
@@ -2005,7 +2041,7 @@ proxies:
     headers:
       Host: summer-butterfly-cbc8.26-971.workers.dev
     path: '%2Fpyip'
-- name: 28|[OpenRay] 🇨🇦CA-207
+- name: 28|[OpenRay] 🇨🇦CA-181
   network: ws
   port: 8080
   server: 188.114.97.6
@@ -2029,7 +2065,7 @@ proxies:
     headers:
       Host: lively-pine-093d.144-868.workers.dev
     path: /pyip=ProxyIP.JP.CMLiussss.net
-- name: 28|[OpenRay] 🇨🇦CA-336
+- name: 28|[OpenRay] 🇨🇦CA-296
   network: ws
   port: 443
   server: 188.114.96.9
@@ -2043,7 +2079,7 @@ proxies:
       Host: idb8onmvbntuyt5t7t6cejfw8vlrb.pages.dev
     path: /vl/9yvcoLdzdOXLUYfH7r5gwJhu1CHrjfp=chrome
 - client-fingerprint: unsafe
-  name: 28|[OpenRay] 🇨🇦CA-83
+  name: 28|[OpenRay] 🇨🇦CA-74
   network: ws
   port: 443
   server: 188.114.97.6
@@ -2058,7 +2094,7 @@ proxies:
 - alpn:
   - http/1.1
   client-fingerprint: chrome
-  name: 28|[OpenRay] 🇨🇦CA-90
+  name: 28|[OpenRay] 🇨🇦CA-80
   network: ws
   port: 8880
   server: 172.67.209.127
@@ -2070,7 +2106,7 @@ proxies:
     headers:
       Host: rapid-lab-95ef.173-74c.workers.dev
     path: /pyip=ProxyIP.KR.CMLiussss.net
-- name: 28|[OpenRay] 🇨🇦CA-210
+- name: 28|[OpenRay] 🇨🇦CA-184
   network: ws
   port: 8880
   server: 172.67.209.127
@@ -2081,7 +2117,7 @@ proxies:
   ws-opts:
     headers:
       Host: rapid-lab-95ef.173-74c.workers.dev
-- name: 28|[OpenRay] 🇨🇦CA-122
+- name: 28|[OpenRay] 🇨🇦CA-109
   network: ws
   port: 8080
   server: 104.21.70.21
@@ -2105,7 +2141,7 @@ proxies:
       Host: flat-heart-b60a.401-306.workers.dev
     path: /pyip=ProxyIP.KR.CMLiussss.net
 - client-fingerprint: unsafe
-  name: 28|[OpenRay] 🇨🇦CA-355
+  name: 28|[OpenRay] 🇨🇦CA-311
   network: ws
   port: 443
   server: 188.114.97.6
@@ -2118,7 +2154,7 @@ proxies:
       Host: flat-heart-b60a.401-306.workers.dev
     path: '%2Fpyip%3DProxyIP.KR.CMLiussss.net'
 - client-fingerprint: chrome
-  name: 28|[OpenRay] 🇨🇦CA-311
+  name: 28|[OpenRay] 🇨🇦CA-276
   network: ws
   port: 8880
   server: 104.21.88.129
@@ -2132,7 +2168,7 @@ proxies:
 - alpn:
   - http/1.1
   client-fingerprint: unsafe
-  name: 28|[OpenRay] 🇨🇦CA-292
+  name: 28|[OpenRay] 🇨🇦CA-258
   network: ws
   port: 443
   server: 188.114.97.6
@@ -2147,7 +2183,7 @@ proxies:
 - alpn:
   - http/1.1
   client-fingerprint: unsafe
-  name: 28|[OpenRay] 🇨🇦CA-75
+  name: 28|[OpenRay] 🇨🇦CA-69
   network: ws
   port: 443
   server: 188.114.97.6
@@ -2160,7 +2196,7 @@ proxies:
       Host: bkkkl.maxsparkbox-bekhabdg.site
     path: '%2Fbaran'
 - client-fingerprint: chrome
-  name: 28|[OpenRay] 🇨🇦CA-103
+  name: 28|[OpenRay] 🇨🇦CA-92
   network: ws
   port: 8880
   server: 172.64.148.60
@@ -2173,7 +2209,7 @@ proxies:
       Host: silent-heart-175f.325-a85.workers.dev
     path: /pyip=ProxyIP.SG.CMLiussss.net
 - client-fingerprint: unsafe
-  name: 28|[OpenRay] 🌐XX-466
+  name: 28|[OpenRay] 🌐XX-431
   network: ws
   port: 443
   server: 188.114.97.6
@@ -2185,7 +2221,7 @@ proxies:
     headers:
       Host: v2ray.simspeedup.com
     path: '%2Fws'
-- name: 28|[OpenRay] 🇨🇦CA-157
+- name: 28|[OpenRay] 🇨🇦CA-142
   network: ws
   port: 443
   server: 188.114.97.6
@@ -2200,7 +2236,7 @@ proxies:
     path: '%2Fimnotarealherox'
 - alpn:
   - http/1.1
-  name: 28|[OpenRay] 🇨🇦CA-167
+  name: 28|[OpenRay] 🇨🇦CA-150
   network: ws
   port: 443
   server: 188.114.97.6
@@ -2213,7 +2249,7 @@ proxies:
     headers:
       Host: h3hadzojqmjxwseayj0dwe4o0.ade-1018.workers.dev
     path: '%2Fvl%2Fml3Epzqnzr8r2cTPtolbD5lTi1GWsZOP%3Fed%3D2560'
-- name: 28|[OpenRay] 🇨🇦CA-12
+- name: 28|[OpenRay] 🇨🇦CA-11
   network: ws
   port: 8080
   server: 104.21.70.21
@@ -2224,7 +2260,7 @@ proxies:
     headers:
       Host: 8nj2r.2k8t.f88.hh.vavava.kdns.fr
     path: '%2F%3Fed%3D2560security%3Dtls'
-- name: 28|[OpenRay] 🇨🇦CA-62
+- name: 28|[OpenRay] 🇨🇦CA-57
   network: ws
   port: 8080
   server: 104.21.70.21
@@ -2235,7 +2271,7 @@ proxies:
     headers:
       Host: zb1zi.s3nx.dyz.hh.vavava.kdns.fr
     path: '%2F%3Fed%3D2560'
-- name: 28|[OpenRay] 🇨🇦CA-143
+- name: 28|[OpenRay] 🇨🇦CA-127
   network: ws
   port: 2052
   server: 188.114.97.6
@@ -2246,7 +2282,7 @@ proxies:
     headers:
       Host: zb1zi.s3nx.dyz.hh.vavava.kdns.fr
     path: '%2F%3Fed%3D2560'
-- name: 28|[OpenRay] 🇨🇦CA-264
+- name: 28|[OpenRay] 🇨🇦CA-235
   network: ws
   port: 8080
   server: 188.114.97.6
@@ -2257,7 +2293,7 @@ proxies:
     headers:
       Host: 571x2.r4bn.bim.hh.vavava.kdns.fr
     path: /?ed=2560
-- name: 28|[OpenRay] 🇨🇦CA-55
+- name: 28|[OpenRay] 🇨🇦CA-50
   network: ws
   port: 8080
   server: 188.114.97.6
@@ -2269,7 +2305,7 @@ proxies:
       Host: a0hbm.jvb1.28f.hh.vavava.kdns.fr
     path: /?ed=2560
 - client-fingerprint: unsafe
-  name: 28|[OpenRay] 🇨🇦CA-323
+  name: 28|[OpenRay] 🇨🇦CA-285
   network: ws
   port: 443
   server: 188.114.97.6
@@ -2282,7 +2318,7 @@ proxies:
       Host: morning-brook-d78e.347.workers.dev
     path: /pyip=ProxyIP.JP.CMLiussss.net
 - client-fingerprint: unsafe
-  name: 28|[OpenRay] 🇨🇦CA-399
+  name: 28|[OpenRay] 🇨🇦CA-351
   network: ws
   port: 443
   server: 188.114.97.6
@@ -2297,7 +2333,7 @@ proxies:
 - alpn:
   - http/1.1
   client-fingerprint: unsafe
-  name: 28|[OpenRay] 🇨🇦CA-324
+  name: 28|[OpenRay] 🇨🇦CA-286
   network: ws
   port: 443
   server: 188.114.97.6
@@ -2310,7 +2346,7 @@ proxies:
       Host: withered-sea-c187.445-608.workers.dev
     path: '%2Fpyip%3DProxyIP.JP.CMLiussss.net'
 - client-fingerprint: unsafe
-  name: 28|[OpenRay] 🇨🇦CA-85
+  name: 28|[OpenRay] 🇨🇦CA-76
   network: ws
   port: 443
   server: 104.16.10.104
@@ -2324,20 +2360,7 @@ proxies:
       Host: jp3.yohototo.top
     path: '%2Ftyxyws%23telegram--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI'
 - client-fingerprint: unsafe
-  name: 28|[OpenRay] 🇨🇦CA-326
-  network: ws
-  port: 443
-  server: 104.16.10.2
-  servername: jp3.yohototo.top
-  tls: true
-  type: vless
-  uuid: 4e4f1f70-5e56-4a76-bb9d-db087f4690c4
-  ws-opts:
-    headers:
-      Host: jp3.yohototo.top
-    path: '%2Ftyxyws'
-- client-fingerprint: unsafe
-  name: 28|[OpenRay] 🇨🇦CA-410
+  name: 28|[OpenRay] 🇨🇦CA-362
   network: ws
   port: 443
   server: 104.16.10.2
@@ -2351,31 +2374,7 @@ proxies:
       Host: jp3.yohototo.top
     path: '%2Ftyxyws%23telegram--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI'
 - client-fingerprint: unsafe
-  name: 28|[OpenRay] 🇨🇦CA-86
-  network: ws
-  port: 443
-  server: 104.18.153.10
-  servername: jp3.yohototo.top
-  tls: true
-  type: vless
-  uuid: 4e4f1f70-5e56-4a76-bb9d-db087f4690c4
-  ws-opts:
-    headers:
-      Host: jp3.yohototo.top
-    path: '%2Ftyxyws'
-- name: 28|[OpenRay] 🇨🇦CA-317
-  network: ws
-  port: 8880
-  server: 162.159.156.214
-  tls: false
-  type: vless
-  uuid: 4f74ff26-25af-41d6-9d39-be46fe8ff1a8
-  ws-opts:
-    headers:
-      Host: steep-resonance-1ffb.274.workers.dev
-    path: '%2Fpyip%3DProxyIP.US.CMLiussss.net'
-- client-fingerprint: unsafe
-  name: 28|[OpenRay] 🇨🇦CA-327
+  name: 28|[OpenRay] 🇨🇦CA-289
   network: ws
   port: 443
   server: 188.114.97.6
@@ -2388,7 +2387,7 @@ proxies:
       Host: zeus-panel-mvtum1.mahdiharchegani.workers.dev
     path: '%2Fstream%2FPANEL_ZEUS%2F4017ea8bea78%2Floc-4'
 - client-fingerprint: unsafe
-  name: 28|[OpenRay] 🇨🇦CA-164
+  name: 28|[OpenRay] 🇨🇦CA-148
   network: ws
   port: 443
   server: 188.114.97.6
@@ -2401,7 +2400,7 @@ proxies:
       Host: afzoybehu2ws.vtzv4xe1un6s.workers.dev
     path: '%2Fstream%2FPANEL_ZEUS%2F44890b90d17e%2Floc-0'
 - client-fingerprint: unsafe
-  name: 28|[OpenRay] 🇨🇦CA-106
+  name: 28|[OpenRay] 🇨🇦CA-95
   network: ws
   port: 443
   server: 188.114.97.6
@@ -2416,7 +2415,7 @@ proxies:
 - alpn:
   - http/1.1
   client-fingerprint: unsafe
-  name: 28|[OpenRay] 🇨🇦CA-359
+  name: 28|[OpenRay] 🇨🇦CA-314
   network: ws
   port: 443
   server: 188.114.97.6
@@ -2429,7 +2428,7 @@ proxies:
       Host: 4cz9gseouyns.2iz1ile4upks.workers.dev
     path: '%2Fstream%2FPANEL_ZEUS%2F4beea30ea96c%2Floc-0'
 - client-fingerprint: unsafe
-  name: 28|[OpenRay] 🇨🇦CA-218
+  name: 28|[OpenRay] 🇨🇦CA-192
   network: ws
   port: 443
   server: 188.114.97.6
@@ -2442,7 +2441,7 @@ proxies:
       Host: 4qzsz6e8u00s.tlzw8le6ubhs.workers.dev
     path: '%2Fstream%2FPANEL_ZEUS%2F5a26a30b00dc'
 - flow: ''
-  name: 28|[OpenRay] 🇨🇦CA-129
+  name: 28|[OpenRay] 🇨🇦CA-115
   network: ws
   port: 8080
   server: 188.114.97.6
@@ -2453,7 +2452,7 @@ proxies:
     headers:
       Host: 05a5f9v5a6cm563ieoye7j-8tnpd.hsysyegegrygvvvdujhh.workers.dev
     path: '%2Fvl%2FERYN0G44hia16zhR'
-- name: 28|[OpenRay] 🇨🇦CA-10
+- name: 28|[OpenRay] 🇨🇦CA-9
   network: ws
   port: 8880
   server: 104.18.39.196
@@ -2464,7 +2463,7 @@ proxies:
     headers:
       Host: red-disk-58df.153-2ce.workers.dev
     path: '%2Fpyip'
-- name: 28|[OpenRay] 🇨🇦CA-333
+- name: 28|[OpenRay] 🇨🇦CA-295
   network: ws
   port: 8880
   server: 104.18.39.196
@@ -2475,7 +2474,7 @@ proxies:
     headers:
       Host: red-disk-58df.153-2ce.workers.dev
     path: /pyip=ProxyIP.KR.CMLiussss.net
-- name: 28|[OpenRay] 🇨🇦CA-104
+- name: 28|[OpenRay] 🇨🇦CA-93
   network: ws
   port: 8880
   server: 172.64.148.60
@@ -2485,19 +2484,8 @@ proxies:
   ws-opts:
     headers:
       Host: red-disk-58df.153-2ce.workers.dev
-- name: 28,34|🇫🇷FR_697|622KB/s|B007-260618 0...
-  network: ws
-  port: 8880
-  server: 172.64.94.251
-  tls: false
-  type: vless
-  uuid: 645ea5d2-7d0a-4d66-940d-eefc2b84f4e9
-  ws-opts:
-    headers:
-      Host: fragrant-surf-4797.496-345.workers.dev
-    path: /pyip=ProxyIP.US.CMLiussss.net
 - client-fingerprint: unsafe
-  name: 28|[OpenRay] 🌐XX-2968
+  name: 28|[OpenRay] 🌐XX-2772
   network: ws
   port: 443
   server: 188.114.97.6
@@ -2511,7 +2499,7 @@ proxies:
       Host: fragrant-surf-4797.496-345.workers.dev
     path: /pyip=ProxyIP.US.CMLiussss.net
 - client-fingerprint: unsafe
-  name: 28|[OpenRay] 🇨🇦CA-260
+  name: 28|[OpenRay] 🇨🇦CA-232
   network: ws
   port: 443
   server: 188.114.97.6
@@ -2523,53 +2511,8 @@ proxies:
     headers:
       Host: weathered-hat-76a5.380-d00.workers.dev
     path: '%2Fpyip%3DProxyIP.KR.CMLiussss.net'
-- name: 28|[OpenRay] 🇨🇦CA-262
-  network: ws
-  port: 8080
-  server: 104.21.70.21
-  servername: polished-meadow-2ac5.228-76d.workers.dev
-  tls: false
-  type: vless
-  uuid: 68662961-6c5f-48c1-b807-6398f3287dbc
-  ws-opts:
-    headers:
-      Host: polished-meadow-2ac5.228-76d.workers.dev
-- client-fingerprint: chrome
-  name: 28|[OpenRay] 🇨🇦CA-199
-  network: ws
-  port: 8880
-  server: 172.66.170.53
-  servername: polished-meadow-2ac5.228-76d.workers.dev
-  tls: false
-  type: vless
-  uuid: 68662961-6c5f-48c1-b807-6398f3287dbc
-  ws-opts:
-    headers:
-      Host: polished-meadow-2ac5.228-76d.workers.dev
-    path: '%2Fpyip%3DProxyIP.SG.CMLiussss.net'
-- name: 28|[OpenRay] 🇨🇦CA-201
-  network: ws
-  port: 8880
-  server: 172.66.170.53
-  tls: false
-  type: vless
-  uuid: 68662961-6c5f-48c1-b807-6398f3287dbc
-  ws-opts:
-    headers:
-      Host: polished-meadow-2ac5.228-76d.workers.dev
-- name: 28|[OpenRay] 🇨🇦CA-267
-  network: ws
-  port: 8080
-  server: 188.114.97.6
-  tls: false
-  type: vless
-  uuid: 68662961-6c5f-48c1-b807-6398f3287dbc
-  ws-opts:
-    headers:
-      Host: polished-meadow-2ac5.228-76d.workers.dev
-    path: '%2F'
 - client-fingerprint: unsafe
-  name: 28|[OpenRay] 🇨🇦CA-36
+  name: 28|[OpenRay] 🇨🇦CA-34
   network: ws
   port: 443
   server: 188.114.97.6
@@ -2605,7 +2548,7 @@ proxies:
     headers:
       Host: autumn-dawn-fa6b.337-272.workers.dev
     path: /pyip=ProxyIP.SG.CMLiussss.net
-- name: 28|[OpenRay] 🇨🇦CA-168
+- name: 28|[OpenRay] 🇨🇦CA-151
   network: ws
   port: 8880
   server: 172.64.80.1
@@ -2616,7 +2559,7 @@ proxies:
     headers:
       Host: mute-surf-0003.209.workers.dev
 - client-fingerprint: unsafe
-  name: 28|[OpenRay] 🇨🇦CA-231
+  name: 28|[OpenRay] 🇨🇦CA-205
   network: ws
   port: 443
   server: 188.114.97.6
@@ -2644,7 +2587,7 @@ proxies:
       Host: f871a986.69lover.site
     path: '%2Fapi%2Fv2%2Fb8ee4ba356df307c%2Fstream'
 - client-fingerprint: unsafe
-  name: 28|[OpenRay] 🇨🇦CA-325
+  name: 28|[OpenRay] 🇨🇦CA-287
   network: ws
   port: 443
   server: 188.114.97.6
@@ -2656,18 +2599,7 @@ proxies:
     headers:
       Host: shiny-mud-d9fa.466.workers.dev
     path: '%2Fpyip%3DProxyIP.KR.CMLiussss.net'
-- name: 28|[OpenRay] 🇨🇦CA-191
-  network: ws
-  port: 8880
-  server: 104.24.152.211
-  tls: false
-  type: vless
-  uuid: 7b8ff2bf-29c0-4a4f-8925-9f9ef6e486f5
-  ws-opts:
-    headers:
-      Host: long-math-be5a.233-98b.workers.dev
-    path: '%2Fpyip%3DProxyIP.US.CMLiussss.net'
-- name: 28|[OpenRay] 🇨🇦CA-155
+- name: 28|[OpenRay] 🇨🇦CA-140
   network: ws
   port: 8880
   server: 172.64.88.251
@@ -2679,7 +2611,7 @@ proxies:
       Host: dry-credit-fc26.203-d8c.workers.dev
     path: '%2Fpyip'
 - client-fingerprint: chrome
-  name: 28|[OpenRay] 🇨🇦CA-341
+  name: 28|[OpenRay] 🇨🇦CA-298
   network: ws
   port: 8880
   server: 104.21.88.129
@@ -2691,7 +2623,7 @@ proxies:
       Host: still-pine-d15e.368-b2a.workers.dev
     path: /pyip=ProxyIP.KR.CMLiussss.net
 - client-fingerprint: chrome
-  name: 28|[OpenRay] 🇨🇦CA-298
+  name: 28|[OpenRay] 🇨🇦CA-264
   network: ws
   port: 8880
   server: 172.67.179.98
@@ -2703,7 +2635,7 @@ proxies:
       Host: still-pine-d15e.368-b2a.workers.dev
     path: /pyip=ProxyIP.KR.CMLiussss.net
 - client-fingerprint: unsafe
-  name: 28|[OpenRay] 🇨🇦CA-51
+  name: 28|[OpenRay] 🇨🇦CA-47
   network: ws
   port: 443
   server: 188.114.97.6
@@ -2715,41 +2647,8 @@ proxies:
     headers:
       Host: icy-hat-20f3.328-99f.workers.dev
     path: '%2Fpyip%3DProxyIP.KR.CMLiussss.net'
-- name: 28|[OpenRay] 🇨🇦CA-165
-  network: ws
-  port: 8880
-  server: 172.64.88.251
-  tls: false
-  type: vless
-  uuid: 87a5d3eb-afd4-4193-9787-c54ef7c26c8c
-  ws-opts:
-    headers:
-      Host: patient-cake-39c7.44-e7a.workers.dev
-    path: '%2F+'
-- name: 28|[OpenRay] 🇨🇦CA-315
-  network: ws
-  port: 8880
-  server: 172.64.88.251
-  tls: false
-  type: vless
-  uuid: 87a5d3eb-afd4-4193-9787-c54ef7c26c8c
-  ws-opts:
-    headers:
-      Host: patient-cake-39c7.44-e7a.workers.dev
-    path: '%2Fpyip%3DProxyIP.KR.CMLiussss.net+'
-- name: 28|[OpenRay] 🇨🇦CA-370
-  network: ws
-  port: 8880
-  server: 172.64.88.251
-  tls: false
-  type: vless
-  uuid: 87a5d3eb-afd4-4193-9787-c54ef7c26c8c
-  ws-opts:
-    headers:
-      Host: patient-cake-39c7.44-e7a.workers.dev
-    path: '%2F'
 - client-fingerprint: unsafe
-  name: 28|[OpenRay] 🇨🇦CA-87
+  name: 28|[OpenRay] 🇨🇦CA-78
   network: ws
   port: 443
   server: 188.114.97.6
@@ -2762,7 +2661,7 @@ proxies:
       Host: icy-frog-a2a2.245.workers.dev
     path: '%2Fpyip%3DProxyIP.US.CMLiussss.net'
 - client-fingerprint: unsafe
-  name: 28|[OpenRay] 🇨🇦CA-348
+  name: 28|[OpenRay] 🇨🇦CA-305
   network: ws
   port: 443
   server: 188.114.97.6
@@ -2777,7 +2676,7 @@ proxies:
 - alpn:
   - http/1.1
   client-fingerprint: unsafe
-  name: 28|[OpenRay] 🇨🇦CA-366
+  name: 28|[OpenRay] 🇨🇦CA-321
   network: ws
   port: 443
   server: 188.114.97.6
@@ -2792,7 +2691,7 @@ proxies:
 - alpn:
   - http/1.1
   client-fingerprint: unsafe
-  name: 28|[OpenRay] 🇨🇦CA-331
+  name: 28|[OpenRay] 🇨🇦CA-293
   network: ws
   port: 443
   server: 188.114.97.6
@@ -2805,7 +2704,7 @@ proxies:
       Host: edfc774f.69lover.site
     path: '%2Fapi%2Fv2%2F63e9687fa53e441c%2Fstream'
 - client-fingerprint: unsafe
-  name: 28|[OpenRay] 🇨🇦CA-211
+  name: 28|[OpenRay] 🇨🇦CA-185
   network: ws
   port: 443
   server: 188.114.97.6
@@ -2835,7 +2734,7 @@ proxies:
 - alpn:
   - http/1.1
   client-fingerprint: unsafe
-  name: 28|[OpenRay] 🇨🇦CA-203
+  name: 28|[OpenRay] 🇨🇦CA-178
   network: ws
   port: 443
   server: 104.16.212.113
@@ -2850,7 +2749,7 @@ proxies:
 - alpn:
   - http/1.1
   client-fingerprint: unsafe
-  name: 28|[OpenRay] 🇨🇦CA-19
+  name: 28|[OpenRay] 🇨🇦CA-18
   network: ws
   port: 443
   server: 104.20.1.191
@@ -2879,7 +2778,7 @@ proxies:
     path: '%2Ffp%3Dchrome'
 - alpn:
   - http/1.1
-  name: 28|[OpenRay] 🇨🇦CA-190
+  name: 28|[OpenRay] 🇨🇦CA-169
   network: ws
   port: 443
   server: 188.114.97.6
@@ -2895,7 +2794,7 @@ proxies:
 - alpn:
   - http/1.1
   client-fingerprint: chrome
-  name: 28|[OpenRay] 🇨🇦CA-390
+  name: 28|[OpenRay] 🇨🇦CA-342
   network: ws
   port: 8880
   server: 104.17.21.137
@@ -2907,7 +2806,7 @@ proxies:
     headers:
       Host: lingering-grass-6728.131-a78.workers.dev
     path: '%2Fpyip%3DProxyIP.US.CMLiussss.net'
-- name: 28|[OpenRay] 🇨🇦CA-81
+- name: 28|[OpenRay] 🇨🇦CA-73
   network: ws
   port: 8880
   server: 104.17.21.137
@@ -2918,7 +2817,7 @@ proxies:
     headers:
       Host: lingering-grass-6728.131-a78.workers.dev
     path: '%2Fpyip%3DProxyIP.US.CMLiussss.net+'
-- name: 28|[OpenRay] 🇨🇦CA-255
+- name: 28|[OpenRay] 🇨🇦CA-227
   network: ws
   port: 8880
   server: 104.17.21.137
@@ -2939,7 +2838,7 @@ proxies:
     headers:
       Host: lingering-grass-6728.131-a78.workers.dev
     path: '%2Fpyip%3DProxyIP.US.CMLiussss.net'
-- name: 28|[OpenRay] 🇨🇦CA-373
+- name: 28|[OpenRay] 🇨🇦CA-327
   network: ws
   port: 8880
   server: 188.114.97.6
@@ -2950,7 +2849,7 @@ proxies:
     headers:
       Host: lingering-grass-6728.131-a78.workers.dev
     path: '%2Fpyip%3DProxyIP.US.CMLiussss.net'
-- name: 28|[OpenRay] 🇨🇦CA-272
+- name: 28|[OpenRay] 🇨🇦CA-241
   network: ws
   port: 8880
   server: 188.114.97.6
@@ -2961,41 +2860,6 @@ proxies:
     headers:
       Host: lingering-grass-6728.131-a78.workers.dev
     path: '%2Fpyip'
-- name: 28|[OpenRay] 🇨🇦CA-285
-  network: ws
-  port: 8880
-  server: 172.64.94.251
-  tls: false
-  type: vless
-  uuid: 9f4b666c-ecf1-49e9-8ab8-9ae2c4f4c613
-  ws-opts:
-    headers:
-      Host: withered-morning-aa51.64-c79.workers.dev
-    path: '%2Fpyip%3DProxyIP.KR.CMLiussss.net'
-- name: 28|[OpenRay] 🇨🇦CA-109
-  network: ws
-  port: 8880
-  server: 172.64.94.251
-  tls: false
-  type: vless
-  uuid: 9f4b666c-ecf1-49e9-8ab8-9ae2c4f4c613
-  ws-opts:
-    headers:
-      Host: withered-morning-aa51.64-c79.workers.dev
-    path: '%2F+'
-- client-fingerprint: chrome
-  name: 28|[OpenRay] 🇨🇦CA-388
-  network: ws
-  port: 8080
-  server: 188.114.97.6
-  servername: withered-morning-aa51.64-c79.workers.dev
-  tls: false
-  type: vless
-  uuid: 9f4b666c-ecf1-49e9-8ab8-9ae2c4f4c613
-  ws-opts:
-    headers:
-      Host: withered-morning-aa51.64-c79.workers.dev
-    path: '%2F'
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
   name: 28|[OpenRay] 🇦🇺AU-5
@@ -3010,7 +2874,7 @@ proxies:
   type: vless
   uuid: a14b736b-a92a-48d6-a596-5d31f7378ded
 - client-fingerprint: unsafe
-  name: 28|[OpenRay] 🇨🇦CA-233
+  name: 28|[OpenRay] 🇨🇦CA-207
   network: ws
   port: 443
   server: 188.114.97.6
@@ -3034,7 +2898,7 @@ proxies:
       Host: weathered-snow-b87b.292-455.workers.dev
     path: /pyip=ProxyIP.KR.CMLiussss.net
 - flow: ''
-  name: 28|[OpenRay] 🌐XX-2929
+  name: 28|[OpenRay] 🌐XX-2734
   network: ws
   port: 8880
   server: 172.65.90.52
@@ -3048,7 +2912,7 @@ proxies:
 - alpn:
   - http/1.1
   client-fingerprint: chrome
-  name: 28|[OpenRay] 🇨🇦CA-135
+  name: 28|[OpenRay] 🇨🇦CA-121
   network: ws
   port: 8880
   server: 172.65.90.53
@@ -3059,19 +2923,6 @@ proxies:
     headers:
       Host: weathered-snow-b87b.292-455.workers.dev
     path: /pyip=ProxyIP.KR.CMLiussss.net
-- client-fingerprint: chrome
-  name: 28|[OpenRay] 🇨🇦CA-413
-  network: ws
-  port: 8880
-  server: 104.24.152.211
-  servername: misty-hill-4b94.146-c18.workers.dev
-  tls: false
-  type: vless
-  uuid: a7b8b48e-1000-46f5-a974-f6606d94f3b4
-  ws-opts:
-    headers:
-      Host: misty-hill-4b94.146-c18.workers.dev
-    path: /pyip%3DProxyIP.SG.CMLiussss.net
 - name: 28,34|🇫🇷FR_844|380KB/s|M003-260806 0...
   network: ws
   port: 8080
@@ -3083,18 +2934,6 @@ proxies:
     headers:
       Host: long-boat-7113.303-08c.workers.dev
     path: /pyip=ProxyIP.JP.CMLiussss.net
-- name: 28|[OpenRay] 🇨🇦CA-320
-  network: ws
-  port: 8880
-  server: 104.26.6.214
-  servername: autumn-leaf-eefd.119-38e.workers.dev
-  tls: false
-  type: vless
-  uuid: a9fb0f8c-89e9-44ee-9574-a310c5bd259c
-  ws-opts:
-    headers:
-      Host: autumn-leaf-eefd.119-38e.workers.dev
-    path: /pyip=ProxyIP.US.CMLiussss.net
 - name: 28,34|🇪🇸ES_23|375KB/s|T001-260618 01
   network: ws
   port: 8880
@@ -3112,7 +2951,6 @@ proxies:
   network: ws
   port: 8880
   server: 172.66.158.115
-  servername: round-block-e864.326.workers.dev
   tls: false
   type: vless
   uuid: aa7461af-3176-42a3-8974-59930189c521
@@ -3120,42 +2958,11 @@ proxies:
     headers:
       Host: round-block-e864.326.workers.dev
     path: /pyip=ProxyIP.US.CMLiussss.net
-- name: 28|[OpenRay] 🇨🇦CA-378
-  network: ws
-  port: 8880
-  server: 104.16.106.213
-  tls: false
-  type: vless
-  uuid: ae83f4a6-7fd3-4168-9f42-1260fc601155
-  ws-opts:
-    headers:
-      Host: shy-mud-e936.15-bb9.workers.dev
-    path: '%2Fpyip%3DProxyIP.JP.CMLiussss.net'
-- name: 28|[OpenRay] 🇨🇦CA-339
-  network: ws
-  port: 8880
-  server: 104.16.106.213
-  tls: false
-  type: vless
-  uuid: ae83f4a6-7fd3-4168-9f42-1260fc601155
-  ws-opts:
-    headers:
-      Host: shy-mud-e936.15-bb9.workers.dev
-- name: 28|[OpenRay] 🇨🇦CA-338
-  network: ws
-  port: 8880
-  server: 104.16.107.139
-  tls: false
-  type: vless
-  uuid: ae83f4a6-7fd3-4168-9f42-1260fc601155
-  ws-opts:
-    headers:
-      Host: shy-mud-e936.15-bb9.workers.dev
 - alpn:
   - http/1.1
   client-fingerprint: chrome
   flow: ''
-  name: 28|[OpenRay] 🇨🇦CA-222
+  name: 28|[OpenRay] 🇨🇦CA-196
   network: ws
   port: 443
   server: 188.114.96.1
@@ -3167,19 +2974,8 @@ proxies:
     headers:
       Host: dl2uf-ivdezilz3e86rk18.hhvt37tjm2xbosql5hxogn-y.workers.dev
     path: '%2Fvl%2FWzJrIU8RBLiKEwHrtTJL2XpzurfIundt%3Fed%3D2560'
-- name: 28|[OpenRay] 🇨🇦CA-159
-  network: ws
-  port: 8880
-  server: 104.18.32.47
-  tls: false
-  type: vless
-  uuid: b01cadb4-428b-42d2-8c56-d6c13e582ede
-  ws-opts:
-    headers:
-      Host: lingering-water-9e69.219.workers.dev
-    path: '%2Fpyip'
 - client-fingerprint: unsafe
-  name: 28|[OpenRay] 🇨🇦CA-393
+  name: 28|[OpenRay] 🇨🇦CA-345
   network: ws
   port: 443
   server: 188.114.97.6
@@ -3191,7 +2987,22 @@ proxies:
     headers:
       Host: sweet-cake-1340.474-288.workers.dev
     path: '%2Fpyip%3DProxyIP.KR.CMLiussss.net'
-- name: 28|[OpenRay] 🇨🇦CA-70
+- alpn:
+  - http/1.1
+  client-fingerprint: unsafe
+  name: 28|[OpenRay] 🇨🇦CA-179
+  network: ws
+  port: 443
+  server: 188.114.97.6
+  servername: stf839dvvyog9d2qa4-b8z6ahgn7b7qi.pages.dev
+  tls: true
+  type: vless
+  uuid: b2f2f9f2-1864-48ea-839b-22815faff1f1
+  ws-opts:
+    headers:
+      Host: stf839dvvyog9d2qa4-b8z6ahgn7b7qi.pages.dev
+    path: '%2F9BozNyvQ8VdRvsYX%3Fed%3D2560'
+- name: 28|[OpenRay] 🇨🇦CA-65
   network: ws
   port: 8880
   server: 104.16.106.213
@@ -3203,7 +3014,7 @@ proxies:
       Host: red-flower-a2bf.363.workers.dev
     path: '%2Fpyip%3DProxyIP.JP.CMLiussss.net'
 - client-fingerprint: unsafe
-  name: 28|[OpenRay] 🇨🇦CA-287
+  name: 28|[OpenRay] 🇨🇦CA-253
   network: ws
   port: 443
   server: 188.114.97.6
@@ -3216,7 +3027,7 @@ proxies:
       Host: bab-6.site
     path: '%2Fvws%2F'
 - client-fingerprint: unsafe
-  name: 28|[OpenRay] 🇨🇦CA-374
+  name: 28|[OpenRay] 🇨🇦CA-328
   network: ws
   port: 443
   server: 188.114.97.6
@@ -3227,32 +3038,8 @@ proxies:
   ws-opts:
     headers:
       Host: dry-thunder-7f57.57-1a3.workers.dev
-- name: 28|[OpenRay] 🇨🇦CA-52
-  network: ws
-  port: 8880
-  server: 104.21.12.116
-  servername: plain-cell-7c51.415-172.workers.dev
-  tls: false
-  type: vless
-  uuid: ba026f72-b6b6-448b-8a8e-39e60e375f5f
-  ws-opts:
-    headers:
-      Host: plain-cell-7c51.415-172.workers.dev
-    path: /pyip%3DProxyIP.US.CMLiussss.net
-- name: 28|[OpenRay] 🇨🇦CA-108
-  network: ws
-  port: 8080
-  server: 104.21.70.21
-  servername: plain-cell-7c51.415-172.workers.dev
-  tls: false
-  type: vless
-  uuid: ba026f72-b6b6-448b-8a8e-39e60e375f5f
-  ws-opts:
-    headers:
-      Host: plain-cell-7c51.415-172.workers.dev
-    path: /pyip%3DProxyIP.US.CMLiussss.net
 - client-fingerprint: chrome
-  name: 28|[OpenRay] 🇨🇦CA-212
+  name: 28|[OpenRay] 🇨🇦CA-186
   network: ws
   port: 8880
   server: 104.21.89.181
@@ -3264,7 +3051,7 @@ proxies:
       Host: crimson-bread-c38e.295.workers.dev
     path: /pyip=ProxyIP.JP.CMLiussss.net
 - client-fingerprint: chrome
-  name: 28|[OpenRay] 🇨🇦CA-398
+  name: 28|[OpenRay] 🇨🇦CA-350
   network: ws
   port: 8880
   server: 172.67.174.37
@@ -3276,7 +3063,7 @@ proxies:
       Host: crimson-bread-c38e.295.workers.dev
     path: /pyip=ProxyIP.JP.CMLiussss.net
 - client-fingerprint: chrome
-  name: 28|[OpenRay] 🇨🇦CA-98
+  name: 28|[OpenRay] 🇨🇦CA-87
   network: ws
   port: 8880
   server: 172.67.187.219
@@ -3290,7 +3077,7 @@ proxies:
 - alpn:
   - http/1.1
   client-fingerprint: unsafe
-  name: 28|[OpenRay] 🇨🇦CA-329
+  name: 28|[OpenRay] 🇨🇦CA-291
   network: ws
   port: 443
   server: 188.114.97.6
@@ -3305,7 +3092,7 @@ proxies:
 - alpn:
   - http/1.1
   client-fingerprint: unsafe
-  name: 28|[OpenRay] 🇨🇦CA-220
+  name: 28|[OpenRay] 🇨🇦CA-194
   network: ws
   port: 443
   server: 188.114.97.6
@@ -3320,7 +3107,7 @@ proxies:
 - alpn:
   - http/1.1
   client-fingerprint: unsafe
-  name: 28|[OpenRay] 🇨🇦CA-9
+  name: 28|[OpenRay] 🇨🇦CA-8
   network: ws
   port: 443
   server: 188.114.97.6
@@ -3332,7 +3119,7 @@ proxies:
     headers:
       Host: l0n0qgkdttu061g57fhqzbet333s4t.ade-1004.workers.dev
     path: '%2Fvl%2FzXLTmz3hE3szn64f%3Fed%3D2560'
-- name: 28|[OpenRay] 🇨🇦CA-169
+- name: 28|[OpenRay] 🇨🇦CA-152
   network: ws
   port: 8080
   server: 188.114.97.6
@@ -3343,32 +3130,11 @@ proxies:
     headers:
       Host: l0n0qgkdttu061g57fhqzbet333s4t.ade-1004.workers.dev
     path: '%2Fvl%2FzXLTmz3hE3szn64f%3Fed%3D2560'
-- name: 28|[OpenRay] 🇨🇦CA-142
-  network: ws
-  port: 8880
-  server: 162.159.140.78
-  tls: false
-  type: vless
-  uuid: c18fd69e-92ba-446e-981b-213dbb551593
-  ws-opts:
-    headers:
-      Host: billowing-wind-5b29.133-323.workers.dev
-    path: '%2Fpyip%3DProxyIP.KR.CMLiussss.net'
-- name: 28|[OpenRay] 🇨🇦CA-44
-  network: ws
-  port: 8880
-  server: 162.159.140.78
-  tls: false
-  type: vless
-  uuid: c18fd69e-92ba-446e-981b-213dbb551593
-  ws-opts:
-    headers:
-      Host: billowing-wind-5b29.133-323.workers.dev
 - client-fingerprint: chrome
   flow: ''
   grpc-opts:
     grpc-service-name: ''
-  name: 28|[OpenRay] 🇨🇦CA-162
+  name: 28|[OpenRay] 🇨🇦CA-146
   network: ws
   port: 8880
   server: 104.17.178.154
@@ -3380,7 +3146,7 @@ proxies:
     headers:
       Host: shiny-waterfall-fa51.300-c6f.workers.dev
     path: '%2Fpyip%3DProxyIP.KR.CMLiussss.net'
-- name: 28|[OpenRay] 🇨🇦CA-254
+- name: 28|[OpenRay] 🇨🇦CA-226
   network: ws
   port: 443
   server: 104.16.10.2
@@ -3392,7 +3158,7 @@ proxies:
     headers:
       Host: a.cwvps.eu.org
     path: '%2Fws'
-- name: 28|[OpenRay] 🇨🇦CA-290
+- name: 28|[OpenRay] 🇨🇦CA-256
   network: ws
   port: 443
   server: 104.16.10.2
@@ -3405,7 +3171,7 @@ proxies:
     headers:
       Host: a.cwvps.eu.org
     path: '%2Fws%23TELEGRAM--MARAMBASHI--MARAMBASHI%3Fed%3D512'
-- name: 28|[OpenRay] 🇨🇦CA-408
+- name: 28|[OpenRay] 🇨🇦CA-360
   network: ws
   port: 443
   server: 104.16.111.193
@@ -3418,7 +3184,7 @@ proxies:
       Host: a.cwvps.eu.org
     path: '%2Fws'
 - client-fingerprint: unsafe
-  name: 28|[OpenRay] 🇨🇦CA-343
+  name: 28|[OpenRay] 🇨🇦CA-300
   network: ws
   port: 443
   server: 104.17.169.13
@@ -3431,7 +3197,7 @@ proxies:
       Host: a.cwvps.eu.org
     path: '%2Fws%23%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI%3Fed%3D512'
 - client-fingerprint: unsafe
-  name: 28|[OpenRay] 🇨🇦CA-230
+  name: 28|[OpenRay] 🇨🇦CA-204
   network: ws
   port: 443
   server: 104.18.153.10
@@ -3444,7 +3210,7 @@ proxies:
       Host: a.cwvps.eu.org
     path: '%2Fws'
 - client-fingerprint: unsafe
-  name: 28|[OpenRay] 🇨🇦CA-53
+  name: 28|[OpenRay] 🇨🇦CA-48
   network: ws
   port: 443
   server: 104.18.153.10
@@ -3456,7 +3222,7 @@ proxies:
     headers:
       Host: a.cwvps.eu.org
     path: '%2Fws%23%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI%3Fed%3D512'
-- name: 28|[OpenRay] 🇨🇦CA-372
+- name: 28|[OpenRay] 🇨🇦CA-326
   network: ws
   port: 443
   server: 188.114.97.6
@@ -3481,7 +3247,7 @@ proxies:
       Host: withered-cloud-1202.405-42c.workers.dev
     path: /pyip=ProxyIP.KR.CMLiussss.net
 - client-fingerprint: unsafe
-  name: 28|[OpenRay] 🇨🇦CA-380
+  name: 28|[OpenRay] 🇨🇦CA-333
   network: ws
   port: 443
   server: 188.114.97.6
@@ -3494,7 +3260,7 @@ proxies:
       Host: flat-limit-5b5e.472-cf5.workers.dev
     path: '%2Fpyip%3DProxyIP.US.CMLiussss.net'
 - client-fingerprint: unsafe
-  name: 28|[OpenRay] 🇨🇦CA-34
+  name: 28|[OpenRay] 🇨🇦CA-32
   network: ws
   port: 443
   server: 188.114.97.6
@@ -3510,7 +3276,7 @@ proxies:
 - alpn:
   - http/1.1
   client-fingerprint: unsafe
-  name: 28|[OpenRay] 🇨🇦CA-17
+  name: 28|[OpenRay] 🇨🇦CA-16
   network: ws
   port: 443
   server: 188.114.97.6
@@ -3522,7 +3288,7 @@ proxies:
     headers:
       Host: kievh9yxcgg14-gy4wxqcav0pegkd.d-0ezpk5xp5wk8ltdgb6evlpgc-jin.workers.dev
     path: '%2Fvl%2FzM8ELyqEIYeZ3ijacV9kuK%3Fed'
-- name: 28|[OpenRay] 🇨🇦CA-295
+- name: 28|[OpenRay] 🇨🇦CA-261
   network: ws
   port: 8080
   server: 188.114.97.6
@@ -3534,7 +3300,7 @@ proxies:
       Host: kievh9yxcgg14-gy4wxqcav0pegkd.d-0ezpk5xp5wk8ltdgb6evlpgc-jin.workers.dev
     path: '%2Fvl%2FzM8ELyqEIYeZ3ijacV9kuK%3Fed'
 - client-fingerprint: unsafe
-  name: 28|[OpenRay] 🇨🇦CA-118
+  name: 28|[OpenRay] 🇨🇦CA-105
   network: ws
   port: 443
   server: 188.114.97.6
@@ -3546,7 +3312,7 @@ proxies:
     headers:
       Host: lucky-haze-724d.330-8c5.workers.dev
     path: '%2Fpyip%3DProxyIP.US.CMLiussss.net'
-- name: 28|[OpenRay] 🇨🇦CA-318
+- name: 28|[OpenRay] 🇨🇦CA-281
   network: ws
   port: 8080
   server: 188.114.97.6
@@ -3557,28 +3323,8 @@ proxies:
     headers:
       Host: lucky-haze-724d.330-8c5.workers.dev
     path: '%2Fpyip%3DProxyIP.US.CMLiussss.net'
-- name: 28|[OpenRay] 🇨🇦CA-180
-  network: ws
-  port: 8880
-  server: 104.21.12.116
-  tls: false
-  type: vless
-  uuid: df26029b-bffe-4ce2-9246-25b52ed2b1c7
-  ws-opts:
-    headers:
-      Host: polished-field-4448.186-705.workers.dev
-- name: 28|[OpenRay] 🇨🇦CA-185
-  network: ws
-  port: 8880
-  server: 172.67.152.71
-  tls: false
-  type: vless
-  uuid: df26029b-bffe-4ce2-9246-25b52ed2b1c7
-  ws-opts:
-    headers:
-      Host: polished-field-4448.186-705.workers.dev
 - client-fingerprint: unsafe
-  name: 28|[OpenRay] 🇨🇦CA-309
+  name: 28|[OpenRay] 🇨🇦CA-274
   network: ws
   port: 8080
   server: 104.17.44.17
@@ -3590,7 +3336,7 @@ proxies:
     headers:
       Host: hhlfy.twiladaphne.ndjp.net
     path: '%2Fsg-melbi'
-- name: 28|[OpenRay] 🇨🇦CA-132
+- name: 28|[OpenRay] 🇨🇦CA-118
   network: ws
   port: 8080
   server: 104.21.70.21
@@ -3602,7 +3348,7 @@ proxies:
       Host: hhlfy.twiladaphne.ndjp.net
     path: '%2F'
 - flow: ''
-  name: 28|[OpenRay] 🇨🇦CA-243
+  name: 28|[OpenRay] 🇨🇦CA-217
   network: ws
   port: 2082
   server: 172.64.150.28
@@ -3614,7 +3360,7 @@ proxies:
     headers:
       Host: hhlfy.twiladaphne.ndjp.net
 - client-fingerprint: unsafe
-  name: 28|[OpenRay] 🇨🇦CA-99
+  name: 28|[OpenRay] 🇨🇦CA-88
   network: ws
   port: 8080
   server: 172.67.71.187
@@ -3626,7 +3372,7 @@ proxies:
     headers:
       Host: hhlfy.twiladaphne.ndjp.net
     path: '%2Fsg-melbi'
-- name: 28|[OpenRay] 🇨🇦CA-112
+- name: 28|[OpenRay] 🇨🇦CA-100
   network: ws
   port: 8080
   server: 188.114.97.6
@@ -3637,7 +3383,7 @@ proxies:
     headers:
       Host: hhlfy.twiladaphne.ndjp.net
     path: /fp=chrome
-- name: 28|[OpenRay] 🇨🇦CA-303
+- name: 28|[OpenRay] 🇨🇦CA-269
   network: ws
   port: 8080
   server: 188.114.97.6
@@ -3661,7 +3407,7 @@ proxies:
       Host: hhlfy.twiladaphne.ndjp.net
     path: /sg-melbi
 - client-fingerprint: unsafe
-  name: 28|[OpenRay] 🇨🇦CA-286
+  name: 28|[OpenRay] 🇨🇦CA-252
   network: ws
   port: 443
   server: 188.114.97.6
@@ -3673,30 +3419,8 @@ proxies:
     headers:
       Host: icy-unit-58dc.157-59c.workers.dev
     path: '%2Fpyip'
-- name: 28|[OpenRay] 🇨🇦CA-276
-  network: ws
-  port: 8880
-  server: 104.21.88.129
-  tls: false
-  type: vless
-  uuid: ea29d6f1-3567-4d45-b8c2-e42f162caef4
-  ws-opts:
-    headers:
-      Host: mute-dawn-f27b.375.workers.dev
-    path: '%2Fpyip%3DProxyIP.JP.CMLiussss.net'
-- name: 28|[OpenRay] 🇨🇦CA-334
-  network: ws
-  port: 8880
-  server: 172.64.88.251
-  tls: false
-  type: vless
-  uuid: efb0a3fe-af52-45c5-b397-1a6866d88d67
-  ws-opts:
-    headers:
-      Host: tight-recipe-11ad.252-068.workers.dev
-    path: '%2Fpyip%3DProxyIP.KR.CMLiussss.net'
 - client-fingerprint: unsafe
-  name: 28|[OpenRay] 🇨🇦CA-256
+  name: 28|[OpenRay] 🇨🇦CA-228
   network: ws
   port: 443
   server: 188.114.97.6
@@ -3708,7 +3432,7 @@ proxies:
     headers:
       Host: tight-recipe-11ad.252-068.workers.dev
     path: '%2Fpyip%3DProxyIP.KR.CMLiussss.net'
-- name: 28|[OpenRay] 🇨🇦CA-346
+- name: 28|[OpenRay] 🇨🇦CA-303
   network: ws
   port: 8080
   server: 188.114.97.6
@@ -3722,7 +3446,7 @@ proxies:
 - alpn:
   - http/1.1
   client-fingerprint: unsafe
-  name: 28|[OpenRay] 🇨🇦CA-176
+  name: 28|[OpenRay] 🇨🇦CA-157
   network: ws
   port: 443
   server: 188.114.97.6
@@ -3734,7 +3458,7 @@ proxies:
     headers:
       Host: playlux.homes
     path: '%2Fraccoonwsvless'
-- name: 28|[OpenRay] 🇨🇦CA-357
+- name: 28|[OpenRay] 🇨🇦CA-313
   network: ws
   port: 8880
   server: 172.64.153.11
@@ -3745,7 +3469,7 @@ proxies:
     headers:
       Host: weathered-union-5358.101-262.workers.dev
     path: '%2Fpyip%3DProxyIP.KR.CMLiussss.net'
-- name: 28|[OpenRay] 🇨🇦CA-261
+- name: 28|[OpenRay] 🇨🇦CA-233
   network: ws
   port: 8880
   server: 104.18.34.245
@@ -3767,7 +3491,7 @@ proxies:
     headers:
       Host: steep-frost-8b18.350-c77.workers.dev
     path: /pyip=proxyip.us.cmliussss.net
-- name: 28|[OpenRay] 🇨🇦CA-119
+- name: 28|[OpenRay] 🇨🇦CA-106
   network: ws
   port: 8080
   server: 104.21.70.21
@@ -3778,20 +3502,8 @@ proxies:
   ws-opts:
     headers:
       Host: weathered-hat-64c5.50-47f.workers.dev
-- client-fingerprint: chrome
-  name: 28|[OpenRay] 🇨🇦CA-305
-  network: ws
-  port: 8880
-  server: 104.17.58.113
-  tls: false
-  type: vless
-  uuid: f7cc1898-52f8-4e8e-9a90-320fc7fdadb8
-  ws-opts:
-    headers:
-      Host: raspy-truth-565b.394-8bb.workers.dev
-    path: '%2Fpyip%3DProxyIP.SG.CMLiussss.net'
 - client-fingerprint: unsafe
-  name: 28|[OpenRay] 🇨🇦CA-404
+  name: 28|[OpenRay] 🇨🇦CA-356
   network: ws
   port: 443
   server: 188.114.97.6
@@ -3803,7 +3515,7 @@ proxies:
     headers:
       Host: ancient-rice-c180.455-8ad.workers.dev
     path: '%2Fpyip%3DProxyIP.SG.CMLiussss.net'
-- name: 28|[OpenRay] 🇨🇦CA-291
+- name: 28|[OpenRay] 🇨🇦CA-257
   network: ws
   port: 8880
   server: 104.17.58.113
@@ -3817,7 +3529,7 @@ proxies:
 - alpn:
   - http/1.1
   client-fingerprint: unsafe
-  name: 28|[OpenRay] 🇨🇦CA-403
+  name: 28|[OpenRay] 🇨🇦CA-355
   network: ws
   port: 443
   server: 104.16.212.113
@@ -3832,7 +3544,7 @@ proxies:
 - alpn:
   - http/1.1
   client-fingerprint: unsafe
-  name: 28|[OpenRay] 🇨🇦CA-175
+  name: 28|[OpenRay] 🇨🇦CA-156
   network: ws
   port: 443
   server: 104.16.212.113
@@ -3847,7 +3559,7 @@ proxies:
 - alpn:
   - http/1.1
   client-fingerprint: unsafe
-  name: 28|[OpenRay] 🇨🇦CA-57
+  name: 28|[OpenRay] 🇨🇦CA-52
   network: ws
   port: 443
   server: 104.20.1.191
@@ -3861,7 +3573,7 @@ proxies:
     path: '%2Ffp%3Dchrome%3Fed%23Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET%3Fed%3D512'
 - alpn:
   - http/1.1
-  name: 28|[OpenRay] 🇨🇦CA-181
+  name: 28|[OpenRay] 🇨🇦CA-161
   network: ws
   port: 443
   server: 188.114.97.6
@@ -3889,7 +3601,7 @@ proxies:
     headers:
       Host: edgetunnel-4uw.pages.dev
     path: '%2Ffp%3Dchrome%3Fed%23Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET%3Fed%3D512'
-- name: 28|[OpenRay] 🇨🇦CA-68
+- name: 28|[OpenRay] 🇨🇦CA-63
   network: ws
   port: 8080
   server: 188.114.97.6
@@ -3919,7 +3631,7 @@ proxies:
   type: trojan
   ws-opts:
     path: '%2Fassignment'
-- name: '29|美国+CloudFlare节点 #19'
+- name: '29|美国+CloudFlare节点 #15'
   network: ws
   password: humanity
   port: 443

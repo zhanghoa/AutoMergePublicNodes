@@ -51,78 +51,102 @@ proxies:
   sni: t.me%2Fripaojiedian
   type: trojan
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 📛 #6'
+  name: '10,21| By EbraSha 🧲 #6'
   password: tjwRqQvteAjt3xFmbZTA
   port: 8389
   server: 84.17.37.55
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: 10,27|🇭🇰HK-148.66.56.99-3171
+  name: 10,27|🇭🇰HK-148.66.56.98-4767
   password: G!yBwPWH3Vao
-  port: 802
+  port: 805
+  server: 148.66.56.98
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: 10,27|🇭🇰HK-148.66.56.99-3326
+  password: G!yBwPWH3Vao
+  port: 801
   server: 148.66.56.99
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: 10,27|🇭🇰HK-148.66.56.99-3364
-  password: G!yBwPWH3Vao
-  port: 803
-  server: 148.66.56.99
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  name: 10,27|🇭🇰HK-148.66.56.99-3186
-  password: G!yBwPWH3Vao
-  port: 804
-  server: 148.66.56.99
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  name: 10,21,27|🇭🇰HK-148.66.56.99-3231
+  name: 10,21,27|🇭🇰HK-148.66.56.99-3242
   password: G!yBwPWH3Vao
   port: 805
   server: 148.66.56.99
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: 10,21,27|🇭🇰HK-148.66.56.99-3208
+  name: 10,27|🇭🇰HK-148.66.56.99-3219
   password: G!yBwPWH3Vao
   port: 806
   server: 148.66.56.99
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: 10,27|🇭🇰HK-148.66.56.99-3335
+  name: 10,21,27|🇭🇰HK-148.66.56.99-3211
   password: G!yBwPWH3Vao
-  port: 810
+  port: 807
   server: 148.66.56.99
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: 10,27|🇭🇰HK-148.66.56.99-3466
+  name: 10,27|🇭🇰HK-148.66.56.99-3224
   password: G!yBwPWH3Vao
-  port: 811
+  port: 808
+  server: 148.66.56.99
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: 10,21,27|🇭🇰HK-148.66.56.99-3656
+  password: G!yBwPWH3Vao
+  port: 809
+  server: 148.66.56.99
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: 10,21,27|🇭🇰HK-148.66.56.99-3476
+  password: G!yBwPWH3Vao
+  port: 812
   server: 148.66.56.99
   type: ss
 - cipher: chacha20-ietf
-  name: '10,21| By EbraSha 📟 #12'
+  name: 10,21,27|🇭🇰HK-103.141.221.124-5504
+  password: asd123456
+  port: 8388
+  server: 103.141.221.124
+  type: ss
+- cipher: chacha20-ietf
+  name: 10,21,27|🇭🇰HK-103.149.182.79-0248
+  password: asd123456
+  port: 8388
+  server: 103.149.182.79
+  type: ss
+- cipher: chacha20-ietf
+  name: '10|🇭🇰 [ Configs by DukeMehdi ] SS... #11'
   password: asd123456
   port: 8388
   server: 103.149.182.191
   type: ss
 - cipher: aes-128-gcm
-  name: '10,21| By EbraSha 🔮 #16'
+  name: '10,21| By EbraSha 🗿 #18'
   password: bKgENdAl@8Zx3lAc-HK-BD-20260622
   port: 24443
   server: 154.86.30.45
   type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha ✨ #18'
+  name: '10,21| By EbraSha 🃏 #22'
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   port: 38388
   server: 216.250.97.82
   type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha 🎛️ #16'
+  name: '10,21| By EbraSha 🕹️ #14'
   password: qwerREWQ@@
   port: 41632
   server: 112.213.102.188
   type: ss
-- name: '10|🇭🇰 [ Configs by DukeMehdi ] TJ... #81'
+- name: 10,27|🇭🇰HK-103.135.103.229-2377
+  password: 265f092f-418b-30c9-a479-4800fd44dd19mielink
+  port: 443
+  server: 103.135.103.229
+  skip-cert-verify: false
+  type: trojan
+- name: '10|🇭🇰 [ Configs by DukeMehdi ] TJ... #83'
   network: tcp
   password: 6ec301428255a78a1d826988d86cc87e
   port: 50887
@@ -130,7 +154,7 @@ proxies:
   skip-cert-verify: false
   sni: 'www.nintendogames.net '
   type: trojan
-- name: '10|🇭🇰 [ Configs by DukeMehdi ] TJ... #82'
+- name: '10|🇭🇰 [ Configs by DukeMehdi ] TJ... #84'
   network: tcp
   password: 6ec301428255a78a1d826988d86cc87e
   port: 50887
@@ -138,7 +162,7 @@ proxies:
   skip-cert-verify: false
   sni: 'www.nintendogames.net '
   type: trojan
-- name: '10,21| By EbraSha ⛓️ #38'
+- name: '10,21| By EbraSha 🧩 #42'
   network: tcp
   password: 72d8e820-7926-4ce3-a87c-b6969f425c79
   port: 443
@@ -146,13 +170,7 @@ proxies:
   skip-cert-verify: true
   sni: www.baidu.com
   type: trojan
-- name: 10,27|🇭🇰HK-210.0.158.220-3529
-  password: 750a29bf-0a40-437f-b120-38de74ae7eaf
-  port: 28443
-  server: 210.0.158.220
-  skip-cert-verify: false
-  type: trojan
-- name: '10,21| By EbraSha 💎 #36'
+- name: '10,21| By EbraSha ⌨️ #38'
   network: tcp
   password: 7e70223b-f331-41d5-9313-02b8d2df2885
   port: 20001
@@ -160,7 +178,7 @@ proxies:
   skip-cert-verify: true
   sni: hk.catxstar.com
   type: trojan
-- name: '10,21| By EbraSha 🌪️ #42'
+- name: '10,21| By EbraSha 🧬 #33'
   network: tcp
   password: 7e70223b-f331-41d5-9313-02b8d2df2885
   port: 20004
@@ -168,7 +186,7 @@ proxies:
   skip-cert-verify: true
   sni: hk.catxstar.com
   type: trojan
-- name: '10,21| By EbraSha 🦂 #36'
+- name: '10,21| By EbraSha ♦️ #27'
   network: tcp
   password: 7e70223b-f331-41d5-9313-02b8d2df2885
   port: 20006
@@ -176,7 +194,7 @@ proxies:
   skip-cert-verify: true
   sni: hk.catxstar.com
   type: trojan
-- name: '10,21| By EbraSha 👑 #41'
+- name: '10,21| By EbraSha 🖥️ #32'
   network: tcp
   password: 7e70223b-f331-41d5-9313-02b8d2df2885
   port: 20007
@@ -184,7 +202,7 @@ proxies:
   skip-cert-verify: true
   sni: US.catxstar.com
   type: trojan
-- name: '10,21| By EbraSha ♣️ #28'
+- name: '10,21| By EbraSha 🃏 #46'
   network: tcp
   password: 7e70223b-f331-41d5-9313-02b8d2df2885
   port: 20012
@@ -192,7 +210,7 @@ proxies:
   skip-cert-verify: true
   sni: hk.catxstar.com
   type: trojan
-- name: '10,21| By EbraSha 🧬 #43'
+- name: '10,21| By EbraSha 🔌 #31'
   network: tcp
   password: 7e70223b-f331-41d5-9313-02b8d2df2885
   port: 20013
@@ -200,7 +218,7 @@ proxies:
   skip-cert-verify: true
   sni: hk.catxstar.com
   type: trojan
-- name: '10,21| By EbraSha 🃏 #27'
+- name: '10,21| By EbraSha 🐉 #33'
   network: tcp
   password: 7e70223b-f331-41d5-9313-02b8d2df2885
   port: 20014
@@ -208,7 +226,7 @@ proxies:
   skip-cert-verify: true
   sni: hk.catxstar.com
   type: trojan
-- name: '10,21| By EbraSha 🥷 #39'
+- name: '10,21| By EbraSha 🌀 #33'
   network: tcp
   password: 7e70223b-f331-41d5-9313-02b8d2df2885
   port: 20015
@@ -216,7 +234,7 @@ proxies:
   skip-cert-verify: true
   sni: hk.catxstar.com
   type: trojan
-- name: '10,21| By EbraSha 🦾 #40'
+- name: '10,21| By EbraSha 🦂 #30'
   network: tcp
   password: 7e70223b-f331-41d5-9313-02b8d2df2885
   port: 20017
@@ -224,7 +242,7 @@ proxies:
   skip-cert-verify: true
   sni: hk.catxstar.com
   type: trojan
-- name: '10,21| By EbraSha 📀 #32'
+- name: '10,21| By EbraSha 🚧 #44'
   network: tcp
   password: 7e70223b-f331-41d5-9313-02b8d2df2885
   port: 20018
@@ -232,7 +250,7 @@ proxies:
   skip-cert-verify: true
   sni: hk.catxstar.com
   type: trojan
-- name: '10,21| By EbraSha 🔥 #26'
+- name: '10,21| By EbraSha 🚧 #45'
   network: tcp
   password: 7e70223b-f331-41d5-9313-02b8d2df2885
   port: 20019
@@ -240,7 +258,7 @@ proxies:
   skip-cert-verify: true
   sni: hk.catxstar.com
   type: trojan
-- name: '10,21| By EbraSha 🔋 #39'
+- name: '10,21| By EbraSha 🕷️ #38'
   network: tcp
   password: 7e70223b-f331-41d5-9313-02b8d2df2885
   port: 20022
@@ -248,7 +266,7 @@ proxies:
   skip-cert-verify: true
   sni: hk.catxstar.com
   type: trojan
-- name: '10,21| By EbraSha 🥷 #40'
+- name: '10,21| By EbraSha 💎 #43'
   network: tcp
   password: 7e70223b-f331-41d5-9313-02b8d2df2885
   port: 20024
@@ -256,7 +274,7 @@ proxies:
   skip-cert-verify: true
   sni: hk.catxstar.com
   type: trojan
-- name: '10,21| By EbraSha 💎 #37'
+- name: '10,21| By EbraSha 🧨 #42'
   network: tcp
   password: 7e70223b-f331-41d5-9313-02b8d2df2885
   port: 20025
@@ -264,7 +282,7 @@ proxies:
   skip-cert-verify: true
   sni: tw.catxstar.com
   type: trojan
-- name: '10,21| By EbraSha ⌨️ #49'
+- name: '10,21| By EbraSha 🐉 #34'
   network: tcp
   password: 7e70223b-f331-41d5-9313-02b8d2df2885
   port: 20029
@@ -272,7 +290,7 @@ proxies:
   skip-cert-verify: true
   sni: hk.catxstar.com
   type: trojan
-- name: '10,21| By EbraSha 💣 #34'
+- name: '10,21| By EbraSha 🔋 #32'
   network: tcp
   password: 7e70223b-f331-41d5-9313-02b8d2df2885
   port: 20030
@@ -280,7 +298,7 @@ proxies:
   skip-cert-verify: true
   sni: hk.catxstar.com
   type: trojan
-- name: '10,21| By EbraSha 🕶️ #20'
+- name: '10,21| By EbraSha 🦈 #34'
   network: tcp
   password: 7e70223b-f331-41d5-9313-02b8d2df2885
   port: 20031
@@ -288,7 +306,7 @@ proxies:
   skip-cert-verify: true
   sni: hk.catxstar.com
   type: trojan
-- name: '10,21| By EbraSha 🦂 #37'
+- name: '10,21| By EbraSha 🧠 #38'
   network: tcp
   password: 7e70223b-f331-41d5-9313-02b8d2df2885
   port: 20032
@@ -296,7 +314,7 @@ proxies:
   skip-cert-verify: true
   sni: hk.catxstar.com
   type: trojan
-- name: '10,21| By EbraSha 🛜 #28'
+- name: '10,21| By EbraSha 👾 #26'
   network: tcp
   password: 7e70223b-f331-41d5-9313-02b8d2df2885
   port: 20034
@@ -304,7 +322,7 @@ proxies:
   skip-cert-verify: true
   sni: hk.catxstar.com
   type: trojan
-- name: '10,21| By EbraSha 🚧 #44'
+- name: '10,21| By EbraSha ♣️ #36'
   network: tcp
   password: 7e70223b-f331-41d5-9313-02b8d2df2885
   port: 20036
@@ -312,7 +330,7 @@ proxies:
   skip-cert-verify: true
   sni: SG.catxstar.com
   type: trojan
-- name: '10,21| By EbraSha 🥷 #41'
+- name: '10,21| By EbraSha 🐺 #24'
   network: tcp
   password: 7e70223b-f331-41d5-9313-02b8d2df2885
   port: 20039
@@ -320,7 +338,7 @@ proxies:
   skip-cert-verify: true
   sni: SG.catxstar.com
   type: trojan
-- name: '10,21| By EbraSha 🔮 #42'
+- name: '10,21| By EbraSha 📶 #30'
   network: tcp
   password: 7e70223b-f331-41d5-9313-02b8d2df2885
   port: 20041
@@ -328,7 +346,7 @@ proxies:
   skip-cert-verify: true
   sni: de.catxstar.com
   type: trojan
-- name: '10,21| By EbraSha 🐺 #31'
+- name: '10,21| By EbraSha 🌐 #41'
   network: tcp
   password: 7e70223b-f331-41d5-9313-02b8d2df2885
   port: 20044
@@ -336,7 +354,7 @@ proxies:
   skip-cert-verify: true
   sni: TW.catxstar.com
   type: trojan
-- name: '10,21| By EbraSha 🪖 #29'
+- name: '10,21| By EbraSha 🔥 #43'
   network: tcp
   password: 7e70223b-f331-41d5-9313-02b8d2df2885
   port: 20045
@@ -344,7 +362,7 @@ proxies:
   skip-cert-verify: true
   sni: TW.catxstar.com
   type: trojan
-- name: '10,21| By EbraSha 🧿 #28'
+- name: '10,21| By EbraSha 🧠 #39'
   network: tcp
   password: 7e70223b-f331-41d5-9313-02b8d2df2885
   port: 20046
@@ -352,7 +370,7 @@ proxies:
   skip-cert-verify: true
   sni: hk.catxstar.com
   type: trojan
-- name: '10,21| By EbraSha 🪬 #38'
+- name: '10,21| By EbraSha 🦂 #31'
   network: tcp
   password: 7e70223b-f331-41d5-9313-02b8d2df2885
   port: 20047
@@ -360,7 +378,7 @@ proxies:
   skip-cert-verify: true
   sni: hk.catxstar.com
   type: trojan
-- name: '10,21| By EbraSha 💻 #38'
+- name: '10,21| By EbraSha 🎛️ #19'
   network: tcp
   password: 7e70223b-f331-41d5-9313-02b8d2df2885
   port: 20048
@@ -368,7 +386,7 @@ proxies:
   skip-cert-verify: true
   sni: hk.catxstar.com
   type: trojan
-- name: '10,21| By EbraSha 🔋 #40'
+- name: '10,21| By EbraSha 🧬 #34'
   network: tcp
   password: 7e70223b-f331-41d5-9313-02b8d2df2885
   port: 20049
@@ -376,7 +394,7 @@ proxies:
   skip-cert-verify: true
   sni: hk.catxstar.com
   type: trojan
-- name: '10,21| By EbraSha 🌍 #36'
+- name: '10,21| By EbraSha 💻 #48'
   network: tcp
   password: 7e70223b-f331-41d5-9313-02b8d2df2885
   port: 20050
@@ -384,7 +402,7 @@ proxies:
   skip-cert-verify: true
   sni: us.catxstar.com
   type: trojan
-- name: '10,21| By EbraSha 📟 #38'
+- name: '10,21| By EbraSha 🌍 #33'
   network: tcp
   password: 7e70223b-f331-41d5-9313-02b8d2df2885
   port: 20051
@@ -392,7 +410,7 @@ proxies:
   skip-cert-verify: true
   sni: ng.catxstar.com
   type: trojan
-- name: '10,21| By EbraSha 🛰️ #32'
+- name: '10,21| By EbraSha 💣 #31'
   network: tcp
   password: 7e70223b-f331-41d5-9313-02b8d2df2885
   port: 20052
@@ -400,7 +418,7 @@ proxies:
   skip-cert-verify: true
   sni: hk.catxstar.com
   type: trojan
-- name: '10,21| By EbraSha 🔋 #41'
+- name: '10,21| By EbraSha 📛 #38'
   network: tcp
   password: 7e70223b-f331-41d5-9313-02b8d2df2885
   port: 20056
@@ -408,7 +426,7 @@ proxies:
   skip-cert-verify: true
   sni: hk.catxstar.com
   type: trojan
-- name: '10,21| By EbraSha 🕶️ #21'
+- name: '10,21| By EbraSha 🚀 #33'
   network: tcp
   password: 7e70223b-f331-41d5-9313-02b8d2df2885
   port: 20058
@@ -416,7 +434,7 @@ proxies:
   skip-cert-verify: true
   sni: hk.catxstar.com
   type: trojan
-- name: '10,21| By EbraSha 🚬 #39'
+- name: '10,21| By EbraSha 🗿 #47'
   network: tcp
   password: 7e70223b-f331-41d5-9313-02b8d2df2885
   port: 20060
@@ -424,7 +442,7 @@ proxies:
   skip-cert-verify: true
   sni: SG.catxstar.com
   type: trojan
-- name: '10,21| By EbraSha 🕷️ #36'
+- name: '10,21| By EbraSha 💣 #32'
   network: tcp
   password: 7e70223b-f331-41d5-9313-02b8d2df2885
   port: 20061
@@ -432,7 +450,7 @@ proxies:
   skip-cert-verify: true
   sni: hk.catxstar.com
   type: trojan
-- name: '10,21| By EbraSha 🌐 #39'
+- name: '10,21| By EbraSha ⚙️ #33'
   network: tcp
   password: 7e70223b-f331-41d5-9313-02b8d2df2885
   port: 20063
@@ -440,7 +458,7 @@ proxies:
   skip-cert-verify: true
   sni: hk.catxstar.com
   type: trojan
-- name: '10,21| By EbraSha ♦️ #37'
+- name: '10,21| By EbraSha 🧠 #40'
   network: tcp
   password: 7e70223b-f331-41d5-9313-02b8d2df2885
   port: 20064
@@ -448,7 +466,7 @@ proxies:
   skip-cert-verify: true
   sni: hk.catxstar.com
   type: trojan
-- name: '10,21| By EbraSha 🌌 #33'
+- name: '10,21| By EbraSha 🧪 #43'
   network: tcp
   password: 7e70223b-f331-41d5-9313-02b8d2df2885
   port: 20065
@@ -456,7 +474,7 @@ proxies:
   skip-cert-verify: true
   sni: hk.catxstar.com
   type: trojan
-- name: '10,21| By EbraSha 🧿 #29'
+- name: '10,21| By EbraSha 🚬 #40'
   network: tcp
   password: 7e70223b-f331-41d5-9313-02b8d2df2885
   port: 20068
@@ -464,7 +482,7 @@ proxies:
   skip-cert-verify: true
   sni: hk.catxstar.com
   type: trojan
-- name: '10,21| By EbraSha 🌃 #34'
+- name: '10,21| By EbraSha ♦️ #28'
   network: tcp
   password: 7e70223b-f331-41d5-9313-02b8d2df2885
   port: 20072
@@ -472,7 +490,7 @@ proxies:
   skip-cert-verify: true
   sni: SG.catxstar.com
   type: trojan
-- name: '10,21| By EbraSha 🕷️ #37'
+- name: '10,21| By EbraSha 🦾 #28'
   network: tcp
   password: 7e70223b-f331-41d5-9313-02b8d2df2885
   port: 20077
@@ -480,7 +498,7 @@ proxies:
   skip-cert-verify: true
   sni: hk.catxstar.com
   type: trojan
-- name: '10,21| By EbraSha 📼 #31'
+- name: '10,21| By EbraSha 💎 #44'
   network: tcp
   password: 7e70223b-f331-41d5-9313-02b8d2df2885
   port: 20083
@@ -488,7 +506,7 @@ proxies:
   skip-cert-verify: true
   sni: SG.catxstar.com
   type: trojan
-- name: '10,21| By EbraSha 🪖 #30'
+- name: '10,21| By EbraSha 🧩 #43'
   network: tcp
   password: 7e70223b-f331-41d5-9313-02b8d2df2885
   port: 20085
@@ -496,7 +514,7 @@ proxies:
   skip-cert-verify: true
   sni: hk.catxstar.com
   type: trojan
-- name: '10,21| By EbraSha 🪬 #39'
+- name: '10,21| By EbraSha 💻 #49'
   network: tcp
   password: 7e70223b-f331-41d5-9313-02b8d2df2885
   port: 20086
@@ -504,7 +522,7 @@ proxies:
   skip-cert-verify: true
   sni: hk.catxstar.com
   type: trojan
-- name: '10,21| By EbraSha 🦅 #34'
+- name: '10,21| By EbraSha 🌐 #42'
   network: tcp
   password: 7e70223b-f331-41d5-9313-02b8d2df2885
   port: 20088
@@ -512,7 +530,7 @@ proxies:
   skip-cert-verify: true
   sni: hk.catxstar.com
   type: trojan
-- name: '10,21| By EbraSha 🦈 #46'
+- name: '10,21| By EbraSha 📟 #39'
   network: tcp
   password: 7e70223b-f331-41d5-9313-02b8d2df2885
   port: 20089
@@ -520,7 +538,7 @@ proxies:
   skip-cert-verify: true
   sni: SG.catxstar.com
   type: trojan
-- name: '10,21| By EbraSha ⚡ #30'
+- name: '10,21| By EbraSha 👑 #38'
   network: tcp
   password: 7e70223b-f331-41d5-9313-02b8d2df2885
   port: 20092
@@ -528,7 +546,7 @@ proxies:
   skip-cert-verify: true
   sni: hk.catxstar.com
   type: trojan
-- name: '10,21| By EbraSha ⌨️ #50'
+- name: '10,21| By EbraSha 🚀 #34'
   network: tcp
   password: 7e70223b-f331-41d5-9313-02b8d2df2885
   port: 20098
@@ -536,7 +554,7 @@ proxies:
   skip-cert-verify: true
   sni: hk.catxstar.com
   type: trojan
-- name: '10,21| By EbraSha ⚔️ #39'
+- name: '10,21| By EbraSha 🩸 #42'
   network: tcp
   password: 7e70223b-f331-41d5-9313-02b8d2df2885
   port: 20103
@@ -544,7 +562,7 @@ proxies:
   skip-cert-verify: true
   sni: ng.catxstar.com
   type: trojan
-- name: '10,21| By EbraSha 🔐 #35'
+- name: '10,21| By EbraSha 🕹️ #28'
   network: tcp
   password: 7e70223b-f331-41d5-9313-02b8d2df2885
   port: 20104
@@ -552,7 +570,7 @@ proxies:
   skip-cert-verify: true
   sni: hk.catxstar.com
   type: trojan
-- name: '10,21| By EbraSha ⚔️ #40'
+- name: '10,21| By EbraSha 📶 #31'
   network: tcp
   password: 7e70223b-f331-41d5-9313-02b8d2df2885
   port: 20109
@@ -560,7 +578,7 @@ proxies:
   skip-cert-verify: true
   sni: TW.catxstar.com
   type: trojan
-- name: '10,21| By EbraSha 🧪 #48'
+- name: '10,21| By EbraSha 🌐 #43'
   network: tcp
   password: 7e70223b-f331-41d5-9313-02b8d2df2885
   port: 20112
@@ -568,7 +586,7 @@ proxies:
   skip-cert-verify: true
   sni: ca.catxstar.com
   type: trojan
-- name: '10,21| By EbraSha 🦅 #35'
+- name: '10,21| By EbraSha 🔌 #32'
   network: tcp
   password: 7e70223b-f331-41d5-9313-02b8d2df2885
   port: 20113
@@ -576,7 +594,7 @@ proxies:
   skip-cert-verify: true
   sni: ca.catxstar.com
   type: trojan
-- name: '10,21| By EbraSha 🐺 #32'
+- name: '10,21| By EbraSha 👑 #39'
   network: tcp
   password: 7e70223b-f331-41d5-9313-02b8d2df2885
   port: 20114
@@ -584,7 +602,7 @@ proxies:
   skip-cert-verify: true
   sni: hk.catxstar.com
   type: trojan
-- name: '10,21| By EbraSha 👑 #42'
+- name: '10,21| By EbraSha 🩸 #43'
   network: tcp
   password: 7e70223b-f331-41d5-9313-02b8d2df2885
   port: 20117
@@ -592,7 +610,7 @@ proxies:
   skip-cert-verify: true
   sni: hk.catxstar.com
   type: trojan
-- name: '10,21| By EbraSha 🕶️ #22'
+- name: '10,21| By EbraSha 🪖 #39'
   network: tcp
   password: 7e70223b-f331-41d5-9313-02b8d2df2885
   port: 20118
@@ -600,7 +618,7 @@ proxies:
   skip-cert-verify: true
   sni: hk.catxstar.com
   type: trojan
-- name: '10,21| By EbraSha ♣️ #29'
+- name: '10,21| By EbraSha 🪐 #37'
   network: tcp
   password: 7e70223b-f331-41d5-9313-02b8d2df2885
   port: 20119
@@ -608,7 +626,7 @@ proxies:
   skip-cert-verify: true
   sni: hk.catxstar.com
   type: trojan
-- name: '10,21| By EbraSha 🧊 #33'
+- name: '10,21| By EbraSha 🕷️ #39'
   network: tcp
   password: 7e70223b-f331-41d5-9313-02b8d2df2885
   port: 20120
@@ -616,7 +634,7 @@ proxies:
   skip-cert-verify: true
   sni: hk.catxstar.com
   type: trojan
-- name: '10,21| By EbraSha ♣️ #30'
+- name: '10,21| By EbraSha 🛜 #35'
   network: tcp
   password: 7e70223b-f331-41d5-9313-02b8d2df2885
   port: 20123
@@ -624,7 +642,7 @@ proxies:
   skip-cert-verify: true
   sni: hk.catxstar.com
   type: trojan
-- name: '10,21| By EbraSha 🧠 #42'
+- name: '10,21| By EbraSha 🕹️ #29'
   network: tcp
   password: 7e70223b-f331-41d5-9313-02b8d2df2885
   port: 20126
@@ -632,7 +650,7 @@ proxies:
   skip-cert-verify: true
   sni: hk.catxstar.com
   type: trojan
-- name: '10,21| By EbraSha 💎 #38'
+- name: '10,21| By EbraSha ⚡ #39'
   network: tcp
   password: 8aab51da-6b67-4bd2-b6e6-5ab3008cf53e
   port: 443
@@ -654,7 +672,7 @@ proxies:
   server: 154.92.9.25
   sni: 'Koma-YT.PAGeS.Dev '
   type: trojan
-- name: '10,15,21| By EbraSha 🔐 #40'
+- name: '10,15,21| By EbraSha 📀 #31'
   network: tcp
   password: BxceQaOe
   port: 52951
@@ -668,7 +686,7 @@ proxies:
   server: 219.79.214.159
   sni: 't.me%252Fripaojiedian '
   type: trojan
-- name: '10,15,21| By EbraSha 📶 #39'
+- name: '10,15,21| By EbraSha 🌪️ #34'
   password: BxceQaOe
   port: 41973
   server: 43.198.13.210
@@ -683,12 +701,18 @@ proxies:
   sni: 't.me%2Fripaojiedian '
   type: trojan
 - name: '10|🇭🇰 [ Configs by DukeMehdi ] TJ... #71'
+  password: F3CSSRxD8uljgF73IAn34C3aE9wSqAzZDp5ZOCpxDBRacNYelOYayKTe826Xy0
+  port: 443
+  server: 219.76.13.180
+  sni: 'stutter.freetrade.link '
+  type: trojan
+- name: '10|🇭🇰 [ Configs by DukeMehdi ] TJ... #72'
   password: SyOxpKxC8u5jgNa3DCZ34y3D9CRenFcaABpYATEeqI2RSaXD76zS8YF0Owl3lZ
   port: 443
   server: 219.76.13.181
   sni: 'arbettp.freetrade.link '
   type: trojan
-- name: '10|🇭🇰 [ Configs by DukeMehdi ] TJ... #72'
+- name: '10|🇭🇰 [ Configs by DukeMehdi ] TJ... #73'
   network: tcp
   password: XuMweB2PWs
   port: 45464
@@ -696,25 +720,31 @@ proxies:
   skip-cert-verify: false
   sni: '2.27.109.179.sslip.io '
   type: trojan
-- name: '10|🇭🇰 [ Configs by DukeMehdi ] TJ... #73'
+- name: '10|🇭🇰 [ Configs by DukeMehdi ] TJ... #74'
   password: ZFYOpKqD8uEClpZ2ya83cyCDalwSOYz3F3eCxnBD4eSXNSR5R0aAATj7I3x69g
   port: 443
   server: 219.76.13.175
   sni: 'golang.protocolbuffer.com '
   type: trojan
-- name: '10|🇭🇰 [ Configs by DukeMehdi ] TJ... #74'
+- name: '10|🇭🇰 [ Configs by DukeMehdi ] TJ... #75'
   password: ZRYSly2IRuFlgpZCaep3Ey3DDXqTDczO04aeC8F36OjaYSCABnA573wN8xxK9S
   port: 443
   server: 47.52.101.237
   sni: 'httah.freetrade.link '
   type: trojan
-- name: '10|🇭🇰 [ Configs by DukeMehdi ] TJ... #75'
+- name: '10|🇭🇰 [ Configs by DukeMehdi ] TJ... #76'
   password: b26e31e5-eac1-45b0-9069-83830bd69521
   port: 443
   server: 20.187.85.198
   sni: 'hkt.iamnotagoodman.com '
   type: trojan
-- name: '10,21| By EbraSha 📱 #60'
+- name: '10|🇭🇰 [ Configs by DukeMehdi ] TJ... #77'
+  password: bb5b1337-fa9e-4e00-b8c6-1110e626171d
+  port: 443
+  server: 119.247.119.212
+  sni: 'sg-01.tiktokcdn.top '
+  type: trojan
+- name: '10,21| By EbraSha 💣 #51'
   network: tcp
   password: c85761bc-5d74-4ae5-b525-0d32443182fa
   port: 443
@@ -722,13 +752,13 @@ proxies:
   skip-cert-verify: true
   sni: uk.mjt000.com
   type: trojan
-- name: '10|🇭🇰 [ Configs by DukeMehdi ] TJ... #77'
+- name: '10|🇭🇰 [ Configs by DukeMehdi ] TJ... #79'
   password: d4e41ff772c7fd45
   port: 3389
   server: 45.11.104.94
   sni: 'sbank.ir '
   type: trojan
-- name: 10,21,27|🇭🇰HK-83.229.121.78-5527
+- name: 10,21,27|🇭🇰HK-83.229.121.78-5538
   password: eeb6823c-b926-4ea2-866a-5542edd26e59
   port: 8443
   server: 83.229.121.78
@@ -736,7 +766,7 @@ proxies:
   type: trojan
 - alpn:
   - http/1.1
-  name: '10|🇭🇰 [ Configs by DukeMehdi ] TJ... #79'
+  name: '10|🇭🇰 [ Configs by DukeMehdi ] TJ... #81'
   network: ws
   password: humanity
   port: 443
@@ -748,7 +778,7 @@ proxies:
     headers:
       Host: www.pleadcourt.org
     path: '%2Fassignment'
-- name: 10,21,27|🇭🇰HK-209.248.32.116-5561
+- name: 10,21,27|🇭🇰HK-209.248.32.116-5572
   password: i99Cef
   port: 28101
   server: 209.248.32.116
@@ -756,7 +786,7 @@ proxies:
   type: trojan
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: '10,15,21| By EbraSha 🩸 #64'
+  name: '10,15,21| By EbraSha 🎛️ #39'
   network: tcp
   port: 443
   reality-opts:
@@ -774,18 +804,30 @@ proxies:
   - h2
   - http/1.1
   client-fingerprint: chrome
-  encryption: none
-  name: '10,19,21,28,30|🇭🇰[www.v2nodes.com] vless-HK-1... #5'
-  network: tcp
+  name: 10,19,21,28|[OpenRay] 🇬🇧GB-192
+  network: raw
   port: 11907
   server: 195.58.144.56
   skip-cert-verify: false
   tls: true
   type: vless
   uuid: 07cb07b9-0c4d-46c1-a15a-b147511b6b07
+- client-fingerprint: firefox
+  flow: xtls-rprx-vision
+  name: 10,21,28|[OpenRay] 🇺🇸US-2747
+  network: tcp
+  port: 443
+  reality-opts:
+    public-key: sNiA4zzQ-1GKtUxL9n8KPN8SUajKRXfFT-4woDKHelo
+    short-id: b298e18e07b2124e
+  server: 45.39.190.246
+  servername: cdn.cloudflare.steamstatic.com
+  tls: false
+  type: vless
+  uuid: 13f54942-55cb-4e5d-b1d2-b7055734c8c7
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: '10,21| By EbraSha ⚔️ #71'
+  name: '10,21| By EbraSha 🪐 #74'
   network: raw
   port: 10011
   reality-opts:
@@ -798,7 +840,7 @@ proxies:
   uuid: 17011a43-97e2-44b0-b0da-a2ea151ad75c
 - client-fingerprint: firefox
   flow: xtls-rprx-vision
-  name: 10,21,28|[OpenRay] 🇭🇰HK-208
+  name: 10,21,28|[OpenRay] 🇭🇰HK-198
   network: tcp
   port: 39179
   reality-opts:
@@ -811,7 +853,7 @@ proxies:
   uuid: 57beeeb0-03fc-4fc9-94da-7604488a7134
 - client-fingerprint: firefox
   flow: xtls-rprx-vision
-  name: 10,15,21,26,28|[OpenRay] 🇭🇰HK-91
+  name: 10,15,21,28|[OpenRay] 🇭🇰HK-84
   network: tcp
   port: 41705
   reality-opts:
@@ -824,7 +866,7 @@ proxies:
   uuid: 57beeeb0-03fc-4fc9-94da-7604488a7134
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: 10,21,28|[OpenRay] 🇭🇰HK-32
+  name: 10,21,28|[OpenRay] 🇭🇰HK-111
   network: tcp
   port: 21263
   reality-opts:
@@ -836,9 +878,9 @@ proxies:
   tls: false
   type: vless
   uuid: 57beeeb0-03fc-4fc9-94da-7604488a7134
-- client-fingerprint: firefox
+- client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: 10,15,21,28|[OpenRay] 🇭🇰HK-40
+  name: 10,21,28|[OpenRay] 🇭🇰HK-134
   network: tcp
   port: 44988
   reality-opts:
@@ -851,7 +893,7 @@ proxies:
   uuid: 57beeeb0-03fc-4fc9-94da-7604488a7134
 - client-fingerprint: random
   flow: xtls-rprx-vision
-  name: 10,21,28|[OpenRay] 🇭🇰HK-183
+  name: 10,21,28|[OpenRay] 🇭🇰HK-175
   network: tcp
   port: 21263
   reality-opts:
@@ -865,7 +907,7 @@ proxies:
   uuid: 57beeeb0-03fc-4fc9-94da-7604488a7134
 - client-fingerprint: firefox
   flow: xtls-rprx-vision
-  name: 10,21,28|[OpenRay] 🇭🇰HK-11
+  name: 10,21,28|[OpenRay] 🇭🇰HK-10
   network: tcp
   port: 44988
   reality-opts:
@@ -878,7 +920,7 @@ proxies:
   uuid: 57beeeb0-03fc-4fc9-94da-7604488a7134
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: '10,15,21| By EbraSha 🩸 #98'
+  name: '10,15,21| By EbraSha 🪬 #98'
   network: tcp
   port: 39179
   reality-opts:
@@ -891,7 +933,7 @@ proxies:
   uuid: 57beeeb0-03fc-4fc9-94da-7604488a7134
 - client-fingerprint: firefox
   flow: xtls-rprx-vision
-  name: 10,21,28|[OpenRay] 🇭🇰HK-120
+  name: 10,21,28|[OpenRay] 🇭🇰HK-112
   network: tcp
   port: 41563
   reality-opts:
@@ -904,7 +946,7 @@ proxies:
   uuid: 57beeeb0-03fc-4fc9-94da-7604488a7134
 - client-fingerprint: firefox
   flow: xtls-rprx-vision
-  name: 10,21,28|[OpenRay] 🇭🇰HK-20
+  name: 10,21,28|[OpenRay] 🇭🇰HK-19
   network: tcp
   port: 41563
   reality-opts:
@@ -917,7 +959,7 @@ proxies:
   uuid: 57beeeb0-03fc-4fc9-94da-7604488a7134
 - client-fingerprint: firefox
   flow: xtls-rprx-vision
-  name: 10,21,28|[OpenRay] 🇭🇰HK-173
+  name: 10,21,28|[OpenRay] 🇭🇰HK-164
   network: tcp
   port: 21033
   reality-opts:
@@ -943,7 +985,7 @@ proxies:
   uuid: 57beeeb0-03fc-4fc9-94da-7604488a7134
 - client-fingerprint: firefox
   flow: xtls-rprx-vision
-  name: 10,21,28|[OpenRay] 🇭🇰HK-182
+  name: 10,21,28|[OpenRay] 🇭🇰HK-174
   network: tcp
   port: 47592
   reality-opts:
@@ -956,21 +998,7 @@ proxies:
   uuid: 57beeeb0-03fc-4fc9-94da-7604488a7134
 - client-fingerprint: firefox
   flow: xtls-rprx-vision
-  name: 10,21,28|[OpenRay] 🇭🇰HK-129
-  network: tcp
-  port: 21263
-  reality-opts:
-    public-key: YinI5MijeZpRatg6QNDvP0qXEif-6VHC6gV5yoji4i4
-    short-id: 3d31326f95
-  server: 43.255.156.166
-  servername: us1p1.xn--ghq880n3na965a.com
-  skip-cert-verify: true
-  tls: false
-  type: vless
-  uuid: 57beeeb0-03fc-4fc9-94da-7604488a7134
-- client-fingerprint: firefox
-  flow: xtls-rprx-vision
-  name: 10,21,28|[OpenRay] 🇭🇰HK-112
+  name: 10,21,28|[OpenRay] 🇭🇰HK-105
   network: tcp
   port: 21263
   reality-opts:
@@ -984,7 +1012,7 @@ proxies:
   uuid: 57beeeb0-03fc-4fc9-94da-7604488a7134
 - client-fingerprint: safari
   flow: xtls-rprx-vision
-  name: 10,21,28|[OpenRay] 🇭🇰HK-204
+  name: 10,21,28|[OpenRay] 🇭🇰HK-195
   network: tcp
   port: 44988
   reality-opts:
@@ -997,7 +1025,7 @@ proxies:
   uuid: 57beeeb0-03fc-4fc9-94da-7604488a7134
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: '10,15,21| By EbraSha 🚨 #108'
+  name: '10,15,21| By EbraSha ⚔️ #111'
   network: tcp
   port: 25102
   reality-opts:
@@ -1010,7 +1038,7 @@ proxies:
   uuid: 57beeeb0-03fc-4fc9-94da-7604488a7134
 - client-fingerprint: firefox
   flow: xtls-rprx-vision
-  name: 10,15,21,26,28|[OpenRay] 🇭🇰HK-92
+  name: 10,15,21,26,28|[OpenRay] 🇭🇰HK-85
   network: tcp
   port: 39179
   reality-opts:
@@ -1034,19 +1062,6 @@ proxies:
     headers:
       Host: vp10.pages.dev
     path: /
-- client-fingerprint: random
-  flow: xtls-rprx-vision
-  name: 10,21,28|[OpenRay] 🇭🇰HK-73
-  network: tcp
-  port: 443
-  reality-opts:
-    public-key: wet3gh-OtTXd6G20ic3hdldK4wEbwtI1WGr4bvXtVmQ
-    short-id: 3467b2ee
-  server: 8.217.110.53
-  servername: www.amazon.com
-  tls: false
-  type: vless
-  uuid: 91ad30e9-ab06-4b4c-9fb9-1c2aa97d8b3a
 - client-fingerprint: chrome
   flow: ''
   name: 10,19,21,26,28,34|未知 VLESS-893 | free-nodes
@@ -1062,7 +1077,7 @@ proxies:
   uuid: 928e6cce-8ced-4243-9a48-a6642edd09b0
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: '10,21| By EbraSha ⚙️ #132'
+  name: '10,21| By EbraSha 💻 #133'
   network: tcp
   port: 10001
   reality-opts:
@@ -1074,7 +1089,7 @@ proxies:
   type: vless
   uuid: 9c79aceb-4649-44ea-9698-b5e9ecf6d6da
 - client-fingerprint: chrome
-  name: '10,21| By EbraSha ⚡ #111'
+  name: '10,21| By EbraSha 🌍 #116'
   network: tcp
   port: 443
   reality-opts:
@@ -1087,7 +1102,7 @@ proxies:
   uuid: 9cd358d7-7888-4c03-a431-c0de9a2090d2
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: '10,21| By EbraSha 🌍 #122'
+  name: '10,21| By EbraSha 👾 #131'
   network: tcp
   port: 19107
   reality-opts:
@@ -1100,7 +1115,7 @@ proxies:
   uuid: 9e13f74e-3ad7-437d-aba6-5def3c42b046
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: '10,21| By EbraSha 🛸 #140'
+  name: '10,21| By EbraSha 👑 #121'
   network: raw
   port: 59750
   reality-opts:
@@ -1112,34 +1127,8 @@ proxies:
   type: vless
   uuid: 9e76cfb8-b7a6-40f6-c2aa-9905aa19f31b
 - client-fingerprint: chrome
-  name: 10,21,28|[OpenRay] 🇭🇰HK-169
-  network: ws
-  port: 443
-  server: 203.9.150.220
-  servername: asia.csmaster.site
-  tls: true
-  type: vless
-  uuid: a853e120-3570-462b-aec1-e8f3d4f92d24
-  ws-opts:
-    headers:
-      Host: asia.csmaster.site
-    path: '%2F'
-- client-fingerprint: chrome
-  name: 10,21,28|[OpenRay] 🇭🇰HK-205
-  network: ws
-  port: 443
-  server: 45.136.12.21
-  servername: asia.csmaster.site
-  tls: true
-  type: vless
-  uuid: a853e120-3570-462b-aec1-e8f3d4f92d24
-  ws-opts:
-    headers:
-      Host: asia.csmaster.site
-    path: '%2F'
-- client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: '10,15,21| By EbraSha ♣️ #151'
+  name: '10,15,21| By EbraSha 🌃 #145'
   network: tcp
   port: 443
   reality-opts:
@@ -1152,7 +1141,7 @@ proxies:
   uuid: cdc86ade-9bc3-41eb-a7b9-879130378820
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: '10,15,21| By EbraSha ♦️ #165'
+  name: '10,15,21| By EbraSha 🌌 #155'
   network: tcp
   port: 443
   reality-opts:
@@ -1165,7 +1154,7 @@ proxies:
   uuid: daf0c4cb-3541-4f20-bc71-cc9d94bb17bc
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: '10,15,21| By EbraSha ✨ #156'
+  name: '10,15,21| By EbraSha 🎛️ #136'
   network: tcp
   port: 443
   reality-opts:
@@ -1179,7 +1168,7 @@ proxies:
 - alpn:
   - http/1.1
   client-fingerprint: unsafe
-  name: 10,21,28|[OpenRay] 🇺🇸US-1574
+  name: 10,21,28|[OpenRay] 🇺🇸US-1576
   network: ws
   port: 2053
   server: 45.38.60.153
@@ -1192,7 +1181,7 @@ proxies:
       Host: lucasjow.us.ci
     path: '%2Fcart%2Fdocs%2Fwww%2Fproxyip%3D108.160.132.132'
 - client-fingerprint: firefox
-  name: '10|🇭🇰 [ Configs by DukeMehdi ] VL... #39'
+  name: '10|🇭🇰 [ Configs by DukeMehdi ] VL... #37'
   network: ws
   port: 443
   server: 154.92.9.46
@@ -1204,7 +1193,7 @@ proxies:
     headers:
       Host: simorgh.hpcode.ir
     path: '%2FJavid-SHAH-KingRezaPahlavi%2F%3Fed%3D2560%2F%3FJOKERRVPNTELEGRAM '
-- name: '10,21| By EbraSha 🔐 #191'
+- name: '10,21| By EbraSha 🌌 #172'
   network: tcp
   port: 45678
   server: 103.252.119.61
@@ -1213,7 +1202,7 @@ proxies:
   uuid: f978f967-5726-42f1-e023-58e0b01abb93
 - client-fingerprint: random
   flow: xtls-rprx-vision
-  name: 10,21,28|[OpenRay] 🇭🇰HK-126
+  name: 10,21,28|[OpenRay] 🇭🇰HK-119
   network: tcp
   port: 9443
   reality-opts:
@@ -1224,19 +1213,32 @@ proxies:
   tls: false
   type: vless
   uuid: fe0721ac-c577-4938-b7ca-8ab5f43bb8da
-- client-fingerprint: random
-  flow: xtls-rprx-vision
-  name: '10|🇭🇰 [ Configs by DukeMehdi ] VL... #42'
-  network: 'tcp '
-  port: 9443
-  reality-opts:
-    public-key: 0hIFPaEn4RdFib8_eP8HYxMywR5izEwM3JA2W1Zo8U4
-    short-id: b390142456517acc
-  server: 45.207.157.24
-  servername: www.amazon.com
-  tls: false
-  type: vless
-  uuid: fe0721ac-c577-4938-b7ca-8ab5f43bb8da
+- alpn:
+  - http/1.1
+  name: '10|🇭🇰 [ Configs by DukeMehdi ] TJ... #87'
+  network: ws
+  password: humanity
+  port: 443
+  server: 219.76.13.177
+  skip-cert-verify: false
+  sni: 'www.pleadcourt.org '
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.pleadcourt.org
+    path: /assignment
+- name: '10|🇭🇰 [ Configs by DukeMehdi ] TJ... #88'
+  network: ws
+  password: humanity
+  port: 443
+  server: 219.76.13.177
+  skip-cert-verify: false
+  sni: 'www.volumeroot.com '
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumeroot.com
+    path: /assignment
 - client-fingerprint: chrome
   name: 10,15,28,34|香港 65
   network: raw
@@ -1537,7 +1539,7 @@ proxies:
       Host: a4e9c5f4-sv0xs0-sv37gm-81nv.hk.p5pv.com
     path: /
   xudp: true
-- name: 19,21,30,34|香港 26
+- name: 19,34|香港 26
   obfs: salamander
   obfs-password: 7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9
   password: eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ
@@ -1549,6 +1551,18 @@ proxies:
   type: hysteria2
 - name: '19|🇭🇰[www.v2nodes.com] vless-HK-1... #3'
   network: ws
+  port: 443
+  server: 95.182.95.178
+  servername: ccc.010304.xyz
+  tls: false
+  type: vless
+  uuid: d342d11e-d224-4463-b982-532309285094
+  ws-opts:
+    headers:
+      Host: ccc.010304.xyz
+    path: /fp=chromesecurity=tls
+- name: '19|🇭🇰[www.v2nodes.com] vless-HK-1... #4'
+  network: ws
   port: 8443
   server: 103.148.73.173
   servername: ty986gfazs.cainiaohub.xyz
@@ -1559,7 +1573,7 @@ proxies:
     headers:
       Host: ty986gfazs.cainiaohub.xyz
     path: /81574b6b-c9d7-44a0-b83d-dad56e8cb530fp=chrome
-- name: '19|🇭🇰[www.v2nodes.com] vless-HK-1... #4'
+- name: '19|🇭🇰[www.v2nodes.com] vless-HK-1... #5'
   network: ws
   port: 8443
   server: 103.180.20.108
@@ -1594,7 +1608,7 @@ proxies:
   skip-cert-verify: true
   sni: m.ctrip.com
   type: trojan
-- name: '19,20,21,27,30,32|香港3|@ripaojiedian #4'
+- name: '19,20,27,30,32|香港3|@ripaojiedian #4'
   network: tcp
   password: AA885B42-133C-3828-FB69-E45105C06092
   port: 10115
@@ -1602,7 +1616,7 @@ proxies:
   skip-cert-verify: true
   sni: m.ctrip.com
   type: trojan
-- name: '19,20,21,27,30,32|香港4|@ripaojiedian #4'
+- name: '19,20,27,30,32|香港4|@ripaojiedian #4'
   network: tcp
   password: AA885B42-133C-3828-FB69-E45105C06092
   port: 12107
@@ -1618,9 +1632,24 @@ proxies:
   skip-cert-verify: true
   sni: m.ctrip.com
   type: trojan
-- alpn:
-  - ''
-  alterId: 0
+- client-fingerprint: safari
+  flow: xtls-rprx-vision
+  name: '19|🇭🇰 香港 | HKG #2'
+  port: 20003
+  server: relay.xiaomans.com
+  servername: www.cloudflare.com
+  tls: true
+  type: vless
+  uuid: 52ac38da-c2fa-4f98-bef1-f3adef5d3ae9
+- name: 19,21,28|[OpenRay] 🌐XX-1053
+  password: 28a5ce18-e7a1-11ec-91b2-f23c91cfbbc9
+  port: 443
+  server: 916164fa-tn2tc0-trgaw0-1h240.hk3.hyhuawei.com
+  skip-cert-verify: true
+  sni: 916164fa-tn2tc0-trgaw0-1h240.hk3.hyhuawei.com
+  tls: false
+  type: hysteria2
+- alterId: 0
   cipher: auto
   http-opts:
     headers:
@@ -1629,15 +1658,14 @@ proxies:
     method: GET
     path:
     - /x
-  name: '19,20,21,27,28,30|🇭🇰 香港 | HKG #7 #1'
+  name: 19,21,27,28|[OpenRay] 🇭🇰HK-11
   network: http
   port: 800
   server: 47.86.167.194
   servername: ''
-  skip-cert-verify: true
+  skip-cert-verify: false
   tls: false
   type: vmess
-  udp: true
   uuid: f2c67cae-c09d-4739-947d-f5302d87a3c0
 - alterId: 2
   cipher: auto
@@ -1665,7 +1693,7 @@ proxies:
     path: /ws-vmess
 - alterId: 0
   cipher: auto
-  name: '20,21,27,30|🇭🇰 香港2|@ripaojiedian #2'
+  name: '20,27,30|🇭🇰 香港2|@ripaojiedian #2'
   network: ws
   port: 443
   server: kBONDXW9liFCi4h4.v.3dns.vip
@@ -1710,21 +1738,82 @@ proxies:
     path: /ws-vmess
 - alterId: 0
   cipher: auto
-  name: 27|🇭🇰HK-47.243.194.125-0251
+  name: '20,30|🇭🇰 香港 | HKG #2 #2'
   network: ws
   port: 443
-  server: 47.243.194.125
+  server: 45.192.224.135
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  udp: true
+  uuid: af4399b8-a152-486b-9cf6-acdd42d6c40c
+  ws-opts:
+    headers:
+      Host: aus.lovehk.xyz
+    path: /Sydney3
+- alterId: 0
+  cipher: auto
+  name: 27|🇭🇰HK-47.76.44.32-0268
+  network: ws
+  port: 443
+  server: 93ucrn4i0pffuabk.v.3dns.vip
+  servername: 93ucrn4i0pffuabk.v.3dns.vip
   skip-cert-verify: false
   tls: true
   type: vmess
   uuid: f23bb427-c1f9-4373-876c-2f43e9f790f3
   ws-opts:
     headers:
-      Host: nycqg19zkwacpm1b.v.3dns.vip
+      Host: 93ucrn4i0pffuabk.v.3dns.vip
+    path: /
+- name: 27|🇭🇰HK-49.0.245.175-0588
+  port: 5555
+  server: 49.0.245.175
+  skip-cert-verify: false
+  type: socks5
+- alterId: 0
+  cipher: auto
+  name: 27|🇭🇰HK-20.239.145.115-0739
+  network: ws
+  port: 443
+  server: 20.239.145.115
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  uuid: 4893ed3e-8a5f-48dc-aa1e-bbc2e67a065b
+  ws-opts:
     path: /
 - alterId: 0
   cipher: auto
-  name: 27|🇭🇰HK-45.144.174.12-1145
+  name: 27|🇭🇰HK-8.218.195.61-0911
+  network: ws
+  port: 443
+  server: 8.218.195.61
+  skip-cert-verify: false
+  tls: true
+  type: vmess
+  uuid: f23bb427-c1f9-4373-876c-2f43e9f790f3
+  ws-opts:
+    headers:
+      Host: EX1oGt73NzPQKAc2.v.3dns.vip
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 27|🇭🇰HK-47.83.207.148-0963
+  network: ws
+  port: 443
+  server: 47.83.207.148
+  skip-cert-verify: false
+  tls: true
+  type: vmess
+  uuid: f23bb427-c1f9-4373-876c-2f43e9f790f3
+  ws-opts:
+    headers:
+      Host: VAH4URdZL3jDX5r2.v.3dns.vip
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 27|🇭🇰HK-45.144.174.12-1125
   network: ws
   port: 20015
   server: 45.144.174.12
@@ -1742,21 +1831,35 @@ proxies:
     method: GET
     path:
     - /
-  name: 27|🇭🇰HK-47.242.69.124-1341
+  name: 27|🇭🇰HK-47.243.230.222-1322
   network: http
-  port: 54620
-  server: 47.242.69.124
+  port: 35668
+  server: 47.243.230.222
   skip-cert-verify: false
   tls: false
   type: vmess
-  uuid: 7c3008e5-9665-4319-a2b9-ac7370665f1a
+  uuid: ab4df3ef-e77f-4f2a-bfb8-63604412f73b
 - alterId: 0
   cipher: auto
   http-opts:
     method: GET
     path:
     - /
-  name: 27|🇭🇰HK-47.243.185.128-1350
+  name: 27|🇭🇰HK-47.243.187.171-1326
+  network: http
+  port: 60808
+  server: 47.243.187.171
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  uuid: 99c3c1c3-c27c-49a0-9c2c-7c77c3d92bf6
+- alterId: 0
+  cipher: auto
+  http-opts:
+    method: GET
+    path:
+    - /
+  name: 27|🇭🇰HK-47.243.185.128-1328
   network: http
   port: 47365
   server: 47.243.185.128
@@ -1770,21 +1873,7 @@ proxies:
     method: GET
     path:
     - /
-  name: 27|🇭🇰HK-8.210.15.231-1357
-  network: http
-  port: 41083
-  server: 8.210.15.231
-  skip-cert-verify: false
-  tls: false
-  type: vmess
-  uuid: 1d1ad417-29ed-41e8-aaed-323f797efe6b
-- alterId: 0
-  cipher: auto
-  http-opts:
-    method: GET
-    path:
-    - /
-  name: 27|🇭🇰HK-47.242.26.30-1358
+  name: 27|🇭🇰HK-47.242.26.30-1336
   network: http
   port: 28045
   server: 47.242.26.30
@@ -1798,7 +1887,49 @@ proxies:
     method: GET
     path:
     - /
-  name: 27|🇭🇰HK-8.210.248.210-1368
+  name: 27|🇭🇰HK-47.242.65.80-1339
+  network: http
+  port: 62307
+  server: 47.242.65.80
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  uuid: 48f3fa93-1722-4f8d-af74-fcc54c2f21d5
+- alterId: 0
+  cipher: auto
+  http-opts:
+    method: GET
+    path:
+    - /
+  name: 27|🇭🇰HK-8.210.236.45-1340
+  network: http
+  port: 61228
+  server: 8.210.236.45
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  uuid: 7e0ee5c7-46ff-42f8-ab7c-06d8227da454
+- alterId: 0
+  cipher: auto
+  http-opts:
+    method: GET
+    path:
+    - /
+  name: 27|🇭🇰HK-47.242.1.160-1342
+  network: http
+  port: 36298
+  server: 47.242.1.160
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  uuid: 6cea7176-148d-4f51-9bf4-313199c839ba
+- alterId: 0
+  cipher: auto
+  http-opts:
+    method: GET
+    path:
+    - /
+  name: 27|🇭🇰HK-8.210.248.210-1346
   network: http
   port: 54570
   server: 8.210.248.210
@@ -1812,21 +1943,7 @@ proxies:
     method: GET
     path:
     - /
-  name: 27|🇭🇰HK-47.242.21.177-1370
-  network: http
-  port: 51007
-  server: 47.242.21.177
-  skip-cert-verify: false
-  tls: false
-  type: vmess
-  uuid: 318b3dd1-09cf-4980-81ed-6cf689e5825a
-- alterId: 0
-  cipher: auto
-  http-opts:
-    method: GET
-    path:
-    - /
-  name: 27|🇭🇰HK-8.210.20.159-1387
+  name: 27|🇭🇰HK-8.210.20.159-1365
   network: http
   port: 45751
   server: 8.210.20.159
@@ -1840,7 +1957,21 @@ proxies:
     method: GET
     path:
     - /
-  name: 27|🇭🇰HK-8.210.48.219-1400
+  name: 27|🇭🇰HK-8.210.153.242-1366
+  network: http
+  port: 48577
+  server: 8.210.153.242
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  uuid: dd3c5ce4-6741-4cdb-a54d-bf43475969e5
+- alterId: 0
+  cipher: auto
+  http-opts:
+    method: GET
+    path:
+    - /
+  name: 27|🇭🇰HK-8.210.48.219-1378
   network: http
   port: 26812
   server: 8.210.48.219
@@ -1854,7 +1985,7 @@ proxies:
     method: GET
     path:
     - /
-  name: 27|🇭🇰HK-47.242.95.19-1403
+  name: 27|🇭🇰HK-47.242.95.19-1381
   network: http
   port: 40988
   server: 47.242.95.19
@@ -1868,7 +1999,7 @@ proxies:
     method: GET
     path:
     - /
-  name: 27|🇭🇰HK-8.210.70.156-1404
+  name: 27|🇭🇰HK-8.210.70.156-1382
   network: http
   port: 54148
   server: 8.210.70.156
@@ -1878,53 +2009,39 @@ proxies:
   uuid: 1346261e-3201-4932-bfba-df869ab48116
 - alterId: 0
   cipher: auto
-  name: 27|🇭🇰HK-104.208.117.86-1423
+  name: 27|🇭🇰HK-112.120.123.224-1396
   network: ws
-  port: 443
-  server: univstar-104-208-117-86.nip.io
+  port: 8300
+  server: hk3.grpc.stream
   skip-cert-verify: false
-  tls: true
+  tls: false
   type: vmess
-  uuid: 328b2547-d141-4df4-a76e-4f1c2e361f5c
+  uuid: 6031b5c3-d8ba-5756-b708-f61084a2b678
   ws-opts:
     headers:
-      Host: univstar-104-208-117-86.nip.io
-    path: /
+      Host: hk3.grpc.stream
+    path: /event
 - alterId: 0
   cipher: auto
   http-opts:
     method: GET
     path:
     - /
-  name: 27|🇭🇰HK-8.218.83.148-1495
+  name: 27|🇭🇰HK-8.210.234.189-1472
   network: http
-  port: 63239
-  server: 8.218.83.148
+  port: 46644
+  server: 8.210.234.189
   skip-cert-verify: false
   tls: false
   type: vmess
-  uuid: bc035c93-4a47-4f06-8833-fadc03527539
+  uuid: c25a1c9a-1c71-4c58-afba-66eed738b22b
 - alterId: 0
   cipher: auto
   http-opts:
     method: GET
     path:
     - /
-  name: 27|🇭🇰HK-8.218.73.227-1497
-  network: http
-  port: 58641
-  server: 8.218.73.227
-  skip-cert-verify: false
-  tls: false
-  type: vmess
-  uuid: 4821f5d8-dc31-4bb4-811c-8babcb8aec1a
-- alterId: 0
-  cipher: auto
-  http-opts:
-    method: GET
-    path:
-    - /
-  name: 27|🇭🇰HK-8.218.80.207-1498
+  name: 27|🇭🇰HK-8.218.80.207-1474
   network: http
   port: 58793
   server: 8.218.80.207
@@ -1938,21 +2055,21 @@ proxies:
     method: GET
     path:
     - /
-  name: 27|🇭🇰HK-8.218.86.250-1499
+  name: 27|🇭🇰HK-8.210.203.189-1477
   network: http
-  port: 22362
-  server: 8.218.86.250
+  port: 37309
+  server: 8.210.203.189
   skip-cert-verify: false
   tls: false
   type: vmess
-  uuid: 72356bf7-487b-42c0-a7f2-845136b33503
+  uuid: 74cdcc28-a0bc-421f-bd15-c6a6e401b523
 - alterId: 0
   cipher: auto
   http-opts:
     method: GET
     path:
     - /
-  name: 27|🇭🇰HK-8.218.86.226-1502
+  name: 27|🇭🇰HK-8.218.86.226-1478
   network: http
   port: 51616
   server: 8.218.86.226
@@ -1966,125 +2083,54 @@ proxies:
     method: GET
     path:
     - /
-  name: 27|🇭🇰HK-47.242.56.3-1505
+  name: 27|🇭🇰HK-8.218.63.184-1479
   network: http
-  port: 37064
-  server: 47.242.56.3
+  port: 20113
+  server: 8.218.63.184
   skip-cert-verify: false
   tls: false
   type: vmess
-  uuid: d2a10a17-6191-472c-896b-782331f49fb9
-- alterId: 0
-  cipher: auto
-  http-opts:
-    method: GET
-    path:
-    - /
-  name: 27|🇭🇰HK-47.242.205.255-1506
-  network: http
-  port: 49935
-  server: 47.242.205.255
-  skip-cert-verify: false
-  tls: false
-  type: vmess
-  uuid: 3ffddc7c-80a3-4677-ab9e-30da4190ec6a
-- alterId: 0
-  cipher: auto
-  http-opts:
-    method: GET
-    path:
-    - /
-  name: 27|🇭🇰HK-47.242.243.218-1508
-  network: http
-  port: 48471
-  server: 47.242.243.218
-  skip-cert-verify: false
-  tls: false
-  type: vmess
-  uuid: 7daf0d3d-8c74-4f46-8912-fbf59be05e39
-- alterId: 0
-  cipher: auto
-  http-opts:
-    method: GET
-    path:
-    - /
-  name: 27|🇭🇰HK-47.243.36.34-1509
-  network: http
-  port: 55986
-  server: 47.243.36.34
-  skip-cert-verify: false
-  tls: false
-  type: vmess
-  uuid: 87ed289f-cae3-49b4-bbe3-23da298c0e81
-- alterId: 0
-  cipher: auto
-  name: 27|🇭🇰HK-104.208.96.44-1542
-  network: ws
-  port: 80
-  server: 104.208.96.44
-  skip-cert-verify: false
-  tls: false
-  type: vmess
-  uuid: 80e94af6-e42a-4dbc-8f4b-c5f99bf97d3d
-  ws-opts:
-    path: /zh-cn/download
-- name: 27|🇭🇰HK-43.154.172.79-2451
+  uuid: cdc72c7d-6ab8-4cb4-a0f7-18b0ec7bfbfa
+- name: 27|🇭🇰HK-43.154.172.79-2441
   password: 0f098bb2-9fad-3cc3-8acf-2a3268c1eb27
   port: 10102
   server: 43.154.172.79
   skip-cert-verify: false
   type: trojan
-- alterId: 0
-  cipher: auto
-  name: 27|🇭🇰HK-202.64.124.252-2491
-  network: ws
-  port: 80
-  server: 202.64.124.252
-  skip-cert-verify: false
-  tls: false
-  type: vmess
-  uuid: 58d4ad2b-82d5-4847-b88c-889de4d38c19
-  ws-opts:
-    path: /
-- name: 27|🇭🇰HK-103.103.245.125-2511
+- name: 27|🇭🇰HK-103.103.245.125-2501
   password: a70b39d1-62ea-4d9e-b681-9c5408352234
   port: 50418
   server: 103.103.245.125
   skip-cert-verify: false
   type: trojan
+- name: 27|🇭🇰HK-45.11.104.94-3388
+  password: d4e41ff772c7fd45
+  port: 3389
+  server: 45.11.104.94
+  skip-cert-verify: false
+  sni: sbank.ir
+  type: trojan
 - cipher: chacha20-ietf-poly1305
-  name: 27|🇭🇰HK-148.66.56.99-3176
+  name: 27|🇭🇰HK-148.66.56.99-3477
   password: G!yBwPWH3Vao
-  port: 800
+  port: 811
   server: 148.66.56.99
   type: ss
 - alterId: 0
   cipher: auto
-  name: 27|🇭🇰HK-185.14.47.240-3437
+  name: 27|🇭🇰HK-188.116.22.171-4474
   network: ws
-  port: 2086
-  server: 185.14.47.240
+  port: 80
+  server: 188.116.22.171
   skip-cert-verify: false
   tls: false
   type: vmess
-  uuid: 7a8a19ec-94f5-4262-edbe-a308e1d0c66d
-  ws-opts:
-    path: /aries
-- alterId: 0
-  cipher: auto
-  name: 27|🇭🇰HK-188.116.22.171-3457
-  network: ws
-  port: 443
-  server: 188.116.22.171
-  skip-cert-verify: false
-  tls: true
-  type: vmess
-  uuid: 4b0289b0-a363-4cb5-8ca0-f0e7f92d75f3
+  uuid: 3c6c608d-68c0-4782-86ac-98ea1ada3a25
   ws-opts:
     path: /vmess
 - alterId: 0
   cipher: auto
-  name: 27|🇭🇰HK-18.167.121.42-4905
+  name: 27|🇭🇰HK-18.167.121.42-4916
   network: ws
   port: 35781
   server: 18.167.121.42
@@ -2094,33 +2140,15 @@ proxies:
   uuid: d3978bd0-dade-4181-81de-bae3091339f1
   ws-opts:
     path: /hk.wumaojichang.ml
-- name: 27|🇭🇰HK-104.208.100.101-4978
+- name: 27|🇭🇰HK-104.208.100.101-4989
   password: ceaea123-1b4b-469b-8358-bcd5f5529305
   port: 443
   server: 104.208.100.101
   skip-cert-verify: false
   sni: uk.liangyuandian.top
   type: trojan
-- alterId: 0
-  cipher: auto
-  name: 27|🇭🇰HK-20.239.179.251-5178
-  network: ws
-  port: 50045
-  server: 20.239.179.251
-  skip-cert-verify: false
-  tls: false
-  type: vmess
-  uuid: 1617e875-e377-4e4f-85ef-dcf9e5e10df7
-  ws-opts:
-    path: /
-- cipher: chacha20-ietf
-  name: 27|🇭🇰HK-103.149.182.105-5494
-  password: asd123456
-  port: 8388
-  server: 103.149.182.105
-  type: ss
 - cipher: rc4-md5
-  name: 27|🇭🇰HK-43.255.119.28-5569
+  name: 27|🇭🇰HK-43.255.119.28-5580
   obfs: tls1.2_ticket_auth
   obfs-param: 665203463.douyin.com
   password: di15PV
@@ -2130,7 +2158,7 @@ proxies:
   server: api.meituan88.com
   type: ssr
 - cipher: rc4-md5
-  name: 27|🇭🇰HK-43.255.119.28-5570
+  name: 27|🇭🇰HK-43.255.119.28-5581
   obfs: tls1.2_ticket_auth
   obfs-param: 99e144391.douyin.com
   password: di15PV
@@ -2140,7 +2168,7 @@ proxies:
   server: api.meituan88.com
   type: ssr
 - cipher: chacha20-ietf
-  name: 27|🇭🇰HK-43.255.119.28-5571
+  name: 27|🇭🇰HK-43.255.119.28-5582
   obfs: tls1.2_ticket_auth
   obfs-param: 33f313723.douyin.com
   password: di15PV
@@ -2150,7 +2178,7 @@ proxies:
   server: api.meituan88.com
   type: ssr
 - cipher: rc4-md5
-  name: 27|🇭🇰HK-43.255.119.28-5572
+  name: 27|🇭🇰HK-43.255.119.28-5583
   obfs: tls1.2_ticket_auth
   obfs-param: 99e144391.douyin.com
   password: di15PV
@@ -2160,7 +2188,7 @@ proxies:
   server: api.meituan88.com
   type: ssr
 - cipher: chacha20-ietf
-  name: 27|🇭🇰HK-43.255.119.28-5574
+  name: 27|🇭🇰HK-43.255.119.28-5585
   obfs: tls1.2_ticket_auth
   obfs-param: 665203463.douyin.com
   password: di15PV
@@ -2170,7 +2198,7 @@ proxies:
   server: api.meituan88.com
   type: ssr
 - cipher: chacha20-ietf
-  name: 27|🇭🇰HK-43.255.119.28-5575
+  name: 27|🇭🇰HK-43.255.119.28-5586
   obfs: plain
   obfs-param: 87c276924.douyin.com
   password: di15PV
@@ -2180,7 +2208,7 @@ proxies:
   server: api.meituan88.com
   type: ssr
 - cipher: chacha20-ietf
-  name: 27|🇭🇰HK-43.255.119.28-5576
+  name: 27|🇭🇰HK-43.255.119.28-5587
   obfs: plain
   obfs-param: 14e116735.douyin.com
   password: di15PV
@@ -2190,7 +2218,7 @@ proxies:
   server: api.meituan88.com
   type: ssr
 - cipher: chacha20-ietf
-  name: 27|🇭🇰HK-43.255.119.28-5577
+  name: 27|🇭🇰HK-43.255.119.28-5588
   obfs: plain
   obfs-param: 33f313723.douyin.com
   password: di15PV
@@ -2200,7 +2228,7 @@ proxies:
   server: api.meituan88.com
   type: ssr
 - cipher: aes-256-cfb
-  name: 27|🇭🇰HK-43.255.119.28-5578
+  name: 27|🇭🇰HK-43.255.119.28-5589
   obfs: tls1.2_ticket_auth
   obfs-param: 87c276924.douyin.com
   password: di15PV
@@ -2210,7 +2238,7 @@ proxies:
   server: api.meituan88.com
   type: ssr
 - cipher: chacha20-ietf
-  name: 27|🇭🇰HK-43.255.119.28-5579
+  name: 27|🇭🇰HK-43.255.119.28-5590
   obfs: plain
   obfs-param: 665203463.douyin.com
   password: di15PV
@@ -2220,7 +2248,7 @@ proxies:
   server: api.meituan88.com
   type: ssr
 - cipher: chacha20-ietf
-  name: 27|🇭🇰HK-43.255.119.28-5580
+  name: 27|🇭🇰HK-43.255.119.28-5591
   obfs: tls1.2_ticket_auth
   obfs-param: 99e144391.douyin.com
   password: di15PV
@@ -2230,7 +2258,7 @@ proxies:
   server: api.meituan88.com
   type: ssr
 - cipher: chacha20-ietf
-  name: 27|🇭🇰HK-43.255.119.28-5581
+  name: 27|🇭🇰HK-43.255.119.28-5592
   obfs: tls1.2_ticket_auth
   obfs-param: 99e144391.douyin.com
   password: di15PV
@@ -2240,7 +2268,7 @@ proxies:
   server: api.meituan88.com
   type: ssr
 - cipher: chacha20-ietf
-  name: 27|🇭🇰HK-43.255.119.28-5582
+  name: 27|🇭🇰HK-43.255.119.28-5593
   obfs: plain
   obfs-param: 33f313723.douyin.com
   password: di15PV
@@ -2250,7 +2278,7 @@ proxies:
   server: api.meituan88.com
   type: ssr
 - cipher: chacha20-ietf
-  name: 27|🇭🇰HK-43.255.119.28-5584
+  name: 27|🇭🇰HK-43.255.119.28-5595
   obfs: plain
   obfs-param: 33f313723.douyin.com
   password: di15PV
@@ -2260,7 +2288,7 @@ proxies:
   server: api.meituan88.com
   type: ssr
 - cipher: rc4-md5
-  name: 27|🇭🇰HK-43.255.119.28-5585
+  name: 27|🇭🇰HK-43.255.119.28-5596
   obfs: plain
   obfs-param: 99e144391.douyin.com
   password: di15PV
@@ -2270,7 +2298,7 @@ proxies:
   server: api.meituan88.com
   type: ssr
 - cipher: chacha20-ietf
-  name: 27|🇭🇰HK-43.255.119.28-5586
+  name: 27|🇭🇰HK-43.255.119.28-5597
   obfs: plain
   obfs-param: 99e144391.douyin.com
   password: di15PV
@@ -2280,7 +2308,7 @@ proxies:
   server: api.meituan88.com
   type: ssr
 - cipher: rc4-md5
-  name: 27|🇭🇰HK-43.255.119.28-5587
+  name: 27|🇭🇰HK-43.255.119.28-5598
   obfs: tls1.2_ticket_auth
   obfs-param: 33f313723.douyin.com
   password: di15PV
@@ -2290,7 +2318,7 @@ proxies:
   server: api.meituan88.com
   type: ssr
 - cipher: chacha20-ietf
-  name: 27|🇭🇰HK-43.255.119.28-5588
+  name: 27|🇭🇰HK-43.255.119.28-5599
   obfs: plain
   obfs-param: 33f313723.douyin.com
   password: di15PV
@@ -2300,7 +2328,7 @@ proxies:
   server: api.meituan88.com
   type: ssr
 - cipher: aes-256-cfb
-  name: 27|🇭🇰HK-43.255.119.28-5589
+  name: 27|🇭🇰HK-43.255.119.28-5600
   obfs: tls1.2_ticket_auth
   obfs-param: 87c276924.douyin.com
   password: di15PV
@@ -2310,7 +2338,7 @@ proxies:
   server: api.meituan88.com
   type: ssr
 - cipher: chacha20-ietf
-  name: 27|🇭🇰HK-43.255.119.28-5590
+  name: 27|🇭🇰HK-43.255.119.28-5601
   obfs: plain
   obfs-param: 33f313723.douyin.com
   password: di15PV
@@ -2320,7 +2348,7 @@ proxies:
   server: api.meituan88.com
   type: ssr
 - cipher: chacha20-ietf
-  name: 27|🇭🇰HK-43.255.119.28-5591
+  name: 27|🇭🇰HK-43.255.119.28-5602
   obfs: plain
   obfs-param: 33f313723.douyin.com
   password: di15PV
@@ -2330,7 +2358,7 @@ proxies:
   server: api.meituan88.com
   type: ssr
 - cipher: rc4-md5
-  name: 27|🇭🇰HK-43.255.119.28-5592
+  name: 27|🇭🇰HK-43.255.119.28-5603
   obfs: plain
   obfs-param: 87c276924.douyin.com
   password: di15PV
@@ -2340,7 +2368,7 @@ proxies:
   server: api.meituan88.com
   type: ssr
 - cipher: chacha20-ietf
-  name: 27|🇭🇰HK-43.255.119.28-5593
+  name: 27|🇭🇰HK-43.255.119.28-5604
   obfs: plain
   obfs-param: 33f313723.douyin.com
   password: di15PV
@@ -2350,7 +2378,7 @@ proxies:
   server: api.meituan88.com
   type: ssr
 - cipher: aes-256-cfb
-  name: 27|🇭🇰HK-43.255.119.28-5594
+  name: 27|🇭🇰HK-43.255.119.28-5605
   obfs: tls1.2_ticket_auth
   obfs-param: 87c276924.douyin.com
   password: di15PV
@@ -2360,7 +2388,7 @@ proxies:
   server: api.meituan88.com
   type: ssr
 - cipher: chacha20-ietf
-  name: 27|🇭🇰HK-43.255.119.28-5595
+  name: 27|🇭🇰HK-43.255.119.28-5606
   obfs: tls1.2_ticket_auth
   obfs-param: 33f313723.douyin.com
   password: di15PV
@@ -2370,7 +2398,7 @@ proxies:
   server: api.meituan88.com
   type: ssr
 - cipher: chacha20-ietf
-  name: 27|🇭🇰HK-43.255.119.28-5596
+  name: 27|🇭🇰HK-43.255.119.28-5607
   obfs: tls1.2_ticket_auth
   obfs-param: 665203463.douyin.com
   password: di15PV
@@ -2380,7 +2408,7 @@ proxies:
   server: api.meituan88.com
   type: ssr
 - cipher: chacha20-ietf
-  name: 27|🇭🇰HK-43.255.119.28-5597
+  name: 27|🇭🇰HK-43.255.119.28-5608
   obfs: tls1.2_ticket_auth
   obfs-param: 99e144391.douyin.com
   password: di15PV
@@ -2390,7 +2418,7 @@ proxies:
   server: api.meituan88.com
   type: ssr
 - cipher: rc4-md5
-  name: 27|🇭🇰HK-43.255.119.28-5598
+  name: 27|🇭🇰HK-43.255.119.28-5609
   obfs: plain
   obfs-param: 33f313723.douyin.com
   password: di15PV
@@ -2400,7 +2428,7 @@ proxies:
   server: api.meituan88.com
   type: ssr
 - cipher: chacha20-ietf
-  name: 27|🇭🇰HK-43.255.119.28-5599
+  name: 27|🇭🇰HK-43.255.119.28-5610
   obfs: tls1.2_ticket_auth
   obfs-param: 99e144391.douyin.com
   password: di15PV
@@ -2410,7 +2438,7 @@ proxies:
   server: api.meituan88.com
   type: ssr
 - cipher: chacha20-ietf
-  name: 27|🇭🇰HK-43.255.119.28-5600
+  name: 27|🇭🇰HK-43.255.119.28-5611
   obfs: tls1.2_ticket_auth
   obfs-param: 665203463.douyin.com
   password: di15PV
@@ -2420,7 +2448,7 @@ proxies:
   server: api.meituan88.com
   type: ssr
 - cipher: chacha20-ietf
-  name: 27|🇭🇰HK-43.255.119.28-5601
+  name: 27|🇭🇰HK-43.255.119.28-5612
   obfs: plain
   obfs-param: 33f313723.douyin.com
   password: di15PV
@@ -2429,41 +2457,72 @@ proxies:
   protocol-param: ''
   server: api.meituan88.com
   type: ssr
+- name: 27|🇭🇰HK-119.247.119.212-7288
+  password: bb5b1337-fa9e-4e00-b8c6-1110e626171d
+  port: 443
+  server: 119.247.119.212
+  skip-cert-verify: false
+  sni: sg-01.tiktokcdn.top
+  type: trojan
+- name: 27|🇭🇰HK-219.76.13.180-7290
+  password: F3CSSRxD8uljgF73IAn34C3aE9wSqAzZDp5ZOCpxDBRacNYelOYayKTe826Xy0
+  port: 443
+  server: 219.76.13.180
+  skip-cert-verify: false
+  sni: stutter.freetrade.link
+  type: trojan
 - alterId: 0
   cipher: auto
-  name: 27|🇭🇰HK-8.218.140.111-5987
+  name: 27|🇭🇰HK-47.243.62.222-7334
   network: ws
-  port: 34193
-  server: 8.218.140.111
-  servername: 8.218.140.111
+  port: 443
+  server: 47.243.62.222
+  servername: lg30.cfcdn3.xyz
   skip-cert-verify: false
-  tls: false
+  tls: true
   type: vmess
-  uuid: 544bf832-7df2-4ce1-aafc-9258a28b7cfb
+  uuid: 91646f9a-b4e9-4aca-bfe3-8892b3e58fe7
   ws-opts:
-    path: /hk
-- name: 27|🇭🇰HK-43.198.12.229-7271
-  password: ae7cc604-d970-4200-9a9b-eb45087b4fc1
-  port: 28443
-  server: 43.198.12.229
-  skip-cert-verify: false
-  sni: mzy.hruqoaw.cn
-  type: trojan
-- name: 27|🇭🇰HK-20.24.192.3-7339
+    path: /ray
+- name: 27|🇭🇰HK-20.24.192.3-7350
   password: ca2345ba-46e7-3991-b1b7-45d18954caf1
   port: 20712
   server: 20.24.192.3
   skip-cert-verify: false
   sni: ssl.ssl12.xyz
   type: trojan
-- name: 27|🇭🇰HK-103.234.53.23-8499
+- alterId: 64
+  cipher: auto
+  name: 27|🇭🇰HK-156.225.67.81-8151
+  network: ws
+  port: 443
+  server: 156.225.67.81
+  skip-cert-verify: false
+  tls: true
+  type: vmess
+  uuid: 3fd637ad-46fe-4f85-a6e8-86b00bca1122
+  ws-opts:
+    path: /path/1689767805929
+- alterId: 64
+  cipher: auto
+  name: 27|🇭🇰HK-156.225.67.240-8152
+  network: ws
+  port: 443
+  server: 156.225.67.240
+  skip-cert-verify: false
+  tls: true
+  type: vmess
+  uuid: 9c026efe-6af0-465f-b8c0-3f58c8c2d4c5
+  ws-opts:
+    path: /path/1690341237802
+- name: 27|🇭🇰HK-103.234.53.23-8510
   password: 73658d71-be45-4495-bc3e-e69d36ce73b5
   port: 50014
   server: 103.234.53.23
   skip-cert-verify: false
   sni: telewebion.com
   type: trojan
-- name: 28|[OpenRay] 🇭🇰HK-174
+- name: 28|[OpenRay] 🇭🇰HK-165
   network: ws
   password: humanity
   port: 443
@@ -2477,7 +2536,7 @@ proxies:
     path: /assignment
 - client-fingerprint: firefox
   flow: xtls-rprx-vision
-  name: 28|[OpenRay] 🇭🇰HK-213
+  name: 28|[OpenRay] 🇭🇰HK-203
   network: tcp
   port: 26480
   reality-opts:
@@ -2488,7 +2547,7 @@ proxies:
   tls: false
   type: vless
   uuid: 01de63ee-d2d6-4842-b2f0-d54c7eca267a
-- name: 28|[OpenRay] 🇭🇰HK-168
+- name: 28|[OpenRay] 🇭🇰HK-160
   network: ws
   port: 8443
   server: 43.129.80.179
@@ -2500,7 +2559,7 @@ proxies:
     headers:
       Host: jp3.yohototo.top
     path: '%2Ftyxyws'
-- name: 28|[OpenRay] 🇭🇰HK-177
+- name: 28|[OpenRay] 🇭🇰HK-169
   network: ws
   port: 8443
   server: 43.129.80.179
@@ -2515,21 +2574,7 @@ proxies:
     path: /tyxyws
 - alterId: 0
   cipher: auto
-  name: 28|[OpenRay] 🇭🇰HK-105
-  network: ws
-  port: 443
-  server: 8.217.254.88
-  servername: 2b9hwy8ocx7q74nm.v.3dns.vip
-  tls: true
-  type: vmess
-  uuid: 88888888-8888-8888-8888-888888888888
-  ws-opts:
-    headers:
-      Host: ''
-    path: /ws-vmess
-- alterId: 0
-  cipher: auto
-  name: 28|[OpenRay] 🇭🇰HK-179
+  name: 28|[OpenRay] 🇭🇰HK-171
   network: ws
   port: 443
   server: 8.217.254.88
@@ -2543,7 +2588,7 @@ proxies:
     path: /ws-vmess
 - alterId: 0
   cipher: auto
-  name: 28|[OpenRay] 🇭🇰HK-75
+  name: 28|[OpenRay] 🇭🇰HK-68
   network: ws
   port: 36703
   server: 47.244.120.197
@@ -2557,7 +2602,7 @@ proxies:
     path: /arki?ed=2048
 - alterId: 0
   cipher: auto
-  name: 28|[OpenRay] 🇭🇰HK-116
+  name: 28|[OpenRay] 🇭🇰HK-109
   network: ws
   port: 36703
   server: 47.244.120.197
@@ -2571,7 +2616,7 @@ proxies:
     path: /arki
 - alterId: 0
   cipher: auto
-  name: 28|[OpenRay] 🇭🇰HK-30
+  name: 28|[OpenRay] 🇭🇰HK-29
   network: ws
   port: 36703
   server: 47.244.120.197
@@ -2585,7 +2630,21 @@ proxies:
     path: /arki
 - alterId: 0
   cipher: auto
-  name: 28|[OpenRay] 🇭🇰HK-45
+  name: 28|[OpenRay] 🇭🇰HK-98
+  network: ws
+  port: 443
+  server: 8.217.254.88
+  servername: 2b9hwy8ocx7q74nm.v.3dns.vip
+  tls: true
+  type: vmess
+  uuid: 88888888-8888-8888-8888-888888888888
+  ws-opts:
+    headers:
+      Host: ''
+    path: /ws-vmess
+- alterId: 0
+  cipher: auto
+  name: 28|[OpenRay] 🇭🇰HK-41
   network: raw
   port: 800
   server: 47.86.167.194
@@ -2594,7 +2653,7 @@ proxies:
   uuid: f2c67cae-c09d-4739-947d-f5302d87a3c0
 - alterId: 0
   cipher: auto
-  name: 28|[OpenRay] 🇭🇰HK-118
+  name: 28|[OpenRay] 🇭🇰HK-110
   network: ws
   port: 36703
   server: 47.244.120.197
@@ -2608,7 +2667,7 @@ proxies:
     path: /arki?ed=2048
 - alterId: 0
   cipher: auto
-  name: 28|[OpenRay] 🇭🇰HK-200
+  name: 28|[OpenRay] 🇭🇰HK-191
   network: ws
   port: 36703
   server: 47.244.120.197
@@ -2622,7 +2681,7 @@ proxies:
     path: /arki
 - alterId: 0
   cipher: auto
-  name: 28|[OpenRay] 🇭🇰HK-145
+  name: 28|[OpenRay] 🇭🇰HK-138
   network: ws
   port: 35043
   server: 156.245.232.239
@@ -2685,25 +2744,8 @@ proxies:
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
-- alpn:
-  - http/1.1
-  client-fingerprint: chrome
-  encryption: none
-  name: 30|🇭🇰[www.v2nodes.com] vless-HK
-  network: ws
-  port: 443
-  server: 188.114.97.6
-  servername: lucasjow.us.ci
-  skip-cert-verify: false
-  tls: true
-  type: vless
-  uuid: e6df2095-a73c-4043-8693-8d5a03686870
-  ws-opts:
-    headers:
-      Host: lucasjow.us.ci
-    path: /cart/docs/www/proxyip=108.160.132.132?ed#Telegram---TOOTFFARANGI
 - client-fingerprint: chrome
-  name: '30|🇭🇰[www.v2nodes.com] vless-HK-1... #7'
+  name: '30|🇭🇰[www.v2nodes.com] vless-HK-1... #8'
   network: ws
   port: 8443
   server: 103.148.73.173
@@ -2716,7 +2758,7 @@ proxies:
       Host: ty986gfazs.cainiaohub.xyz
     path: /81574b6b-c9d7-44a0-b83d-dad56e8cb530
 - client-fingerprint: chrome
-  name: '30|🇭🇰[www.v2nodes.com] vless-HK-1... #8'
+  name: '30|🇭🇰[www.v2nodes.com] vless-HK-1... #9'
   network: ws
   port: 8443
   server: 103.180.20.108
@@ -2728,11 +2770,6 @@ proxies:
     headers:
       Host: ty986gfazs.cainiaohub.xyz
     path: /81574b6b-c9d7-44a0-b83d-dad56e8cb530
-- name: 30,33|🇭🇰HK_1|3.4MB/s
-  port: 5555
-  server: 49.0.245.175
-  skip-cert-verify: true
-  type: socks5
 - name: '34|🇭🇰HK香港丨yoyapai.com #1'
   network: ws
   password: humanity
@@ -3061,6 +3098,14 @@ proxies:
   sni: https://t.me/WangCai2🇨🇳
   tls: false
   type: hysteria2
+- name: 34|香港 08
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: 443
+  server: 202.146.222.29
+  skip-cert-verify: true
+  sni: css.rbxcdn.com
+  tls: false
+  type: hysteria2
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
   name: 34|香港 12
@@ -3095,22 +3140,6 @@ proxies:
   tls: false
   type: vless
   uuid: 928e6cce-8ced-4243-9a48-a6642edd09b0
-- name: 34|香港 16
-  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
-  port: 443
-  server: 202.146.222.89
-  skip-cert-verify: true
-  sni: https%3a%2f%2ft.me%2fclashv8%f0%9f%87%a8%f0%9f%87%b3
-  tls: false
-  type: hysteria2
-- name: 34|香港 20
-  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
-  port: 443
-  server: 202.146.222.89
-  skip-cert-verify: true
-  sni: https%253a%252f%252ft.me%252fclashv8%25f0%259f%2587%25a8%25f0%259f%2587%25b3
-  tls: false
-  type: hysteria2
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
   name: 34|未知 VLESS-847 | free-nodes
@@ -3192,6 +3221,14 @@ proxies:
   skip-cert-verify: true
   sni: t.me
   type: trojan
+- name: 34|香港 54
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: 443
+  server: 202.146.222.174
+  skip-cert-verify: true
+  sni: https://t.me/wangcai2
+  tls: false
+  type: hysteria2
 - client-fingerprint: chrome
   name: 34|香港 58
   network: ws

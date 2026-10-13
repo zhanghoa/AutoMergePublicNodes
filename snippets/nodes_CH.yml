@@ -1,18 +1,18 @@
 proxies:
 - cipher: aes-128-gcm
-  name: '10,21| By EbraSha 🌪️ #24'
+  name: '10,21| By EbraSha 🐺 #12'
   password: shadowsocks
   port: 443
   server: 156.146.62.162
   type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha 🐉 #15'
+  name: '10,21| By EbraSha 🌀 #15'
   password: '!!str 4415934295'
   port: 50004
   server: 37.120.213.230
   type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha ⌨️ #22'
+  name: '10,21| By EbraSha 🪐 #17'
   password: f8f7aCzcPKbsF8p3
   port: 989
   server: 212.237.210.158
@@ -35,11 +35,12 @@ proxies:
   server: 84.234.31.249
   sni: 'store.steampowered.com '
   type: trojan
-- name: '10|🇨🇭 [ Configs by DukeMehdi ] TJ... #10'
+- name: 10,15,21,28|[OpenRay] 🇨🇭CH-16
+  network: raw
   password: ea4y8s7qdshp547j
   port: 4455
   server: 195.15.202.111
-  sni: 'play-apps-features.googleusercontent.com '
+  sni: play-apps-features.googleusercontent.com
   type: trojan
 - name: '10|🇨🇭 [ Configs by DukeMehdi ] TJ... #3'
   network: tcp
@@ -48,7 +49,7 @@ proxies:
   server: 185.18.250.245
   sni: 'www.calmlunch.com '
   type: trojan
-- name: 10,21,28|[OpenRay] 🇨🇭CH-6
+- name: 10,21,28|[OpenRay] 🇨🇭CH-4
   network: ws
   password: humanity
   port: 443
@@ -72,7 +73,7 @@ proxies:
     headers:
       Host: www.calmlunch.com
     path: '%2Fassignment'
-- name: '10,15,21| By EbraSha 📀 #54'
+- name: '10,15,21| By EbraSha 🕶️ #61'
   network: tcp
   password: l6R5znJSPJ
   port: 16350
@@ -84,7 +85,7 @@ proxies:
     headers:
       Host: rd.autos.yahoo.com:41636
     path: /5747463414152474635353366347474334
-- name: '10,15,21| By EbraSha 🎯 #45'
+- name: '10,15,21| By EbraSha 🧪 #68'
   network: tcp
   password: uCzwXi06tusoiP5kAUKrsg
   port: 80
@@ -93,32 +94,14 @@ proxies:
   ws-opts:
     headers:
       Host: www.upwork.com
-- name: 10,15,21,28|[OpenRay] 🇨🇭CH-19
-  network: raw
-  password: ea4y8s7qdshp547j
-  port: 4455
-  server: 195.15.202.111
-  sni: play-apps-features.googleusercontent.com
-  type: trojan
-- name: 10,15,28|[OpenRay] 🇨🇭CH-22
+- name: 10,15,28|[OpenRay] 🇨🇭CH-18
   network: raw
   password: g44i2hzwivmm7r29
   port: 4455
   server: 195.15.202.111
   sni: play-apps-features.googleusercontent.com
   type: trojan
-- name: '10|🇨🇭 [ Configs by DukeMehdi ] TJ... #20'
-  network: ws
-  password: humanity
-  port: 443
-  server: 185.18.250.245
-  sni: www.calmlunch.com
-  type: trojan
-  ws-opts:
-    headers:
-      Host: www.calmlunch.com
-    path: '/assignment '
-- name: '10,15|🔥Join+Telegram:@Farah_VPN🟣 #2407'
+- name: '10,15|🔥Join+Telegram:@Farah_VPN🟣 #2990'
   network: tcp
   password: uRkZYGid1r
   port: 41464
@@ -134,10 +117,4 @@ proxies:
   password: e8KgS8fD0yDqYFpgN4G5piCOt9aFyqA3
   port: 8388
   server: 132.243.175.144
-  type: ss
-- cipher: aes-128-cfb
-  name: 27|🇨🇭CH-156.146.62.160-4755
-  password: shadowsocks
-  port: 443
-  server: 156.146.62.160
   type: ss

@@ -21,97 +21,121 @@ proxies:
   sni: www.nintendogames.net
   type: trojan
 - cipher: chacha20-ietf-poly1305
-  name: 10,21,27|🇯🇵JP-185.172.113.182-7943
+  name: 10,27|🇯🇵JP-185.172.113.182-7954
   password: G!yBwPWH3Vao
   port: 800
   server: 185.172.113.182
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: 10,27|🇯🇵JP-185.172.113.182-7942
+  name: 10,21,27|🇯🇵JP-185.172.113.182-7955
   password: G!yBwPWH3Vao
-  port: 811
+  port: 804
   server: 185.172.113.182
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 🛸 #13'
+  name: 10,27|🇯🇵JP-193.38.139.204-5381
+  password: G!yBwPWH3Vao
+  port: 806
+  server: 193.38.139.204
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: '10,21| By EbraSha 📛 #9'
   password: G!yBwPWH3Vao
   port: 812
   server: 89.31.125.101
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: 10,21,27|🇯🇵JP-185.160.26.91-3431
+  name: 10,27|🇯🇵JP-185.160.26.91-3442
   password: Xs9ORT4j65b8HreZrg0p
   port: 1664
   server: 185.160.26.91
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha ⛓️ #8'
+  name: '10,21| By EbraSha 🧲 #11'
   password: ljqdalu13..
   port: 8316
   server: 3.112.130.53
   type: ss
 - cipher: aes-256-cfb
-  name: 10,27|🇯🇵JP-175.41.205.247-2353
+  name: 10,27|🇯🇵JP-3.112.193.151-4412
   password: amazonskr05
   port: 443
-  server: 175.41.205.247
+  server: 3.112.193.151
   type: ss
 - cipher: aes-256-cfb
-  name: 10,21,27|🇯🇵JP-43.206.219.140-3269
+  name: 10,27|🇯🇵JP-43.206.219.140-3280
   password: amazonskr05
   port: 443
   server: 43.206.219.140
   type: ss
 - cipher: aes-256-cfb
-  name: 10,21,27|🇯🇵JP-43.206.221.164-3105
+  name: 10,27|🇯🇵JP-43.206.221.164-3116
   password: amazonskr05
   port: 443
   server: 43.206.221.164
   type: ss
 - cipher: aes-256-cfb
-  name: 10,21,27|🇯🇵JP-43.207.153.185-2331
+  name: 10,27|🇯🇵JP-43.207.1.14-3056
+  password: amazonskr05
+  port: 443
+  server: 43.207.1.14
+  type: ss
+- cipher: aes-256-cfb
+  name: 10,27|🇯🇵JP-43.207.153.185-2321
   password: amazonskr05
   port: 443
   server: 43.207.153.185
   type: ss
 - cipher: aes-256-cfb
-  name: 10,21,27|🇯🇵JP-43.207.166.104-2133
+  name: 10,21,27|🇯🇵JP-43.207.166.104-2123
   password: amazonskr05
   port: 443
   server: 43.207.166.104
   type: ss
 - cipher: aes-256-cfb
-  name: 10,21,27|🇯🇵JP-172.104.123.158-0366
+  name: 10,27|🇯🇵JP-43.207.68.169-2959
+  password: amazonskr05
+  port: 443
+  server: 43.207.68.169
+  type: ss
+- cipher: aes-256-cfb
+  name: 10,27|🇯🇵JP-43.207.83.221-7725
+  password: amazonskr05
+  port: 443
+  server: 43.207.83.221
+  type: ss
+- cipher: aes-256-cfb
+  name: 10,21,27|🇯🇵JP-54.178.60.213-2424
+  password: amazonskr05
+  port: 443
+  server: 54.178.60.213
+  type: ss
+- cipher: aes-256-cfb
+  name: 10,21,27|🇯🇵JP-172.104.123.158-0370
   password: eIW0Dnk69454e6nSwuspv9DmS201tQ0D
   port: 8097
   server: 172.104.123.158
   type: ss
 - cipher: aes-256-cfb
-  name: 10,21,27|🇯🇵JP-103.75.118.27-8498
+  name: 10,21,27|🇯🇵JP-103.75.118.27-8509
   password: f8f7aCzcPKbsF8p3
   port: 989
   server: 103.75.118.27
   type: ss
 - cipher: aes-256-gcm
-  name: 10,27|🇯🇵JP-20.210.122.21-0776
-  password: 233blog.com
-  port: 443
-  server: 20.210.122.21
-  type: ss
-- cipher: aes-256-gcm
-  name: '10,21| By EbraSha 🌐 #17'
+  name: '10,21| By EbraSha 🌍 #13'
   password: 665e00335bb2fb5f7ee8243952205e5e
   port: 2087
   server: 74.222.12.141
   type: ss
 - cipher: aes-256-gcm
-  name: '10,21| By EbraSha 🌑 #23'
+  name: '10,21| By EbraSha 🔥 #19'
   password: GTZI5AbjNAeWQG0oVNptvWJogHNKiiKA
   port: 40003
   server: 47.79.144.115
   type: ss
 - cipher: aes-256-gcm
-  name: '10,21| By EbraSha 💎 #20'
+  name: '10,21| By EbraSha 🩸 #29'
   password: XKFKl2rULjIp74
   port: 8009
   server: 103.106.228.175
@@ -123,7 +147,7 @@ proxies:
   server: 153.121.52.154
   sni: 'tk-tr-4.cats22.net '
   type: trojan
-- name: '10,21| By EbraSha 🛸 #39'
+- name: '10,21| By EbraSha 🧠 #32'
   network: tcp
   password: 18844@zxcvbn
   port: 443
@@ -133,7 +157,7 @@ proxies:
   type: trojan
 - alpn:
   - http/1.1
-  name: '10,21| By EbraSha ⚡ #27'
+  name: '10,21| By EbraSha 🪖 #38'
   network: tcp
   password: 18844@zxcvbn
   port: 443
@@ -141,13 +165,13 @@ proxies:
   skip-cert-verify: true
   sni: os-tr-2.cats22.net
   type: trojan
-- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #3'
-  password: 1b5eff5a-f36b-4149-8001-7c8c0c4ed2eb
-  port: 36306
-  server: 43.206.67.76
-  sni: 'sunmoon02.abzoones.xyz '
+- name: 10,21,27|🇯🇵JP-23.145.24.30-2363
+  password: 265f092f-418b-30c9-a479-4800fd44dd19mielink
+  port: 443
+  server: 23.145.24.30
+  skip-cert-verify: false
   type: trojan
-- name: '10,15,21| By EbraSha 📛 #33'
+- name: '10,15,21| By EbraSha 🃏 #43'
   network: tcp
   password: 347ca311-8fc2-499c-8fe1-bd0ecb50f1b3
   port: 43074
@@ -155,39 +179,33 @@ proxies:
   skip-cert-verify: true
   sni: iepl.jpz2.cat.bilibili.com
   type: trojan
-- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #5'
+- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #6'
   network: tcp
   password: 44e660b0ee21cf3ac66aee2c08af85d2
   port: 3169
   server: 160.16.107.37
   sni: 'www.nintendogames.net '
   type: trojan
-- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #6'
+- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #7'
   network: tcp
   password: 4c3164ee-abcf-4091-abea-d1cd4937a68d
   port: 443
   server: 138.2.59.112
   sni: 'jy.hhllfly.kdns.fr '
   type: trojan
-- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #7'
+- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #8'
   network: tcp
   password: 4c3164ee-abcf-4091-abea-d1cd4937a68d
   port: 8443
   server: 161.33.14.183
   sni: 'jy.hhllfly.kdns.fr '
   type: trojan
-- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #8'
+- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #9'
   network: tcp
   password: 4c3164ee-abcf-4091-abea-d1cd4937a68d
   port: 443
   server: 45.76.208.253
   sni: 'jy.hhllfly.kdns.fr '
-  type: trojan
-- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #9'
-  password: 4f7dc540-d244-4e64-af21-4b5bb300add3
-  port: 443
-  server: 132.226.5.246
-  sni: 'www.tokyo2023.ga '
   type: trojan
 - name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #10'
   password: 6d64570c-81d4-30fa-b2e2-dce73e1a2702
@@ -195,183 +213,183 @@ proxies:
   server: 138.2.45.89
   sni: 'osav101.jd0001.top '
   type: trojan
-- name: 10,27|🇯🇵JP-155.248.172.87-3221
-  password: 750a29bf-0a40-437f-b120-38de74ae7eaf
-  port: 28443
-  server: 155.248.172.87
+- name: 10,27|🇯🇵JP-106.180.225.69-4991
+  password: 7x42LetRa0
+  port: 1443
+  server: 106.180.225.69
   skip-cert-verify: false
   type: trojan
-- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #13'
+- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #12'
   network: tcp
   password: 8r<[9'l6hAO#8ZQi
   port: 8443
   server: 140.83.34.214
   sni: 'Koma-YT.PAGeS.Dev '
   type: trojan
-- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #14'
+- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #13'
   network: tcp
   password: 8r<[9'l6hAO#8ZQi
   port: 443
   server: 140.83.50.165
   sni: 'Koma-YT.PAGeS.Dev '
   type: trojan
-- name: 10,27|🇯🇵JP-160.16.145.107-3382
+- name: 10,27|🇯🇵JP-133.167.100.203-3353
   password: 96983eb4-c8f1-316e-ab00-500014ed3d8b
   port: 2053
-  server: 160.16.145.107
+  server: 133.167.100.203
   skip-cert-verify: false
   type: trojan
-- name: 10,27|🇯🇵JP-219.94.250.108-3644
+- name: 10,27|🇯🇵JP-49.212.221.47-3227
   password: 96983eb4-c8f1-316e-ab00-500014ed3d8b
   port: 2053
-  server: 219.94.250.108
+  server: 49.212.221.47
   skip-cert-verify: false
   type: trojan
-- name: 10,21,27|🇯🇵JP-3.112.1.122-5515
+- name: 10,21,27|🇯🇵JP-3.112.1.122-5526
   password: JA96378052
   port: 443
   server: 3.112.1.122
   skip-cert-verify: false
   type: trojan
-- name: '10,21| By EbraSha 🧊 #43'
+- name: '10,21| By EbraSha 🕶️ #40'
   network: tcp
   password: ND91608427
   port: 443
   server: 13.192.168.51
   sni: learning-leopard.rooster465.autos
   type: trojan
-- name: '10,21| By EbraSha 🚀 #32'
+- name: '10,21| By EbraSha 🦇 #35'
   network: tcp
   password: ND91608427
   port: 443
   server: 13.231.232.184
   sni: better-molly.rooster465.autos
   type: trojan
-- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #20'
+- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #19'
   network: tcp
   password: ND91608427
   port: 443
   server: 18.178.132.111
   sni: 'devoted-heron.rooster465.autos '
   type: trojan
-- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #21'
+- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #20'
   network: tcp
   password: ND91608427
   port: 443
   server: 18.179.31.199
   sni: 'prompt-duckling.rooster465.autos '
   type: trojan
-- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #22'
+- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #21'
   network: tcp
   password: ND91608427
   port: 443
   server: 18.181.164.216
   sni: 'upright-impala.rooster465.autos '
   type: trojan
-- name: '10,21| By EbraSha ♠️ #43'
+- name: '10,21| By EbraSha 🔋 #37'
   network: tcp
   password: ND91608427
   port: 443
   server: 18.181.175.120
   sni: sure-humpback.rooster465.autos
   type: trojan
-- name: '10,21| By EbraSha 🚨 #44'
+- name: '10,21| By EbraSha ⛓️ #51'
   network: tcp
   password: ND91608427
   port: 443
   server: 18.181.194.227
   sni: moral-buzzard.rooster465.autos
   type: trojan
-- name: '10,21| By EbraSha 🧬 #45'
+- name: '10,21| By EbraSha 🔮 #40'
   network: tcp
   password: ND91608427
   port: 443
   server: 3.112.15.214
   sni: adjusted-labrador.rooster465.autos
   type: trojan
-- name: '10,21| By EbraSha 📱 #47'
+- name: '10,21| By EbraSha 🪐 #42'
   network: tcp
   password: ND91608427
   port: 443
   server: 3.112.223.141
   sni: internal-sunbird.rooster465.autos
   type: trojan
-- name: '10,21| By EbraSha 🖥️ #37'
+- name: '10,21| By EbraSha 🧊 #42'
   network: tcp
   password: ND91608427
   port: 443
   server: 3.113.1.131
   sni: perfect-slug.rooster465.autos
   type: trojan
-- name: '10,21| By EbraSha 🥷 #48'
+- name: '10,21| By EbraSha 💻 #54'
   network: tcp
   password: ND91608427
   port: 443
   server: 43.207.139.153
   sni: sensible-mongrel.rooster465.autos
   type: trojan
-- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #29'
+- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #28'
   network: tcp
   password: ND91608427
   port: 443
   server: 43.207.140.98
   sni: 'right-seahorse.rooster465.autos '
   type: trojan
-- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #30'
+- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #29'
   network: tcp
   password: ND91608427
   port: 443
   server: 43.207.155.134
   sni: 'smart-pup.rooster465.autos '
   type: trojan
-- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #31'
+- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #30'
   network: tcp
   password: ND91608427
   port: 443
   server: 43.207.89.29
   sni: 'relaxing-bluebird.rooster465.autos '
   type: trojan
-- name: '10,21| By EbraSha 🌑 #48'
+- name: '10,21| By EbraSha 🕶️ #42'
   network: tcp
   password: ND91608427
   port: 443
   server: 54.249.34.120
   sni: social-mutt.rooster465.autos
   type: trojan
-- name: '10,21| By EbraSha 🪬 #44'
+- name: '10,21| By EbraSha 🛜 #40'
   network: tcp
   password: ND91608427
   port: 443
   server: 54.65.167.167
   sni: tough-robin.rooster465.autos
   type: trojan
-- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #34'
+- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #33'
   network: tcp
   password: ND91608427
   port: 443
   server: 57.180.13.78
   sni: 'healthy-louse.rooster465.autos '
   type: trojan
-- name: '10,21| By EbraSha ♣️ #39'
+- name: '10,21| By EbraSha 🧿 #48'
   network: tcp
   password: ND91608427
   port: 443
   server: 57.180.27.225
   sni: picked-guinea.rooster465.autos
   type: trojan
-- name: '10,21| By EbraSha 🧲 #52'
+- name: '10,21| By EbraSha 🗿 #51'
   network: tcp
   password: T9qoEuuxUEa9Dk3KxnTWrs6J8ilng9sCIf
   port: 443
   server: 103.125.216.11
   type: trojan
-- name: '10,21| By EbraSha 💻 #47'
+- name: '10,21| By EbraSha 🕷️ #48'
   network: tcp
   password: T9qoEuuxUEa9Dk3KxnTWrs6J8ilng9sCIf
   port: 443
   server: 103.125.216.18
   type: trojan
-- name: '10,21| By EbraSha ⚡ #39'
+- name: '10,21| By EbraSha ⛓️ #53'
   network: tcp
   password: T9qoEuuxUEa9Dk3KxnTWrs6J8ilng9sCIf
   port: 443
@@ -401,15 +419,13 @@ proxies:
   skip-cert-verify: false
   sni: 'assuring-skink.rooster465.autos '
   type: trojan
-- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #46'
-  network: tcp
+- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #45'
   password: UX82473651
   port: 443
-  server: 18.176.61.69
-  skip-cert-verify: true
-  sni: intense-sole.rooster465.autos
+  server: 18.176.52.171
+  sni: 'legible-ram.rooster465.autos '
   type: trojan
-- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #50'
+- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #49'
   network: tcp
   password: UX82473651
   port: 443
@@ -432,7 +448,7 @@ proxies:
   skip-cert-verify: true
   sni: 'organic-caribou.rooster465.autos '
   type: trojan
-- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #75'
+- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #74'
   network: tcp
   password: UX82473651
   port: 443
@@ -487,7 +503,7 @@ proxies:
   skip-cert-verify: false
   sni: 'winning-marten.rooster465.autos '
   type: trojan
-- name: 10,21,27|🇯🇵JP-139.162.100.58-5520
+- name: 10,21,27|🇯🇵JP-139.162.100.58-5531
   password: a196faa4-403e-4a8b-987a-d1789f379685
   port: 49755
   server: 139.162.100.58
@@ -500,38 +516,32 @@ proxies:
   server: 154.64.226.149
   sni: 'hk.catxstar.com '
   type: trojan
-- name: 10,21,27|🇯🇵JP-150.230.217.213-3407
+- name: 10,21,27|🇯🇵JP-150.230.217.213-3418
   password: c09eb137-bf68-4658-84e0-102d94b74168
   port: 443
   server: 150.230.217.213
   skip-cert-verify: false
   type: trojan
-- name: 10,27|🇯🇵JP-138.2.45.243-3185
-  password: c19d1432-8b3e-4818-8837-3d160cf65908
+- name: 10,21,27|🇯🇵JP-168.138.43.89-3265
+  password: d06a3f01-1ff0-4792-9b8e-a5a604bc74a2
   port: 443
-  server: 138.2.45.243
+  server: 168.138.43.89
   skip-cert-verify: false
   type: trojan
 - name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #67'
-  password: c51d3975-a40c-4a5b-929b-c8595ed87850
-  port: 443
-  server: 15.168.28.231
-  sni: 'wel-usgt.optage.moe '
-  type: trojan
-- name: 10,27|🇯🇵JP-150.230.96.103-3538
-  password: da777aae-defb-41d0-a183-2c27da2b4677
-  port: 443
-  server: 150.230.96.103
-  skip-cert-verify: false
-  type: trojan
-- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #69'
   password: e26a229d-e8f2-4ff9-8c7d-58a9d83ee437
   port: 8886
   server: 45.32.52.173
   skip-cert-verify: true
   sni: '45.32.52.173 '
   type: trojan
-- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #70'
+- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #68'
+  password: f42e1a2e-e650-44f4-8d17-bcb68663da18
+  port: 443
+  server: 150.230.201.192
+  sni: 'www.seetheworldjp.ga '
+  type: trojan
+- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #69'
   network: ws
   password: hV66LcSGyxUdHq2aAeqxmLfpBDQmRYxo8Wte43oZr8L379SS
   port: 443
@@ -542,7 +552,7 @@ proxies:
     headers:
       Host: node2.bw8848.org
     path: '%2Fnode2-node2-gu7bfd'
-- name: '10,15|🔥Join+Telegram:@Farah_VPN🟣 #2437'
+- name: '10,15|🔥Join+Telegram:@Farah_VPN🟣 #6261'
   network: tcp
   password: PQ05174892
   port: 443
@@ -797,6 +807,15 @@ proxies:
   type: vmess
   udp: true
   uuid: 605956ee-544d-308e-8b90-51e67c6ea8da
+- name: '19,20,30|🇯🇵[www.v2nodes.com] trojan-JP-... #32'
+  network: ws
+  password: 0400697c-b581-4575-9d2f-0bbd4659312d
+  port: 20230
+  server: jp005.421421.xyz
+  sni: www.alibaba.com
+  type: trojan
+  ws-opts:
+    path: /
 - alterId: 0
   cipher: auto
   name: '19,31|🇯🇵 日本|@ripaojiedian #3'
@@ -827,7 +846,7 @@ proxies:
     headers:
       Host: kneNaKHeSXnZH259.v.3dns.vip
     path: /ws-vmess
-- name: '19,20,21,27,30,32|日本2|@ripaojiedian #4'
+- name: '19,20,27,30,32|日本2|@ripaojiedian #4'
   network: tcp
   password: AA885B42-133C-3828-FB69-E45105C06092
   port: 10125
@@ -835,9 +854,21 @@ proxies:
   skip-cert-verify: true
   sni: m.ctrip.com
   type: trojan
+- name: '20,27,30|🇯🇵[www.v2nodes.com] trojan-JP-... #45'
+  password: UX82473651
+  port: 443
+  server: 54.250.237.143
+  skip-cert-verify: false
+  type: trojan
+- name: '20,27,30|🇯🇵[www.v2nodes.com] trojan-JP-... #47'
+  password: UX82473651
+  port: 443
+  server: 54.238.153.132
+  skip-cert-verify: false
+  type: trojan
 - alterId: 0
   cipher: auto
-  name: '20,27,30|🇯🇵 日本|@ripaojiedian #2'
+  name: '20,21,27,30|🇯🇵 日本|@ripaojiedian #2'
   network: ws
   port: 443
   server: Z9FfBx3zs2q5O0BG.v.3dns.vip
@@ -852,7 +883,7 @@ proxies:
     path: /ws-vmess
 - alterId: 0
   cipher: auto
-  name: '20,27,30|🇯🇵 日本2|@ripaojiedian #2'
+  name: '20,21,27,30|🇯🇵 日本2|@ripaojiedian #2'
   network: ws
   port: 443
   server: kQov7UKaDknXb8a3.v.3dns.vip
@@ -880,36 +911,92 @@ proxies:
     headers:
       Host: kneNaKHeSXnZH259.v.3dns.vip
     path: /ws-vmess
+- name: 27|🇯🇵JP-139.162.83.219-0053
+  password: 7a566d21dfcd0f12490275fd3dd3cfc4
+  port: 443
+  server: trs11.bolab.net
+  skip-cert-verify: false
+  type: trojan
+- cipher: aes-256-gcm
+  name: 27|🇯🇵JP-20.210.122.21-0740
+  password: 233blog.com
+  port: 443
+  server: 20.210.122.21
+  type: ss
 - alterId: 0
   cipher: auto
-  name: 27|🇯🇵JP-168.138.203.232-0396
+  name: 27|🇯🇵JP-212.135.211.242-0841
   network: ws
   port: 443
-  server: suzhihan.eu.org
-  servername: suzhihan.eu.org
+  server: 212.135.211.242
+  servername: aus.lovehk.xyz
   skip-cert-verify: false
   tls: true
   type: vmess
-  uuid: 0b873cff-11ab-4716-c41a-04f886135091
+  uuid: 60f73cb3-9cf8-41bf-b7bc-752e6434a7a9
   ws-opts:
     headers:
-      Host: suzhihan.eu.org
-    path: /roewesu
+      Host: aus.lovehk.xyz
+    path: /Sydney3
 - alterId: 0
   cipher: auto
-  name: 27|🇯🇵JP-172.105.219.18-0788
+  name: 27|🇯🇵JP-109.123.230.157-0972
   network: ws
-  port: 443
-  server: 172.105.219.18
+  port: 80
+  server: 109.123.230.157
   skip-cert-verify: false
-  tls: true
+  tls: false
   type: vmess
-  uuid: 927094d3-d678-4763-8591-e240d0bcae87
+  uuid: 59517e0b-ae1c-41d3-9c44-c44cea6f7546
   ws-opts:
+    headers:
+      Host: internet.life.com.by
+    path: /takeshi.wiki
+- alterId: 64
+  cipher: auto
+  name: 27|🇯🇵JP-152.70.103.195-1245
+  network: ws
+  port: 37206
+  server: 152.70.103.195
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  uuid: ff3fd078-99b5-46b6-8cd5-d48ff271719a
+  ws-opts:
+    headers:
+      Host: 152.70.103.195
     path: /
 - alterId: 0
   cipher: auto
-  name: 27|🇯🇵JP-172.105.223.136-1434
+  name: 27|🇯🇵JP-138.2.52.176-1248
+  network: ws
+  port: 24429
+  server: 138.2.52.176
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  uuid: 8d5ca59e-8e3e-4a10-e023-53cfcd87a72b
+  ws-opts:
+    headers:
+      Host: 138.2.52.176
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 27|🇯🇵JP-52.196.144.61-1317
+  network: ws
+  port: 3331
+  server: f1f3227.u1.glados-config.net
+  skip-cert-verify: false
+  tls: true
+  type: vmess
+  uuid: 57e0cb4d-eae5-48ec-8091-149dc2b309e0
+  ws-opts:
+    headers:
+      Host: f1f3227.u1.glados-config.net
+    path: /s/f1f3227.fm.apple.com:111548
+- alterId: 0
+  cipher: auto
+  name: 27|🇯🇵JP-172.105.223.136-1412
   network: ws
   port: 443
   server: 172.105.223.136
@@ -923,31 +1010,40 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: 27|🇯🇵JP-124.156.225.184-1466
+  name: 27|🇯🇵JP-52.196.144.61-1413
   network: ws
-  port: 443
-  server: 124.156.225.184
+  port: 3331
+  server: f1f3227.v1.glados-config.net
   skip-cert-verify: false
-  tls: true
+  tls: false
   type: vmess
-  uuid: 7a010436-7b4a-4e65-ade4-844ba074ad58
+  uuid: 57e0cb4d-eae5-48ec-8091-149dc2b309e0
   ws-opts:
     headers:
-      Host: azjp.pengui.xyz
-    path: /
+      Host: f1f3227.v1.glados-config.net
+    path: /s/f1f3227.fm.apple.com:111548
 - alterId: 0
   cipher: auto
-  name: 27|🇯🇵JP-139.162.117.173-1538
+  name: 27|🇯🇵JP-147.78.244.7-1441
   network: ws
   port: 443
-  server: 139.162.117.173
+  server: 147.78.244.7
   skip-cert-verify: false
   tls: true
   type: vmess
-  uuid: 927094d3-d678-4763-8591-e240d0bcae87
+  uuid: c2907a9a-5024-41fd-be3c-30885585e3ef
   ws-opts:
-    path: /chat
-- name: 27|🇯🇵JP-168.138.44.176-3912
+    headers:
+      Host: virmach.qweasdzxc.gq
+    path: /
+- name: 27|🇯🇵JP-108.61.186.37-1527
+  password: Trojan%4082164024
+  port: 443
+  server: jp.tronsg.com
+  skip-cert-verify: false
+  sni: jp.tronsg.com
+  type: trojan
+- name: 27|🇯🇵JP-168.138.44.176-3923
   password: 8d2d5953-d649-4034-94f2-72f2df2623da
   port: 443
   server: 168.138.44.176
@@ -955,19 +1051,34 @@ proxies:
   type: trojan
 - alterId: 0
   cipher: auto
-  name: 27|🇯🇵JP-140.83.84.209-2024
+  name: 27|🇯🇵JP-160.251.64.80-1538
   network: ws
-  port: 1234
-  server: 140.83.84.209
+  port: 443
+  server: zhuyong.hucloud-dns.xyz
   skip-cert-verify: false
-  tls: false
+  tls: true
   type: vmess
-  uuid: e94247e0-d3e5-4f96-d8f3-b2144b383292
+  uuid: 4ce21a11-44fe-4814-a639-4b7caf501031
   ws-opts:
-    path: /1234
+    headers:
+      Host: zhuyong.hucloud-dns.xyz
+    path: /
+- name: 27|🇯🇵JP-138.2.45.89-2235
+  password: 6d64570c-81d4-30fa-b2e2-dce73e1a2702
+  port: 44301
+  server: 138.2.45.89
+  skip-cert-verify: false
+  sni: osav101.jd0001.top
+  type: trojan
+- cipher: aes-256-cfb
+  name: 27|🇯🇵JP-175.41.205.247-2343
+  password: amazonskr05
+  port: 443
+  server: 175.41.205.247
+  type: ss
 - alterId: 0
   cipher: auto
-  name: 27|🇯🇵JP-138.2.39.67-2455
+  name: 27|🇯🇵JP-138.2.39.67-2445
   network: ws
   port: 80
   server: 138.2.39.67
@@ -977,69 +1088,68 @@ proxies:
   uuid: ab335c88-d14a-4e67-b52c-54ed8be80c49
   ws-opts:
     path: /
-- name: 27|🇯🇵JP-52.196.144.61-2497
-  password: 0c6a3341e8d5ab17
-  port: 3389
-  server: f5465c4.pg.gladns.com
-  skip-cert-verify: false
-  type: trojan
-- cipher: aes-256-cfb
-  name: 27|🇯🇵JP-43.207.82.53-2539
-  password: amazonskr05
-  port: 443
-  server: 43.207.82.53
-  type: ss
-- alterId: 2
+- alterId: 0
   cipher: auto
-  name: 27|🇯🇵JP-153.122.173.53-3209
+  name: 27|🇯🇵JP-141.147.181.219-2448
   network: ws
-  port: 32407
-  server: 153.122.173.53
+  port: 443
+  server: 141.147.181.219
   skip-cert-verify: false
-  tls: false
+  tls: true
   type: vmess
-  uuid: 26c5fdc7-b3be-3482-9a45-d97b958a889a
+  uuid: 0b873cff-11ab-4716-c41a-04f886135091
   ws-opts:
-    path: /v2ray
-- name: 27|🇯🇵JP-133.125.42.51-3459
-  password: 96983eb4-c8f1-316e-ab00-500014ed3d8b
-  port: 65015
-  server: jp05a.roc-taiwan.org.ua
+    path: /roewesu
+- name: 27|🇯🇵JP-138.2.45.243-3196
+  password: c19d1432-8b3e-4818-8837-3d160cf65908
+  port: 443
+  server: 138.2.45.243
   skip-cert-verify: false
   type: trojan
-- name: 27|🇯🇵JP-133.242.210.166-3568
-  password: 96983eb4-c8f1-316e-ab00-500014ed3d8b
-  port: 65017
-  server: jp07a.roc-taiwan.org.ua
+- name: 27|🇯🇵JP-155.248.172.87-3232
+  password: 750a29bf-0a40-437f-b120-38de74ae7eaf
+  port: 28443
+  server: 155.248.172.87
   skip-cert-verify: false
   type: trojan
-- name: 27|🇯🇵JP-153.121.74.146-3695
+- name: 27|🇯🇵JP-160.16.145.107-3393
   password: 96983eb4-c8f1-316e-ab00-500014ed3d8b
   port: 2053
-  server: 153.121.74.146
+  server: 160.16.145.107
   skip-cert-verify: false
   type: trojan
-- name: 27|🇯🇵JP-141.147.191.85-3702
+- name: 27|🇯🇵JP-150.230.96.103-3549
+  password: da777aae-defb-41d0-a183-2c27da2b4677
+  port: 443
+  server: 150.230.96.103
+  skip-cert-verify: false
+  type: trojan
+- name: 27|🇯🇵JP-219.94.250.108-3655
+  password: 96983eb4-c8f1-316e-ab00-500014ed3d8b
+  port: 2053
+  server: 219.94.250.108
+  skip-cert-verify: false
+  type: trojan
+- name: 27|🇯🇵JP-133.242.134.182-3700
+  password: 96983eb4-c8f1-316e-ab00-500014ed3d8b
+  port: 65013
+  server: jp03a.roc-taiwan.net.ua
+  skip-cert-verify: false
+  type: trojan
+- name: 27|🇯🇵JP-141.147.191.85-3713
   password: 750a29bf-0a40-437f-b120-38de74ae7eaf
   port: 28443
   server: 141.147.191.85
   skip-cert-verify: false
   type: trojan
-- name: 27|🇯🇵JP-132.226.5.246-4981
-  password: 4f7dc540-d244-4e64-af21-4b5bb300add3
+- name: 27|🇯🇵JP-150.230.201.192-5031
+  password: f42e1a2e-e650-44f4-8d17-bcb68663da18
   port: 443
-  server: 132.226.5.246
+  server: 150.230.201.192
   skip-cert-verify: false
-  sni: www.tokyo2023.ga
+  sni: www.seetheworldjp.ga
   type: trojan
-- name: 27|🇯🇵JP-43.206.67.76-5019
-  password: 1b5eff5a-f36b-4149-8001-7c8c0c4ed2eb
-  port: 36306
-  server: 43.206.67.76
-  skip-cert-verify: false
-  sni: sunmoon02.abzoones.xyz
-  type: trojan
-- name: 27|🇯🇵JP-15.168.28.231-5023
+- name: 27|🇯🇵JP-15.168.28.231-5034
   password: c51d3975-a40c-4a5b-929b-c8595ed87850
   port: 443
   server: 15.168.28.231
@@ -1047,31 +1157,25 @@ proxies:
   sni: wel-usgt.optage.moe
   type: trojan
 - cipher: chacha20-ietf-poly1305
-  name: 27|🇯🇵JP-193.38.139.204-5373
+  name: 27|🇯🇵JP-193.38.139.204-5384
   password: G!yBwPWH3Vao
   port: 809
   server: 193.38.139.204
   type: ss
-- cipher: aes-256-cfb
-  name: 27|🇯🇵JP-54.199.83.239-5419
-  password: doub.io
-  port: 2333
-  server: 54.199.83.239
-  type: ss
-- name: 27|🇯🇵JP-18.179.31.199-5519
+- name: 27|🇯🇵JP-18.179.31.199-5530
   password: ND91608427
   port: 443
   server: 18.179.31.199
   skip-cert-verify: false
   type: trojan
-- name: 27|🇯🇵JP-64.176.36.61-5562
+- name: 27|🇯🇵JP-64.176.36.61-5573
   password: 8r<[9'l6hAO#8ZQi
   port: 443
   server: 64.176.36.61
   skip-cert-verify: false
   type: trojan
 - cipher: chacha20-ietf
-  name: 27|🇯🇵JP-13.231.157.217-5607
+  name: 27|🇯🇵JP-57.183.22.116-5618
   obfs: plain
   obfs-param: ''
   password: Mv4e0QHWPwdbKiCF
@@ -1081,7 +1185,7 @@ proxies:
   server: live.bilibilicloud01.com
   type: ssr
 - cipher: chacha20-ietf
-  name: 27|🇯🇵JP-3.112.70.206-5608
+  name: 27|🇯🇵JP-43.207.193.68-5619
   obfs: plain
   obfs-param: ''
   password: Mv4e0QHWPwdbKiCF
@@ -1091,7 +1195,7 @@ proxies:
   server: show.bilibilicloud01.com
   type: ssr
 - cipher: chacha20-ietf
-  name: 27|🇯🇵JP-13.231.146.76-5609
+  name: 27|🇯🇵JP-43.207.193.68-5620
   obfs: plain
   obfs-param: ''
   password: Mv4e0QHWPwdbKiCF
@@ -1101,7 +1205,7 @@ proxies:
   server: show.bilibilicloud01.com
   type: ssr
 - cipher: chacha20-ietf
-  name: 27|🇯🇵JP-18.183.127.175-5610
+  name: 27|🇯🇵JP-35.72.182.80-5621
   obfs: plain
   obfs-param: ''
   password: Mv4e0QHWPwdbKiCF
@@ -1111,7 +1215,7 @@ proxies:
   server: show.bilibilicloud01.com
   type: ssr
 - cipher: chacha20-ietf
-  name: 27|🇯🇵JP-13.231.157.217-5611
+  name: 27|🇯🇵JP-35.78.213.11-5622
   obfs: plain
   obfs-param: ''
   password: Mv4e0QHWPwdbKiCF
@@ -1121,7 +1225,7 @@ proxies:
   server: show.bilibilicloud01.com
   type: ssr
 - cipher: chacha20-ietf
-  name: 27|🇯🇵JP-13.158.9.121-5619
+  name: 27|🇯🇵JP-18.181.250.128-5630
   obfs: plain
   obfs-param: ''
   password: Mv4e0QHWPwdbKiCF
@@ -1131,7 +1235,7 @@ proxies:
   server: show.bilibilicloud01.com
   type: ssr
 - cipher: chacha20-ietf
-  name: 27|🇯🇵JP-18.183.19.65-5620
+  name: 27|🇯🇵JP-57.183.22.116-5631
   obfs: plain
   obfs-param: ''
   password: Mv4e0QHWPwdbKiCF
@@ -1141,7 +1245,7 @@ proxies:
   server: live.bilibilicloud01.com
   type: ssr
 - cipher: chacha20-ietf
-  name: 27|🇯🇵JP-13.231.146.76-5621
+  name: 27|🇯🇵JP-35.72.182.80-5632
   obfs: plain
   obfs-param: ''
   password: Mv4e0QHWPwdbKiCF
@@ -1151,7 +1255,7 @@ proxies:
   server: live.bilibilicloud01.com
   type: ssr
 - cipher: chacha20-ietf
-  name: 27|🇯🇵JP-35.78.179.127-5622
+  name: 27|🇯🇵JP-35.78.213.11-5633
   obfs: plain
   obfs-param: ''
   password: Mv4e0QHWPwdbKiCF
@@ -1160,41 +1264,25 @@ proxies:
   protocol-param: ''
   server: manga.bilibilicloud01.com
   type: ssr
-- cipher: chacha20-ietf-poly1305
-  name: 27|🇯🇵JP-160.251.64.80-7526
-  password: T1pb7XxxrolvPSb0u2xSOA
-  port: 8080
-  server: beacomf.xyz
-  type: ss
+- name: 28|[OpenRay] 🇯🇵JP-12
+  network: tcp
+  password: 4a5afc6d-36db-4991-9c49-7eb0ed751a39
+  port: 32676
+  server: 45.76.218.34
+  skip-cert-verify: true
+  sni: lazeno.vip
+  type: trojan
+- name: 28|[OpenRay] 🇯🇵JP-43
+  network: tcp
+  password: c8b9c7ca-c022-4ee4-9690-2d615c784b14
+  port: 32676
+  server: 45.76.218.34
+  skip-cert-verify: true
+  sni: lazeno.vip
+  type: trojan
 - alterId: 0
   cipher: auto
-  name: 28|[OpenRay] 🇯🇵JP-104
-  network: ws
-  port: 80
-  server: 168.138.43.75
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 11c3627f-31e8-4695-dfbd-34076e2f1f5d
-  ws-opts:
-    headers:
-      Host: none
-    path: /cctv13.m3u8
-- alterId: 0
-  cipher: auto
-  name: 28|[OpenRay] 🇯🇵JP-59
-  network: ws
-  port: 80
-  server: 168.138.43.75
-  tls: false
-  type: vmess
-  uuid: 11c3627f-31e8-4695-dfbd-34076e2f1f5d
-  ws-opts:
-    headers: {}
-    path: /cctv13.m3u8
-- alterId: 0
-  cipher: auto
-  name: 28|[OpenRay] 🇯🇵JP-120
+  name: 28|[OpenRay] 🇯🇵JP-130
   network: ws
   port: 80
   server: 172.111.146.64

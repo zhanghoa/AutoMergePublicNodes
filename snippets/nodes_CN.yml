@@ -1,7 +1,7 @@
 proxies:
 - alterId: 0
   cipher: auto
-  name: 27|🇨🇳CN-59.63.154.101-1407
+  name: 27|🇨🇳CN-59.63.153.28-1385
   network: ws
   port: 43815
   server: blog.voewl.com
@@ -14,7 +14,7 @@ proxies:
       Host: blog.voewl.com
     path: /abc
 - cipher: chacha20-ietf
-  name: 27|🇨🇳CN-120.232.206.251-5043
+  name: 27|🇨🇳CN-120.232.206.251-5054
   obfs: plain
   obfs-param: ''
   password: mblank1port
