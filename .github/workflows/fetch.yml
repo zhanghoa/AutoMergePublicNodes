@@ -111,12 +111,15 @@ jobs:
 
     # 抓取完成后立即触发真实测活，使 nodes.alive.yml 与 nodes.check.yml 同批。
     # 用 secrets.GITHUB_TOKEN 调 workflow_dispatch；失败不影响本次抓取结果。
-    - name: 触发 Alive Check
-      continue-on-error: true
-      run: |
-        curl -sS -X POST \
-          -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
-          -H "Accept: application/vnd.github+json" \
-          "https://api.github.com/repos/${{ github.repository }}/actions/workflows/alive-check.yml/dispatches" \
-          -d '{"ref":"master"}' \
-          -w "trigger HTTP %{http_code}\n"
+# 自动触发 Alive Check 已停用（2026-10-13）：
+# 该工作流产出的是海外视角结果，与国内可用性偏差大，
+# 改由本地 SubsCheck 在国内网络下做协议级测活。保留手动触发入口。
+#     - name: 触发 Alive Check
+#       continue-on-error: true
+#       run: |
+#         curl -sS -X POST \
+#           -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
+#           -H "Accept: application/vnd.github+json" \
+#           "https://api.github.com/repos/${{ github.repository }}/actions/workflows/alive-check.yml/dispatches" \
+#           -d '{"ref":"master"}' \
+#           -w "trigger HTTP %{http_code}\n"
