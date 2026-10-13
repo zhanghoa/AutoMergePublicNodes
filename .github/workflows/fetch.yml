@@ -90,24 +90,9 @@ jobs:
         branch: master
         force: true
 
-    - name: 计算要清除缓存的文件
-      id: purge_urls
-      run: |
-        sleep 5
-        baseUrl="https://cdn.jsdelivr.net/gh/${{ github.repository }}@master"
-        urls=""
-        for f in `find snippets -name "*.yml" -type f`; do
-          urls+="${baseUrl}/${f},"
-        done
-        for f in `find . -name "list*" -type f -maxdepth 1`; do
-          urls+="${baseUrl}/${f},"
-        done
-        echo "urls=${urls%,*}" >> $GITHUB_OUTPUT
-    - name: 清除 JsDelivr CDN 缓存
-      uses: egad13/purge-jsdelivr-cache@v1
-      with:
-        url: ${{ steps.purge_urls.outputs.urls }}
-      continue-on-error: true
+    # 注意：已移除「清除 JsDelivr CDN 缓存」步骤。
+    # cdn.jsdelivr.net（默认线路）在中国大陆无法直连，本仓库不再依赖它作为分发渠道；
+    # 用户侧统一走 raw.githubusercontent.com（配合代理/ghproxy.cn）或本地节点源，故无需清 CDN 缓存。
 
     # 抓取完成后立即触发真实测活，使 nodes.alive.yml 与 nodes.check.yml 同批。
     # 用 secrets.GITHUB_TOKEN 调 workflow_dispatch；失败不影响本次抓取结果。

@@ -41,11 +41,13 @@
 - [GhProxy.cn](https://ghproxy.cn/https://raw.githubusercontent.com/zhanghoa/AutoMergePublicNodes/master/list.txt)
 - 此处不公开部分私有镜像站
 
-以下链接可能不是最新，但绝对不会被封：
-- [JsDelivr 默认 (当前 Fastly)](https://cdn.jsdelivr.net/gh/zhanghoa/AutoMergePublicNodes@master/list.txt)
-- [JsDelivr Fastly CDN](https://fastly.jsdelivr.net/gh/zhanghoa/AutoMergePublicNodes@master/list.txt)
-- [JsDelivr Cloudflare CDN](https://testingcf.jsdelivr.net/gh/zhanghoa/AutoMergePublicNodes@master/list.txt)
-- [JsDelivr GCore CDN](https://gcore.jsdelivr.net/gh/zhanghoa/AutoMergePublicNodes@master/list.txt)
+推荐优先使用下面的原始/加速链接（始终最新；配合代理或 GhProxy.cn 即可在国内访问）：
+- [原始链接 (raw)](https://raw.githubusercontent.com/zhanghoa/AutoMergePublicNodes/master/list.txt)
+- [GhProxy.cn 加速](https://ghproxy.cn/https://raw.githubusercontent.com/zhanghoa/AutoMergePublicNodes/master/list.txt)
+- [JsDelivr Fastly CDN（备用）](https://fastly.jsdelivr.net/gh/zhanghoa/AutoMergePublicNodes@master/list.txt)
+- [JsDelivr GCore CDN（备用）](https://gcore.jsdelivr.net/gh/zhanghoa/AutoMergePublicNodes@master/list.txt)
+
+> 注：`cdn.jsdelivr.net`（默认线路）在中国大陆无法直连，已不再作为分发渠道；如需用 JsDelivr 请走 Fastly / GCore 备线。
 
 或添加 Clash Meta 订阅：（如果使用的是原版 Clash，请将链接最后的 `.meta.yml` 替换成 `.yml`。如果 Meta 提示解析错误，请**更新 Meta 至最新版本**！）
 - [原始链接](https://raw.githubusercontent.com/zhanghoa/AutoMergePublicNodes/master/list.meta.yml)
@@ -59,11 +61,11 @@
 - [nodes.meta.yml](https://raw.githubusercontent.com/zhanghoa/AutoMergePublicNodes/master/snippets/nodes.meta.yml) — 全部 Meta 支持的节点（含 http/socks5）
 - [list.txt](https://raw.githubusercontent.com/zhanghoa/AutoMergePublicNodes/master/list.txt) — base64 订阅格式
 
-以下链接可能不是最新，但绝对不会被封：
-- [JsDelivr 默认 (当前 Fastly)](https://cdn.jsdelivr.net/gh/zhanghoa/AutoMergePublicNodes@master/list.meta.yml)
-- [JsDelivr Fastly CDN](https://fastly.jsdelivr.net/gh/zhanghoa/AutoMergePublicNodes@master/list.meta.yml)
-- [JsDelivr Cloudflare CDN](https://testingcf.jsdelivr.net/gh/zhanghoa/AutoMergePublicNodes@master/list.meta.yml)
-- [JsDelivr GCore CDN](https://gcore.jsdelivr.net/gh/zhanghoa/AutoMergePublicNodes@master/list.meta.yml)
+推荐优先使用下面的原始/加速链接（始终最新；配合代理或 GhProxy.cn 即可在国内访问）：
+- [原始链接 (raw)](https://raw.githubusercontent.com/zhanghoa/AutoMergePublicNodes/master/list.meta.yml)
+- [GhProxy.cn 加速](https://ghproxy.cn/https://raw.githubusercontent.com/zhanghoa/AutoMergePublicNodes/master/list.meta.yml)
+- [JsDelivr Fastly CDN（备用）](https://fastly.jsdelivr.net/gh/zhanghoa/AutoMergePublicNodes@master/list.meta.yml)
+- [JsDelivr GCore CDN（备用）](https://gcore.jsdelivr.net/gh/zhanghoa/AutoMergePublicNodes@master/list.meta.yml)
 
 或添加 Sing-Box 订阅：（第三方提供转换，不支持本项目的节点选择和分流规则）
 - [转换链接（第三方）](https://subapi.fxxk.dedyn.io/sub?target=singbox&url=https%3A%2F%2Fraw.githubusercontent.com%2Fzhanghoa%2FAutoMergePublicNodes%2Fmaster%2Fsnippets%2Fnodes.meta.yml&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR_Online_Full_NoAuto.ini&tls13=true&emoji=true&list=false&xudp=true&udp=true&tfo=false&expand=true&scv=false&fdn=false&singbox.ipv6=1)
