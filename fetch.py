@@ -22,6 +22,7 @@ import binascii
 import threading
 import sys
 import os
+import functools
 import copy
 from types import FunctionType as function
 from typing import Set, List, Dict, Tuple, Union, Callable, Any, Optional, no_type_check
@@ -212,6 +213,11 @@ class NotANode(Exception): pass
 
 session = requests.Session()
 session.trust_env = False
+# 全局默认超时：上游源与动态源里存在响应极慢甚至不响应的地址
+# （实测 localhost 一轮里 dynamic.py 抓"机场列表"永久卡住，
+#  进程 CPU 时间为 0、日志停滞，且没有任何超时保护），
+# 这里给所有请求一个统一的 (连接, 读取) 超时，避免整轮挂死。
+session.request = functools.partial(session.request, timeout=(10, 30))
 if PROXY: session.proxies = {'http': PROXY, 'https': PROXY}
 session.headers["User-Agent"] = 'Mozilla/5.0 (X11; Linux x86_64) Clash-verge/v2.0.3 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.58'
 session.mount('file://', FileAdapter())
