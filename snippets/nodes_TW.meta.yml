@@ -1,6 +1,6 @@
 proxies:
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 🧨 #4'
+  name: '10,21| By EbraSha 📛 #5'
   password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4
   port: 50099
   server: 36.224.141.124
@@ -12,13 +12,13 @@ proxies:
   server: 36.224.152.189
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 🧊 #11'
+  name: '10,21| By EbraSha 🔌 #9'
   password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
   port: 2377
   server: 61.216.165.233
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 🌪️ #14'
+  name: '10,21| By EbraSha 🦇 #16'
   password: q2jToxsx4vTevqrFiLGuwRx96SXM3C96id1MWpnSECHq3MaTWnEV76aN5PYEigRfqf7rxAcuAMWUzYNxrYRG6QhMcYw5QnqL
   port: 56594
   server: 46.249.109.128
@@ -30,25 +30,25 @@ proxies:
   server: 61.220.130.70
   type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha 🎯 #21'
+  name: '10,21| By EbraSha 🔥 #27'
   password: qwerREWQ@@
   port: 41632
   server: 185.189.160.105
   type: ss
 - cipher: aes-256-gcm
-  name: '10,21| By EbraSha 🚧 #21'
+  name: '10,21| By EbraSha ⚡ #15'
   password: 8n6pwAcrrv2pj6tFY2p3TbQ6
   port: 33992
   server: 2.58.242.157
   type: ss
 - cipher: aes-256-gcm
-  name: '10,21| By EbraSha 💻 #22'
+  name: '10,21| By EbraSha 🐉 #20'
   password: 8n6pwAcrrv2pj6tFY2p3TbQ6
   port: 33992
   server: 2.58.242.43
   type: ss
 - cipher: aes-256-gcm
-  name: '10,21| By EbraSha 🎛️ #36'
+  name: '10,21| By EbraSha 🌀 #47'
   password: xpQwyV4W5FdA6NMANJJx73US
   port: 38033
   server: 2.58.241.45
@@ -59,7 +59,7 @@ proxies:
   server: 60.249.3.125
   skip-cert-verify: false
   type: trojan
-- name: '10,21| By EbraSha 📶 #32'
+- name: '10,21| By EbraSha 🚨 #37'
   network: tcp
   password: 6e1b9a65-884f-3aa9-9469-bf6ec0f08610
   port: 3462
@@ -67,7 +67,7 @@ proxies:
   skip-cert-verify: true
   sni: a03.taipeicitygovernment.cn.ua
   type: trojan
-- name: '10,21| By EbraSha 🧨 #20'
+- name: '10,21| By EbraSha 🕹️ #40'
   network: tcp
   password: 6e1b9a65-884f-3aa9-9469-bf6ec0f08610
   port: 3462
@@ -75,7 +75,7 @@ proxies:
   skip-cert-verify: true
   sni: a03.taipeicitygovernment.cn.ua
   type: trojan
-- name: '10,21| By EbraSha 📛 #32'
+- name: '10,21| By EbraSha 🧿 #30'
   network: tcp
   password: 6e1b9a65-884f-3aa9-9469-bf6ec0f08610
   port: 3462
@@ -83,7 +83,7 @@ proxies:
   skip-cert-verify: true
   sni: a03.taipeicitygovernment.cn.ua
   type: trojan
-- name: '10,21| By EbraSha 🦈 #31'
+- name: '10,21| By EbraSha 🪐 #38'
   network: tcp
   password: 736cd94d-7b94-3e44-8106-3419f64eaf09
   port: 3462
@@ -115,7 +115,7 @@ proxies:
   server: 211.72.35.157
   skip-cert-verify: false
   type: trojan
-- name: '10,21| By EbraSha ✨ #38'
+- name: '10,21| By EbraSha 💻 #48'
   network: tcp
   password: 96983eb4-c8f1-316e-ab00-500014ed3d8b
   port: 8443
@@ -123,7 +123,7 @@ proxies:
   skip-cert-verify: true
   sni: official.taipeicitygovernment.net.ua
   type: trojan
-- name: '10,21| By EbraSha 🗿 #40'
+- name: '10,21| By EbraSha ✨ #40'
   network: tcp
   password: 96983eb4-c8f1-316e-ab00-500014ed3d8b
   port: 8443
@@ -143,6 +143,17 @@ proxies:
   server: 211.72.35.152
   skip-cert-verify: false
   type: trojan
+- client-fingerprint: chrome
+  name: 10,15,21,28|[OpenRay] 🇹🇼TW-22
+  network: tcp
+  port: 24215
+  reality-opts:
+    public-key: mdWKUPMVTtTbDqK10BPb89OcqBC2-Lx-4NOYtqc1GWE
+  server: 118.167.248.243
+  servername: addons.mozilla.org
+  tls: false
+  type: vless
+  uuid: 19d5a678-8396-4e3b-93da-ece618d0e83a
 - client-fingerprint: firefox
   name: 10,21,28|[OpenRay] 🇹🇼TW-21
   network: tcp
@@ -155,7 +166,7 @@ proxies:
   type: vless
   uuid: 19d5a678-8396-4e3b-93da-ece618d0e83a
 - client-fingerprint: chrome
-  name: '10,15,21| By EbraSha 📀 #134'
+  name: '10,15,21| By EbraSha 🕶️ #124'
   network: tcp
   port: 15570
   reality-opts:
@@ -168,7 +179,7 @@ proxies:
   uuid: 931220c8-15ac-41f4-ba7b-8736a82a3ba2
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: '10,21| By EbraSha 🕹️ #148'
+  name: '10,21| By EbraSha 🌍 #133'
   network: tcp
   port: 443
   reality-opts:
@@ -205,12 +216,24 @@ proxies:
   type: vless
   udp: true
   uuid: 31a40f42-4ad6-4a32-a760-71102b459584
-- name: 14|A🟢🇹🇼res[🤖📺🎭🎪]_dokng.com_c55680...
-  password: '!!str 111'
-  port: 1080
-  server: 106.107.236.110
-  type: socks5
-  username: '111'
+- name: 14|A🟢🇹🇼res[🎬🤖📺🎭]_dokng.com_65a545...
+  password: exaxgqkKkd0TAMrCxeonWg==
+  port: 1443
+  server: twmoon1-cdn-route.couldflare-cdn.com
+  skip-cert-verify: false
+  sni: twmoon1-cdn-route.couldflare-cdn.com
+  tls: true
+  type: http
+  username: mrwdfNTD8M79LCukCieldrqZWqs=
+- client-fingerprint: chrome
+  name: 14|A🟢🇹🇼res[🎬🤖📺🎭]_dokng.com_80a3fd...
+  password: a7c5d30b-ce9b-4e34-b5cb-66f8308790ef
+  port: 1001
+  server: xbc1wzqr.zf-mix.9999231.xyz
+  skip-cert-verify: true
+  sni: iosapps.itunes.apple.com
+  type: anytls
+  udp: true
 - name: '19|🇹🇼[www.v2nodes.com] vless-TW-1... #1'
   network: ws
   port: 443
@@ -404,12 +427,6 @@ proxies:
   password: 7b06d22a8a7c764f
   port: 3389
   server: 211.72.35.153
-  skip-cert-verify: false
-  type: trojan
-- name: 27|🇹🇼TW-60.250.152.229-3703
-  password: 96983eb4-c8f1-316e-ab00-500014ed3d8b
-  port: 8443
-  server: official.taipeicitygovernment.net.ua
   skip-cert-verify: false
   type: trojan
 - alterId: 0
@@ -613,14 +630,6 @@ proxies:
   tls: false
   type: vless
   uuid: 85a6bd94-83a9-4e80-849f-c06d7011d1a4
-- name: 34|🇹🇼TW_25|499KB/s|A004-260618 01
-  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
-  port: 443
-  server: 103.115.109.49
-  skip-cert-verify: true
-  sni: https%3a%2f%2ft.me%2fwangcai2%f0%9f%87%a8%f0%9f%87%b3
-  tls: false
-  type: hysteria2
 - client-fingerprint: firefox
   flow: xtls-rprx-vision
   name: 34|❓Other_34|279KB/s|A004-260618 ...

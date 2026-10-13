@@ -6,19 +6,19 @@ proxies:
   server: 156.146.62.160
   type: ss
 - cipher: aes-128-gcm
-  name: '10,21| By EbraSha 🪬 #13'
+  name: '10,21| By EbraSha 📱 #13'
   password: shadowsocks
   port: 443
   server: 156.146.62.162
   type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha 🌑 #15'
+  name: '10,21| By EbraSha 🔥 #17'
   password: '!!str 4415934295'
   port: 50004
   server: 37.120.213.230
   type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha 🧨 #9'
+  name: '10,21| By EbraSha 🚧 #15'
   password: f8f7aCzcPKbsF8p3
   port: 989
   server: 212.237.210.158
@@ -79,7 +79,7 @@ proxies:
     headers:
       Host: www.calmlunch.com
     path: '%2Fassignment'
-- name: '10,15,21| By EbraSha 🚀 #69'
+- name: '10,15,21| By EbraSha 🐉 #61'
   network: tcp
   password: l6R5znJSPJ
   port: 16350
@@ -91,7 +91,7 @@ proxies:
     headers:
       Host: rd.autos.yahoo.com:41636
     path: /5747463414152474635353366347474334
-- name: '10,15,21| By EbraSha 🔋 #55'
+- name: '10,15,21| By EbraSha 📼 #64'
   network: tcp
   password: uCzwXi06tusoiP5kAUKrsg
   port: 80
@@ -102,7 +102,7 @@ proxies:
       Host: www.upwork.com
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: '10,15,21| By EbraSha 👾 #72'
+  name: '10,15,21| By EbraSha 🛡️ #82'
   network: tcp
   port: 443
   reality-opts:
@@ -114,7 +114,7 @@ proxies:
   type: vless
   uuid: 0f4081e7-612b-425f-8def-eebf144aedba
 - client-fingerprint: chrome
-  name: '10,15,21| By EbraSha 📱 #61'
+  name: '10,15,21| By EbraSha ✨ #88'
   network: httpupgrade
   port: 41826
   server: 138.124.96.88
@@ -129,7 +129,7 @@ proxies:
   - h2
   - http/1.1
   client-fingerprint: chrome
-  name: '10,21| By EbraSha 🛰️ #76'
+  name: '10,21| By EbraSha 🕶️ #87'
   network: ws
   port: 2096
   server: 185.18.250.127
@@ -143,7 +143,7 @@ proxies:
       Host: 69565ce3109804e7813f98ee.mmdbay.blog
     path: '%2Fgraphql'
 - client-fingerprint: chrome
-  name: '10,21| By EbraSha 🦅 #80'
+  name: '10,21| By EbraSha 🔐 #71'
   network: tcp
   port: 443
   reality-opts:
@@ -154,7 +154,7 @@ proxies:
   tls: false
   type: vless
   uuid: 301d514e-4aa0-47b0-ba44-a0cb891cd52f
-- name: '10,21| By EbraSha 🪖 #91'
+- name: '10,21| By EbraSha 🔮 #90'
   network: tcp
   port: 443
   reality-opts:
@@ -178,7 +178,7 @@ proxies:
     headers:
       Host: 'x.m-90.xyz '
     path: t.me%2FTEAMNETGRATISCOL
-- name: '10,21| By EbraSha 🤖 #91'
+- name: '10,21| By EbraSha 🧬 #85'
   network: xhttp
   port: 8080
   server: 185.18.250.67
@@ -191,7 +191,7 @@ proxies:
     path: /awduhiawad?ed=2560
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: '10,15,21| By EbraSha 🧨 #74'
+  name: '10,15,21| By EbraSha 🐉 #101'
   network: tcp
   port: 443
   reality-opts:
@@ -205,7 +205,7 @@ proxies:
 - client-fingerprint: qq
   grpc-opts:
     grpc-service-name: neurex
-  name: '10,21| By EbraSha 🌀 #89'
+  name: '10,21| By EbraSha 🔥 #120'
   network: grpc
   port: 16923
   reality-opts:
@@ -219,7 +219,7 @@ proxies:
 - client-fingerprint: qq
   grpc-opts:
     grpc-service-name: neurex
-  name: '10,21| By EbraSha 🧩 #91'
+  name: '10,21| By EbraSha 🃏 #115'
   network: grpc
   port: 16923
   reality-opts:
@@ -232,7 +232,7 @@ proxies:
   uuid: 732a3a5c-5dee-42c7-a898-139e35b78c5d
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: '10,15,21| By EbraSha 📼 #118'
+  name: '10,15,21| By EbraSha 🥷 #99'
   network: tcp
   port: 8443
   server: 138.124.244.77
@@ -243,7 +243,7 @@ proxies:
   uuid: 8787dd0a-095a-414e-804f-a7d16a1ae166
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: '10,21| By EbraSha 🛜 #138'
+  name: '10,21| By EbraSha 🧠 #122'
   network: tcp
   port: 8443
   reality-opts:
@@ -255,7 +255,7 @@ proxies:
   type: vless
   uuid: 8ea09611-4e24-49f9-8b2a-25974d8ebf8c
 - client-fingerprint: chrome
-  name: '10,21| By EbraSha ♣️ #115'
+  name: '10,21| By EbraSha 🪖 #139'
   network: tcp
   port: 443
   reality-opts:
@@ -267,7 +267,7 @@ proxies:
   type: vless
   uuid: 88888888-8888-8888-8888-888888888888
 - client-fingerprint: chrome
-  name: '10,21| By EbraSha 🌀 #112'
+  name: '10,21| By EbraSha 🧨 #131'
   network: tcp
   port: 8443
   reality-opts:
@@ -344,7 +344,7 @@ proxies:
     path: '%2Fglasspanel%2Fguest000_0_5de14443985f%2F'
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: '10,21| By EbraSha 🐉 #177'
+  name: '10,21| By EbraSha 🃏 #164'
   network: tcp
   port: 443
   reality-opts:
@@ -365,7 +365,7 @@ proxies:
   server: 195.15.202.111
   sni: play-apps-features.googleusercontent.com
   type: trojan
-- name: '10,15|🔥Join+Telegram:@Farah_VPN🟣 #5319'
+- name: '10,15|🔥Join+Telegram:@Farah_VPN🟣 #3507'
   network: tcp
   password: uRkZYGid1r
   port: 41464
@@ -437,13 +437,46 @@ proxies:
   type: vless
   udp: true
   uuid: 5d16ac22-6eea-426f-b778-6f4c2961faef
-- name: 14,33|🇨🇭CH_1|2.2MB/s
+- name: 14|D🔴🇨🇭hos[🤖📺🎭🎪]_dokng.com_295196...
+  password: None
+  port: 9443
+  server: 37.120.213.210
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: 14|D🔴🇨🇭hos[🎬🤖📺🎭]_dokng.com_e423df...
+  port: 9443
+  server: 149.88.27.33
+  skip-cert-verify: true
+  tls: true
+  type: http
+- auth: 3a702d4d1de4949005d8431220e040fb
+  name: 14,19,30,34|🇨🇭CH_5|325KB/s|R002-260618 01
+  obfs: salamander
+  obfs-password: c13f29db6a638ad2b211b9ce2669ef27
+  password: 3a702d4d1de4949005d8431220e040fb
+  port: 443
+  server: 152.67.75.161
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: false
+  type: hysteria2
+  udp: true
+- name: 14|D🔴🇨🇭hos[🎬🤖📺🎭]_dokng.com_a1a037...
   port: 9443
   server: 149.88.27.46
   skip-cert-verify: true
   tls: true
   type: http
-- name: 14|D🔴🇨🇭hos[🎬🤖📺🎭]_dokng.com_d10161...
+- name: 14|D🔴🇨🇭hos[🤖📺🎞️📦]_dokng.com_a0431...
+  password: a7c5d30b-ce9b-4e34-b5cb-66f8308790ef
+  port: 1024
+  server: 67agpcp5.zf-mix.9999231.xyz
+  skip-cert-verify: true
+  sni: ch-wy.9999231.xyz
+  type: anytls
+  udp: true
+- name: 14|C🟠🇨🇭hos[🎬🤖📺🎭]_dokng.com_d10161...
   port: 443
   server: 31.7.62.50
   skip-cert-verify: true
@@ -491,17 +524,6 @@ proxies:
   tls: true
   type: vless
   uuid: d5556fce-cc34-4df9-b1ff-755b02a3fc9a
-- auth: 3a702d4d1de4949005d8431220e040fb
-  name: 19,30,34|🇨🇭CH_5|325KB/s|R002-260618 01
-  obfs: salamander
-  obfs-password: c13f29db6a638ad2b211b9ce2669ef27
-  password: 3a702d4d1de4949005d8431220e040fb
-  port: 443
-  server: 152.67.75.161
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: false
-  type: hysteria2
 - alpn:
   - h2
   name: '19|🇨🇭 瑞士 | CHE #3'

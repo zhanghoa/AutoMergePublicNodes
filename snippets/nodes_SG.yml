@@ -33,13 +33,13 @@ proxies:
   server: 51.79.161.232
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 📀 #10'
+  name: '10,21| By EbraSha 🛜 #7'
   password: 7e68e32f-8015-4f37-9082-70e8b0b58043
   port: 8443
   server: 47.129.227.153
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 🚧 #5'
+  name: '10,21| By EbraSha 🩸 #11'
   password: 7e68e32f-8015-4f37-9082-70e8b0b58043
   port: 8443
   server: 13.212.109.205
@@ -51,37 +51,37 @@ proxies:
   server: 13.212.173.211
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 👑 #6'
+  name: '10,21| By EbraSha ⚡ #4'
   password: 7e68e32f-8015-4f37-9082-70e8b0b58043
   port: 8443
   server: 13.212.248.1
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 🌌 #2'
+  name: '10,21| By EbraSha 🛜 #8'
   password: 7e68e32f-8015-4f37-9082-70e8b0b58043
   port: 8443
   server: 54.169.240.70
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 🌐 #5'
+  name: '10,21| By EbraSha 🃏 #9'
   password: 7e68e32f-8015-4f37-9082-70e8b0b58043
   port: 8443
   server: 54.255.177.5
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 🧬 #3'
+  name: '10,21| By EbraSha 🌑 #9'
   password: 24Wk2NSszrfHn22zem1lYV
   port: 37708
   server: 188.166.220.70
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 🛜 #9'
+  name: '10,21| By EbraSha 🛸 #12'
   password: 2db985f6-21bf-40c2-a4f1-4ce2cf90b1c2
   port: 8443
   server: 13.229.204.74
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 🗿 #6'
+  name: '10,21| By EbraSha 🧪 #6'
   password: DAl6fKaoiAVK64kyuaYFaQ
   port: 443
   server: 45.130.165.90
@@ -147,7 +147,7 @@ proxies:
   server: 81.90.189.41
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 🦈 #7'
+  name: '10,21| By EbraSha 🔐 #5'
   password: G!yBwPWH3Vao
   port: 810
   server: 81.90.189.57
@@ -159,7 +159,7 @@ proxies:
   server: 45.32.122.179
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 🌍 #8'
+  name: '10,21| By EbraSha 🥷 #6'
   password: TFElG2FVqyqG
   port: 8388
   server: 176.97.64.144
@@ -171,7 +171,7 @@ proxies:
   server: 194.233.74.160
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 🤖 #10'
+  name: '10,21| By EbraSha 🌌 #8'
   password: gTYdduTTEBBdVZ4LcBnT
   port: 8389
   server: 84.17.38.144
@@ -189,13 +189,13 @@ proxies:
   server: 165.232.169.142
   type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha 🖥️ #16'
+  name: '10,21| By EbraSha 👑 #8'
   password: '!!str 4415934295'
   port: 50004
   server: 51.79.157.58
   type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha 🔥 #15'
+  name: '10,21| By EbraSha ⚡ #10'
   password: '!!str 4415934295'
   port: 50004
   server: 51.79.166.171
@@ -303,7 +303,7 @@ proxies:
   server: 103.172.116.5
   type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha ♦️ #18'
+  name: '10,21| By EbraSha 🌍 #14'
   password: f8f7aCzcPKbsF8p3
   port: 989
   server: 194.233.65.67
@@ -315,73 +315,73 @@ proxies:
   server: 103.172.116.5
   type: ss
 - cipher: aes-256-gcm
-  name: '10,21| By EbraSha 📛 #25'
+  name: '10,21| By EbraSha 🧿 #21'
   password: TEzjfAYq2IjtuoS
   port: 6679
   server: 172.104.44.88
   type: ss
 - cipher: aes-256-gcm
-  name: '10,21| By EbraSha 🕹️ #29'
+  name: '10,21| By EbraSha 🎛️ #23'
   password: XKFKl2rULjIp74
   port: 8009
   server: 172.104.44.88
   type: ss
 - cipher: aes-256-gcm
-  name: '10,21| By EbraSha 🧬 #25'
+  name: '10,21| By EbraSha 🌐 #27'
   password: XKFKl2rULjIp74
   port: 8009
   server: 172.104.50.106
   type: ss
 - cipher: aes-256-gcm
-  name: '10,21| By EbraSha 🦾 #27'
+  name: '10,21| By EbraSha 🎛️ #27'
   password: Y6R9pAtvxxzmGC
   port: 9090
   server: 103.106.229.69
   type: ss
 - cipher: aes-256-gcm
-  name: '10,21| By EbraSha 🌃 #24'
+  name: '10,21| By EbraSha 👑 #15'
   password: Y6R9pAtvxxzmGC
   port: 8888
   server: 139.162.24.50
   type: ss
 - cipher: aes-256-gcm
-  name: '10,21| By EbraSha 💎 #26'
+  name: '10,21| By EbraSha 🔥 #35'
   password: Y6R9pAtvxxzmGC
   port: 3389
   server: 139.162.58.13
   type: ss
 - cipher: aes-256-gcm
-  name: '10,21| By EbraSha 🦈 #19'
+  name: '10,21| By EbraSha 🌐 #33'
   password: Y6R9pAtvxxzmGC
   port: 5000
   server: 139.99.9.51
   type: ss
 - cipher: aes-256-gcm
-  name: '10,21| By EbraSha 🔥 #22'
+  name: '10,21| By EbraSha ♦️ #26'
   password: Y6R9pAtvxxzmGC
   port: 3306
   server: 51.79.178.63
   type: ss
 - cipher: aes-256-gcm
-  name: '10,21| By EbraSha 🛜 #41'
+  name: '10,21| By EbraSha 🦇 #27'
   password: cdBIDV42DCwnfIN
   port: 8119
   server: 139.162.58.13
   type: ss
 - cipher: aes-256-gcm
-  name: '10,21| By EbraSha 🦾 #30'
+  name: '10,21| By EbraSha 👾 #33'
   password: pKEW8JPByTVTLtM
   port: 443
   server: 139.162.58.13
   type: ss
 - cipher: aes-256-gcm
-  name: 10,21,34|❓Other_49|936KB/s|A004-260618 ...
+  name: 10,34|❓Other_49|936KB/s|A004-260618 ...
   password: qpSevKaUXYQKvSjp
   port: 8388
   server: 139.180.220.175
   type: ss
 - cipher: aes-256-gcm
-  name: '10,21| By EbraSha 🔐 #34'
+  name: '10,21| By EbraSha 🕶️ #30'
   password: x23Z4LGkGDkThZ9Kaz4DURQp
   port: 40093
   server: 156.146.56.137
@@ -398,7 +398,7 @@ proxies:
   server: 103.172.116.196
   skip-cert-verify: false
   type: trojan
-- name: '10,21| By EbraSha 🕶️ #37'
+- name: '10,21| By EbraSha 🗿 #35'
   network: tcp
   password: '!!str 123456'
   port: 443
@@ -408,7 +408,7 @@ proxies:
   type: trojan
 - alpn:
   - http/1.1
-  name: '10,21| By EbraSha 🌍 #29'
+  name: '10,21| By EbraSha 🛰️ #28'
   network: tcp
   password: '!!str 123456'
   port: 443
@@ -422,7 +422,7 @@ proxies:
   server: 15.235.197.4
   sni: '15.235.197.4 '
   type: trojan
-- name: '10,21| By EbraSha ⚙️ #24'
+- name: '10,21| By EbraSha 🧿 #29'
   password: 38f169d6-d202-4b1b-8db8-e6eb1648f5cf
   port: 443
   server: 43.160.197.160
@@ -480,7 +480,7 @@ proxies:
   server: 178.128.60.89
   sni: 'Koma-YT.PAGeS.Dev '
   type: trojan
-- name: '10,21| By EbraSha ⚔️ #26'
+- name: '10,21| By EbraSha ⚡ #34'
   network: tcp
   password: 8r<[9'l6hAO#8ZQi
   port: 443
@@ -522,7 +522,7 @@ proxies:
   server: 139.162.45.139
   skip-cert-verify: false
   type: trojan
-- name: '10,21| By EbraSha 🧠 #44'
+- name: '10,21| By EbraSha 🌍 #45'
   network: tcp
   password: I4bO2YDEgs
   port: 443
@@ -530,7 +530,7 @@ proxies:
   skip-cert-verify: true
   sni: aka.ms
   type: trojan
-- name: '10,21| By EbraSha 👾 #41'
+- name: '10,21| By EbraSha 🪬 #39'
   network: tcp
   password: ND91608427
   port: 443
@@ -647,14 +647,14 @@ proxies:
   type: trojan
 - alpn:
   - http/1.1
-  name: '10,21| By EbraSha 🌪️ #47'
+  name: '10,21| By EbraSha 🧿 #44'
   network: tcp
   password: d6369144-4fb6-43e5-b9ca-255abf37607d
   port: 443
   server: 139.162.36.248
   skip-cert-verify: true
   type: trojan
-- name: '10,21| By EbraSha 🖥️ #58'
+- name: '10,21| By EbraSha ⚙️ #57'
   network: tcp
   password: e505ff62-bc60-4113-b922-b40919396462
   port: 443
@@ -675,7 +675,7 @@ proxies:
     path: '%2F'
 - alpn:
   - http/1.1
-  name: '10,21| By EbraSha 🌐 #51'
+  name: '10,21| By EbraSha 🌍 #65'
   network: ws
   password: humanity
   port: 443
@@ -710,7 +710,7 @@ proxies:
   server: 18.141.8.87
   skip-cert-verify: false
   type: trojan
-- name: '10,15,21| By EbraSha 🎛️ #66'
+- name: '10,15,21| By EbraSha 🐉 #62'
   network: tcp
   password: pvZE3UfT0ziK1omVLlsjINBqeqqwab1M
   port: 50573
@@ -740,6 +740,19 @@ proxies:
     headers:
       Host: gamingdll.ir
     path: /index.html/ed=mitivpn
+- cipher: aes-128-gcm
+  name: 14|D🔴🇸🇬hos[🎬🤖📺🎭]_dokng.com_06f054...
+  password: 49b07b98-6b76-4c70-b046-39be88e75abf
+  port: 40022
+  server: ruot.ayucloudservices.nl
+  type: ss
+- cipher: aes-256-gcm
+  name: 14|A🟢🇸🇬res[🎬📺🎪]_dokng.com_cccad1b...
+  password: H3epGAIO5GGkhNJB
+  port: 8388
+  server: 103.136.68.30
+  type: ss
+  udp: true
 - name: 19,20,27|🏁RELAY-104.18.153.182-0463
   network: ws
   password: 19877587-ed94-4033-88cd-4ac50a5e8718
@@ -792,7 +805,7 @@ proxies:
     path: /ws-vmess
 - alterId: 0
   cipher: auto
-  name: '20,27,30|🇸🇬 新加坡2|@ripaojiedian #2'
+  name: '20,21,27,30|🇸🇬 新加坡2|@ripaojiedian #2'
   network: ws
   port: 443
   server: 6JiziO8PxQAXBAtZ.v.3dns.vip

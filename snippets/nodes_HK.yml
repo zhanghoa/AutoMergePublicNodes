@@ -51,7 +51,7 @@ proxies:
   sni: t.me%2Fripaojiedian
   type: trojan
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 🃏 #3'
+  name: '10,21| By EbraSha 🪐 #10'
   password: tjwRqQvteAjt3xFmbZTA
   port: 8389
   server: 84.17.37.55
@@ -105,7 +105,7 @@ proxies:
   server: 148.66.56.99
   type: ss
 - cipher: chacha20-ietf
-  name: 10,27|🇭🇰HK-103.141.221.124-5601
+  name: 10,21,27|🇭🇰HK-103.141.221.124-5601
   password: asd123456
   port: 8388
   server: 103.141.221.124
@@ -117,19 +117,19 @@ proxies:
   server: 103.149.182.79
   type: ss
 - cipher: aes-128-gcm
-  name: '10,21| By EbraSha 🌌 #8'
+  name: '10,21| By EbraSha 🐺 #10'
   password: bKgENdAl@8Zx3lAc-HK-BD-20260622
   port: 24443
   server: 154.86.30.45
   type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha 🛜 #26'
+  name: '10,21| By EbraSha 🔐 #15'
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   port: 38388
   server: 216.250.97.82
   type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha 🐉 #26'
+  name: '10,21| By EbraSha 🪐 #26'
   password: qwerREWQ@@
   port: 41632
   server: 112.213.102.188
@@ -156,7 +156,7 @@ proxies:
   skip-cert-verify: false
   sni: 'www.nintendogames.net '
   type: trojan
-- name: '10,21| By EbraSha 🚬 #32'
+- name: '10,21| By EbraSha 💻 #41'
   network: tcp
   password: 72d8e820-7926-4ce3-a87c-b6969f425c79
   port: 443
@@ -170,7 +170,7 @@ proxies:
   server: 103.234.53.23
   sni: 'telewebion.com '
   type: trojan
-- name: '10,21| By EbraSha 🎛️ #37'
+- name: '10,21| By EbraSha ⛓️ #33'
   network: tcp
   password: 7e70223b-f331-41d5-9313-02b8d2df2885
   port: 20001
@@ -178,7 +178,7 @@ proxies:
   skip-cert-verify: true
   sni: hk.catxstar.com
   type: trojan
-- name: '10,21| By EbraSha 🔮 #39'
+- name: '10,21| By EbraSha 🕹️ #42'
   network: tcp
   password: 7e70223b-f331-41d5-9313-02b8d2df2885
   port: 20004
@@ -186,7 +186,7 @@ proxies:
   skip-cert-verify: true
   sni: hk.catxstar.com
   type: trojan
-- name: '10,21| By EbraSha 🚀 #41'
+- name: '10,21| By EbraSha 🗿 #37'
   network: tcp
   password: 7e70223b-f331-41d5-9313-02b8d2df2885
   port: 20006
@@ -194,7 +194,7 @@ proxies:
   skip-cert-verify: true
   sni: hk.catxstar.com
   type: trojan
-- name: '10,21| By EbraSha 🌑 #40'
+- name: '10,21| By EbraSha 🔋 #33'
   network: tcp
   password: 7e70223b-f331-41d5-9313-02b8d2df2885
   port: 20007
@@ -202,7 +202,7 @@ proxies:
   skip-cert-verify: true
   sni: US.catxstar.com
   type: trojan
-- name: '10,21| By EbraSha 💻 #36'
+- name: '10,21| By EbraSha 🪐 #39'
   network: tcp
   password: 7e70223b-f331-41d5-9313-02b8d2df2885
   port: 20012
@@ -210,7 +210,7 @@ proxies:
   skip-cert-verify: true
   sni: hk.catxstar.com
   type: trojan
-- name: '10,21| By EbraSha 🧨 #21'
+- name: '10,21| By EbraSha 🎛️ #36'
   network: tcp
   password: 7e70223b-f331-41d5-9313-02b8d2df2885
   port: 20013
@@ -218,7 +218,7 @@ proxies:
   skip-cert-verify: true
   sni: hk.catxstar.com
   type: trojan
-- name: '10,21| By EbraSha ⚡ #39'
+- name: '10,21| By EbraSha 🐺 #34'
   network: tcp
   password: 7e70223b-f331-41d5-9313-02b8d2df2885
   port: 20014
@@ -226,7 +226,7 @@ proxies:
   skip-cert-verify: true
   sni: hk.catxstar.com
   type: trojan
-- name: '10,21| By EbraSha 📟 #38'
+- name: '10,21| By EbraSha 🦾 #33'
   network: tcp
   password: 7e70223b-f331-41d5-9313-02b8d2df2885
   port: 20015
@@ -234,7 +234,7 @@ proxies:
   skip-cert-verify: true
   sni: hk.catxstar.com
   type: trojan
-- name: '10,21| By EbraSha 🧲 #34'
+- name: '10,21| By EbraSha 👑 #30'
   network: tcp
   password: 7e70223b-f331-41d5-9313-02b8d2df2885
   port: 20017
@@ -242,7 +242,7 @@ proxies:
   skip-cert-verify: true
   sni: hk.catxstar.com
   type: trojan
-- name: '10,21| By EbraSha 🦇 #34'
+- name: '10,21| By EbraSha 🧿 #31'
   network: tcp
   password: 7e70223b-f331-41d5-9313-02b8d2df2885
   port: 20018
@@ -250,7 +250,7 @@ proxies:
   skip-cert-verify: true
   sni: hk.catxstar.com
   type: trojan
-- name: '10,21| By EbraSha ♣️ #33'
+- name: '10,21| By EbraSha ⚔️ #32'
   network: tcp
   password: 7e70223b-f331-41d5-9313-02b8d2df2885
   port: 20019
@@ -258,7 +258,7 @@ proxies:
   skip-cert-verify: true
   sni: hk.catxstar.com
   type: trojan
-- name: '10,21| By EbraSha ⚙️ #28'
+- name: '10,21| By EbraSha 🪐 #40'
   network: tcp
   password: 7e70223b-f331-41d5-9313-02b8d2df2885
   port: 20022
@@ -266,7 +266,7 @@ proxies:
   skip-cert-verify: true
   sni: hk.catxstar.com
   type: trojan
-- name: '10,21| By EbraSha 🩸 #37'
+- name: '10,21| By EbraSha 🕷️ #37'
   network: tcp
   password: 7e70223b-f331-41d5-9313-02b8d2df2885
   port: 20024
@@ -274,7 +274,7 @@ proxies:
   skip-cert-verify: true
   sni: hk.catxstar.com
   type: trojan
-- name: '10,21| By EbraSha 💣 #27'
+- name: '10,21| By EbraSha 💻 #42'
   network: tcp
   password: 7e70223b-f331-41d5-9313-02b8d2df2885
   port: 20025
@@ -282,7 +282,7 @@ proxies:
   skip-cert-verify: true
   sni: tw.catxstar.com
   type: trojan
-- name: '10,21| By EbraSha 🚀 #42'
+- name: '10,21| By EbraSha 🔋 #34'
   network: tcp
   password: 7e70223b-f331-41d5-9313-02b8d2df2885
   port: 20029
@@ -298,7 +298,7 @@ proxies:
   skip-cert-verify: true
   sni: hk.catxstar.com
   type: trojan
-- name: '10,21| By EbraSha 🛜 #47'
+- name: '10,21| By EbraSha 🩸 #48'
   network: tcp
   password: 7e70223b-f331-41d5-9313-02b8d2df2885
   port: 20031
@@ -306,7 +306,7 @@ proxies:
   skip-cert-verify: true
   sni: hk.catxstar.com
   type: trojan
-- name: '10,21| By EbraSha 📛 #33'
+- name: '10,21| By EbraSha ⚡ #28'
   network: tcp
   password: 7e70223b-f331-41d5-9313-02b8d2df2885
   port: 20032
@@ -314,7 +314,7 @@ proxies:
   skip-cert-verify: true
   sni: hk.catxstar.com
   type: trojan
-- name: '10,21| By EbraSha 🛜 #48'
+- name: '10,21| By EbraSha 📛 #34'
   network: tcp
   password: 7e70223b-f331-41d5-9313-02b8d2df2885
   port: 20034
@@ -322,7 +322,7 @@ proxies:
   skip-cert-verify: true
   sni: hk.catxstar.com
   type: trojan
-- name: '10,21| By EbraSha 🦅 #41'
+- name: '10,21| By EbraSha 🗿 #38'
   network: tcp
   password: 7e70223b-f331-41d5-9313-02b8d2df2885
   port: 20036
@@ -330,7 +330,7 @@ proxies:
   skip-cert-verify: true
   sni: SG.catxstar.com
   type: trojan
-- name: '10,21| By EbraSha ♠️ #31'
+- name: '10,21| By EbraSha 🌐 #46'
   network: tcp
   password: 7e70223b-f331-41d5-9313-02b8d2df2885
   port: 20039
@@ -338,7 +338,7 @@ proxies:
   skip-cert-verify: true
   sni: SG.catxstar.com
   type: trojan
-- name: '10,21| By EbraSha 🐺 #37'
+- name: '10,21| By EbraSha 🕹️ #43'
   network: tcp
   password: 7e70223b-f331-41d5-9313-02b8d2df2885
   port: 20041
@@ -346,7 +346,7 @@ proxies:
   skip-cert-verify: true
   sni: de.catxstar.com
   type: trojan
-- name: '10,21| By EbraSha ♣️ #34'
+- name: '10,21| By EbraSha 🌌 #30'
   network: tcp
   password: 7e70223b-f331-41d5-9313-02b8d2df2885
   port: 20044
@@ -354,7 +354,7 @@ proxies:
   skip-cert-verify: true
   sni: TW.catxstar.com
   type: trojan
-- name: '10,21| By EbraSha 🕷️ #49'
+- name: '10,21| By EbraSha 📟 #33'
   network: tcp
   password: 7e70223b-f331-41d5-9313-02b8d2df2885
   port: 20045
@@ -362,7 +362,7 @@ proxies:
   skip-cert-verify: true
   sni: TW.catxstar.com
   type: trojan
-- name: '10,21| By EbraSha 🧨 #22'
+- name: '10,21| By EbraSha 📟 #34'
   network: tcp
   password: 7e70223b-f331-41d5-9313-02b8d2df2885
   port: 20046
@@ -370,7 +370,7 @@ proxies:
   skip-cert-verify: true
   sni: hk.catxstar.com
   type: trojan
-- name: '10,21| By EbraSha 🎯 #40'
+- name: '10,21| By EbraSha ⚔️ #33'
   network: tcp
   password: 7e70223b-f331-41d5-9313-02b8d2df2885
   port: 20047
@@ -378,7 +378,7 @@ proxies:
   skip-cert-verify: true
   sni: hk.catxstar.com
   type: trojan
-- name: '10,21| By EbraSha 🧨 #23'
+- name: '10,21| By EbraSha ♠️ #31'
   network: tcp
   password: 7e70223b-f331-41d5-9313-02b8d2df2885
   port: 20048
@@ -386,7 +386,7 @@ proxies:
   skip-cert-verify: true
   sni: hk.catxstar.com
   type: trojan
-- name: '10,21| By EbraSha 📀 #40'
+- name: '10,21| By EbraSha 💻 #43'
   network: tcp
   password: 7e70223b-f331-41d5-9313-02b8d2df2885
   port: 20049
@@ -394,7 +394,7 @@ proxies:
   skip-cert-verify: true
   sni: hk.catxstar.com
   type: trojan
-- name: '10,21| By EbraSha 🔐 #41'
+- name: '10,21| By EbraSha 🛡️ #42'
   network: tcp
   password: 7e70223b-f331-41d5-9313-02b8d2df2885
   port: 20050
@@ -402,7 +402,7 @@ proxies:
   skip-cert-verify: true
   sni: us.catxstar.com
   type: trojan
-- name: '10,21| By EbraSha ♣️ #35'
+- name: '10,21| By EbraSha 🩸 #49'
   network: tcp
   password: 7e70223b-f331-41d5-9313-02b8d2df2885
   port: 20051
@@ -410,7 +410,7 @@ proxies:
   skip-cert-verify: true
   sni: ng.catxstar.com
   type: trojan
-- name: '10,21| By EbraSha 🦈 #32'
+- name: '10,21| By EbraSha 📱 #30'
   network: tcp
   password: 7e70223b-f331-41d5-9313-02b8d2df2885
   port: 20052
@@ -418,7 +418,7 @@ proxies:
   skip-cert-verify: true
   sni: hk.catxstar.com
   type: trojan
-- name: '10,21| By EbraSha 🚬 #34'
+- name: '10,21| By EbraSha 🔮 #36'
   network: tcp
   password: 7e70223b-f331-41d5-9313-02b8d2df2885
   port: 20056
@@ -426,7 +426,7 @@ proxies:
   skip-cert-verify: true
   sni: hk.catxstar.com
   type: trojan
-- name: '10,21| By EbraSha ⛓️ #35'
+- name: '10,21| By EbraSha ♣️ #45'
   network: tcp
   password: 7e70223b-f331-41d5-9313-02b8d2df2885
   port: 20058
@@ -434,7 +434,7 @@ proxies:
   skip-cert-verify: true
   sni: hk.catxstar.com
   type: trojan
-- name: '10,21| By EbraSha 🪐 #36'
+- name: '10,21| By EbraSha 🔋 #35'
   network: tcp
   password: 7e70223b-f331-41d5-9313-02b8d2df2885
   port: 20060
@@ -442,7 +442,7 @@ proxies:
   skip-cert-verify: true
   sni: SG.catxstar.com
   type: trojan
-- name: '10,21| By EbraSha 🛡️ #34'
+- name: '10,21| By EbraSha 📶 #37'
   network: tcp
   password: 7e70223b-f331-41d5-9313-02b8d2df2885
   port: 20061
@@ -450,7 +450,7 @@ proxies:
   skip-cert-verify: true
   sni: hk.catxstar.com
   type: trojan
-- name: '10,21| By EbraSha 📼 #42'
+- name: '10,21| By EbraSha 🐺 #35'
   network: tcp
   password: 7e70223b-f331-41d5-9313-02b8d2df2885
   port: 20063
@@ -458,7 +458,7 @@ proxies:
   skip-cert-verify: true
   sni: hk.catxstar.com
   type: trojan
-- name: '10,21| By EbraSha 🛜 #49'
+- name: '10,21| By EbraSha 🔋 #36'
   network: tcp
   password: 7e70223b-f331-41d5-9313-02b8d2df2885
   port: 20064
@@ -466,7 +466,7 @@ proxies:
   skip-cert-verify: true
   sni: hk.catxstar.com
   type: trojan
-- name: '10,21| By EbraSha 🧿 #35'
+- name: '10,21| By EbraSha 🤖 #24'
   network: tcp
   password: 7e70223b-f331-41d5-9313-02b8d2df2885
   port: 20065
@@ -474,7 +474,7 @@ proxies:
   skip-cert-verify: true
   sni: hk.catxstar.com
   type: trojan
-- name: '10,21| By EbraSha 🌑 #41'
+- name: '10,21| By EbraSha 🚨 #38'
   network: tcp
   password: 7e70223b-f331-41d5-9313-02b8d2df2885
   port: 20068
@@ -482,7 +482,7 @@ proxies:
   skip-cert-verify: true
   sni: hk.catxstar.com
   type: trojan
-- name: '10,21| By EbraSha 🕷️ #50'
+- name: '10,21| By EbraSha ⛓️ #35'
   network: tcp
   password: 7e70223b-f331-41d5-9313-02b8d2df2885
   port: 20072
@@ -490,7 +490,7 @@ proxies:
   skip-cert-verify: true
   sni: SG.catxstar.com
   type: trojan
-- name: '10,21| By EbraSha 🚀 #43'
+- name: '10,21| By EbraSha 🕷️ #38'
   network: tcp
   password: 7e70223b-f331-41d5-9313-02b8d2df2885
   port: 20077
@@ -498,7 +498,7 @@ proxies:
   skip-cert-verify: true
   sni: hk.catxstar.com
   type: trojan
-- name: '10,21| By EbraSha 🪖 #37'
+- name: '10,21| By EbraSha 🧨 #21'
   network: tcp
   password: 7e70223b-f331-41d5-9313-02b8d2df2885
   port: 20083
@@ -506,7 +506,7 @@ proxies:
   skip-cert-verify: true
   sni: SG.catxstar.com
   type: trojan
-- name: '10,21| By EbraSha 🔌 #36'
+- name: '10,21| By EbraSha 🚧 #34'
   network: tcp
   password: 7e70223b-f331-41d5-9313-02b8d2df2885
   port: 20085
@@ -514,7 +514,7 @@ proxies:
   skip-cert-verify: true
   sni: hk.catxstar.com
   type: trojan
-- name: '10,21| By EbraSha ⚔️ #23'
+- name: '10,21| By EbraSha 📼 #35'
   network: tcp
   password: 7e70223b-f331-41d5-9313-02b8d2df2885
   port: 20086
@@ -522,7 +522,7 @@ proxies:
   skip-cert-verify: true
   sni: hk.catxstar.com
   type: trojan
-- name: '10,21| By EbraSha 🛡️ #35'
+- name: '10,21| By EbraSha 🐺 #36'
   network: tcp
   password: 7e70223b-f331-41d5-9313-02b8d2df2885
   port: 20088
@@ -530,7 +530,7 @@ proxies:
   skip-cert-verify: true
   sni: hk.catxstar.com
   type: trojan
-- name: '10,21| By EbraSha 🖥️ #38'
+- name: '10,21| By EbraSha ⚡ #29'
   network: tcp
   password: 7e70223b-f331-41d5-9313-02b8d2df2885
   port: 20089
@@ -538,7 +538,7 @@ proxies:
   skip-cert-verify: true
   sni: SG.catxstar.com
   type: trojan
-- name: '10,21| By EbraSha ✨ #34'
+- name: '10,21| By EbraSha 🌪️ #38'
   network: tcp
   password: 7e70223b-f331-41d5-9313-02b8d2df2885
   port: 20092
@@ -546,7 +546,7 @@ proxies:
   skip-cert-verify: true
   sni: hk.catxstar.com
   type: trojan
-- name: '10,21| By EbraSha 🦾 #36'
+- name: '10,21| By EbraSha 🪐 #41'
   network: tcp
   password: 7e70223b-f331-41d5-9313-02b8d2df2885
   port: 20098
@@ -554,7 +554,7 @@ proxies:
   skip-cert-verify: true
   sni: hk.catxstar.com
   type: trojan
-- name: '10,21| By EbraSha 🎛️ #38'
+- name: '10,21| By EbraSha 🦇 #34'
   network: tcp
   password: 7e70223b-f331-41d5-9313-02b8d2df2885
   port: 20103
@@ -562,7 +562,7 @@ proxies:
   skip-cert-verify: true
   sni: ng.catxstar.com
   type: trojan
-- name: '10,21| By EbraSha 🚧 #37'
+- name: '10,21| By EbraSha 🪬 #34'
   network: tcp
   password: 7e70223b-f331-41d5-9313-02b8d2df2885
   port: 20104
@@ -570,7 +570,7 @@ proxies:
   skip-cert-verify: true
   sni: hk.catxstar.com
   type: trojan
-- name: '10,21| By EbraSha 🦇 #35'
+- name: '10,21| By EbraSha 🚨 #39'
   network: tcp
   password: 7e70223b-f331-41d5-9313-02b8d2df2885
   port: 20109
@@ -578,7 +578,7 @@ proxies:
   skip-cert-verify: true
   sni: TW.catxstar.com
   type: trojan
-- name: '10,21| By EbraSha 🌌 #34'
+- name: '10,21| By EbraSha 🧬 #30'
   network: tcp
   password: 7e70223b-f331-41d5-9313-02b8d2df2885
   port: 20112
@@ -586,7 +586,7 @@ proxies:
   skip-cert-verify: true
   sni: ca.catxstar.com
   type: trojan
-- name: '10,21| By EbraSha 🤖 #35'
+- name: '10,21| By EbraSha 🥷 #24'
   network: tcp
   password: 7e70223b-f331-41d5-9313-02b8d2df2885
   port: 20113
@@ -594,7 +594,7 @@ proxies:
   skip-cert-verify: true
   sni: ca.catxstar.com
   type: trojan
-- name: '10,21| By EbraSha 🧿 #36'
+- name: '10,21| By EbraSha 🖥️ #44'
   network: tcp
   password: 7e70223b-f331-41d5-9313-02b8d2df2885
   port: 20114
@@ -602,7 +602,7 @@ proxies:
   skip-cert-verify: true
   sni: hk.catxstar.com
   type: trojan
-- name: '10,21| By EbraSha 🔥 #34'
+- name: '10,21| By EbraSha 🦈 #42'
   network: tcp
   password: 7e70223b-f331-41d5-9313-02b8d2df2885
   port: 20117
@@ -610,7 +610,7 @@ proxies:
   skip-cert-verify: true
   sni: hk.catxstar.com
   type: trojan
-- name: '10,21| By EbraSha 🧠 #37'
+- name: '10,21| By EbraSha 🔌 #42'
   network: tcp
   password: 7e70223b-f331-41d5-9313-02b8d2df2885
   port: 20118
@@ -618,7 +618,7 @@ proxies:
   skip-cert-verify: true
   sni: hk.catxstar.com
   type: trojan
-- name: '10,21| By EbraSha 🔥 #35'
+- name: '10,21| By EbraSha ✨ #35'
   network: tcp
   password: 7e70223b-f331-41d5-9313-02b8d2df2885
   port: 20119
@@ -626,7 +626,7 @@ proxies:
   skip-cert-verify: true
   sni: hk.catxstar.com
   type: trojan
-- name: '10,21| By EbraSha 🌍 #34'
+- name: '10,21| By EbraSha 🔋 #37'
   network: tcp
   password: 7e70223b-f331-41d5-9313-02b8d2df2885
   port: 20120
@@ -634,7 +634,7 @@ proxies:
   skip-cert-verify: true
   sni: hk.catxstar.com
   type: trojan
-- name: '10,21| By EbraSha 🪬 #38'
+- name: '10,21| By EbraSha 🌍 #36'
   network: tcp
   password: 7e70223b-f331-41d5-9313-02b8d2df2885
   port: 20123
@@ -642,7 +642,7 @@ proxies:
   skip-cert-verify: true
   sni: hk.catxstar.com
   type: trojan
-- name: '10,21| By EbraSha 🐉 #49'
+- name: '10,21| By EbraSha 📱 #31'
   network: tcp
   password: 7e70223b-f331-41d5-9313-02b8d2df2885
   port: 20126
@@ -650,7 +650,7 @@ proxies:
   skip-cert-verify: true
   sni: hk.catxstar.com
   type: trojan
-- name: '10,21| By EbraSha 🌀 #26'
+- name: '10,21| By EbraSha ✨ #36'
   network: tcp
   password: 8aab51da-6b67-4bd2-b6e6-5ab3008cf53e
   port: 443
@@ -672,7 +672,7 @@ proxies:
   server: 154.92.9.25
   sni: 'Koma-YT.PAGeS.Dev '
   type: trojan
-- name: '10,15,21| By EbraSha 🌪️ #36'
+- name: '10,15,21| By EbraSha 🧨 #26'
   network: tcp
   password: BxceQaOe
   port: 52951
@@ -686,7 +686,7 @@ proxies:
   server: 219.79.214.159
   sni: 't.me%252Fripaojiedian '
   type: trojan
-- name: '10,15,21| By EbraSha 🛜 #53'
+- name: '10,15,21| By EbraSha 🧲 #32'
   password: BxceQaOe
   port: 41973
   server: 43.198.13.210
@@ -744,7 +744,7 @@ proxies:
   server: 119.247.119.212
   sni: 'sg-01.tiktokcdn.top '
   type: trojan
-- name: '10,21| By EbraSha 🚬 #56'
+- name: '10,21| By EbraSha ♠️ #44'
   network: tcp
   password: c85761bc-5d74-4ae5-b525-0d32443182fa
   port: 443
@@ -764,7 +764,7 @@ proxies:
   server: 45.11.104.94
   sni: 'sbank.ir '
   type: trojan
-- name: '10,21| By EbraSha 🔌 #51'
+- name: '10,21| By EbraSha 🕷️ #59'
   password: eeb6823c-b926-4ea2-866a-5542edd26e59
   port: 8443
   server: 83.229.121.78
@@ -783,7 +783,7 @@ proxies:
     headers:
       Host: www.pleadcourt.org
     path: '%2Fassignment'
-- name: '10,21| By EbraSha ⛓️ #54'
+- name: '10,21| By EbraSha ⚡ #52'
   password: i99Cef
   port: 28101
   server: 209.248.32.116
@@ -816,7 +816,7 @@ proxies:
     path: /ws-vmess
 - alterId: '0'
   cipher: auto
-  name: 14|C🟠🇭🇰hos[🎬📺🎭🎪]_dokng.com_525d5c...
+  name: 14|C🟠🇭🇰hos[📺🔍]_dokng.com_525d5cb2
   network: ws
   port: 443
   server: xcWBH1Kr0wwfXG24.v.3dns.vip
@@ -936,7 +936,7 @@ proxies:
     path: /ws-vmess
 - alterId: 0
   cipher: auto
-  name: '20,21,27,30|🇭🇰 香港2|@ripaojiedian #2'
+  name: '20,27,30|🇭🇰 香港2|@ripaojiedian #2'
   network: ws
   port: 443
   server: kBONDXW9liFCi4h4.v.3dns.vip
@@ -966,7 +966,7 @@ proxies:
     path: /ws-vmess
 - alterId: 0
   cipher: auto
-  name: '20,27,30|🇭🇰 香港5|@ripaojiedian #2'
+  name: '20,21,27,30|🇭🇰 香港5|@ripaojiedian #2'
   network: ws
   port: 443
   server: syJ2gGUgMwBwQwQx.v.3dns.vip
@@ -1011,20 +1011,6 @@ proxies:
   sni: www.volumeroot.com
   type: trojan
   udp: true
-- alterId: 0
-  cipher: auto
-  name: 27|🇭🇰HK-8.218.195.61-0181
-  network: ws
-  port: 443
-  server: ex1ogt73nzpqkac2.v.3dns.vip
-  skip-cert-verify: false
-  tls: true
-  type: vmess
-  uuid: f23bb427-c1f9-4373-876c-2f43e9f790f3
-  ws-opts:
-    headers:
-      Host: ex1ogt73nzpqkac2.v.3dns.vip
-    path: /
 - alterId: 0
   cipher: auto
   name: 27|🇭🇰HK-8.217.254.88-0254
@@ -1096,20 +1082,6 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: 27|🇭🇰HK-47.243.65.243-0261
-  network: ws
-  port: 443
-  server: 47.243.65.243
-  skip-cert-verify: false
-  tls: true
-  type: vmess
-  uuid: f23bb427-c1f9-4373-876c-2f43e9f790f3
-  ws-opts:
-    headers:
-      Host: lcv8v9l7oyamxxfz.v.3dns.vip
-    path: /
-- alterId: 0
-  cipher: auto
   name: 27|🇭🇰HK-47.243.65.243-1032
   network: ws
   port: 443
@@ -1121,20 +1093,6 @@ proxies:
   ws-opts:
     headers:
       Host: lcv8v9l7oyamxxfz.v.3dns.vip
-    path: /
-- alterId: 0
-  cipher: auto
-  name: 27|🇭🇰HK-8.210.24.181-1034
-  network: ws
-  port: 443
-  server: 6jdvarazgu3qqr6q.v.3dns.vip
-  skip-cert-verify: false
-  tls: true
-  type: vmess
-  uuid: f23bb427-c1f9-4373-876c-2f43e9f790f3
-  ws-opts:
-    headers:
-      Host: 6JDvArazgU3qQR6Q.v.3dns.vip
     path: /
 - alterId: 0
   cipher: auto
@@ -1509,12 +1467,6 @@ proxies:
   uuid: 1617e875-e377-4e4f-85ef-dcf9e5e10df7
   ws-opts:
     path: /
-- cipher: chacha20-ietf
-  name: 27|🇭🇰HK-103.149.182.105-5600
-  password: asd123456
-  port: 8388
-  server: 103.149.182.105
-  type: ss
 - cipher: chacha20-ietf
   name: 27|🇭🇰HK-103.141.221.101-5602
   password: asd123456

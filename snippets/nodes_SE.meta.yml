@@ -12,13 +12,13 @@ proxies:
       Host: sni.111000.dns.army
     path: '%2F%3Fhttps%253A%252F%252Ft.me%252FWangCai2%25F0%259F%2587%25A8%25F0%259F%2587%25B3%3D'
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 🧠 #5'
+  name: '10,21| By EbraSha 📀 #8'
   password: CxtcZaOSFYiJnloyTZJ0z2
   port: 443
   server: 89.22.234.121
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 📀 #17'
+  name: '10,21| By EbraSha 🐉 #11'
   password: N2YzM
   port: 1443
   server: 45.138.103.4
@@ -60,12 +60,12 @@ proxies:
   server: 70.34.212.124
   type: ss
 - cipher: aes-256-gcm
-  name: '10,21| By EbraSha 🕶️ #32'
+  name: '10,21| By EbraSha 🔥 #43'
   password: pX0uhU3ZjUcLWYs0Vez55BO3JoQrRlL
   port: 17000
   server: 172.238.244.13
   type: ss
-- name: '10,21| By EbraSha ✨ #39'
+- name: '10,21| By EbraSha 🔮 #41'
   network: tcp
   password: Bw5Mz7QkVp
   port: 443
@@ -75,7 +75,7 @@ proxies:
   type: trojan
 - alpn:
   - http/1.1
-  name: '10,21| By EbraSha 🛸 #47'
+  name: '10,21| By EbraSha 🔮 #60'
   network: tcp
   password: e72c6ea7e61f4dcea568aa569fb9b771
   port: 9443
@@ -134,7 +134,7 @@ proxies:
   server: 16.171.58.121
   sni: 'trj.rollingnext.co.uk '
   type: trojan
-- name: '10,21| By EbraSha 🤖 #59'
+- name: '10,21| By EbraSha ⚔️ #53'
   network: ws
   port: 2095
   server: 185.146.173.68
@@ -176,7 +176,7 @@ proxies:
   uuid: 037b730a-ea28-5191-ad7c-3424be5efe2e
   ws-opts:
     path: '%2Fvless '
-- name: '10,15,21| By EbraSha 🖥️ #62'
+- name: '10,15,21| By EbraSha 🩸 #72'
   network: ws
   port: 22222
   server: 13.60.129.111
@@ -190,7 +190,7 @@ proxies:
     path: /telegram-channel-vlessconfig-ws
 - client-fingerprint: firefox
   flow: xtls-rprx-vision
-  name: '10,21| By EbraSha 👑 #54'
+  name: '10,21| By EbraSha 🕹️ #79'
   network: tcp
   port: 443
   reality-opts:
@@ -215,7 +215,7 @@ proxies:
   type: vless
   uuid: 0783c6fc-16a8-46ff-a408-a099d2f6f3ac
 - client-fingerprint: chrome
-  name: '10,21| By EbraSha 🌐 #59'
+  name: '10,21| By EbraSha 🧪 #65'
   network: ws
   port: 2053
   server: 213.21.240.223
@@ -228,7 +228,7 @@ proxies:
       Host: vpn47.cc.cd
     path: '%2F'
 - client-fingerprint: chrome
-  name: '10,21| By EbraSha ⚙️ #47'
+  name: '10,21| By EbraSha 🪐 #68'
   network: ws
   port: 8443
   server: 88.216.223.37
@@ -241,7 +241,7 @@ proxies:
       Host: vpn47.cc.cd
     path: '%2F'
 - client-fingerprint: chrome
-  name: '10,21| By EbraSha 🃏 #70'
+  name: '10,21| By EbraSha 🛡️ #78'
   network: ws
   port: 443
   server: 89.22.232.39
@@ -255,7 +255,7 @@ proxies:
     path: '%2F'
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: '10,15,21| By EbraSha 🚧 #72'
+  name: '10,15,21| By EbraSha 🌑 #63'
   network: tcp
   port: 8443
   reality-opts:
@@ -266,7 +266,7 @@ proxies:
   tls: false
   type: vless
   uuid: 0cfc585b-26f2-4597-9b70-e1bb1095a2f2
-- name: '10,21| By EbraSha 🌃 #61'
+- name: '10,21| By EbraSha 🦇 #62'
   network: ws
   port: 8080
   server: 185.146.173.58
@@ -277,7 +277,7 @@ proxies:
     headers:
       Host: Kanal-polproxy.Vipnufilter.Online.
     path: /telegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%3Fed%3D2048
-- name: '10,21| By EbraSha 🌐 #62'
+- name: '10,21| By EbraSha 🦾 #78'
   network: ws
   port: 80
   server: 185.146.173.37
@@ -289,7 +289,7 @@ proxies:
       Host: 1.v.v.V-_-_-V2ray-_-_-V.v.v.mv.speedtest.net.www.Zula.ir.check-host.net.2.cakesfoodapp.COM.
     path: /telegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%3Fed%3D2048
 - flow: xtls-rprx-vision
-  name: '10,21| By EbraSha 🌌 #78'
+  name: '10,21| By EbraSha 🧲 #68'
   network: tcp
   port: 443
   reality-opts:
@@ -331,7 +331,7 @@ proxies:
   uuid: 252f7811-d86f-4dc2-97e0-83d3172ef4b8
 - grpc-opts:
     grpc-service-name: ''
-  name: '10,15,21| By EbraSha 🌃 #71'
+  name: '10,15,21| By EbraSha 🕶️ #81'
   network: grpc
   port: 443
   server: 46.249.103.67
@@ -339,7 +339,7 @@ proxies:
   type: vless
   uuid: 2c11796c-d642-4d80-819b-226ddba44561
 - client-fingerprint: chrome
-  name: '10,15,21| By EbraSha 🎛️ #90'
+  name: '10,15,21| By EbraSha 🚀 #78'
   network: grpc
   port: 443
   reality-opts:
@@ -378,7 +378,7 @@ proxies:
   uuid: 408c51e8-9246-483d-ba73-34ab4e202eb9
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: '10,21| By EbraSha 🗿 #81'
+  name: '10,21| By EbraSha ♦️ #90'
   network: tcp
   port: 443
   reality-opts:
@@ -405,7 +405,7 @@ proxies:
     path: t.me%2FTEAMNETGRATISCOL
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: '10,15,21| By EbraSha ⛓️ #92'
+  name: '10,15,21| By EbraSha 🗿 #99'
   network: tcp
   port: 443
   reality-opts:
@@ -418,7 +418,7 @@ proxies:
   uuid: 4928c901-be72-4f81-8d59-091ce9e01692
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: '10,15,21| By EbraSha 📱 #77'
+  name: '10,15,21| By EbraSha 🛸 #98'
   network: tcp
   port: 443
   reality-opts:
@@ -452,7 +452,7 @@ proxies:
     headers:
       Host: xn--047h.iman-v2ray.sbs.
     path: '/ '
-- name: '10,15,21| By EbraSha 🦂 #102'
+- name: '10,15,21| By EbraSha 🛡️ #105'
   network: tcp
   port: 42316
   server: 13.51.238.84
@@ -513,7 +513,7 @@ proxies:
     path: /
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: '10,15,21| By EbraSha 🩸 #121'
+  name: '10,15,21| By EbraSha 🌃 #102'
   network: tcp
   port: 2087
   reality-opts:
@@ -526,7 +526,7 @@ proxies:
   uuid: 689b65e0-57a8-41ba-804d-10c079c2b393
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: '10,15,21| By EbraSha 👾 #110'
+  name: '10,15,21| By EbraSha 💎 #104'
   network: tcp
   port: 443
   reality-opts:
@@ -539,7 +539,7 @@ proxies:
   uuid: 68d89911-b92d-46fe-9007-3645c3b285f0
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: '10,15,21| By EbraSha ♠️ #88'
+  name: '10,15,21| By EbraSha 🦂 #117'
   network: tcp
   port: 443
   reality-opts:
@@ -562,7 +562,7 @@ proxies:
     path: /rxv2ray-rxv2ray-rxv2ray-rxv2ray%3Fed%3D2048
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: '10,21| By EbraSha 🗿 #101'
+  name: '10,21| By EbraSha 🐉 #117'
   network: raw
   port: 443
   reality-opts:
@@ -575,7 +575,7 @@ proxies:
   uuid: 8046e3a1-83a7-4155-86e4-374153fe66f3
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: '10,15,21| By EbraSha 🌍 #123'
+  name: '10,15,21| By EbraSha 🦂 #122'
   network: tcp
   port: 443
   reality-opts:
@@ -588,7 +588,7 @@ proxies:
   uuid: 87fd990d-ca93-440a-bbd4-e8281c4a0910
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: '10,15,21| By EbraSha 👑 #109'
+  name: '10,15,21| By EbraSha 🕹️ #135'
   network: tcp
   port: 443
   reality-opts:
@@ -600,7 +600,7 @@ proxies:
   type: vless
   uuid: 87fd990d-ca93-440a-bbd4-e8281c4a0910
 - flow: xtls-rprx-vision
-  name: '10,21| By EbraSha ⚙️ #107'
+  name: '10,21| By EbraSha 🧲 #115'
   network: tcp
   port: 443
   reality-opts:
@@ -612,7 +612,7 @@ proxies:
   type: vless
   uuid: 980231fb-4372-5c81-b696-20aa34d33af0
 - flow: xtls-rprx-vision
-  name: '10,21| By EbraSha 🧊 #125'
+  name: '10,21| By EbraSha 💣 #109'
   network: tcp
   port: 443
   reality-opts:
@@ -652,7 +652,7 @@ proxies:
     headers:
       Host: digikala.com.arvancloud.ir.farsroid.com.soft98.ir.par30dl.com.flstudio.com.xn--0-ko6ab82c106mda34ulw7efa.blog.shabazian.ir.
     path: /?ed=2560
-- name: '10,21| By EbraSha 🎛️ #148'
+- name: '10,21| By EbraSha 🦅 #141'
   network: ws
   port: 80
   server: 185.146.173.58
@@ -681,7 +681,7 @@ proxies:
 - alpn:
   - h3
   client-fingerprint: firefox
-  name: '10,21| By EbraSha 🛰️ #144'
+  name: '10,21| By EbraSha ⚔️ #123'
   network: ws
   port: 443
   server: 192.71.82.2
@@ -694,7 +694,7 @@ proxies:
     path: '%2FLiL%3Fed%3D%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512'
 - client-fingerprint: firefox
   flow: xtls-rprx-vision
-  name: '10,15,21| By EbraSha 📶 #119'
+  name: '10,15,21| By EbraSha 🔐 #118'
   network: tcp
   port: 443
   reality-opts:
@@ -732,7 +732,7 @@ proxies:
   type: vless
   uuid: c20751de-06c3-4044-b6a4-eebc9b040d92
 - client-fingerprint: chrome
-  name: '10,21| By EbraSha 📱 #121'
+  name: '10|🇸🇪 [ Configs by DukeMehdi ] VL... #49'
   network: ws
   port: 444
   server: 109.120.155.155
@@ -745,7 +745,7 @@ proxies:
       Host: bapj1qapjk4.0sds0li1bwcz0i76it0gjxv1.workers.dev
     path: /@Marisa_kristi
 - flow: xtls-rprx-vision
-  name: '10,21| By EbraSha 🕶️ #144'
+  name: '10,21| By EbraSha 🔮 #152'
   network: raw
   port: 443
   reality-opts:
@@ -769,7 +769,7 @@ proxies:
     headers:
       Host: ccc.010304.xyz
     path: '%2F '
-- name: '10,21| By EbraSha 🦅 #149'
+- name: '10,21| By EbraSha 🩸 #154'
   network: tcp
   port: 40617
   server: 109.120.132.142
@@ -777,7 +777,7 @@ proxies:
   type: vless
   uuid: d8d05386-e381-40a4-bb63-715c208b3ed3
 - client-fingerprint: chrome
-  name: '10,21| By EbraSha 📶 #134'
+  name: '10,21| By EbraSha 🌃 #141'
   network: tcp
   port: 36019
   reality-opts:
@@ -790,7 +790,7 @@ proxies:
   uuid: de86d13b-b419-4587-b643-c41ba6ea51ed
 - client-fingerprint: safari
   flow: xtls-rprx-vision
-  name: '10,21| By EbraSha 🩸 #174'
+  name: '10,21| By EbraSha 🚨 #157'
   network: tcp
   port: 443
   reality-opts:
@@ -815,7 +815,7 @@ proxies:
   uuid: e327401a-0897-4d45-8d5a-af685c7ee363
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: '10,15,21| By EbraSha 🤖 #158'
+  name: '10,15,21| By EbraSha ♣️ #164'
   network: tcp
   port: 443
   reality-opts:
@@ -828,7 +828,7 @@ proxies:
   uuid: ecad47b0-249e-4f6f-adff-e3c8f02b1897
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: '10,21| By EbraSha 🧿 #170'
+  name: '10,21| By EbraSha ⚙️ #156'
   network: tcp
   port: 443
   reality-opts:
@@ -878,7 +878,7 @@ proxies:
   uuid: f9cb2991-ad4a-4a54-aeb3-55d56ac02a8e
   ws-opts:
     path: '%2FSweCDN'
-- name: '10,15,21| By EbraSha 💻 #184'
+- name: '10,15,21| By EbraSha 🚀 #160'
   network: httpupgrade
   port: 2095
   server: 185.146.173.206
@@ -905,7 +905,7 @@ proxies:
   uuid: fc00adfb-232a-46ce-8b93-0c70e516aa8a
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: '10,15,21| By EbraSha 🖥️ #157'
+  name: '10,15,21| By EbraSha ✨ #189'
   network: tcp
   port: 443
   reality-opts:
@@ -939,7 +939,7 @@ proxies:
       Host: digi--v2raycncfs.RadioTeHran.oRG.
     path: /Digiv2ray-
 - client-fingerprint: chrome
-  name: '10,15|🔥Join+Telegram:@Farah_VPN🟣 #5361'
+  name: '10,15|🔥Join+Telegram:@Farah_VPN🟣 #2533'
   network: ws
   port: 443
   server: 202.155.11.249
@@ -980,28 +980,28 @@ proxies:
   type: vless
   udp: true
   uuid: e4be912f-68e8-4d51-80a4-1342b646f8e0
-- name: 14,30,33|🇸🇪SE_2|2.4MB/s
+- name: 14|C🟠🇸🇪hos[📺🎭🎞️📦]_dokng.com_9baf7...
+  port: 8443
+  server: 185.209.31.2
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: 14|D🔴🇸🇪hos[🎬🤖📺🎭]_dokng.com_d91d6d...
+  password: a7c5d30b-ce9b-4e34-b5cb-66f8308790ef
+  port: 1020
+  server: fkcx3zsc.zf-mix.9999231.xyz
+  sni: se-house.9999231.xyz
+  type: anytls
+- name: 14,27|🇸🇪SE-146.70.242.146-0603
   password: None
   port: 443
-  server: 79.142.77.63
-  skip-cert-verify: true
+  server: 146.70.242.146
+  skip-cert-verify: false
   tls: true
   type: http
-- name: 14,33|🇸🇪SE_1|2.9MB/s
+- name: 14|D🔴🇸🇪hos[🎬🤖📺🎭]_dokng.com_6c7ec5...
   port: 443
   server: 146.70.242.146
-  skip-cert-verify: true
-  tls: true
-  type: http
-- name: 14|C🟠🇸🇪hos[🎬🤖📺🎭]_dokng.com_7dcb6a...
-  port: 443
-  server: 79.142.77.63
-  skip-cert-verify: true
-  tls: true
-  type: http
-- name: 14,33|🇸🇪SE_3|1.8MB/s
-  port: 443
-  server: 146.70.242.130
   skip-cert-verify: true
   tls: true
   type: http
@@ -1018,22 +1018,10 @@ proxies:
   skip-cert-verify: true
   tls: true
   type: http
-- name: 14|C🟠🇸🇪hos[📺🎪✨✈️]_dokng.com_9baf7...
-  port: 8443
-  server: 185.209.31.2
-  skip-cert-verify: true
-  tls: true
-  type: http
-- name: 14,27|🇸🇪SE-146.70.242.146-0603
+- name: 14,30|🇸🇪SE_1|2.3MB/s
   password: None
   port: 443
-  server: 146.70.242.146
-  skip-cert-verify: false
-  tls: true
-  type: http
-- name: 14|D🔴🇸🇪hos[🎬🤖📺🎭]_dokng.com_d28f08...
-  port: 8443
-  server: 77.221.136.60
+  server: 79.142.77.63
   skip-cert-verify: true
   tls: true
   type: http
@@ -1042,6 +1030,24 @@ proxies:
   port: 443
   server: 149.50.216.65
   skip-cert-verify: false
+  tls: true
+  type: http
+- name: 14|C🟠🇸🇪hos[🎬🤖📺🎭]_dokng.com_5cd882...
+  port: 443
+  server: 149.50.216.65
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: 14|C🟠🇸🇪hos[🎬🤖📺🎭]_dokng.com_7dcb6a...
+  port: 443
+  server: 79.142.77.63
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: 14|D🔴🇸🇪hos[🎬🤖📺🎭]_dokng.com_d28f08...
+  port: 8443
+  server: 77.221.136.60
+  skip-cert-verify: true
   tls: true
   type: http
 - name: '17,19,21,30|Telegram 🆔@cnetvpn 🇸🇪 #2'
