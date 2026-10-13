@@ -21,70 +21,28 @@ proxies:
   sni: www.nintendogames.net
   type: trojan
 - cipher: chacha20-ietf-poly1305
-  name: 10,27|🇯🇵JP-185.172.113.182-7954
-  password: G!yBwPWH3Vao
-  port: 800
-  server: 185.172.113.182
-  type: ss
-- cipher: chacha20-ietf-poly1305
   name: 10,21,27|🇯🇵JP-185.172.113.182-7955
   password: G!yBwPWH3Vao
   port: 804
   server: 185.172.113.182
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: 10,27|🇯🇵JP-193.38.139.204-5381
+  name: 10,21,27|🇯🇵JP-185.172.113.182-7953
   password: G!yBwPWH3Vao
-  port: 806
-  server: 193.38.139.204
+  port: 811
+  server: 185.172.113.182
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 📛 #9'
+  name: '10,21| By EbraSha 🚨 #8'
   password: G!yBwPWH3Vao
   port: 812
   server: 89.31.125.101
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: 10,27|🇯🇵JP-185.160.26.91-3442
-  password: Xs9ORT4j65b8HreZrg0p
-  port: 1664
-  server: 185.160.26.91
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 🧲 #11'
+  name: '10,21| By EbraSha 🥷 #10'
   password: ljqdalu13..
   port: 8316
   server: 3.112.130.53
-  type: ss
-- cipher: aes-256-cfb
-  name: 10,27|🇯🇵JP-3.112.193.151-4412
-  password: amazonskr05
-  port: 443
-  server: 3.112.193.151
-  type: ss
-- cipher: aes-256-cfb
-  name: 10,27|🇯🇵JP-43.206.219.140-3280
-  password: amazonskr05
-  port: 443
-  server: 43.206.219.140
-  type: ss
-- cipher: aes-256-cfb
-  name: 10,27|🇯🇵JP-43.206.221.164-3116
-  password: amazonskr05
-  port: 443
-  server: 43.206.221.164
-  type: ss
-- cipher: aes-256-cfb
-  name: 10,27|🇯🇵JP-43.207.1.14-3056
-  password: amazonskr05
-  port: 443
-  server: 43.207.1.14
-  type: ss
-- cipher: aes-256-cfb
-  name: 10,27|🇯🇵JP-43.207.153.185-2321
-  password: amazonskr05
-  port: 443
-  server: 43.207.153.185
   type: ss
 - cipher: aes-256-cfb
   name: 10,21,27|🇯🇵JP-43.207.166.104-2123
@@ -93,25 +51,25 @@ proxies:
   server: 43.207.166.104
   type: ss
 - cipher: aes-256-cfb
-  name: 10,27|🇯🇵JP-43.207.68.169-2959
+  name: 10,21,27|🇯🇵JP-43.207.82.53-2529
   password: amazonskr05
   port: 443
-  server: 43.207.68.169
+  server: 43.207.82.53
   type: ss
 - cipher: aes-256-cfb
-  name: 10,27|🇯🇵JP-43.207.83.221-7725
-  password: amazonskr05
-  port: 443
-  server: 43.207.83.221
-  type: ss
-- cipher: aes-256-cfb
-  name: 10,21,27|🇯🇵JP-54.178.60.213-2424
+  name: 10,27|🇯🇵JP-54.178.60.213-2424
   password: amazonskr05
   port: 443
   server: 54.178.60.213
   type: ss
 - cipher: aes-256-cfb
-  name: 10,21,27|🇯🇵JP-172.104.123.158-0370
+  name: 10,21,27|🇯🇵JP-54.199.83.239-5430
+  password: doub.io
+  port: 2333
+  server: 54.199.83.239
+  type: ss
+- cipher: aes-256-cfb
+  name: 10,27|🇯🇵JP-172.104.123.158-0370
   password: eIW0Dnk69454e6nSwuspv9DmS201tQ0D
   port: 8097
   server: 172.104.123.158
@@ -123,19 +81,19 @@ proxies:
   server: 103.75.118.27
   type: ss
 - cipher: aes-256-gcm
-  name: '10,21| By EbraSha 🌍 #13'
+  name: '10,21| By EbraSha 🧿 #17'
   password: 665e00335bb2fb5f7ee8243952205e5e
   port: 2087
   server: 74.222.12.141
   type: ss
 - cipher: aes-256-gcm
-  name: '10,21| By EbraSha 🔥 #19'
+  name: '10,21| By EbraSha 🦅 #20'
   password: GTZI5AbjNAeWQG0oVNptvWJogHNKiiKA
   port: 40003
   server: 47.79.144.115
   type: ss
 - cipher: aes-256-gcm
-  name: '10,21| By EbraSha 🩸 #29'
+  name: '10,21| By EbraSha 🌃 #19'
   password: XKFKl2rULjIp74
   port: 8009
   server: 103.106.228.175
@@ -147,7 +105,7 @@ proxies:
   server: 153.121.52.154
   sni: 'tk-tr-4.cats22.net '
   type: trojan
-- name: '10,21| By EbraSha 🧠 #32'
+- name: '10,21| By EbraSha ⚡ #30'
   network: tcp
   password: 18844@zxcvbn
   port: 443
@@ -157,7 +115,7 @@ proxies:
   type: trojan
 - alpn:
   - http/1.1
-  name: '10,21| By EbraSha 🪖 #38'
+  name: '10,21| By EbraSha 🧊 #32'
   network: tcp
   password: 18844@zxcvbn
   port: 443
@@ -165,13 +123,27 @@ proxies:
   skip-cert-verify: true
   sni: os-tr-2.cats22.net
   type: trojan
-- name: 10,21,27|🇯🇵JP-23.145.24.30-2363
+- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #3'
+  password: 1b5eff5a-f36b-4149-8001-7c8c0c4ed2eb
+  port: 36306
+  server: 43.206.67.76
+  sni: 'sunmoon02.abzoones.xyz '
+  type: trojan
+- name: 10,27|🇯🇵JP-23.145.24.30-2363
   password: 265f092f-418b-30c9-a479-4800fd44dd19mielink
   port: 443
   server: 23.145.24.30
   skip-cert-verify: false
   type: trojan
-- name: '10,15,21| By EbraSha 🃏 #43'
+- name: 10,21,28|[OpenRay] 🇯🇵JP-28
+  network: tcp
+  password: 2ab72d48-de25-4ae7-aefe-722b3384245d
+  port: 32676
+  server: 45.76.218.34
+  skip-cert-verify: true
+  sni: lazeno.vip
+  type: trojan
+- name: '10,15,21| By EbraSha 🧊 #33'
   network: tcp
   password: 347ca311-8fc2-499c-8fe1-bd0ecb50f1b3
   port: 43074
@@ -179,45 +151,39 @@ proxies:
   skip-cert-verify: true
   sni: iepl.jpz2.cat.bilibili.com
   type: trojan
-- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #6'
+- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #7'
   network: tcp
   password: 44e660b0ee21cf3ac66aee2c08af85d2
   port: 3169
   server: 160.16.107.37
   sni: 'www.nintendogames.net '
   type: trojan
-- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #7'
+- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #8'
   network: tcp
   password: 4c3164ee-abcf-4091-abea-d1cd4937a68d
   port: 443
   server: 138.2.59.112
   sni: 'jy.hhllfly.kdns.fr '
   type: trojan
-- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #8'
+- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #9'
   network: tcp
   password: 4c3164ee-abcf-4091-abea-d1cd4937a68d
   port: 8443
   server: 161.33.14.183
   sni: 'jy.hhllfly.kdns.fr '
   type: trojan
-- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #9'
+- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #10'
   network: tcp
   password: 4c3164ee-abcf-4091-abea-d1cd4937a68d
   port: 443
   server: 45.76.208.253
   sni: 'jy.hhllfly.kdns.fr '
   type: trojan
-- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #10'
-  password: 6d64570c-81d4-30fa-b2e2-dce73e1a2702
-  port: 44301
-  server: 138.2.45.89
-  sni: 'osav101.jd0001.top '
-  type: trojan
-- name: 10,27|🇯🇵JP-106.180.225.69-4991
-  password: 7x42LetRa0
-  port: 1443
-  server: 106.180.225.69
-  skip-cert-verify: false
+- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #11'
+  password: 4f7dc540-d244-4e64-af21-4b5bb300add3
+  port: 443
+  server: 132.226.5.246
+  sni: 'www.tokyo2023.ga '
   type: trojan
 - name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #12'
   network: tcp
@@ -233,16 +199,10 @@ proxies:
   server: 140.83.50.165
   sni: 'Koma-YT.PAGeS.Dev '
   type: trojan
-- name: 10,27|🇯🇵JP-133.167.100.203-3353
+- name: 10,21,27|🇯🇵JP-153.121.74.146-3706
   password: 96983eb4-c8f1-316e-ab00-500014ed3d8b
   port: 2053
-  server: 133.167.100.203
-  skip-cert-verify: false
-  type: trojan
-- name: 10,27|🇯🇵JP-49.212.221.47-3227
-  password: 96983eb4-c8f1-316e-ab00-500014ed3d8b
-  port: 2053
-  server: 49.212.221.47
+  server: 153.121.74.146
   skip-cert-verify: false
   type: trojan
 - name: 10,21,27|🇯🇵JP-3.112.1.122-5526
@@ -251,151 +211,151 @@ proxies:
   server: 3.112.1.122
   skip-cert-verify: false
   type: trojan
-- name: '10,21| By EbraSha 🕶️ #40'
+- name: '10,21| By EbraSha 🐺 #41'
   network: tcp
   password: ND91608427
   port: 443
   server: 13.192.168.51
   sni: learning-leopard.rooster465.autos
   type: trojan
-- name: '10,21| By EbraSha 🦇 #35'
+- name: '10,21| By EbraSha ♣️ #37'
   network: tcp
   password: ND91608427
   port: 443
   server: 13.231.232.184
   sni: better-molly.rooster465.autos
   type: trojan
-- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #19'
+- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #18'
   network: tcp
   password: ND91608427
   port: 443
   server: 18.178.132.111
   sni: 'devoted-heron.rooster465.autos '
   type: trojan
-- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #20'
+- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #19'
   network: tcp
   password: ND91608427
   port: 443
   server: 18.179.31.199
   sni: 'prompt-duckling.rooster465.autos '
   type: trojan
-- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #21'
+- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #20'
   network: tcp
   password: ND91608427
   port: 443
   server: 18.181.164.216
   sni: 'upright-impala.rooster465.autos '
   type: trojan
-- name: '10,21| By EbraSha 🔋 #37'
+- name: '10,21| By EbraSha ⚙️ #43'
   network: tcp
   password: ND91608427
   port: 443
   server: 18.181.175.120
   sni: sure-humpback.rooster465.autos
   type: trojan
-- name: '10,21| By EbraSha ⛓️ #51'
+- name: '10,21| By EbraSha 📟 #36'
   network: tcp
   password: ND91608427
   port: 443
   server: 18.181.194.227
   sni: moral-buzzard.rooster465.autos
   type: trojan
-- name: '10,21| By EbraSha 🔮 #40'
+- name: '10,21| By EbraSha 🔋 #39'
   network: tcp
   password: ND91608427
   port: 443
   server: 3.112.15.214
   sni: adjusted-labrador.rooster465.autos
   type: trojan
-- name: '10,21| By EbraSha 🪐 #42'
+- name: '10,21| By EbraSha 🥷 #37'
   network: tcp
   password: ND91608427
   port: 443
   server: 3.112.223.141
   sni: internal-sunbird.rooster465.autos
   type: trojan
-- name: '10,21| By EbraSha 🧊 #42'
+- name: '10,21| By EbraSha 📀 #47'
   network: tcp
   password: ND91608427
   port: 443
   server: 3.113.1.131
   sni: perfect-slug.rooster465.autos
   type: trojan
-- name: '10,21| By EbraSha 💻 #54'
+- name: '10,21| By EbraSha 🌌 #36'
   network: tcp
   password: ND91608427
   port: 443
   server: 43.207.139.153
   sni: sensible-mongrel.rooster465.autos
   type: trojan
-- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #28'
+- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #27'
   network: tcp
   password: ND91608427
   port: 443
   server: 43.207.140.98
   sni: 'right-seahorse.rooster465.autos '
   type: trojan
-- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #29'
+- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #28'
   network: tcp
   password: ND91608427
   port: 443
   server: 43.207.155.134
   sni: 'smart-pup.rooster465.autos '
   type: trojan
-- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #30'
+- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #29'
   network: tcp
   password: ND91608427
   port: 443
   server: 43.207.89.29
   sni: 'relaxing-bluebird.rooster465.autos '
   type: trojan
-- name: '10,21| By EbraSha 🕶️ #42'
+- name: '10,21| By EbraSha 🛡️ #44'
   network: tcp
   password: ND91608427
   port: 443
   server: 54.249.34.120
   sni: social-mutt.rooster465.autos
   type: trojan
-- name: '10,21| By EbraSha 🛜 #40'
+- name: '10,21| By EbraSha 🚀 #38'
   network: tcp
   password: ND91608427
   port: 443
   server: 54.65.167.167
   sni: tough-robin.rooster465.autos
   type: trojan
-- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #33'
+- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #32'
   network: tcp
   password: ND91608427
   port: 443
   server: 57.180.13.78
   sni: 'healthy-louse.rooster465.autos '
   type: trojan
-- name: '10,21| By EbraSha 🧿 #48'
+- name: '10,21| By EbraSha 🌌 #37'
   network: tcp
   password: ND91608427
   port: 443
   server: 57.180.27.225
   sni: picked-guinea.rooster465.autos
   type: trojan
-- name: '10,21| By EbraSha 🗿 #51'
+- name: '10,21| By EbraSha 🌑 #44'
   network: tcp
   password: T9qoEuuxUEa9Dk3KxnTWrs6J8ilng9sCIf
   port: 443
   server: 103.125.216.11
   type: trojan
-- name: '10,21| By EbraSha 🕷️ #48'
+- name: '10,21| By EbraSha 🩸 #52'
   network: tcp
   password: T9qoEuuxUEa9Dk3KxnTWrs6J8ilng9sCIf
   port: 443
   server: 103.125.216.18
   type: trojan
-- name: '10,21| By EbraSha ⛓️ #53'
+- name: '10,21| By EbraSha 💻 #34'
   network: tcp
   password: T9qoEuuxUEa9Dk3KxnTWrs6J8ilng9sCIf
   port: 443
   server: 103.125.216.68
   type: trojan
-- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #40'
+- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #39'
   network: tcp
   password: UX82473651
   port: 443
@@ -403,7 +363,7 @@ proxies:
   skip-cert-verify: false
   sni: 'brief-glider.rooster465.autos '
   type: trojan
-- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #42'
+- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #41'
   network: tcp
   password: UX82473651
   port: 443
@@ -411,7 +371,7 @@ proxies:
   skip-cert-verify: false
   sni: 'musical-terrier.rooster465.autos '
   type: trojan
-- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #44'
+- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #43'
   network: tcp
   password: UX82473651
   port: 443
@@ -419,13 +379,7 @@ proxies:
   skip-cert-verify: false
   sni: 'assuring-skink.rooster465.autos '
   type: trojan
-- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #45'
-  password: UX82473651
-  port: 443
-  server: 18.176.52.171
-  sni: 'legible-ram.rooster465.autos '
-  type: trojan
-- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #49'
+- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #48'
   network: tcp
   password: UX82473651
   port: 443
@@ -433,7 +387,7 @@ proxies:
   skip-cert-verify: false
   sni: 'dynamic-imp.rooster465.autos '
   type: trojan
-- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #52'
+- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #51'
   network: tcp
   password: UX82473651
   port: 443
@@ -441,14 +395,14 @@ proxies:
   skip-cert-verify: false
   sni: 'fancy-javelin.rooster465.autos '
   type: trojan
-- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #53'
+- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #52'
   password: UX82473651
   port: 443
   server: 43.207.89.91
   skip-cert-verify: true
   sni: 'organic-caribou.rooster465.autos '
   type: trojan
-- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #74'
+- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #70'
   network: tcp
   password: UX82473651
   port: 443
@@ -456,14 +410,14 @@ proxies:
   skip-cert-verify: false
   sni: 'evolving-platypus.rooster465.autos '
   type: trojan
-- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #55'
+- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #54'
   password: UX82473651
   port: 443
   server: 52.192.45.137
   skip-cert-verify: true
   sni: 'promoted-rattler.rooster465.autos '
   type: trojan
-- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #57'
+- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #56'
   network: tcp
   password: UX82473651
   port: 443
@@ -471,7 +425,7 @@ proxies:
   skip-cert-verify: false
   sni: 'integral-rodent.rooster465.autos '
   type: trojan
-- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #59'
+- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #58'
   network: tcp
   password: UX82473651
   port: 443
@@ -479,7 +433,7 @@ proxies:
   skip-cert-verify: false
   sni: 'comic-poodle.rooster465.autos '
   type: trojan
-- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #60'
+- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #59'
   network: tcp
   password: UX82473651
   port: 443
@@ -487,7 +441,7 @@ proxies:
   skip-cert-verify: false
   sni: 'prime-corgi.rooster465.autos '
   type: trojan
-- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #61'
+- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #60'
   network: tcp
   password: UX82473651
   port: 443
@@ -495,7 +449,7 @@ proxies:
   skip-cert-verify: false
   sni: 'accurate-frog.rooster465.autos '
   type: trojan
-- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #62'
+- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #61'
   network: tcp
   password: UX82473651
   port: 443
@@ -509,14 +463,14 @@ proxies:
   server: 139.162.100.58
   skip-cert-verify: false
   type: trojan
-- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #64'
+- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #63'
   network: tcp
   password: ba07a8af-5544-48ac-ab62-3b6c00a44fa6
   port: 9450
   server: 154.64.226.149
   sni: 'hk.catxstar.com '
   type: trojan
-- name: 10,21,27|🇯🇵JP-150.230.217.213-3418
+- name: 10,27|🇯🇵JP-150.230.217.213-3418
   password: c09eb137-bf68-4658-84e0-102d94b74168
   port: 443
   server: 150.230.217.213
@@ -528,20 +482,14 @@ proxies:
   server: 168.138.43.89
   skip-cert-verify: false
   type: trojan
-- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #67'
+- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #66'
   password: e26a229d-e8f2-4ff9-8c7d-58a9d83ee437
   port: 8886
   server: 45.32.52.173
   skip-cert-verify: true
   sni: '45.32.52.173 '
   type: trojan
-- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #68'
-  password: f42e1a2e-e650-44f4-8d17-bcb68663da18
-  port: 443
-  server: 150.230.201.192
-  sni: 'www.seetheworldjp.ga '
-  type: trojan
-- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #69'
+- name: '10|🇯🇵 [ Configs by DukeMehdi ] TJ... #67'
   network: ws
   password: hV66LcSGyxUdHq2aAeqxmLfpBDQmRYxo8Wte43oZr8L379SS
   port: 443
@@ -552,261 +500,19 @@ proxies:
     headers:
       Host: node2.bw8848.org
     path: '%2Fnode2-node2-gu7bfd'
-- name: '10,15|🔥Join+Telegram:@Farah_VPN🟣 #6261'
+- name: '10,15|🔥Join+Telegram:@Farah_VPN🟣 #3749'
   network: tcp
   password: PQ05174892
   port: 443
   server: 13.192.168.51
   sni: learning-leopard.rooster465.autos
   type: trojan
-- alterId: 1
-  cipher: auto
-  name: 14|D🔴🇯🇵hos[🎬🤖📺🎭]_dokng.com_735249...
-  port: 46482
-  server: 88664kt-g01.jp05-h6-vm0.entry.fr0528.art
-  skip-cert-verify: false
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 4a1f9bcd-7752-3635-b430-098dc75c2c67
-- alterId: 1
-  cipher: auto
-  name: 14|C🟠🇯🇵hos[🎬🤖📺🎭]_dokng.com_b689a0...
-  port: 11773
-  server: 8e1lvzz-g01.jp02-e3-vm0.entry.fr0528.art
-  skip-cert-verify: false
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 4a1f9bcd-7752-3635-b430-098dc75c2c67
-- alterId: 1
-  cipher: auto
-  name: 14|C🟠🇯🇵hos[🎬🤖📺🎭]_dokng.com_0a6468...
-  port: 444
-  server: ze66v5z-g01.jp04-1d-vm0.entry.fr0528.art
-  skip-cert-verify: false
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 4a1f9bcd-7752-3635-b430-098dc75c2c67
-- alterId: 1
-  cipher: auto
-  name: 14|C🟠🇯🇵hos[🎬🤖📺🎭]_dokng.com_2bd354...
-  port: 28783
-  server: ze1i45t-g01.jp07-sh-vm0.entry.fr0528.art
-  skip-cert-verify: false
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 4a1f9bcd-7752-3635-b430-098dc75c2c67
-- alterId: 1
-  cipher: auto
-  name: 14|C🟠🇯🇵hos[🎬🤖📺🎭]_dokng.com_5f6523...
-  port: 28783
-  server: 8tyivzz-g01.jp07-sh-vm0.entry.fr0528.art
-  skip-cert-verify: false
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 4a1f9bcd-7752-3635-b430-098dc75c2c67
-- alterId: 1
-  cipher: auto
-  name: 14|C🟠🇯🇵hos[🎬🤖📺🎭]_dokng.com_1c4712...
-  port: 444
-  server: vt6iv5t-g01.jp04-1d-vm0.entry.fr0528.art
-  skip-cert-verify: false
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 4a1f9bcd-7752-3635-b430-098dc75c2c67
-- alterId: 1
-  cipher: auto
-  name: 14|C🟠🇯🇵hos[🎬🤖📺🎭]_dokng.com_2c78f4...
-  port: 444
-  server: 8eci4kz-g01.jp04-1d-vm0.entry.fr0528.art
-  skip-cert-verify: false
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 4a1f9bcd-7752-3635-b430-098dc75c2c67
-- alterId: 1
-  cipher: auto
-  name: 14|C🟠🇯🇵hos[🎬🤖📺🎭]_dokng.com_da0da9...
-  port: 46482
-  server: jt6lvz9-g01.jp05-h6-vm0.entry.fr0528.art
-  skip-cert-verify: false
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 4a1f9bcd-7752-3635-b430-098dc75c2c67
-- alterId: 1
-  cipher: auto
-  name: 14|C🟠🇯🇵hos_dokng.com_31ef7cd5
-  port: 11773
-  server: jty6vzi-g01.jp02-e3-vm0.entry.fr0528.art
-  skip-cert-verify: false
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 4a1f9bcd-7752-3635-b430-098dc75c2c67
-- alterId: 1
-  cipher: auto
-  name: 14|C🟠🇯🇵hos[🎬🤖📺🎭]_dokng.com_6820a3...
-  port: 46482
-  server: zt6v4ki-g01.jp05-h6-vm0.entry.fr0528.art
-  skip-cert-verify: false
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 4a1f9bcd-7752-3635-b430-098dc75c2c67
-- alterId: 1
-  cipher: auto
-  name: 14|C🟠🇯🇵hos[🎬🤖📺🎭]_dokng.com_cfcb2a...
-  port: 21581
-  server: je6iv5i-g01.jp03-j7-vm0.entry.fr0528.art
-  skip-cert-verify: false
-  tls: true
-  type: vmess
-  udp: true
-  uuid: 4a1f9bcd-7752-3635-b430-098dc75c2c67
-- alterId: 1
-  cipher: auto
-  name: 14|C🟠🇯🇵hos[🎬🤖📺🎭]_dokng.com_26e6fb...
-  port: 21581
-  server: z816zkt-g01.jp01-nn-vm0.entry.fr0528.art
-  skip-cert-verify: false
-  tls: true
-  type: vmess
-  udp: true
-  uuid: 4a1f9bcd-7752-3635-b430-098dc75c2c67
-- alterId: 1
-  cipher: auto
-  name: 14|C🟠🇯🇵hos[🎬🤖📺🎭]_dokng.com_7c8840...
-  port: 21581
-  server: jey6zkz-g01.jp01-nn-vm0.entry.fr0528.art
-  skip-cert-verify: false
-  tls: true
-  type: vmess
-  udp: true
-  uuid: 4a1f9bcd-7752-3635-b430-098dc75c2c67
-- alterId: 1
-  cipher: auto
-  name: 14|C🟠🇯🇵hos[🎬🤖📺🎭]_dokng.com_caba6e...
-  port: 21581
-  server: 8m1l459-g01.jp03-j7-vm0.entry.fr0528.art
-  skip-cert-verify: false
-  tls: true
-  type: vmess
-  udp: true
-  uuid: 4a1f9bcd-7752-3635-b430-098dc75c2c67
-- alterId: 1
-  cipher: auto
-  name: 14|C🟠🇯🇵hos_dokng.com_3ecf390b
-  port: 21581
-  server: v86l45i-g01.jp01-nn-vm0.entry.fr0528.art
-  skip-cert-verify: false
-  tls: true
-  type: vmess
-  udp: true
-  uuid: 4a1f9bcd-7752-3635-b430-098dc75c2c67
-- alterId: 1
-  cipher: auto
-  name: 14|C🟠🇯🇵hos[🎬🤖📺🎭]_dokng.com_21ac77...
-  port: 28783
-  server: zmyiv5i-g01.jp06-jz-vm0.entry.fr0528.art
-  skip-cert-verify: false
-  tls: true
-  type: vmess
-  udp: true
-  uuid: 4a1f9bcd-7752-3635-b430-098dc75c2c67
-- alterId: 1
-  cipher: auto
-  name: 14|C🟠🇯🇵hos[🎬🤖📺🎭]_dokng.com_ea7012...
-  port: 21581
-  server: jeyvvz9-g01.jp01-nn-vm0.entry.fr0528.art
-  skip-cert-verify: false
-  tls: true
-  type: vmess
-  udp: true
-  uuid: 4a1f9bcd-7752-3635-b430-098dc75c2c67
-- alterId: 1
-  cipher: auto
-  name: 14|C🟠🇯🇵hos[🎬🤖📺🎭]_dokng.com_427944...
-  port: 28783
-  server: jecvvk9-g01.jp06-jz-vm0.entry.fr0528.art
-  skip-cert-verify: false
-  tls: true
-  type: vmess
-  udp: true
-  uuid: 4a1f9bcd-7752-3635-b430-098dc75c2c67
-- alterId: 1
-  cipher: auto
-  name: 14|C🟠🇯🇵hos[🎬🤖📺🎭]_dokng.com_ee2ff1...
-  port: 444
-  server: zm66zkz-g01.jp04-1d-vm0.entry.fr0528.art
-  skip-cert-verify: false
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 4a1f9bcd-7752-3635-b430-098dc75c2c67
-- alterId: 1
-  cipher: auto
-  name: 14|C🟠🇯🇵hos[🎬🤖📺🎭]_dokng.com_654928...
-  port: 28783
-  server: veciz5i-g01.jp07-sh-vm0.entry.fr0528.art
-  skip-cert-verify: false
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 4a1f9bcd-7752-3635-b430-098dc75c2c67
-- alterId: 1
-  cipher: auto
-  name: 14|C🟠🇯🇵hos[🎬🤖📺🎭]_dokng.com_2ca6b3...
-  port: 21581
-  server: 8e1vz59-g01.jp03-j7-vm0.entry.fr0528.art
-  skip-cert-verify: false
-  tls: true
-  type: vmess
-  udp: true
-  uuid: 4a1f9bcd-7752-3635-b430-098dc75c2c67
-- alterId: 1
-  cipher: auto
-  name: 14|C🟠🇯🇵hos[🎬🤖📺🎭]_dokng.com_1b4026...
-  port: 21581
-  server: jeyivki-g01.jp01-nn-vm0.entry.fr0528.art
-  skip-cert-verify: false
-  tls: true
-  type: vmess
-  udp: true
-  uuid: 4a1f9bcd-7752-3635-b430-098dc75c2c67
-- alterId: 1
-  cipher: auto
-  name: 14|C🟠🇯🇵hos[🎬🤖📺🎭]_dokng.com_1c49df...
-  port: 11773
-  server: jm6vzzz-g01.jp02-e3-vm0.entry.fr0528.art
-  skip-cert-verify: false
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 4a1f9bcd-7752-3635-b430-098dc75c2c67
-- alterId: 1
-  cipher: auto
-  name: 14|C🟠🇯🇵hos[🎬🤖📺🎭]_dokng.com_1d0b40...
-  port: 46482
-  server: zeylzzt-g01.jp05-h6-vm0.entry.fr0528.art
-  skip-cert-verify: false
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 4a1f9bcd-7752-3635-b430-098dc75c2c67
-- alterId: 2
-  cipher: auto
-  name: 14|D🔴🇯🇵hos_dokng.com_069c3867
-  port: 11205
-  server: sbgfgov.vip5.wogacnmnagfwgov.com
-  type: vmess
-  udp: true
-  uuid: 605956ee-544d-308e-8b90-51e67c6ea8da
+- name: '19,21| By EbraSha 🎯 #43'
+  password: Trojan@82164024
+  port: 443
+  server: jp.tronsg.com
+  sni: jp.tronsg.com
+  type: trojan
 - name: '19,20,30|🇯🇵[www.v2nodes.com] trojan-JP-... #32'
   network: ws
   password: 0400697c-b581-4575-9d2f-0bbd4659312d
@@ -816,6 +522,18 @@ proxies:
   type: trojan
   ws-opts:
     path: /
+- name: '19,20,27,30|🇯🇵[www.v2nodes.com] trojan-JP-... #45'
+  password: UX82473651
+  port: 443
+  server: 54.250.237.143
+  skip-cert-verify: false
+  type: trojan
+- name: '19,20,27,30|🇯🇵[www.v2nodes.com] trojan-JP-... #47'
+  password: UX82473651
+  port: 443
+  server: 54.238.153.132
+  skip-cert-verify: false
+  type: trojan
 - alterId: 0
   cipher: auto
   name: '19,31|🇯🇵 日本|@ripaojiedian #3'
@@ -846,25 +564,13 @@ proxies:
     headers:
       Host: kneNaKHeSXnZH259.v.3dns.vip
     path: /ws-vmess
-- name: '19,20,27,30,32|日本2|@ripaojiedian #4'
+- name: '19,20,21,27,30,32|日本2|@ripaojiedian #4'
   network: tcp
   password: AA885B42-133C-3828-FB69-E45105C06092
   port: 10125
   server: 63182sh8-4d7b.aws-agent.net
   skip-cert-verify: true
   sni: m.ctrip.com
-  type: trojan
-- name: '20,27,30|🇯🇵[www.v2nodes.com] trojan-JP-... #45'
-  password: UX82473651
-  port: 443
-  server: 54.250.237.143
-  skip-cert-verify: false
-  type: trojan
-- name: '20,27,30|🇯🇵[www.v2nodes.com] trojan-JP-... #47'
-  password: UX82473651
-  port: 443
-  server: 54.238.153.132
-  skip-cert-verify: false
   type: trojan
 - alterId: 0
   cipher: auto
@@ -917,12 +623,21 @@ proxies:
   server: trs11.bolab.net
   skip-cert-verify: false
   type: trojan
-- cipher: aes-256-gcm
-  name: 27|🇯🇵JP-20.210.122.21-0740
-  password: 233blog.com
+- alterId: 0
+  cipher: auto
+  name: 27|🇯🇵JP-168.138.203.232-0400
+  network: ws
   port: 443
-  server: 20.210.122.21
-  type: ss
+  server: suzhihan.eu.org
+  servername: suzhihan.eu.org
+  skip-cert-verify: false
+  tls: true
+  type: vmess
+  uuid: 0b873cff-11ab-4716-c41a-04f886135091
+  ws-opts:
+    headers:
+      Host: suzhihan.eu.org
+    path: /roewesu
 - alterId: 0
   cipher: auto
   name: 27|🇯🇵JP-212.135.211.242-0841
@@ -940,18 +655,18 @@ proxies:
     path: /Sydney3
 - alterId: 0
   cipher: auto
-  name: 27|🇯🇵JP-109.123.230.157-0972
+  name: 27|🇯🇵JP-172.105.238.164-0917
   network: ws
-  port: 80
-  server: 109.123.230.157
+  port: 443
+  server: 172.105.238.164
   skip-cert-verify: false
-  tls: false
+  tls: true
   type: vmess
-  uuid: 59517e0b-ae1c-41d3-9c44-c44cea6f7546
+  uuid: 3706161f-3ee3-48e5-bfcf-0d856cc6f0ab
   ws-opts:
     headers:
-      Host: internet.life.com.by
-    path: /takeshi.wiki
+      Host: js.adbse.xyz
+    path: /down
 - alterId: 64
   cipher: auto
   name: 27|🇯🇵JP-152.70.103.195-1245
@@ -968,62 +683,6 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: 27|🇯🇵JP-138.2.52.176-1248
-  network: ws
-  port: 24429
-  server: 138.2.52.176
-  skip-cert-verify: false
-  tls: false
-  type: vmess
-  uuid: 8d5ca59e-8e3e-4a10-e023-53cfcd87a72b
-  ws-opts:
-    headers:
-      Host: 138.2.52.176
-    path: /
-- alterId: 0
-  cipher: auto
-  name: 27|🇯🇵JP-52.196.144.61-1317
-  network: ws
-  port: 3331
-  server: f1f3227.u1.glados-config.net
-  skip-cert-verify: false
-  tls: true
-  type: vmess
-  uuid: 57e0cb4d-eae5-48ec-8091-149dc2b309e0
-  ws-opts:
-    headers:
-      Host: f1f3227.u1.glados-config.net
-    path: /s/f1f3227.fm.apple.com:111548
-- alterId: 0
-  cipher: auto
-  name: 27|🇯🇵JP-172.105.223.136-1412
-  network: ws
-  port: 443
-  server: 172.105.223.136
-  skip-cert-verify: false
-  tls: true
-  type: vmess
-  uuid: 8964ea79-1422-460e-b6e2-a16e83a22aab
-  ws-opts:
-    headers:
-      Host: www.microsoft.com
-    path: /
-- alterId: 0
-  cipher: auto
-  name: 27|🇯🇵JP-52.196.144.61-1413
-  network: ws
-  port: 3331
-  server: f1f3227.v1.glados-config.net
-  skip-cert-verify: false
-  tls: false
-  type: vmess
-  uuid: 57e0cb4d-eae5-48ec-8091-149dc2b309e0
-  ws-opts:
-    headers:
-      Host: f1f3227.v1.glados-config.net
-    path: /s/f1f3227.fm.apple.com:111548
-- alterId: 0
-  cipher: auto
   name: 27|🇯🇵JP-147.78.244.7-1441
   network: ws
   port: 443
@@ -1036,18 +695,26 @@ proxies:
     headers:
       Host: virmach.qweasdzxc.gq
     path: /
+- alterId: 0
+  cipher: auto
+  name: 27|🇯🇵JP-124.156.225.184-1444
+  network: ws
+  port: 443
+  server: 124.156.225.184
+  skip-cert-verify: false
+  tls: true
+  type: vmess
+  uuid: 7a010436-7b4a-4e65-ade4-844ba074ad58
+  ws-opts:
+    headers:
+      Host: azjp.pengui.xyz
+    path: /
 - name: 27|🇯🇵JP-108.61.186.37-1527
   password: Trojan%4082164024
   port: 443
   server: jp.tronsg.com
   skip-cert-verify: false
   sni: jp.tronsg.com
-  type: trojan
-- name: 27|🇯🇵JP-168.138.44.176-3923
-  password: 8d2d5953-d649-4034-94f2-72f2df2623da
-  port: 443
-  server: 168.138.44.176
-  skip-cert-verify: false
   type: trojan
 - alterId: 0
   cipher: auto
@@ -1063,6 +730,18 @@ proxies:
     headers:
       Host: zhuyong.hucloud-dns.xyz
     path: /
+- alterId: 0
+  cipher: auto
+  name: 27|🇯🇵JP-140.83.84.209-2014
+  network: ws
+  port: 1234
+  server: 140.83.84.209
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  uuid: e94247e0-d3e5-4f96-d8f3-b2144b383292
+  ws-opts:
+    path: /1234
 - name: 27|🇯🇵JP-138.2.45.89-2235
   password: 6d64570c-81d4-30fa-b2e2-dce73e1a2702
   port: 44301
@@ -1070,24 +749,6 @@ proxies:
   skip-cert-verify: false
   sni: osav101.jd0001.top
   type: trojan
-- cipher: aes-256-cfb
-  name: 27|🇯🇵JP-175.41.205.247-2343
-  password: amazonskr05
-  port: 443
-  server: 175.41.205.247
-  type: ss
-- alterId: 0
-  cipher: auto
-  name: 27|🇯🇵JP-138.2.39.67-2445
-  network: ws
-  port: 80
-  server: 138.2.39.67
-  skip-cert-verify: false
-  tls: false
-  type: vmess
-  uuid: ab335c88-d14a-4e67-b52c-54ed8be80c49
-  ws-opts:
-    path: /
 - alterId: 0
   cipher: auto
   name: 27|🇯🇵JP-141.147.181.219-2448
@@ -1100,28 +761,34 @@ proxies:
   uuid: 0b873cff-11ab-4716-c41a-04f886135091
   ws-opts:
     path: /roewesu
+- name: 27|🇯🇵JP-140.227.54.4-3185
+  password: 7a566d21dfcd0f12490275fd3dd3cfc4
+  port: 443
+  server: trs09.bolab.net
+  skip-cert-verify: false
+  type: trojan
 - name: 27|🇯🇵JP-138.2.45.243-3196
   password: c19d1432-8b3e-4818-8837-3d160cf65908
   port: 443
   server: 138.2.45.243
   skip-cert-verify: false
   type: trojan
-- name: 27|🇯🇵JP-155.248.172.87-3232
-  password: 750a29bf-0a40-437f-b120-38de74ae7eaf
-  port: 28443
-  server: 155.248.172.87
+- name: 27|🇯🇵JP-49.212.221.47-3227
+  password: 96983eb4-c8f1-316e-ab00-500014ed3d8b
+  port: 2053
+  server: 49.212.221.47
   skip-cert-verify: false
   type: trojan
+- cipher: aes-256-cfb
+  name: 27|🇯🇵JP-43.206.219.140-3280
+  password: amazonskr05
+  port: 443
+  server: 43.206.219.140
+  type: ss
 - name: 27|🇯🇵JP-160.16.145.107-3393
   password: 96983eb4-c8f1-316e-ab00-500014ed3d8b
   port: 2053
   server: 160.16.145.107
-  skip-cert-verify: false
-  type: trojan
-- name: 27|🇯🇵JP-150.230.96.103-3549
-  password: da777aae-defb-41d0-a183-2c27da2b4677
-  port: 443
-  server: 150.230.96.103
   skip-cert-verify: false
   type: trojan
 - name: 27|🇯🇵JP-219.94.250.108-3655
@@ -1142,6 +809,19 @@ proxies:
   server: 141.147.191.85
   skip-cert-verify: false
   type: trojan
+- cipher: aes-256-cfb
+  name: 27|🇯🇵JP-3.112.193.151-4412
+  password: amazonskr05
+  port: 443
+  server: 3.112.193.151
+  type: ss
+- name: 27|🇯🇵JP-132.226.5.246-4992
+  password: 4f7dc540-d244-4e64-af21-4b5bb300add3
+  port: 443
+  server: 132.226.5.246
+  skip-cert-verify: false
+  sni: www.tokyo2023.ga
+  type: trojan
 - name: 27|🇯🇵JP-150.230.201.192-5031
   password: f42e1a2e-e650-44f4-8d17-bcb68663da18
   port: 443
@@ -1149,19 +829,6 @@ proxies:
   skip-cert-verify: false
   sni: www.seetheworldjp.ga
   type: trojan
-- name: 27|🇯🇵JP-15.168.28.231-5034
-  password: c51d3975-a40c-4a5b-929b-c8595ed87850
-  port: 443
-  server: 15.168.28.231
-  skip-cert-verify: false
-  sni: wel-usgt.optage.moe
-  type: trojan
-- cipher: chacha20-ietf-poly1305
-  name: 27|🇯🇵JP-193.38.139.204-5384
-  password: G!yBwPWH3Vao
-  port: 809
-  server: 193.38.139.204
-  type: ss
 - name: 27|🇯🇵JP-18.179.31.199-5530
   password: ND91608427
   port: 443
@@ -1272,7 +939,15 @@ proxies:
   skip-cert-verify: true
   sni: lazeno.vip
   type: trojan
-- name: 28|[OpenRay] 🇯🇵JP-43
+- name: 28|[OpenRay] 🇯🇵JP-154
+  network: tcp
+  password: 7076b233-c844-4bb0-a7e1-cf8f1fa824e9
+  port: 32676
+  server: 45.76.218.34
+  skip-cert-verify: true
+  sni: lazeno.vip
+  type: trojan
+- name: 28|[OpenRay] 🇯🇵JP-42
   network: tcp
   password: c8b9c7ca-c022-4ee4-9690-2d615c784b14
   port: 32676
@@ -1282,7 +957,7 @@ proxies:
   type: trojan
 - alterId: 0
   cipher: auto
-  name: 28|[OpenRay] 🇯🇵JP-130
+  name: 28|[OpenRay] 🇯🇵JP-127
   network: ws
   port: 80
   server: 172.111.146.64

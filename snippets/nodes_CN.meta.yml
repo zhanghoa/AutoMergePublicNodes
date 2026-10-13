@@ -1,6 +1,6 @@
 proxies:
 - client-fingerprint: chrome
-  name: '10,15,21| By EbraSha ✨ #116'
+  name: '10,15,21| By EbraSha 📱 #98'
   network: xhttp
   port: 443
   reality-opts:
@@ -11,7 +11,7 @@ proxies:
   type: vless
   uuid: 72d334af-a4e9-ed8f-cbec-75317ce0b463
   ws-opts:
-    path: /
+    path: '%2F'
 - name: 13|🇨🇳CN中國丨yoyapai.com
   port: 52683
   server: jp.sofast.live
@@ -20,20 +20,6 @@ proxies:
   type: vless
   udp: true
   uuid: 5aaa5259-f924-4682-a4a3-149d472a9dcc
-- alterId: 0
-  cipher: auto
-  name: 27|🇨🇳CN-59.63.153.28-1385
-  network: ws
-  port: 43815
-  server: blog.voewl.com
-  skip-cert-verify: false
-  tls: false
-  type: vmess
-  uuid: 7a9f026f-f7a8-40ca-f2f9-3b380c287c0d
-  ws-opts:
-    headers:
-      Host: blog.voewl.com
-    path: /abc
 - cipher: chacha20-ietf
   name: 27|🇨🇳CN-120.232.206.251-5054
   obfs: plain
@@ -47,7 +33,7 @@ proxies:
 - client-fingerprint: chrome
   grpc-opts:
     grpc-service-name: TunService
-  name: 28|[OpenRay] 🇨🇳CN-8
+  name: 28|[OpenRay] 🇨🇳CN-17
   network: grpc
   port: 8443
   reality-opts:

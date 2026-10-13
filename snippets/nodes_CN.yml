@@ -1,18 +1,4 @@
 proxies:
-- alterId: 0
-  cipher: auto
-  name: 27|🇨🇳CN-59.63.153.28-1385
-  network: ws
-  port: 43815
-  server: blog.voewl.com
-  skip-cert-verify: false
-  tls: false
-  type: vmess
-  uuid: 7a9f026f-f7a8-40ca-f2f9-3b380c287c0d
-  ws-opts:
-    headers:
-      Host: blog.voewl.com
-    path: /abc
 - cipher: chacha20-ietf
   name: 27|🇨🇳CN-120.232.206.251-5054
   obfs: plain
