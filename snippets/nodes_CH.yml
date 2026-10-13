@@ -1,24 +1,24 @@
 proxies:
 - cipher: aes-128-cfb
-  name: 10,21,27|🇨🇭CH-156.146.62.160-4766
+  name: 10,27|🇨🇭CH-156.146.62.160-4833
   password: shadowsocks
   port: 443
   server: 156.146.62.160
   type: ss
 - cipher: aes-128-gcm
-  name: '10,21| By EbraSha 🔮 #14'
+  name: '10,21| By EbraSha 🪬 #13'
   password: shadowsocks
   port: 443
   server: 156.146.62.162
   type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha 🧊 #19'
+  name: '10,21| By EbraSha 🌑 #15'
   password: '!!str 4415934295'
   port: 50004
   server: 37.120.213.230
   type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha 🔮 #17'
+  name: '10,21| By EbraSha 🧨 #9'
   password: f8f7aCzcPKbsF8p3
   port: 989
   server: 212.237.210.158
@@ -79,7 +79,7 @@ proxies:
     headers:
       Host: www.calmlunch.com
     path: '%2Fassignment'
-- name: '10,15,21| By EbraSha 🧠 #77'
+- name: '10,15,21| By EbraSha 🚀 #69'
   network: tcp
   password: l6R5znJSPJ
   port: 16350
@@ -91,7 +91,7 @@ proxies:
     headers:
       Host: rd.autos.yahoo.com:41636
     path: /5747463414152474635353366347474334
-- name: '10,15,21| By EbraSha 🦇 #56'
+- name: '10,15,21| By EbraSha 🔋 #55'
   network: tcp
   password: uCzwXi06tusoiP5kAUKrsg
   port: 80
@@ -107,7 +107,7 @@ proxies:
   server: 195.15.202.111
   sni: play-apps-features.googleusercontent.com
   type: trojan
-- name: '10,15|🔥Join+Telegram:@Farah_VPN🟣 #6261'
+- name: '10,15|🔥Join+Telegram:@Farah_VPN🟣 #5319'
   network: tcp
   password: uRkZYGid1r
   port: 41464
@@ -124,7 +124,7 @@ proxies:
   port: 8388
   server: 132.243.175.144
   type: ss
-- name: 27|🇨🇭CH-152.67.71.149-3195
+- name: 27|🇨🇭CH-152.67.71.149-3262
   password: 8a03bc28-2a33-42c4-be59-30464dbb9954
   port: 18818
   server: ch12.yukiss.eu.org

@@ -1,6 +1,6 @@
 proxies:
 - cipher: chacha20-ietf
-  name: 27|🇨🇳CN-120.232.206.251-5054
+  name: 27|🇨🇳CN-120.232.206.251-5121
   obfs: plain
   obfs-param: ''
   password: mblank1port
