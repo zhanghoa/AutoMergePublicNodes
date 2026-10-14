@@ -1,6 +1,6 @@
 proxies:
 - client-fingerprint: chrome
-  name: '10,15,21| By EbraSha 🛰️ #104'
+  name: '10,15,21| By EbraSha 🪬 #119'
   network: xhttp
   port: 443
   reality-opts:
@@ -21,7 +21,7 @@ proxies:
   udp: true
   uuid: 5aaa5259-f924-4682-a4a3-149d472a9dcc
 - cipher: chacha20-ietf
-  name: 27|🇨🇳CN-120.232.206.251-5121
+  name: 27|🇨🇳CN-120.232.206.251-4547
   obfs: plain
   obfs-param: ''
   password: mblank1port
@@ -33,7 +33,7 @@ proxies:
 - client-fingerprint: chrome
   grpc-opts:
     grpc-service-name: TunService
-  name: 28|[OpenRay] 🇨🇳CN-17
+  name: 28|[OpenRay] 🇨🇳CN-20
   network: grpc
   port: 8443
   reality-opts:

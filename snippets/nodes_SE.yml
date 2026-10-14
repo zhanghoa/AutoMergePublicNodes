@@ -1,45 +1,39 @@
 proxies:
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 📀 #8'
+  name: '10,21| By EbraSha 🎛️ #5'
   password: CxtcZaOSFYiJnloyTZJ0z2
   port: 443
   server: 89.22.234.121
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 🐉 #11'
+  name: '10,21| By EbraSha 🧪 #10'
   password: N2YzM
   port: 1443
   server: 45.138.103.4
   type: ss
-- cipher: chacha20-ietf-poly1305
-  name: 10,21,27|🇸🇪SE-13.49.241.14-4832
-  password: pydQILh06AvJ
-  port: 27092
-  server: 13.49.241.14
+- cipher: aes-256-cfb
+  name: 10,21,27|🇸🇪SE-37.19.222.211-7217
+  password: asdKkaskJKfnsa
+  port: 443
+  server: 37.19.222.211
   type: ss
 - cipher: aes-256-cfb
-  name: 10,21,27|🇸🇪SE-37.19.222.212-7790
+  name: 10,21,27|🇸🇪SE-37.19.222.212-7216
   password: asdKkaskJKfnsa
   port: 443
   server: 37.19.222.212
   type: ss
 - cipher: aes-256-cfb
-  name: 10,21,27|🇸🇪SE-37.19.222.213-7789
+  name: 10,21,27|🇸🇪SE-37.19.222.213-7215
   password: asdKkaskJKfnsa
   port: 443
   server: 37.19.222.213
   type: ss
 - cipher: aes-256-cfb
-  name: 10,21,27|🇸🇪SE-37.19.222.214-7788
+  name: 10,21,27|🇸🇪SE-37.19.222.214-7214
   password: asdKkaskJKfnsa
   port: 443
   server: 37.19.222.214
-  type: ss
-- cipher: aes-256-cfb
-  name: 10,27|🇸🇪SE-121.127.46.147-8370
-  password: f8f7aCzcPKbsF8p3
-  port: 989
-  server: 121.127.46.147
   type: ss
 - cipher: aes-256-gcm
   name: '10,19,20,21,27,30|🇸🇪[www.v2nodes.com] ss-SE-1560... #2'
@@ -48,12 +42,12 @@ proxies:
   server: 70.34.212.124
   type: ss
 - cipher: aes-256-gcm
-  name: '10,21| By EbraSha 🔥 #43'
+  name: '10,21| By EbraSha 👑 #35'
   password: pX0uhU3ZjUcLWYs0Vez55BO3JoQrRlL
   port: 17000
   server: 172.238.244.13
   type: ss
-- name: '10,21| By EbraSha 🔮 #41'
+- name: '10,21| By EbraSha 🥷 #41'
   network: tcp
   password: Bw5Mz7QkVp
   port: 443
@@ -63,7 +57,7 @@ proxies:
   type: trojan
 - alpn:
   - http/1.1
-  name: '10,21| By EbraSha 🔮 #60'
+  name: '10,21| By EbraSha 🛡️ #48'
   network: tcp
   password: e72c6ea7e61f4dcea568aa569fb9b771
   port: 9443
@@ -72,53 +66,91 @@ proxies:
   sni: apple.com
   type: trojan
 - name: '10|🇸🇪 [ Configs by DukeMehdi ] TJ... #2'
-  network: ws
-  password: humanity
-  port: 443
-  server: 51.20.202.203
-  skip-cert-verify: false
-  sni: 'www.volumeroot.com '
-  type: trojan
-  ws-opts:
-    headers:
-      Host: www.volumeroot.com
-    path: '%2Fassignment'
-- name: 10,21,34|🇫🇷FR_2188|488KB/s|T001-260618 ...
-  network: ws
-  password: humanity
-  port: 8443
-  server: 77.221.138.199
-  sni: www.calmlunch.com
-  type: trojan
-  ws-opts:
-    path: /assignment
-- name: '10|🇸🇪 [ Configs by DukeMehdi ] TJ... #4'
   password: telegram-id-directvpn
   port: 22222
   server: 13.48.105.114
   sni: 'trj.rollingnext.co.uk '
   type: trojan
-- name: '10|🇸🇪 [ Configs by DukeMehdi ] TJ... #5'
+- name: '10|🇸🇪 [ Configs by DukeMehdi ] TJ... #3'
   password: telegram-id-directvpn
   port: 22222
   server: 13.49.224.224
   sni: 'trj.rollingnext.co.uk '
   type: trojan
-- name: '10|🇸🇪 [ Configs by DukeMehdi ] TJ... #6'
+- name: '10|🇸🇪 [ Configs by DukeMehdi ] TJ... #4'
+  password: telegram-id-privatevpns
+  port: 22222
+  server: 13.48.202.26
+  sni: 'trj.rollingnext.co.uk '
+  type: trojan
+- name: '10|🇸🇪 [ Configs by DukeMehdi ] TJ... #5'
   password: telegram-id-privatevpns
   port: 22222
   server: 13.48.45.205
   sni: 'trj.rollingnext.co.uk '
   type: trojan
-- name: '10|🇸🇪 [ Configs by DukeMehdi ] TJ... #7'
+- name: '10|🇸🇪 [ Configs by DukeMehdi ] TJ... #6'
   password: telegram-id-privatevpns
   port: 22222
   server: 13.49.46.49
   sni: 'trj.rollingnext.co.uk '
   type: trojan
-- name: '10|🇸🇪 [ Configs by DukeMehdi ] TJ... #8'
+- name: '10|🇸🇪 [ Configs by DukeMehdi ] TJ... #7'
   password: telegram-id-privatevpns
   port: 22222
   server: 16.171.58.121
   sni: 'trj.rollingnext.co.uk '
+  type: trojan
+- name: 27|🇸🇪SE-13.48.202.26-1758
+  password: telegram-id-privatevpns
+  port: 22222
+  server: 13.48.202.26
+  skip-cert-verify: false
+  sni: trj.rollingnext.co.uk
+  type: trojan
+- alterId: 0
+  cipher: auto
+  name: 27|🇸🇪SE-13.50.153.230-2883
+  network: ws
+  port: 25289
+  server: 13.50.153.230
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  uuid: fe2bd77d-312e-4ac0-defe-afdb279528a0
+  ws-opts:
+    path: /
+- cipher: chacha20-ietf-poly1305
+  name: 27|🇸🇪SE-13.49.241.14-4258
+  password: pydQILh06AvJ
+  port: 27092
+  server: 13.49.241.14
+  type: ss
+- name: 27|🇸🇪SE-16.171.58.121-7616
+  password: telegram-id-privatevpns
+  port: 22222
+  server: 16.171.58.121
+  skip-cert-verify: false
+  sni: trj.rollingnext.co.uk
+  type: trojan
+- name: 27|🇸🇪SE-13.50.16.231-7771
+  password: telegram-id-privatevpns
+  port: 22222
+  server: 13.50.16.231
+  skip-cert-verify: false
+  sni: trj.rollingnext.co.uk
+  type: trojan
+- name: 27|🇸🇪SE-13.49.46.49-7772
+  password: telegram-id-privatevpns
+  port: 22222
+  server: 13.49.46.49
+  skip-cert-verify: false
+  sni: trj.rollingnext.co.uk
+  type: trojan
+- name: 27|🇸🇪SE-13.49.224.224-7776
+  password: telegram-id-directvpn
+  port: 22222
+  server: 13.49.224.224
+  skip-cert-verify: false
+  sni: trj.rollingnext.co.uk
   type: trojan
