@@ -6,7 +6,7 @@ on:
     # 每天两次（北京时间 05:00 与 17:00）。
     # 注意：GitHub 的 schedule 一律按 UTC 解析，与 job 内设置的时区无关，
     # 故这里写 UTC 09:00 / 21:00 = 北京 17:00 / 次日 05:00。
-    - cron: '0 9,21 * * *'
+    - cron: '0 21 * * *'
   push:
     paths:
       - 'sources.list'
