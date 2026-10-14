@@ -1,6 +1,6 @@
 proxies:
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 🥷 #6'
+  name: '10,21| By EbraSha 🛸 #4'
   password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4
   port: 50099
   server: 36.224.141.124
@@ -12,60 +12,60 @@ proxies:
   server: 36.224.152.189
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 🌃 #16'
+  name: '10,21| By EbraSha 🕹️ #7'
   password: q2jToxsx4vTevqrFiLGuwRx96SXM3C96id1MWpnSECHq3MaTWnEV76aN5PYEigRfqf7rxAcuAMWUzYNxrYRG6QhMcYw5QnqL
   port: 56594
   server: 46.249.109.128
   type: ss
 - cipher: aes-256-cfb
-  name: 10,21,27|🇹🇼TW-61.220.130.70-7089
+  name: 10,27|🇹🇼TW-61.220.130.70-7161
   password: qwerREWQ@@
   port: 50701
   server: 61.220.130.70
   type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha 🦂 #17'
+  name: '10,21| By EbraSha 🌀 #17'
   password: qwerREWQ@@
   port: 41632
   server: 185.189.160.105
   type: ss
 - cipher: aes-256-gcm
-  name: '10,21| By EbraSha ♣️ #13'
+  name: '10,21| By EbraSha 🔋 #14'
   password: 8n6pwAcrrv2pj6tFY2p3TbQ6
   port: 33992
   server: 2.58.242.157
   type: ss
 - cipher: aes-256-gcm
-  name: '10,21| By EbraSha 📱 #15'
+  name: '10,21| By EbraSha 🧩 #20'
   password: 8n6pwAcrrv2pj6tFY2p3TbQ6
   port: 33992
   server: 2.58.242.43
   type: ss
 - cipher: aes-256-gcm
-  name: '10,21| By EbraSha ♠️ #29'
+  name: '10,21| By EbraSha 💎 #42'
   password: xpQwyV4W5FdA6NMANJJx73US
   port: 38033
   server: 2.58.241.45
   type: ss
-- name: 10,21,27|🇹🇼TW-60.249.3.231-2784
-  password: 0cc6b4268dea0ba8
+- name: 10,27|🇹🇼TW-60.249.3.229-2988
+  password: 182228812d1e0f23
   port: 3389
-  server: 60.249.3.231
+  server: 60.249.3.229
   skip-cert-verify: false
   type: trojan
-- name: 10,27|🇹🇼TW-60.249.3.230-2866
+- name: 10,21,27|🇹🇼TW-60.249.3.230-2931
   password: 182228812d1e0f23
   port: 3389
   server: 60.249.3.230
   skip-cert-verify: false
   type: trojan
-- name: 10,21,27|🇹🇼TW-60.249.3.125-2687
+- name: 10,21,27|🇹🇼TW-60.249.3.125-2752
   password: 3febb05ea76a940f
   port: 3389
   server: 60.249.3.125
   skip-cert-verify: false
   type: trojan
-- name: '10,21| By EbraSha 🃏 #34'
+- name: '10,21| By EbraSha 🧪 #36'
   network: tcp
   password: 6e1b9a65-884f-3aa9-9469-bf6ec0f08610
   port: 3462
@@ -73,7 +73,7 @@ proxies:
   skip-cert-verify: true
   sni: a03.taipeicitygovernment.cn.ua
   type: trojan
-- name: '10,21| By EbraSha 📀 #29'
+- name: '10,21| By EbraSha 🥷 #35'
   network: tcp
   password: 6e1b9a65-884f-3aa9-9469-bf6ec0f08610
   port: 3462
@@ -81,7 +81,7 @@ proxies:
   skip-cert-verify: true
   sni: a03.taipeicitygovernment.cn.ua
   type: trojan
-- name: '10,21| By EbraSha 🚬 #30'
+- name: '10,21| By EbraSha 🛡️ #25'
   network: tcp
   password: 6e1b9a65-884f-3aa9-9469-bf6ec0f08610
   port: 3462
@@ -89,7 +89,7 @@ proxies:
   skip-cert-verify: true
   sni: a03.taipeicitygovernment.cn.ua
   type: trojan
-- name: '10,21| By EbraSha 📟 #37'
+- name: '10,21| By EbraSha 🗿 #32'
   network: tcp
   password: 736cd94d-7b94-3e44-8106-3419f64eaf09
   port: 3462
@@ -97,25 +97,31 @@ proxies:
   skip-cert-verify: true
   sni: a12.taipeicitygovernment.org.ua
   type: trojan
-- name: 10,27|🇹🇼TW-60.249.3.226-2892
-  password: 7ac49a893e0bd10c
+- name: 10,21,27|🇹🇼TW-211.72.35.153-3024
+  password: 7b06d22a8a7c764f
   port: 3389
-  server: 60.249.3.226
+  server: 211.72.35.153
   skip-cert-verify: false
   type: trojan
-- name: 10,21,27|🇹🇼TW-60.249.3.227-2764
-  password: 7ac49a893e0bd10c
+- name: 10,21,27|🇹🇼TW-211.72.35.156-3038
+  password: 7b06d22a8a7c764f
   port: 3389
-  server: 60.249.3.227
+  server: 211.72.35.156
   skip-cert-verify: false
   type: trojan
-- name: 10,21,27|🇹🇼TW-211.72.35.157-3788
+- name: 10,27|🇹🇼TW-211.72.35.158-2806
+  password: 7b06d22a8a7c764f
+  port: 3389
+  server: 211.72.35.158
+  skip-cert-verify: false
+  type: trojan
+- name: 10,21,27|🇹🇼TW-211.72.35.157-3853
   password: 8b475d9e868e43e0
   port: 3389
   server: 211.72.35.157
   skip-cert-verify: false
   type: trojan
-- name: '10,21| By EbraSha 🤖 #45'
+- name: '10,21| By EbraSha 🤖 #30'
   network: tcp
   password: 96983eb4-c8f1-316e-ab00-500014ed3d8b
   port: 8443
@@ -123,7 +129,7 @@ proxies:
   skip-cert-verify: true
   sni: official.taipeicitygovernment.net.ua
   type: trojan
-- name: '10,21| By EbraSha 🧩 #43'
+- name: '10,21| By EbraSha ♦️ #32'
   network: tcp
   password: 96983eb4-c8f1-316e-ab00-500014ed3d8b
   port: 8443
@@ -131,7 +137,19 @@ proxies:
   skip-cert-verify: true
   sni: official.taipeicitygovernment.ivano-frankivsk.ua
   type: trojan
-- name: 10,27|🇹🇼TW-211.72.35.152-3774
+- name: 10,27|🇹🇼TW-2.58.242.43-4552
+  password: YWVzLTI1Ni1nY206eHBRd3lWNFc1RmRBNk5NQU5KSng3M1VT
+  port: 443
+  server: 2.58.242.43
+  skip-cert-verify: false
+  type: trojan
+- name: 10,21,27|🇹🇼TW-211.72.35.155-2723
+  password: b09d2aaa443af97a
+  port: 3389
+  server: 211.72.35.155
+  skip-cert-verify: false
+  type: trojan
+- name: 10,27|🇹🇼TW-211.72.35.152-3839
   password: b84d16a244460e09
   port: 3389
   server: 211.72.35.152
@@ -160,7 +178,7 @@ proxies:
   type: vless
   uuid: 19d5a678-8396-4e3b-93da-ece618d0e83a
 - client-fingerprint: chrome
-  name: '10,15,21| By EbraSha 🌃 #130'
+  name: '10,15,21| By EbraSha 🌃 #122'
   network: tcp
   port: 15570
   reality-opts:
@@ -173,7 +191,7 @@ proxies:
   uuid: 931220c8-15ac-41f4-ba7b-8736a82a3ba2
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: '10,21| By EbraSha 🕷️ #131'
+  name: '10,21| By EbraSha 🐉 #133'
   network: tcp
   port: 443
   reality-opts:
@@ -197,9 +215,9 @@ proxies:
     headers:
       Host: ty986gfazs.cainiaohub.xyz
     path: '%2F81574b6b-c9d7-44a0-b83d-dad56e8cb530'
-- client-fingerprint: chrome
+- client-fingerprint: firefox
   flow: xtls-rprx-vision
-  name: '10,15,21| By EbraSha 🌪️ #134'
+  name: '10,15,21| By EbraSha 🔐 #109'
   network: tcp
   port: 9421
   reality-opts:
@@ -244,7 +262,7 @@ proxies:
 - name: 19|🇹🇼[www.v2nodes.com] vless-TW-1...
   network: ws
   port: 443
-  server: 60.248.219.53
+  server: 59.125.69.23
   servername: ty986gfazs.cainiaohub.xyz
   tls: true
   type: vless
@@ -261,28 +279,27 @@ proxies:
   skip-cert-verify: true
   sni: m.ctrip.com
   type: trojan
-- client-fingerprint: firefox
-  name: 24|🇹🇼_台湾_421
+- alterId: 0
+  cipher: auto
+  name: 27|🇹🇼TW-104.29.64.2-1143
   network: ws
   port: 443
-  server: 23.146.248.149
-  servername: rnxq-1lpi3m.linmeisoft.com
-  skip-cert-verify: true
+  server: 104.29.64.2
+  skip-cert-verify: false
   tls: true
-  type: vless
-  udp: true
-  uuid: b0a100ee-c397-43f2-bdae-2adfb7a0d4e5
+  type: vmess
+  uuid: f33957e8-372e-4fba-99ed-f4db32cce9e5
   ws-opts:
     headers:
-      Host: rnxq-1lpi3m.linmeisoft.com
-    path: /b0a100ee-c397-43f2-bdae-2adfb7a0d4e5
+      Host: fr2.cfcdn4.xyz
+    path: /ray
 - alterId: 0
   cipher: auto
   http-opts:
     method: GET
     path:
     - /
-  name: 27|🇹🇼TW-45.121.51.103-1196
+  name: 27|🇹🇼TW-45.121.51.103-1256
   network: http
   port: 20715
   server: 45.121.51.103
@@ -292,7 +309,7 @@ proxies:
   uuid: f6406b6d-5487-46da-f793-46611269a306
 - alterId: 0
   cipher: auto
-  name: 27|🇹🇼TW-61.222.202.140-2184
+  name: 27|🇹🇼TW-61.222.202.140-2249
   network: ws
   port: 33792
   server: 61.222.202.140
@@ -302,39 +319,21 @@ proxies:
   uuid: e55cd182-01b0-4fb7-a510-363701a491c5
   ws-opts:
     path: /
-- name: 27|🇹🇼TW-211.72.35.155-2658
-  password: b09d2aaa443af97a
-  port: 3389
-  server: 211.72.35.155
-  skip-cert-verify: false
-  type: trojan
-- name: 27|🇹🇼TW-211.72.35.158-2741
-  password: 7b06d22a8a7c764f
-  port: 3389
-  server: 211.72.35.158
-  skip-cert-verify: false
-  type: trojan
-- name: 27|🇹🇼TW-211.72.35.154-2880
+- name: 27|🇹🇼TW-211.72.35.154-2945
   password: 7b06d22a8a7c764f
   port: 3389
   server: 211.72.35.154
   skip-cert-verify: false
   type: trojan
-- name: 27|🇹🇼TW-60.249.3.228-2897
+- name: 27|🇹🇼TW-60.249.3.228-2962
   password: 7ac49a893e0bd10c
   port: 3389
   server: 60.249.3.228
   skip-cert-verify: false
   type: trojan
-- name: 27|🇹🇼TW-211.72.35.153-2959
-  password: 7b06d22a8a7c764f
-  port: 3389
-  server: 211.72.35.153
-  skip-cert-verify: false
-  type: trojan
 - alterId: 0
   cipher: auto
-  name: 27|🇹🇼TW-211.72.35.110-4451
+  name: 27|🇹🇼TW-211.72.35.110-4516
   network: ws
   port: 443
   server: 211.72.35.110
@@ -349,22 +348,7 @@ proxies:
     path: /nishikata
 - alterId: 0
   cipher: auto
-  name: 27|🇹🇼TW-211.72.35.110-4452
-  network: ws
-  port: 443
-  server: 211.72.35.110
-  servername: euserv1.aifx.eu.org
-  skip-cert-verify: false
-  tls: true
-  type: vmess
-  uuid: 3953ce0d-25df-4427-8371-a8ac26cc36fe
-  ws-opts:
-    headers:
-      Host: euserv1.aifx.eu.org
-    path: /nishikata
-- alterId: 0
-  cipher: auto
-  name: 27|🇹🇼TW-211.72.35.110-4453
+  name: 27|🇹🇼TW-211.72.35.110-4518
   network: ws
   port: 443
   server: 211.72.35.110
@@ -379,7 +363,22 @@ proxies:
     path: /nishikata
 - alterId: 0
   cipher: auto
-  name: 27|🇹🇼TW-211.72.35.110-4455
+  name: 27|🇹🇼TW-211.72.35.110-4519
+  network: ws
+  port: 443
+  server: 211.72.35.110
+  servername: haxeu7.jsworld.eu.org
+  skip-cert-verify: false
+  tls: true
+  type: vmess
+  uuid: dfd1d80f-caf0-4b11-e0bb-733a2710a07a
+  ws-opts:
+    headers:
+      Host: haxeu7.jsworld.eu.org
+    path: /nishikata3
+- alterId: 0
+  cipher: auto
+  name: 27|🇹🇼TW-211.72.35.110-4520
   network: ws
   port: 443
   server: 211.72.35.110
@@ -394,7 +393,7 @@ proxies:
     path: /nishikata3
 - alterId: 0
   cipher: auto
-  name: 27|🇹🇼TW-220.130.80.179-4494
+  name: 27|🇹🇼TW-220.130.80.179-4559
   network: ws
   port: 443
   server: 220.130.80.179
@@ -408,7 +407,7 @@ proxies:
     path: /howdy
 - alterId: 0
   cipher: auto
-  name: 27|🇹🇼TW-211.72.35.110-4497
+  name: 27|🇹🇼TW-211.72.35.110-4562
   network: ws
   port: 443
   server: 211.72.35.110
@@ -420,23 +419,9 @@ proxies:
     headers:
       Host: ru.tzccifq.ga
     path: /
-- alterId: 0
-  cipher: auto
-  name: 27|🇹🇼TW-165.154.253.35-4499
-  network: ws
-  port: 443
-  server: tw-1.qwqjsq.top
-  skip-cert-verify: false
-  tls: false
-  type: vmess
-  uuid: b0543a3b-d690-3ed9-9a81-f24f852e74f7
-  ws-opts:
-    headers:
-      Host: tw-1.qwqjsq.top
-    path: /
 - alterId: 64
   cipher: auto
-  name: 27|🇹🇼TW-61.216.85.68-4504
+  name: 27|🇹🇼TW-61.216.85.68-4569
   network: ws
   port: 443
   server: 61.216.85.68
@@ -450,46 +435,28 @@ proxies:
     path: /path/243535322906
 - alterId: 0
   cipher: auto
-  name: 27|🇹🇼TW-104.29.64.30-4508
+  name: 27|🇹🇼TW-165.154.246.107-4572
   network: ws
-  port: 443
-  server: 104.29.64.30
+  port: 80
+  server: 165.154.246.107
   skip-cert-verify: false
   tls: false
   type: vmess
-  uuid: a2c5ba68-e86a-4959-b7f3-8f8801d6370e
+  uuid: fa0702f4-8ec9-48e5-9b53-a0afb7c3717e
   ws-opts:
     headers:
-      Host: de1.kuainiao.buzz
-    path: /kuainiao/de1
-- alterId: 0
-  cipher: auto
-  name: 27|🇹🇼TW-114.25.6.202-4514
-  network: ws
-  port: 11463
-  server: tw4.594888.xyz
-  skip-cert-verify: false
-  tls: false
-  type: vmess
-  uuid: dd7639cf-66dd-3038-ab0e-cefe7e9ef9fb
-  ws-opts:
-    headers:
-      Host: tw4.594888.xyz
-    path: /v2ray
-- alterId: 0
-  cipher: auto
-  name: 27|🇹🇼TW-114.42.210.25-4515
-  network: ws
-  port: 25551
-  server: tw3.594888.xyz
-  skip-cert-verify: false
-  tls: false
-  type: vmess
-  uuid: dd7639cf-66dd-3038-ab0e-cefe7e9ef9fb
-  ws-opts:
-    headers:
-      Host: tw3.594888.xyz
-    path: /v2ray
+      Host: tms.dingtalk.com
+    path: /
+- cipher: chacha20-ietf-poly1305
+  name: 27|🇹🇼TW-60.249.35.95-5099
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  plugin: obfs
+  plugin-opts:
+    host: 817aa69.default.nintendo.com:112719
+    mode: tls
+  port: 2377
+  server: 60.249.35.95
+  type: ss
 - name: 29|台湾
   password: 85a88b70b5f2f73d0dcac92bd3934a5e
   port: 50160
@@ -501,7 +468,7 @@ proxies:
   name: '30|🇹🇼[www.v2nodes.com] vless-TW-1... #1'
   network: ws
   port: 443
-  server: 59.125.69.23
+  server: 60.248.219.53
   servername: ty986gfazs.cainiaohub.xyz
   tls: true
   type: vless
@@ -604,14 +571,6 @@ proxies:
   tls: false
   type: vless
   uuid: 85a6bd94-83a9-4e80-849f-c06d7011d1a4
-- name: 34|🇹🇼TW_21|282KB/s|A004-260618 01
-  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
-  port: 443
-  server: 103.115.109.49
-  skip-cert-verify: true
-  sni: https
-  tls: false
-  type: hysteria2
 - client-fingerprint: firefox
   flow: xtls-rprx-vision
   name: 34|❓Other_34|279KB/s|A004-260618 ...
@@ -625,14 +584,6 @@ proxies:
   tls: false
   type: vless
   uuid: 3a62a0c2-ba80-43a9-b757-9aca88b0552e
-- name: 34|🇹🇼TW_29|474KB/s|A004-260618 01
-  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
-  port: 443
-  server: vpn-tw-002.fastervpn.world
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: false
-  type: hysteria2
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
   name: 34|🇹🇼TW_38|77KB/s|A004-260618 01

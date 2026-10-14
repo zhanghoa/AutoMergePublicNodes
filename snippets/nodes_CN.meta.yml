@@ -1,6 +1,6 @@
 proxies:
 - client-fingerprint: chrome
-  name: '10,15,21| By EbraSha 🪬 #119'
+  name: '10,15,21| By EbraSha 🧩 #107'
   network: xhttp
   port: 443
   reality-opts:
@@ -20,8 +20,23 @@ proxies:
   type: vless
   udp: true
   uuid: 5aaa5259-f924-4682-a4a3-149d472a9dcc
+- client-fingerprint: chrome
+  name: 24|🇨🇳_中国_266
+  network: ws
+  port: 443
+  server: 103.115.64.183
+  servername: snip.edgeoneai.cc.cd
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: 495c7195-85b8-498a-bf20-2ea9ce9175b5
+  ws-opts:
+    headers:
+      Host: snip.edgeoneai.cc.cd
+    path: /fdip=sstp://vpn:vpn@public-vpn-200.opengw.net:443
 - cipher: chacha20-ietf
-  name: 27|🇨🇳CN-120.232.206.251-4547
+  name: 27|🇨🇳CN-120.232.206.251-4612
   obfs: plain
   obfs-param: ''
   password: mblank1port
@@ -33,7 +48,7 @@ proxies:
 - client-fingerprint: chrome
   grpc-opts:
     grpc-service-name: TunService
-  name: 28|[OpenRay] 🇨🇳CN-20
+  name: 28|[OpenRay] 🇨🇳CN-19
   network: grpc
   port: 8443
   reality-opts:

@@ -1,23 +1,23 @@
 proxies:
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha ♦️ #11'
+  name: '10,21| By EbraSha 🤖 #7'
   password: lejSRyqa033OEPmEQsvRsl
   port: 46114
   server: 194.59.183.134
   type: ss
 - cipher: aes-256-cfb
-  name: 10,21,27|🇪🇪EE-37.252.5.234-4249
+  name: 10,21,27|🇪🇪EE-37.252.5.234-4314
   password: f8f7aCzcPKbsF8p3
   port: 989
   server: 37.252.5.234
   type: ss
 - cipher: aes-256-gcm
-  name: '10,21| By EbraSha 🕷️ #19'
+  name: '10,21| By EbraSha 🦈 #18'
   password: FoOiGlkAA9yPEGP
   port: 7307
   server: 38.180.216.114
   type: ss
-- name: '10,21| By EbraSha 🎛️ #61'
+- name: '10,21| By EbraSha 🧊 #50'
   network: tcp
   password: bpb-trojan
   port: 443
@@ -32,7 +32,7 @@ proxies:
   server: 45.80.110.224
   sni: 'bpb.my79801.com '
   type: trojan
-- name: 10,21,34|🇫🇷FR_2190|1004KB/s|M003-260806...
+- name: 10,34|🇫🇷FR_2190|1004KB/s|M003-260806...
   network: ws
   password: humanity
   port: 443
@@ -54,13 +54,25 @@ proxies:
     headers:
       Host: 'www.pleadcourt.org '
     path: '%2Fassignment'
-- name: 10,21,27|🇪🇪EE-138.124.183.216-2723
+- name: '10,15,21| By EbraSha 🧬 #50'
+  password: oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1
+  port: 449
+  server: 109.206.241.10
+  skip-cert-verify: true
+  type: trojan
+- name: 10,21,27|🇪🇪EE-138.124.183.216-2788
   password: xxoo
   port: 443
   server: 138.124.183.216
   skip-cert-verify: false
   type: trojan
-- name: 10,27|🇪🇪EE-138.124.183.226-2812
+- name: '10|🇪🇪 [ Configs by DukeMehdi ] TJ... #6'
+  password: xxoo
+  port: 443
+  server: 138.124.183.222
+  sni: '138.124.183.222 '
+  type: trojan
+- name: 10,21,27|🇪🇪EE-138.124.183.226-2877
   password: xxoo
   port: 443
   server: 138.124.183.226
@@ -75,8 +87,21 @@ proxies:
   uuid: 06c4e938-2954-478f-a870-ca1b163e30e9
   ws-opts:
     path: /
+- client-fingerprint: firefox
+  encryption: none
+  name: 10,19,21,28,30,34|🇪🇪EE_3|1.4MB/s|A004-260618 01
+  network: raw
+  port: 8443
+  server: 94.183.170.135
+  servername: estproxy4.lockdwn.com
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  uuid: 06c4e938-2954-478f-a870-ca1b163e30e9
+  ws-opts:
+    path: /
 - flow: xtls-rprx-vision
-  name: '10,21| By EbraSha 🌑 #67'
+  name: '10,21| By EbraSha 🧪 #79'
   network: tcp
   port: 443
   reality-opts:
@@ -89,7 +114,7 @@ proxies:
   uuid: 17930cee-cbea-484b-ad7f-7b8062825fee
 - client-fingerprint: firefox
   flow: xtls-rprx-vision
-  name: '10,21| By EbraSha 🔐 #100'
+  name: 10,21,28|[OpenRay] 🇺🇸US-162
   network: tcp
   port: 443
   reality-opts:
@@ -97,12 +122,13 @@ proxies:
     short-id: 7f3a91c2d8e640ab
   server: 143.246.41.31
   servername: ees92.shhflow.xyz
+  skip-cert-verify: true
   tls: false
   type: vless
   uuid: 43212c32-01f2-4356-b216-67dc1c178262
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: '10,15,21| By EbraSha 📱 #90'
+  name: '10,15,21| By EbraSha 🔐 #66'
   network: tcp
   port: 443
   reality-opts:
@@ -114,12 +140,11 @@ proxies:
   uuid: 4612258c-15e8-4459-a3b6-8b6571699c5f
 - client-fingerprint: firefox
   flow: ''
-  name: 10,21,28|[OpenRay] 🇺🇸US-3880
+  name: '10,21| By EbraSha 🧠 #90'
   network: ws
   port: 443
   server: 153.56.171.216
   servername: x.m-90.xyz
-  skip-cert-verify: false
   tls: true
   type: vless
   uuid: 489f1717-d3c7-4940-ad68-bdbdbab857f4
@@ -127,22 +152,9 @@ proxies:
     headers:
       Host: x.m-90.xyz
     path: t.me%2FTEAMNETGRATISCOL
-- client-fingerprint: firefox
-  name: '10|🇪🇪 [ Configs by DukeMehdi ] VL... #6'
-  network: 'ws '
-  port: 443
-  server: 45.12.28.108
-  servername: x.m-90.xyz
-  tls: true
-  type: vless
-  uuid: 489f1717-d3c7-4940-ad68-bdbdbab857f4
-  ws-opts:
-    headers:
-      Host: x.m-90.xyz
-    path: t.me/TEAMNETGRATISCOL
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: '10,15,21| By EbraSha 🔮 #90'
+  name: '10,15,21| By EbraSha 🧬 #93'
   network: tcp
   port: 443
   reality-opts:
@@ -170,7 +182,7 @@ proxies:
   uuid: 5edbcb44-8d04-4fa7-a587-bc5d60c24ca1
 - client-fingerprint: random
   flow: xtls-rprx-vision
-  name: 10,15,19,21,26,28|[OpenRay] 🇪🇪EE-28
+  name: 10,15,19,21,26,28|[OpenRay] 🇪🇪EE-27
   network: tcp
   port: 443
   reality-opts:
@@ -196,7 +208,7 @@ proxies:
   uuid: 616c7b3b-41f4-4038-88c6-d6fedd0ae4a7
 - client-fingerprint: firefox
   flow: xtls-rprx-vision
-  name: 10,21,28|[OpenRay] 🇪🇪EE-31
+  name: 10,21,28|[OpenRay] 🇪🇪EE-30
   network: raw
   port: 443
   reality-opts:
@@ -208,7 +220,7 @@ proxies:
   type: vless
   uuid: 616c7b3b-41f4-4038-88c6-d6fedd0ae4a7
 - client-fingerprint: firefox
-  name: '10|🇪🇪 [ Configs by DukeMehdi ] VL... #12'
+  name: '10|🇪🇪 [ Configs by DukeMehdi ] VL... #11'
   network: 'ws '
   port: 8443
   server: 194.26.141.148
@@ -223,7 +235,7 @@ proxies:
 - alpn:
   - 'http/1.1 '
   flow: ''
-  name: '10|🇪🇪 [ Configs by DukeMehdi ] VL... #13'
+  name: '10|🇪🇪 [ Configs by DukeMehdi ] VL... #12'
   network: ws
   port: 8443
   server: 77.72.85.246
@@ -254,7 +266,7 @@ proxies:
 - client-fingerprint: firefox
   grpc-opts:
     grpc-service-name: content.v1.Feed
-  name: '10|🇪🇪 [ Configs by DukeMehdi ] VL... #15'
+  name: '10|🇪🇪 [ Configs by DukeMehdi ] VL... #14'
   network: 'grpc '
   port: 443
   server: 132.243.65.86
@@ -264,7 +276,7 @@ proxies:
   uuid: 73705990-99fd-4deb-98b4-91ca7bf9bbc0
 - client-fingerprint: firefox
   flow: xtls-rprx-vision
-  name: '10,21| By EbraSha 🎯 #100'
+  name: '10,21| By EbraSha 🌀 #115'
   network: tcp
   port: 443
   reality-opts:
@@ -294,7 +306,7 @@ proxies:
     path: '%2Fwebsocket%3Fed%3D2560'
 - grpc-opts:
     grpc-service-name: 'grpc '
-  name: '10|🇪🇪 [ Configs by DukeMehdi ] VL... #18'
+  name: '10|🇪🇪 [ Configs by DukeMehdi ] VL... #17'
   network: grpc
   port: 8443
   server: 95.85.224.3
@@ -303,7 +315,7 @@ proxies:
   uuid: 7e8f7489-e65f-4be6-93ed-867a74ec6759
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: '10,15,21| By EbraSha ⚡ #115'
+  name: '10,15,21| By EbraSha 📼 #136'
   network: tcp
   port: 443
   reality-opts:
@@ -316,7 +328,7 @@ proxies:
   uuid: 87fd990d-ca93-440a-bbd4-e8281c4a0910
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: '10,15,21| By EbraSha 🛜 #114'
+  name: '10,15,21| By EbraSha 🚀 #131'
   network: tcp
   port: 443
   reality-opts:
@@ -329,7 +341,7 @@ proxies:
   uuid: 8d790ba0-5407-441b-b545-8ab369c591ce
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: '10,15,21| By EbraSha 🥷 #137'
+  name: '10,15,21| By EbraSha 🥷 #138'
   network: tcp
   port: 443
   reality-opts:
@@ -342,7 +354,7 @@ proxies:
   uuid: ae8e0f7d-b661-41ca-b55d-d8c383adb2f8
 - client-fingerprint: firefox
   flow: xtls-rprx-vision
-  name: 10,21,26,28|[OpenRay] 🇳🇱NL-93
+  name: 10,21,26,28|[OpenRay] 🇳🇱NL-89
   network: tcp
   port: 443
   reality-opts:
@@ -357,7 +369,7 @@ proxies:
   flow: ''
   grpc-opts:
     grpc-service-name: nl1grpc
-  name: 10,15,21,28|[OpenRay] 🇳🇱NL-356
+  name: 10,21,28|[OpenRay] 🇳🇱NL-358
   network: grpc
   port: 8443
   server: 185.209.15.100
@@ -365,23 +377,9 @@ proxies:
   tls: true
   type: vless
   uuid: c6db98c5-9959-425e-9340-300779fc4e4b
-- flow: ''
-  grpc-opts:
-    grpc-service-name: ee-grpc
-  name: '10,21| By EbraSha 🌑 #127'
-  network: grpc
-  port: 443
-  reality-opts:
-    public-key: aYz4_13W8gtAXGBrWeqJXtExahAJ9kUPDapqeyAlYCk
-    short-id: ''
-  server: 13.143.239.81
-  servername: ee-1-1.unturned-rust-dead.lol
-  tls: false
-  type: vless
-  uuid: c6e3c24c-ce20-4ad5-8c8c-68cb05890ea8
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: 10,21,28|[OpenRay] 🇪🇪EE-43
+  name: 10,21,28|[OpenRay] 🇪🇪EE-42
   network: tcp
   port: 443
   reality-opts:
@@ -394,7 +392,7 @@ proxies:
   uuid: cabf30b3-d2a3-4d67-b52b-829297ca9a33
 - client-fingerprint: random
   flow: xtls-rprx-vision
-  name: 10,21,28|[OpenRay] 🇹🇷TR-5
+  name: 10,21,28|[OpenRay] 🇹🇷TR-4
   network: tcp
   port: 443
   reality-opts:
@@ -404,8 +402,20 @@ proxies:
   tls: false
   type: vless
   uuid: cc4d63e2-3a86-49b3-9598-328bbe93e56c
+- client-fingerprint: random
+  name: '10,21| By EbraSha 🧬 #155'
+  network: tcp
+  port: 25895
+  reality-opts:
+    public-key: jOVKSP-bS9OkILJ8Epz8hadh6qhavCrOiJYeF0NCn0k
+    short-id: a73f0410d728c823
+  server: 179.254.126.20
+  servername: www.samsung.com
+  tls: false
+  type: vless
+  uuid: f90b7d43-69e2-4b46-a672-8029bc6796a2
 - client-fingerprint: firefox
-  name: 10,21,28|[OpenRay] 🇺🇦UA-15
+  name: 10,21,28|[OpenRay] 🇺🇦UA-11
   network: tcp
   port: 25895
   reality-opts:
@@ -430,15 +440,6 @@ proxies:
   type: vless
   udp: true
   uuid: 88888888-8888-8888-8888-888888888888
-- name: 13,19,20,27,28,30,34|🇪🇪EE_8|1.2MB/s|C002-260622 01
-  network: tcp
-  password: oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1
-  port: 449
-  server: 109.206.241.10
-  skip-cert-verify: true
-  sni: russiapower.accesscam.org
-  type: trojan
-  udp: true
 - client-fingerprint: firefox
   flow: xtls-rprx-vision
   name: '13,34|🇪🇪EE爱沙尼亚丨yoyapai.com #1'
@@ -513,25 +514,15 @@ proxies:
         like Gecko) Chrome/60.0.3112.113 Safari/537.36
     path: /hoOUCl9QWMZ9zBtD/c2hpcmVuLnlhZW1pa28uZ2dmZi5uZXQ=?ed=2560
   xudp: true
-- client-fingerprint: qq
-  flow: xtls-rprx-vision
-  name: 19,28,34|🇫🇮FI_20|214KB/s|A004-260618 01
-  network: tcp
+- name: '19,30|🇪🇪[www.v2nodes.com] vless-EE-1... #7'
   port: 443
-  reality-opts:
-    public-key: WWeAHWUVD-phmnjNJ823cer0c4CMIbEs08AhsuEZmDc
-    short-id: a696de84963656de
-  server: 95.85.224.51
-  servername: max.ru
+  server: 93.123.39.84
   tls: false
   type: vless
-  uuid: 342ab7e4-5a89-0001-8809-304120d4aa83
-  ws-opts:
-    headers:
-      Host: v2rayNplus--v2rayNplus--v2rayNplus
+  uuid: 5298d5c5-0633-4989-95c8-68ee13cd507e
 - client-fingerprint: random
   flow: xtls-rprx-vision
-  name: 19,28|[OpenRay] 🇷🇴RO-51
+  name: 19,28|[OpenRay] 🇷🇴RO-52
   network: tcp
   port: 443
   reality-opts:
@@ -543,7 +534,19 @@ proxies:
   tls: false
   type: vless
   uuid: ace33fb8-c593-4b17-8f72-f3359b6e9638
-- name: 27|🇪🇪EE-138.124.183.222-2326
+- alterId: 0
+  cipher: auto
+  name: 27|🇪🇪EE-176.112.146.190-0795
+  network: ws
+  port: 80
+  server: 176.112.146.190
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  uuid: f9247df4-02d5-4b31-acc5-4022652c5953
+  ws-opts:
+    path: /
+- name: 27|🇪🇪EE-138.124.183.222-2391
   password: xxoo
   port: 443
   server: 138.124.183.222
@@ -561,19 +564,6 @@ proxies:
   tls: true
   type: vless
   uuid: 06c4e938-2954-478f-a870-ca1b163e30e9
-- client-fingerprint: firefox
-  name: 28|[OpenRay] 🇪🇪EE-27
-  network: ws
-  port: 443
-  server: 45.12.28.108
-  servername: x.m-90.xyz
-  tls: true
-  type: vless
-  uuid: 489f1717-d3c7-4940-ad68-bdbdbab857f4
-  ws-opts:
-    headers:
-      Host: x.m-90.xyz
-    path: t.me/TEAMNETGRATISCOL
 - alpn:
   - http/1.1
   name: 28|[OpenRay] 🇪🇪EE-23
@@ -592,7 +582,7 @@ proxies:
 - alpn:
   - http/1.1
   client-fingerprint: chrome
-  name: 28|[OpenRay] 🇪🇪EE-32
+  name: 28|[OpenRay] 🇪🇪EE-31
   network: ws
   port: 8443
   server: 77.72.85.247
@@ -608,7 +598,7 @@ proxies:
 - alpn:
   - http/1.1
   client-fingerprint: chrome
-  name: 28|[OpenRay] 🇪🇪EE-38
+  name: 28|[OpenRay] 🇪🇪EE-37
   network: ws
   port: 8443
   server: 77.72.85.247

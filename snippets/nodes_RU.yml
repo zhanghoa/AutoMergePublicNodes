@@ -1,127 +1,133 @@
 proxies:
 - cipher: chacha20-ietf-poly1305
-  name: 10,27|🇷🇺RU-146.185.198.44-7722
-  password: V7jmsA6PQsLn
-  port: 444
-  server: 146.185.198.44
+  name: '10,21| By EbraSha ⌨️ #9'
+  password: 52+ggoCvKFVJyT1NDiuWOZw2rHIvAg3tgqgJl8aeCwY=
+  port: 43558
+  server: 130.49.189.158
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 🔋 #13'
+  name: '10,21| By EbraSha 💻 #14'
   password: frcYfFRuQRks932EpCWvX7
   port: 57925
   server: 157.22.240.141
   type: ss
+- cipher: chacha20-ietf-poly1305
+  name: 10,27|🇷🇺RU-91.207.183.63-7131
+  password: mX1q8sv17wA5LGDHIHD6Jo
+  port: 15720
+  server: 91.207.183.63
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: 10,27|🇷🇺RU-185.221.153.52-7493
+  password: slatpifOon
+  port: 444
+  server: 185.221.153.52
+  type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha 🧿 #19'
+  name: '10,21| By EbraSha 👑 #14'
   password: '!!str 7620447880'
   port: 50005
   server: 92.38.139.95
   type: ss
 - cipher: aes-256-cfb
-  name: 10,27|🇷🇺RU-45.89.52.66-7168
+  name: 10,27|🇷🇺RU-45.89.52.66-7240
   password: BwcAUZk8hUFAkDGN
   port: 9031
   server: 45.89.52.66
   type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha 🦾 #16'
+  name: '10,21| By EbraSha 💎 #24'
   password: EXN3S3eQpjE7EJu8
   port: 9027
   server: 213.183.41.38
   type: ss
 - cipher: aes-256-cfb
-  name: 10,27|🇷🇺RU-213.183.53.222-0305
+  name: 10,27|🇷🇺RU-213.183.53.222-0290
   password: KnJGad3FqTvjqbaX
   port: 9014
   server: 213.183.53.222
   type: ss
 - cipher: aes-256-cfb
-  name: 10,21,27|🇷🇺RU-45.89.52.66-7163
+  name: 10,27|🇷🇺RU-45.89.52.66-7235
   password: HSZuyJQcWe8dxNdF
   port: 9043
   server: 45.89.52.66
   type: ss
 - cipher: aes-256-cfb
-  name: 10,27|🇷🇺RU-80.92.204.106-2236
+  name: 10,21,27|🇷🇺RU-80.92.204.106-2301
   password: M3t2ZEQcMGRWBjRa
   port: 9011
   server: 80.92.204.106
   type: ss
 - cipher: aes-256-cfb
-  name: 10,27|🇷🇺RU-45.89.52.66-7164
-  password: S7KwUu7yBy58S3Ga
-  port: 9042
+  name: 10,21,27|🇷🇺RU-45.89.52.66-7237
+  password: U6qnYRhfyDmn8sgn
+  port: 9041
   server: 45.89.52.66
   type: ss
 - cipher: aes-256-cfb
-  name: 10,21,27|🇷🇺RU-31.172.67.43-7243
+  name: 10,21,27|🇷🇺RU-31.172.67.43-7315
   password: asdKkaskJKfnsa
   port: 443
   server: 31.172.67.43
   type: ss
 - cipher: aes-256-cfb
-  name: 10,27|🇷🇺RU-92.223.109.126-4253
-  password: f8f7aCzcPKbsF8p3
-  port: 989
-  server: 92.223.109.126
-  type: ss
-- cipher: aes-256-cfb
-  name: 10,27|🇷🇺RU-45.89.52.66-7166
+  name: 10,21,27|🇷🇺RU-45.89.52.66-7238
   password: p9z5BVADH2YFs3MN
   port: 9040
   server: 45.89.52.66
   type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha ♦️ #20'
+  name: '10,21| By EbraSha 🕹️ #14'
   password: qazplmn1236547dr42q
   port: 3001
   server: 45.144.176.135
   type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha 🛡️ #14'
+  name: '10,21| By EbraSha 🦈 #15'
   password: vDS9G2p
   port: 21247
   server: 185.4.65.6
   type: ss
 - cipher: aes-256-gcm
-  name: '10,21| By EbraSha 🧬 #23'
+  name: '10,21| By EbraSha 🧩 #19'
   password: 1eadd4e4a37b6601
   port: 10801
   server: 45.8.158.176
   type: ss
 - cipher: aes-256-gcm
-  name: '10,21| By EbraSha 🦈 #17'
+  name: '10,21| By EbraSha 🕷️ #28'
   password: 4938e975724d0ed1
   port: 40440
   server: 194.87.196.107
   type: ss
 - cipher: aes-256-gcm
-  name: '10,21| By EbraSha 🌍 #23'
+  name: '10,21| By EbraSha 🦾 #15'
   password: 6b39ae3234dfd68b
   port: 10808
   server: 185.22.155.162
   type: ss
 - cipher: aes-256-gcm
-  name: '10,21| By EbraSha 🧿 #22'
+  name: '10,21| By EbraSha 💻 #22'
   password: 895b4b796a357570
   port: 20999
   server: 46.17.41.166
   type: ss
 - cipher: aes-256-gcm
-  name: '10,21| By EbraSha 🌃 #28'
+  name: '10,21| By EbraSha 🔋 #25'
   password: bdb313adf74c2ede
   port: 20111
   server: 45.140.168.141
   type: ss
 - cipher: aes-256-gcm
-  name: 10,21,28|[OpenRay] 🇷🇺RU-174
+  name: 10,21,28|[OpenRay] 🇷🇺RU-197
   password: zwmwm8j1enx0kphp
   port: 39844
   server: 151.248.116.248
   type: ss
 - alpn:
   - http/1.1
-  name: '10,21| By EbraSha 💎 #33'
+  name: '10,21| By EbraSha ⚔️ #35'
   network: tcp
   password: 265f092f-418b-30c9-a479-4800fd44dd19mielink
   port: 443
@@ -137,19 +143,13 @@ proxies:
   sni: 'Koma-YT.PAGeS.Dev '
   type: trojan
 - name: '10|🇷🇺 [ Configs by DukeMehdi ] TJ... #2'
-  password: a1b16d10-4f43-4dd9-8c4f-52065b2b0910
-  port: 28443
-  server: 45.88.148.237
-  sni: 'sbank.ir '
-  type: trojan
-- name: '10|🇷🇺 [ Configs by DukeMehdi ] TJ... #3'
   network: tcp
   password: bpb-trojan
   port: 443
   server: 185.148.104.251
   sni: 'bpb.my79801.com '
   type: trojan
-- name: '10,21| By EbraSha 🌪️ #42'
+- name: '10,21| By EbraSha 🌪️ #38'
   network: tcp
   password: bpb-trojan
   port: 443
@@ -157,25 +157,19 @@ proxies:
   skip-cert-verify: true
   sni: bpb.my79801.com
   type: trojan
-- name: '10|🇷🇺 [ Configs by DukeMehdi ] TJ... #5'
+- name: '10|🇷🇺 [ Configs by DukeMehdi ] TJ... #4'
   network: tcp
   password: d6b8011a-c725-435a-9fec-bf6d3530392c
   port: 2096
   server: 194.53.53.11
   sni: 'vle.amclubssss.dpdns.org '
   type: trojan
-- name: '10|🇷🇺 [ Configs by DukeMehdi ] TJ... #6'
+- name: '10|🇷🇺 [ Configs by DukeMehdi ] TJ... #5'
   network: tcp
   password: d6b8011a-c725-435a-9fec-bf6d3530392c
   port: 2083
   server: 194.53.53.249
   sni: 'vle.amclubdns.dpdns.org '
-  type: trojan
-- name: '10|🇷🇺 [ Configs by DukeMehdi ] TJ... #7'
-  password: dKn7hqgST668mj_8EgoMUd3_zPSxnTFQ
-  port: 8443
-  server: 194.55.239.121
-  sni: 'api-v2.captaingold.app '
   type: trojan
 - cipher: aes-256-gcm
   name: 13|🇷🇺 RU俄羅斯丨yoyapai.com
@@ -227,21 +221,7 @@ proxies:
     path: /api/v1/gpu-stream/socket
 - alterId: 0
   cipher: auto
-  name: 27|🇷🇺RU-31.129.105.239-1028
-  network: ws
-  port: 16231
-  server: 31.129.105.239
-  skip-cert-verify: false
-  tls: false
-  type: vmess
-  uuid: 793e03cc-2b08-4d1b-bb0b-592567d19043
-  ws-opts:
-    headers:
-      Host: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc
-    path: /
-- alterId: 0
-  cipher: auto
-  name: 27|🇷🇺RU-45.136.244.181-1503
+  name: 27|🇷🇺RU-45.136.244.181-0363
   network: ws
   port: 80
   server: 45.136.244.181
@@ -250,12 +230,34 @@ proxies:
   type: vmess
   uuid: a25881f3-967f-3265-bc7f-9e66857b016b
   ws-opts:
-    headers:
-      Host: 45.136.244.181
     path: /fr-unlimitxxx
 - alterId: 0
   cipher: auto
-  name: 27|🇷🇺RU-45.136.245.240-2255
+  name: 27|🇷🇺RU-45.89.230.196-1712
+  network: ws
+  port: 80
+  server: 45.89.230.196
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  uuid: 8f9f526b-cab6-41d2-9424-cbdde94ea14f
+  ws-opts:
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 27|🇷🇺RU-45.129.2.237-2008
+  network: ws
+  port: 10258
+  server: 45.129.2.237
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  uuid: add194d6-192c-4ea3-a5af-eea994390831
+  ws-opts:
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 27|🇷🇺RU-45.136.245.240-2320
   network: ws
   port: 12910
   server: 45.136.245.240
@@ -265,34 +267,45 @@ proxies:
   uuid: 8259cb1c-dd6c-4739-9c88-af550d977525
   ws-opts:
     path: /
-- name: 27|🇷🇺RU-45.88.148.237-2686
-  password: a1b16d10-4f43-4dd9-8c4f-52065b2b0910
-  port: 28443
-  server: 45.88.148.237
+- alterId: 0
+  cipher: auto
+  name: 27|🇷🇺RU-91.193.181.192-3089
+  network: ws
+  port: 8090
+  server: 91.193.181.192
   skip-cert-verify: false
-  sni: sbank.ir
-  type: trojan
-- name: 27|🇷🇺RU-45.88.148.234-3188
+  tls: false
+  type: vmess
+  uuid: 08bc30e1-be39-4eb4-e887-e6579be15a45
+  ws-opts:
+    path: /
+- name: 27|🇷🇺RU-45.88.148.234-3253
   password: 750a29bf-0a40-437f-b120-38de74ae7eaf
   port: 28443
   server: 45.88.148.234
   skip-cert-verify: false
   type: trojan
 - cipher: chacha20-ietf-poly1305
-  name: 27|🇷🇺RU-90.156.228.141-7062
+  name: 27|🇷🇺RU-90.156.228.141-7134
   password: MjU9yGcudqQlVH1y3KiA8f
   port: 46717
   server: 90.156.228.141
   type: ss
-- cipher: aes-256-cfb
-  name: 27|🇷🇺RU-45.89.52.66-7165
-  password: U6qnYRhfyDmn8sgn
-  port: 9041
-  server: 45.89.52.66
-  type: ss
+- alterId: 0
+  cipher: auto
+  name: 27|🇷🇺RU-185.59.218.177-7490
+  network: ws
+  port: 443
+  server: 185.59.218.177
+  skip-cert-verify: false
+  tls: true
+  type: vmess
+  uuid: 8f74ec8a-971c-11ed-a8fc-0242ac120002
+  ws-opts:
+    path: /72d6d25e-1b39-11ee-a5c8-8213fd3be4b9
 - alterId: 64
   cipher: auto
-  name: 27|🇷🇺RU-171.22.134.12-7578
+  name: 27|🇷🇺RU-171.22.134.12-7649
   network: ws
   port: 443
   server: 171.22.134.12
@@ -301,4 +314,4 @@ proxies:
   type: vmess
   uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
   ws-opts:
-    path: /path/1689935243027
+    path: /path/1689849487190
