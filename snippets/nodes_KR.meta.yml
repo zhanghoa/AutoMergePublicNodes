@@ -1,200 +1,169 @@
 proxies:
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 🧲 #5'
+  name: '10,21| By EbraSha 🚧 #7'
   password: 7e68e32f-8015-4f37-9082-70e8b0b58043
   port: 8443
   server: 15.164.245.92
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: 10,19,21,27|🇰🇷KR-13.125.180.150-0631
+  name: 10,21,28|[OpenRay] 🇰🇷KR-50
+  password: 7e68e32f-8015-4f37-9082-70e8b0b58043
+  port: 8443
+  server: 3.34.96.37
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: 10,21,28|[OpenRay] 🇰🇷KR-15
+  password: 7e68e32f-8015-4f37-9082-70e8b0b58043
+  port: 8443
+  server: 3.38.168.170
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: '10,21| By EbraSha ⚙️ #7'
   password: 7e68e32f-8015-4f37-9082-70e8b0b58043
   port: 8443
   server: 13.125.180.150
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 🪬 #6'
+  name: '10,21| By EbraSha 🔋 #7'
   password: 7e68e32f-8015-4f37-9082-70e8b0b58043
   port: 8443
   server: 3.35.54.161
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 📟 #5'
+  name: '10,21| By EbraSha 🖥️ #4'
   password: 7e68e32f-8015-4f37-9082-70e8b0b58043
   port: 8443
   server: 43.202.53.247
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '10,21| By EbraSha 🚀 #11'
+  name: '10,21| By EbraSha 🧨 #9'
   password: 7e68e32f-8015-4f37-9082-70e8b0b58043
   port: 8443
   server: 52.78.59.52
   type: ss
-- cipher: chacha20-ietf-poly1305
-  name: '10,21,30|🇰🇷 韩国 | KOR #2 #1'
-  password: 7e68e32f-8015-4f37-9082-70e8b0b58043
-  port: 8443
-  server: 54.180.251.134
-  type: ss
-  udp: true
-- cipher: aes-256-cfb
-  name: 10,21,28|[OpenRay] 🇰🇷KR-30
-  password: 1234!@#$
-  port: 1774
-  server: 49.254.204.134
+- cipher: aes-128-gcm
+  name: 10,27|🇰🇷KR-129.154.222.205-4800
+  password: 3a308d5f-72a3-42c0-88a8-549f8ebb5713
+  port: 32702
+  server: 129.154.222.205
   type: ss
 - cipher: aes-256-cfb
-  name: 10,27|🇰🇷KR-3.36.118.190-4935
-  password: amazonskr05
-  port: 443
-  server: 3.36.118.190
-  type: ss
-- cipher: aes-256-cfb
-  name: 10,21,27|🇰🇷KR-43.200.245.35-2694
+  name: 10,21,27|🇰🇷KR-43.200.245.35-2615
   password: amazonskr05
   port: 443
   server: 43.200.245.35
   type: ss
 - cipher: aes-256-cfb
-  name: 10,21,27|🇰🇷KR-43.201.108.109-7269
-  password: amazonskr05
-  port: 443
-  server: 43.201.108.109
-  type: ss
-- cipher: aes-256-cfb
-  name: 10,27|🇰🇷KR-43.201.47.102-3031
-  password: amazonskr05
-  port: 443
-  server: 43.201.47.102
-  type: ss
-- cipher: aes-256-cfb
-  name: 10,21,27|🇰🇷KR-43.201.48.212-2093
+  name: 10,21,27|🇰🇷KR-43.201.48.212-2045
   password: amazonskr05
   port: 443
   server: 43.201.48.212
   type: ss
 - cipher: aes-256-cfb
-  name: 10,27|🇰🇷KR-43.201.86.30-4041
+  name: 10,21,27|🇰🇷KR-43.201.59.8-2747
   password: amazonskr05
   port: 443
-  server: 43.201.86.30
+  server: 43.201.59.8
   type: ss
 - cipher: aes-256-cfb
-  name: 10,21,27|🇰🇷KR-158.247.213.230-6018
+  name: 10,27|🇰🇷KR-158.247.213.230-5956
   password: f8f7aCzcPKbsF8p3
   port: 989
   server: 158.247.213.230
   type: ss
 - cipher: aes-256-cfb
-  name: 10,27|🇰🇷KR-125.141.26.5-7867
-  password: qwerREWQ@@
-  port: 2003
-  server: 125.141.26.5
-  type: ss
-- cipher: aes-256-cfb
-  name: '10,21| By EbraSha 🚧 #15'
+  name: '10,21| By EbraSha 🧨 #21'
   password: qwerREWQ@@
   port: 4652
   server: 218.237.185.230
   type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha 👑 #17'
+  name: '10,21| By EbraSha 🥷 #23'
   password: qwerREWQ@@
   port: 13979
   server: 221.139.79.57
   type: ss
 - cipher: aes-256-gcm
-  name: '10,21| By EbraSha 🧿 #11'
+  name: '10,21| By EbraSha 🦇 #16'
   password: KixLvKzwjekG00rm
   port: 8000
   server: 141.164.45.187
   type: ss
 - cipher: aes-256-gcm
-  name: '10,21| By EbraSha ⚡ #28'
+  name: 10,21,27|🇰🇷KR-141.164.45.187-0232
   password: RexnBgU7EV5ADxG
   port: 7001
   server: 141.164.45.187
   type: ss
 - cipher: aes-256-gcm
-  name: 10,21,27|🇰🇷KR-141.164.45.187-5067
+  name: 10,27|🇰🇷KR-141.164.39.146-2169
+  password: TEzjfAYq2IjtuoS
+  port: 6697
+  server: 141.164.39.146
+  type: ss
+- cipher: aes-256-gcm
+  name: 10,21,27|🇰🇷KR-141.164.45.187-0236
   password: TEzjfAYq2IjtuoS
   port: 6679
   server: 141.164.45.187
   type: ss
 - cipher: aes-256-gcm
-  name: '10,21| By EbraSha 🌌 #18'
-  password: TEzjfAYq2IjtuoS
-  port: 6697
-  server: 141.164.45.187
-  type: ss
-- cipher: aes-256-gcm
-  name: 10,21,28|[OpenRay] 🇰🇷KR-25
+  name: '10,21| By EbraSha 🧩 #22'
   password: UsIv5aKJabiqnYtY8IfWd6FfgjzrJlfZ
   port: 8388
   server: 43.155.223.71
   type: ss
 - cipher: aes-256-gcm
-  name: '10,21| By EbraSha 🧠 #20'
+  name: '10,21| By EbraSha 🃏 #22'
   password: XKFKl2rULjIp74
   port: 8008
   server: 141.164.45.187
   type: ss
 - cipher: aes-256-gcm
-  name: 10,21,28|[OpenRay] 🇰🇷KR-112
-  password: Y6R9pAtvxxzmGC
-  port: 9090
-  server: 141.164.45.187
-  type: ss
-- cipher: aes-256-gcm
-  name: 10,27|🇰🇷KR-158.247.205.87-2275
+  name: 10,27|🇰🇷KR-158.247.205.87-2196
   password: Y6R9pAtvxxzmGC
   port: 5601
   server: 158.247.205.87
   type: ss
 - cipher: aes-256-gcm
-  name: 10,21,28|[OpenRay] 🇰🇷KR-22
+  name: 10,21,28|[OpenRay] 🇰🇷KR-26
   password: cdBIDV42DCwnfIN
   port: 8119
   server: 141.164.45.187
   type: ss
 - cipher: aes-256-gcm
-  name: 10,21,27|🇰🇷KR-211.174.113.172-0214
+  name: '10,21| By EbraSha 💻 #27'
   password: ac9c0a7b
   port: 49642
   server: 211.174.113.172
   type: ss
 - cipher: aes-256-gcm
-  name: '10,21| By EbraSha 🕹️ #32'
-  password: lGqs95QkFHo2NV
-  port: 5498
-  server: 141.164.45.187
+  name: 10,27|🇰🇷KR-158.247.205.87-2197
+  password: pKEW8JPByTVTLtM
+  port: 443
+  server: 158.247.205.87
   type: ss
-- name: 10,21,27|🇰🇷KR-144.24.72.126-3012
+- name: 10,21,27|🇰🇷KR-144.24.72.126-2933
   password: 7118b5f4-0ea4-4c11-be7f-11471cb91e4a
   port: 443
   server: 144.24.72.126
   skip-cert-verify: false
   type: trojan
-- name: '10,21| By EbraSha ⌨️ #40'
+- name: '10,21| By EbraSha 🦈 #54'
   network: tcp
   password: 81d93f62-15a2-4994-adb9-0b5d906aac7e
   port: 443
   server: 138.2.114.255
   skip-cert-verify: true
   type: trojan
-- name: 10,21,27|🇰🇷KR-138.2.113.248-1105
-  password: 9c822f05-cfdc-479a-9534-60f3d4127435
-  port: 443
-  server: 138.2.113.248
-  skip-cert-verify: false
-  type: trojan
-- name: '10|🇰🇷 [ Configs by DukeMehdi ] TJ... #3'
+- name: '10|🇰🇷 [ Configs by DukeMehdi ] TJ... #2'
   network: tcp
   password: GKHWMe2R4qwNcNxu6l3KMkdd
   port: 26214
   server: 121.178.83.161
   sni: 'vpn1.rnmcnm.com '
   type: trojan
-- name: '10,21| By EbraSha 💻 #47'
+- name: '10,21| By EbraSha 🧠 #47'
   network: tcp
   password: GKHWMe2R4qwNcNxu6l3KMkdd
   port: 11371
@@ -202,7 +171,7 @@ proxies:
   skip-cert-verify: true
   sni: vpn1.rnmcnm.com
   type: trojan
-- name: '10,21| By EbraSha 👾 #47'
+- name: '10,21| By EbraSha 🛰️ #31'
   network: tcp
   password: GKHWMe2R4qwNcNxu6l3KMkdd
   port: 18853
@@ -210,104 +179,104 @@ proxies:
   skip-cert-verify: true
   sni: vpn1.rnmcnm.com
   type: trojan
-- name: '10|🇰🇷 [ Configs by DukeMehdi ] TJ... #6'
+- name: '10|🇰🇷 [ Configs by DukeMehdi ] TJ... #5'
   network: tcp
   password: ND91608427
   port: 443
   server: 13.125.239.182
   sni: 'saving-octopus.rooster465.autos '
   type: trojan
-- name: '10|🇰🇷 [ Configs by DukeMehdi ] TJ... #7'
+- name: '10|🇰🇷 [ Configs by DukeMehdi ] TJ... #6'
   network: tcp
   password: ND91608427
   port: 443
   server: 3.35.140.99
   sni: 'moved-meerkat.rooster465.autos '
   type: trojan
-- name: '10,21| By EbraSha 🪐 #48'
+- name: '10,21| By EbraSha 🌍 #44'
   network: tcp
   password: ND91608427
   port: 443
   server: 3.36.59.34
   sni: select-ferret.rooster465.autos
   type: trojan
-- name: '10,21| By EbraSha 🐉 #43'
+- name: '10,21| By EbraSha 💻 #50'
   network: tcp
   password: ND91608427
   port: 443
   server: 3.38.106.2
   sni: communal-sunbird.rooster465.autos
   type: trojan
-- name: '10,21| By EbraSha 🌐 #39'
+- name: '10,21| By EbraSha 🔥 #33'
   network: tcp
   password: ND91608427
   port: 443
   server: 43.201.103.8
   sni: intimate-moray.rooster465.autos
   type: trojan
-- name: '10,21| By EbraSha ⚙️ #37'
+- name: '10,21| By EbraSha 🪬 #33'
   network: tcp
   password: ND91608427
   port: 443
   server: 43.201.46.108
   sni: exotic-chow.rooster465.autos
   type: trojan
-- name: '10,21| By EbraSha 🛜 #40'
+- name: '10,21| By EbraSha 🐺 #40'
   network: tcp
   password: ND91608427
   port: 443
   server: 43.201.56.44
   sni: distinct-llama.rooster465.autos
   type: trojan
-- name: '10,21| By EbraSha 🛰️ #50'
+- name: '10,21| By EbraSha 🎯 #47'
   network: tcp
   password: ND91608427
   port: 443
   server: 43.203.203.244
   sni: main-whippet.rooster465.autos
   type: trojan
-- name: '10|🇰🇷 [ Configs by DukeMehdi ] TJ... #14'
+- name: '10|🇰🇷 [ Configs by DukeMehdi ] TJ... #13'
   network: tcp
   password: ND91608427
   port: 443
   server: 43.203.244.203
   sni: 'grateful-owl.rooster465.autos '
   type: trojan
-- name: '10|🇰🇷 [ Configs by DukeMehdi ] TJ... #15'
+- name: '10|🇰🇷 [ Configs by DukeMehdi ] TJ... #14'
   network: tcp
   password: ND91608427
   port: 443
   server: 43.203.247.197
   sni: 'definite-malamute.rooster465.autos '
   type: trojan
-- name: '10|🇰🇷 [ Configs by DukeMehdi ] TJ... #16'
+- name: '10|🇰🇷 [ Configs by DukeMehdi ] TJ... #15'
   network: tcp
   password: ND91608427
   port: 443
   server: 52.78.13.238
   sni: 'upward-puma.rooster465.autos '
   type: trojan
-- name: '10|🇰🇷 [ Configs by DukeMehdi ] TJ... #17'
+- name: '10|🇰🇷 [ Configs by DukeMehdi ] TJ... #16'
   network: tcp
   password: ND91608427
   port: 443
   server: 52.79.210.229
   sni: 'chief-bluegill.rooster465.autos '
   type: trojan
-- name: '10,21| By EbraSha 🧪 #43'
+- name: '10,21| By EbraSha 🚬 #38'
   network: tcp
   password: ND91608427
   port: 443
   server: 54.180.228.238
   sni: pure-ram.rooster465.autos
   type: trojan
-- name: '10|🇰🇷 [ Configs by DukeMehdi ] TJ... #19'
+- name: '10|🇰🇷 [ Configs by DukeMehdi ] TJ... #18'
   password: UX82473651
   port: 443
   server: 13.125.29.37
   sni: 'fancy-skink.rooster465.autos '
   type: trojan
-- name: '10|🇰🇷 [ Configs by DukeMehdi ] TJ... #20'
+- name: '10|🇰🇷 [ Configs by DukeMehdi ] TJ... #19'
   network: tcp
   password: UX82473651
   port: 443
@@ -315,7 +284,7 @@ proxies:
   skip-cert-verify: false
   sni: 'engaging-toucan.rooster465.autos '
   type: trojan
-- name: '10|🇰🇷 [ Configs by DukeMehdi ] TJ... #21'
+- name: '10|🇰🇷 [ Configs by DukeMehdi ] TJ... #20'
   network: tcp
   password: UX82473651
   port: 443
@@ -323,14 +292,14 @@ proxies:
   skip-cert-verify: false
   sni: 'pretty-rat.rooster465.autos '
   type: trojan
-- name: '10|🇰🇷 [ Configs by DukeMehdi ] TJ... #23'
+- name: '10|🇰🇷 [ Configs by DukeMehdi ] TJ... #22'
   password: UX82473651
   port: 443
   server: 3.35.168.225
   skip-cert-verify: true
   sni: 'noted-cougar.rooster465.autos '
   type: trojan
-- name: '10|🇰🇷 [ Configs by DukeMehdi ] TJ... #24'
+- name: '10|🇰🇷 [ Configs by DukeMehdi ] TJ... #23'
   network: tcp
   password: UX82473651
   port: 443
@@ -338,7 +307,7 @@ proxies:
   skip-cert-verify: false
   sni: 'main-fawn.rooster465.autos '
   type: trojan
-- name: 10,21,28|[OpenRay] 🇰🇷KR-114
+- name: 10,21,28|[OpenRay] 🇰🇷KR-144
   network: tcp
   password: UX82473651
   port: 443
@@ -346,14 +315,14 @@ proxies:
   skip-cert-verify: true
   sni: glorious-lark.rooster465.autos
   type: trojan
-- name: '10|🇰🇷 [ Configs by DukeMehdi ] TJ... #26'
+- name: '10|🇰🇷 [ Configs by DukeMehdi ] TJ... #25'
   password: UX82473651
   port: 443
   server: 3.36.50.213
   skip-cert-verify: false
   sni: 'pure-kodiak.rooster465.autos '
   type: trojan
-- name: 10,21,28|[OpenRay] 🇰🇷KR-57
+- name: 10,21,28|[OpenRay] 🇰🇷KR-69
   network: tcp
   password: UX82473651
   port: 443
@@ -361,7 +330,7 @@ proxies:
   skip-cert-verify: true
   sni: inviting-rabbit.rooster465.autos
   type: trojan
-- name: '10|🇰🇷 [ Configs by DukeMehdi ] TJ... #42'
+- name: '10|🇰🇷 [ Configs by DukeMehdi ] TJ... #38'
   network: tcp
   password: UX82473651
   port: 443
@@ -369,7 +338,7 @@ proxies:
   skip-cert-verify: false
   sni: 'kind-stork.rooster465.autos '
   type: trojan
-- name: '10|🇰🇷 [ Configs by DukeMehdi ] TJ... #29'
+- name: '10|🇰🇷 [ Configs by DukeMehdi ] TJ... #28'
   network: tcp
   password: UX82473651
   port: 443
@@ -377,13 +346,13 @@ proxies:
   skip-cert-verify: false
   sni: 'optimum-snapper.rooster465.autos '
   type: trojan
-- name: '10|🇰🇷 [ Configs by DukeMehdi ] TJ... #30'
+- name: '10|🇰🇷 [ Configs by DukeMehdi ] TJ... #29'
   password: UX82473651
   port: 443
   server: 43.203.120.240
   sni: 'cunning-grub.rooster465.autos '
   type: trojan
-- name: '10|🇰🇷 [ Configs by DukeMehdi ] TJ... #31'
+- name: '10|🇰🇷 [ Configs by DukeMehdi ] TJ... #30'
   network: tcp
   password: UX82473651
   port: 443
@@ -391,7 +360,7 @@ proxies:
   skip-cert-verify: false
   sni: 'delicate-buck.rooster465.autos '
   type: trojan
-- name: 10,21,28|[OpenRay] 🇰🇷KR-49
+- name: 10,21,28|[OpenRay] 🇰🇷KR-59
   network: tcp
   password: UX82473651
   port: 443
@@ -399,58 +368,40 @@ proxies:
   skip-cert-verify: false
   sni: working-tomcat.rooster465.autos
   type: trojan
-- name: '10|🇰🇷 [ Configs by DukeMehdi ] TJ... #33'
-  password: b5fc9fa9-796d-4185-a316-395ecac04a85
-  port: 443
-  server: 150.230.249.20
-  sni: 'www.gomacau.gq '
-  type: trojan
-- name: 10,27|🇰🇷KR-146.56.179.67-4847
-  password: cc05b267-2e17-4e73-92f0-2cf603aa5997
-  port: 40005
-  server: 146.56.179.67
-  skip-cert-verify: false
-  type: trojan
-- name: '10|🇰🇷 [ Configs by DukeMehdi ] TJ... #35'
-  password: cd27884b-c5af-34ec-b75f-8248077818fe
-  port: 8443
-  server: 144.24.76.54
-  sni: '2.hg.kr.cat77.cloud '
-  type: trojan
-- name: '10|🇰🇷 [ Configs by DukeMehdi ] TJ... #36'
+- name: '10|🇰🇷 [ Configs by DukeMehdi ] TJ... #32'
   network: tcp
   password: eeb6823c-b926-4ea2-866a-5542edd26e59
   port: 443
   server: 132.226.23.185
   sni: 'hhcm.hhxaf.cc.cd '
   type: trojan
-- name: 10,21,27|🇰🇷KR-146.56.189.146-3567
+- name: 10,21,27|🇰🇷KR-146.56.189.146-3488
   password: f2117e99-9b6e-47fd-b0a9-634a0b15b998
   port: 443
   server: 146.56.189.146
   skip-cert-verify: false
   type: trojan
-- name: '10,15,21| By EbraSha 📀 #56'
+- name: '10,15,21| By EbraSha 🐉 #59'
   password: moist
   port: 27335
   server: 116.47.10.236
   skip-cert-verify: true
   sni: trojan.freenods.sbs
   type: trojan
-- name: '10|🇰🇷 [ Configs by DukeMehdi ] TJ... #39'
+- name: '10|🇰🇷 [ Configs by DukeMehdi ] TJ... #35'
   network: tcp
   password: rYuChHcwQZskq9E0zdoR
   port: 35342
   server: 119.195.0.158
   sni: 'vpn5.rnmcnm.com '
   type: trojan
-- name: '10,21| By EbraSha 🖥️ #54'
+- name: '10,21| By EbraSha 📱 #54'
   network: tcp
   password: t5FsyeQXkNCY6eVGiqBXmPu4..jBEpNbak
   port: 443
   server: 38.60.220.65
   type: trojan
-- name: 10,21,27|🇰🇷KR-3.34.6.217-4071
+- name: 10,21,27|🇰🇷KR-3.34.6.217-3992
   password: xxoo
   port: 443
   server: 3.34.6.217
@@ -458,7 +409,7 @@ proxies:
   type: trojan
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: 10,19,21,28|[OpenRay] 🇰🇷KR-75
+  name: 10,15,21,28|[OpenRay] 🇰🇷KR-91
   network: tcp
   port: 2053
   reality-opts:
@@ -470,47 +421,22 @@ proxies:
   type: vless
   uuid: 319d5ffb-57e8-4bbd-ac0c-5d55d0c253de
 - client-fingerprint: chrome
+  encryption: none
   flow: xtls-rprx-vision
-  name: 10,21,26,28|[OpenRay] 🇰🇷KR-6
-  network: tcp
-  port: 443
-  reality-opts:
-    public-key: GR_zPAgxF9PZ70Z9UpSmMlcd2STyoAC0fZTSHkTTCGE
-    short-id: ca193e889d958f81
-  server: 141.164.43.178
-  servername: www.apple.com
-  tls: false
-  type: vless
-  uuid: 583cc910-b57c-4dd0-a4a7-cea51a30b032
-- client-fingerprint: chrome
-  flow: xtls-rprx-vision
-  name: '10,19,21| By EbraSha 🦇 #104'
+  name: 10,14,21,28|[OpenRay] 🇰🇷KR-134
   network: tcp
   port: 443
   reality-opts:
     public-key: DHOrfoin7TeRpnIoU3d6qT5Yrq3QPVFp49kApATA4iE
     short-id: e04a526b0b09c765
-  server: 13.125.180.150
-  servername: az2.rtps.cell-1.prod.ap-northeast-2.prod.connect.aws.a2z.com
+  server: 3.34.96.37
+  servername: api-cadi.dadilabs.com
   tls: false
   type: vless
   uuid: 7e68e32f-8015-4f37-9082-70e8b0b58043
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: 10,21,28|[OpenRay] 🇰🇷KR-110
-  network: tcp
-  port: 443
-  reality-opts:
-    public-key: DHOrfoin7TeRpnIoU3d6qT5Yrq3QPVFp49kApATA4iE
-    short-id: e04a526b0b09c765
-  server: 3.35.135.174
-  servername: admin.playbeautyshop.com
-  tls: false
-  type: vless
-  uuid: 7e68e32f-8015-4f37-9082-70e8b0b58043
-- client-fingerprint: chrome
-  flow: xtls-rprx-vision
-  name: 10,21,28|[OpenRay] 🇰🇷KR-23
+  name: 10,21,28|[OpenRay] 🇰🇷KR-27
   network: tcp
   port: 443
   reality-opts:
@@ -523,7 +449,7 @@ proxies:
   uuid: 7e68e32f-8015-4f37-9082-70e8b0b58043
 - client-fingerprint: firefox
   flow: xtls-rprx-vision
-  name: '10,21| By EbraSha 👑 #135'
+  name: '10,21| By EbraSha 📀 #136'
   network: raw
   port: 21796
   reality-opts:
@@ -535,7 +461,7 @@ proxies:
   type: vless
   uuid: cd91af31-0c74-4bce-aac3-bdae367c84fa
 - client-fingerprint: ''
-  name: 10,21,28|[OpenRay] 🇰🇷KR-44
+  name: 10,21,28|[OpenRay] 🇰🇷KR-52
   network: tcp
   port: 40701
   reality-opts:
@@ -546,7 +472,20 @@ proxies:
   tls: false
   type: vless
   uuid: cdb7d825-9892-4d6f-80b8-7add83159dac
-- name: '10,21| By EbraSha 🐺 #144'
+- client-fingerprint: chrome
+  name: '10|🇰🇷 [ Configs by DukeMehdi ] VL... #9'
+  network: 'ws '
+  port: 443
+  server: 152.70.253.44
+  servername: wzs.echo.net.eu.org
+  tls: true
+  type: vless
+  uuid: d18c6897-2849-456a-8c46-d7ecece47c20
+  ws-opts:
+    headers:
+      Host: wzs.echo.net.eu.org
+    path: '%2Fvideo%2FHxNMGkZdGw0PRk1GVw8YF14OXkwNVVtIRg1HV1ZNVwcHTQsJSgAJVBQUG0dCQEwWAx4AAg4c'
+- name: '10,21| By EbraSha 🧲 #174'
   network: ws
   port: 443
   server: 141.164.35.94
@@ -558,7 +497,7 @@ proxies:
     headers:
       Host: t1s1.rittbo.kdns.fr
     path: '%2F'
-- name: '10,21| By EbraSha 🃏 #148'
+- name: '10,21| By EbraSha 🎯 #174'
   network: ws
   port: 443
   server: 141.164.51.88
@@ -571,7 +510,7 @@ proxies:
       Host: t1s1.rittbo.kdns.fr
     path: '%2F'
 - flow: ''
-  name: '10,21| By EbraSha ⚙️ #172'
+  name: '10,21| By EbraSha ⌨️ #156'
   network: ws
   port: 443
   server: 144.24.73.232
@@ -584,7 +523,7 @@ proxies:
     headers:
       Host: t1s1.rittbo.kdns.fr
     path: '%2F'
-- name: '10,21| By EbraSha 🪖 #167'
+- name: '10,21| By EbraSha 🌀 #176'
   network: ws
   port: 8443
   server: 146.56.187.1
@@ -596,7 +535,7 @@ proxies:
     headers:
       Host: t1s1.rittbo.kdns.fr
     path: '%2F'
-- name: '10,21| By EbraSha 💻 #155'
+- name: '10,21| By EbraSha ♣️ #179'
   network: ws
   port: 443
   server: 15.164.84.61
@@ -608,7 +547,7 @@ proxies:
     headers:
       Host: t1s1.rittbo.kdns.fr
     path: '%2F'
-- name: '10,21| By EbraSha 🧊 #172'
+- name: '10,21| By EbraSha ⚔️ #152'
   network: ws
   port: 443
   server: 152.67.210.234
@@ -620,7 +559,7 @@ proxies:
     headers:
       Host: t1s1.rittbo.kdns.fr
     path: '%2F'
-- name: '10,21| By EbraSha 🖥️ #153'
+- name: '10,21| By EbraSha 📀 #146'
   network: ws
   port: 443
   server: 158.180.71.69
@@ -632,7 +571,7 @@ proxies:
     headers:
       Host: t1s1.rittbo.kdns.fr
     path: '%2F'
-- name: '10,21| By EbraSha 👑 #149'
+- name: '10,21| By EbraSha 🌑 #144'
   network: ws
   port: 443
   server: 158.247.198.196
@@ -644,7 +583,7 @@ proxies:
     headers:
       Host: t1s1.rittbo.kdns.fr
     path: '%2F'
-- name: '10,21| By EbraSha 🧊 #173'
+- name: '10,21| By EbraSha 🧪 #169'
   network: ws
   port: 443
   server: 158.247.199.106
@@ -656,7 +595,7 @@ proxies:
     headers:
       Host: t1s1.rittbo.kdns.fr
     path: '%2F'
-- name: '10,21| By EbraSha 🦾 #156'
+- name: '10,21| By EbraSha 🌑 #145'
   network: ws
   port: 443
   server: 158.247.209.57
@@ -668,7 +607,7 @@ proxies:
     headers:
       Host: t1s1.rittbo.kdns.fr
     path: '%2F'
-- name: '10,21| By EbraSha 📱 #148'
+- name: '10,21| By EbraSha ✨ #133'
   network: ws
   port: 443
   server: 158.247.211.170
@@ -680,7 +619,7 @@ proxies:
     headers:
       Host: t1s1.rittbo.kdns.fr
     path: '%2F'
-- name: '10,21| By EbraSha 📶 #149'
+- name: '10,21| By EbraSha 🥷 #161'
   network: ws
   port: 443
   server: 161.118.158.9
@@ -694,7 +633,7 @@ proxies:
     path: '%2F'
 - client-fingerprint: chrome
   flow: ''
-  name: '10,21| By EbraSha 🛰️ #163'
+  name: '10,21| By EbraSha 🌐 #151'
   network: ws
   port: 443
   server: 64.110.70.64
@@ -707,7 +646,7 @@ proxies:
       Host: t1s1.rittbo.kdns.fr
     path: '%2F'
 - client-fingerprint: chrome
-  name: '10,21| By EbraSha ✨ #154'
+  name: '10,21| By EbraSha 📶 #156'
   network: ws
   port: 8443
   server: 64.176.226.26
@@ -773,83 +712,38 @@ proxies:
     headers:
       Host: ylnhh.cc.cd
     path: /Telegram🇨🇳@WangCai2
-- name: 14|D🔴🇰🇷hos[🎞️✈️🔍]_dokng.com_5275f...
-  port: 12121
-  server: 112.216.54.226
-  type: http
-- name: 14|C🟠🇰🇷hos[🎬🤖📺🎭]_dokng.com_435c3c...
-  password: 81c4547b-e5d8-4af8-baf0-91c5c0c05a9b
-  port: 1892
-  server: icn-a-02.auuas.com
-  skip-cert-verify: true
-  sni: images.apple.com
-  type: anytls
-  udp: true
-- client-fingerprint: chrome
-  flow: xtls-rprx-vision
-  name: 14|C🟠🇰🇷hos[🎬🤖📺🎭]_dokng.com_c3c282...
-  network: tcp
-  port: 35864
-  reality-opts:
-    public-key: PzFWst5Vz9KjbZjbSX1UJ1TweCalk9LH3SVI7L1YlhY
-  server: cu.riverveil.com
-  servername: addons.mozilla.org
-  skip-cert-verify: true
-  tfo: false
+- cipher: aes-128-gcm
+  name: 14|D🔴🇰🇷hos[🎬🤖📺🎭]_dokng.com_49b314...
+  password: e3834037-70dd-4f6e-95f6-c37633664bc1
+  port: 40029
+  server: ruot.ayucloudservices.nl
+  type: ss
+- client-fingerprint: unsafe
+  name: '14,26|@npv_vpn11 #299'
+  network: ws
+  port: 443
+  server: 172.64.150.43
+  servername: snip.edgeoneai.cc.cd
   tls: true
   type: vless
-  uuid: 777a9b68-ea7f-483c-b08f-ab5160e1f61f
+  udp: true
+  uuid: 495c7195-85b8-498a-bf20-2ea9ce9175b5
+  ws-opts:
+    headers:
+      Host: snip.edgeoneai.cc.cd
+  xudp: true
 - name: 14|D🔴🇰🇷hos[🎬🤖📺🎭]_dokng.com_aba567...
   port: 443
   server: 172.64.69.89
   skip-cert-verify: true
   tls: true
   type: http
-- name: 14|D🔴🇰🇷hos[🎬🤖📺🎭]_dokng.com_6c43e4...
+- name: 14,27|🏁RELAY-172.64.68.89-0563
   port: 443
   server: 172.64.68.89
-  skip-cert-verify: true
+  skip-cert-verify: false
   tls: true
   type: http
-- client-fingerprint: qq
-  name: 14|D🔴🇰🇷hos[🎬📺🎭🎪]_dokng.com_b559a0...
-  network: ws
-  port: 443
-  server: 104.18.41.190
-  servername: lucasjow.us.ci
-  tls: true
-  type: vless
-  udp: true
-  uuid: e6df2095-a73c-4043-8693-8d5a03686870
-  ws-opts:
-    headers:
-      Host: lucasjow.us.ci
-      User-Agent: Mozilla/5.0 (Linux; Android 7.0; SM-G570M) AppleWebKit/537.36 (KHTML,
-        like Gecko) Chrome/70.0.3538.80 Mobile Safari/537.36
-    path: /cart/docs/www/proxyip=108.160.132.132
-  xudp: true
-- alterId: 2
-  cipher: auto
-  name: 14|C🟠🇰🇷hos[✈️]_dokng.com_1ab4b9ae
-  port: 11264
-  server: goldcnmltyljgfwgov.vip64.wogcnmnnagfwgov.com
-  type: vmess
-  udp: true
-  uuid: 605956ee-544d-308e-8b90-51e67c6ea8da
-- alterId: 0
-  cipher: auto
-  http-opts:
-    method: GET
-    path:
-    - /
-  name: 14,21,28|[OpenRay] 🇰🇷KR-10
-  network: http
-  port: 123
-  server: 43.108.103.167
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 35aa0fda-175a-4aec-c468-0231dee1a121
 - name: 18|🇰🇷KR_1 | ⬇️ 1.8MB/s|Netflix|Di...
   network: ws
   port: 8880
@@ -880,6 +774,19 @@ proxies:
         Gecko) Chrome/42.0.2311.90 Safari/537.36
     path: /Telegram🇨🇳 @WangCai2 /?ed=2560
   xudp: true
+- client-fingerprint: chrome
+  name: 19|KR【机场推荐：https://a9a.xyz】31
+  network: ws
+  port: 8443
+  server: 134.185.100.238
+  servername: snip.edgeoneai.cc.cd
+  tls: true
+  type: vless
+  uuid: 495c7195-85b8-498a-bf20-2ea9ce9175b5
+  ws-opts:
+    headers:
+      Host: snip.edgeoneai.cc.cd
+    path: '%2Ffdip%3Dsstp%3A%2F%2Fvpn%3Avpn%40public-vpn-200.opengw.net%3A443'
 - alterId: 0
   cipher: auto
   name: '19,31|🇰🇷 韩国|@ripaojiedian #3'
@@ -895,7 +802,7 @@ proxies:
     headers:
       Host: 8nTzyR5KNivfabaT.v.3dns.vip
     path: /ws-vmess
-- name: '19,20,21,27,30,32|韩国|@ripaojiedian #3'
+- name: '19,20,27,30,32|韩国|@ripaojiedian #3'
   network: tcp
   password: AA885B42-133C-3828-FB69-E45105C06092
   port: 11171
@@ -918,71 +825,21 @@ proxies:
     headers:
       Host: 8nTzyR5KNivfabaT.v.3dns.vip
     path: /ws-vmess
-- client-fingerprint: chrome
-  name: 24|🇰🇷_韩国_147
-  network: ws
-  port: 16034
-  server: 220.71.172.2
-  servername: 3t1yvbyla-rj740g.28m7r63dttya6gazmhoo.workers.dev
+- alterId: 0
+  cipher: auto
+  name: 24|🇰🇷_韩国_86
+  port: 123
+  server: 43.108.103.167
   skip-cert-verify: true
-  tls: true
-  type: vless
+  tls: false
+  type: vmess
   udp: true
-  uuid: 30e3c098-f963-40ed-aec7-67b692321801
-  ws-opts:
-    headers:
-      Host: 3t1yvbyla-rj740g.28m7r63dttya6gazmhoo.workers.dev
-    path: /@Marisa_kristi
+  uuid: 35aa0fda-175a-4aec-c468-0231dee1a121
 - client-fingerprint: chrome
-  name: 24|🇰🇷_韩国_174
+  name: 24|🇰🇷_韩国_243
   network: ws
-  port: 16034
-  server: 220.71.172.2
-  servername: wjwkhoaftdgrt8qus.mp8pmwdgwf3sdapasouszjobjr57nrxxgtx9n.workers.dev
-  skip-cert-verify: true
-  tls: true
-  type: vless
-  udp: true
-  uuid: b50619d4-99a6-41e0-8086-7c145c5c7c48
-  ws-opts:
-    headers:
-      Host: wjwkhoaftdgrt8qus.mp8pmwdgwf3sdapasouszjobjr57nrxxgtx9n.workers.dev
-    path: /@Marisa_kristi
-- client-fingerprint: chrome
-  name: 24|🇰🇷_韩国_177
-  network: ws
-  port: 16034
-  server: 220.71.172.2
-  servername: ruu2rx-oycdrnsrzc.9uokolpk04vmg2ecqb8oys7.workers.dev
-  skip-cert-verify: true
-  tls: true
-  type: vless
-  udp: true
-  uuid: fdfbe537-e958-4dca-9aeb-523df4602f92
-  ws-opts:
-    headers:
-      Host: ruu2rx-oycdrnsrzc.9uokolpk04vmg2ecqb8oys7.workers.dev
-    path: /@Marisa_kristi
-- client-fingerprint: chrome
-  name: 24|🇰🇷_韩国_234
-  network: ws
-  port: 443
-  server: 168.107.42.158
-  servername: vp58.cc.cd
-  skip-cert-verify: true
-  tls: true
-  type: vless
-  udp: true
-  uuid: 7b102311-43fd-4e8f-877e-8090623c101d
-  ws-opts:
-    headers:
-      Host: vp58.cc.cd
-    path: /Telegram馃嚚馃嚦+@VPNine1
-- client-fingerprint: chrome
-  name: 24|🇰🇷_韩国_265
-  network: ws
-  port: 443
-  server: 146.56.45.96
+  port: 8443
+  server: 134.185.100.238
   servername: snip.edgeoneai.cc.cd
   skip-cert-verify: true
   tls: true
@@ -995,35 +852,46 @@ proxies:
     path: /fdip=sstp://vpn:vpn@public-vpn-200.opengw.net:443
 - alterId: 0
   cipher: auto
-  name: 27|🇰🇷KR-43.108.40.127-0212
+  name: 27|🇰🇷KR-152.69.230.170-0385
   network: ws
-  port: 443
-  server: baBfGGlhjs86aTxZ.v.3dns.vip
-  skip-cert-verify: false
-  tls: true
-  type: vmess
-  uuid: b89b702b-31ef-4f6a-85df-c264795a987b
-  ws-opts:
-    headers:
-      Host: baBfGGlhjs86aTxZ.v.3dns.vip
-    path: /
-- alterId: 0
-  cipher: auto
-  name: 27|🇰🇷KR-43.201.103.12-0987
-  network: ws
-  port: 29930
-  server: 43.201.103.12
+  port: 80
+  server: 152.69.230.170
+  servername: 152.69.230.170
   skip-cert-verify: false
   tls: false
   type: vmess
-  uuid: f46b2e2a-e02c-437a-833c-023410840a80
+  uuid: 6aa24ded-5f15-48c7-8cba-3e2a159d6b77
   ws-opts:
-    headers:
-      Host: 43.201.103.12
-    path: /f46b2e2a-e02c-437a-833c-023410840a80
+    path: /
 - alterId: 0
   cipher: auto
-  name: 27|🇰🇷KR-43.201.253.222-0988
+  name: 27|🇰🇷KR-146.56.40.117-0776
+  network: ws
+  port: 27675
+  server: 146.56.40.117
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  uuid: 053ca0f4-057e-493d-ad30-5ba51f00f59c
+  ws-opts:
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 27|🇰🇷KR-92.223.61.25-0881
+  network: ws
+  port: 80
+  server: 92.223.61.25
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  uuid: 22aa72b1-605b-4807-8a81-fb414cbb409c
+  ws-opts:
+    headers:
+      Host: mizban888.servecounterstrike.com
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 27|🇰🇷KR-43.201.253.222-0943
   network: ws
   port: 26540
   server: 43.201.253.222
@@ -1037,19 +905,29 @@ proxies:
     path: /c841c903-7657-41f7-bf55-b41dd9456179
 - alterId: 0
   cipher: auto
-  name: 27|🇰🇷KR-146.56.162.25-1130
+  name: 27|🇰🇷KR-130.162.141.104-1137
   network: ws
   port: 443
-  server: 146.56.162.25
+  server: 130.162.141.104
   skip-cert-verify: false
   tls: true
   type: vmess
-  uuid: 91646f9a-b4e9-4aca-bfe3-8892b3e58fe7
+  uuid: 6093eefb-7ab6-41df-aba0-d5fa58147e10
   ws-opts:
-    headers:
-      Host: lg30.cfcdn3.xyz
-    path: /ray
-- name: 27|🇰🇷KR-144.24.76.54-1661
+    path: /reffs7y26g0ua
+- alterId: 64
+  cipher: auto
+  name: 27|🇰🇷KR-27.124.8.141-1522
+  network: ws
+  port: 443
+  server: 27.124.8.141
+  skip-cert-verify: false
+  tls: true
+  type: vmess
+  uuid: c7e645be-1704-4f0a-afe9-8b21f9c711d6
+  ws-opts:
+    path: /path/220128071100
+- name: 27|🇰🇷KR-144.24.76.54-1613
   password: cd27884b-c5af-34ec-b75f-8248077818fe
   port: 8443
   server: 144.24.76.54
@@ -1058,11 +936,23 @@ proxies:
   type: trojan
 - alterId: 0
   cipher: auto
+  name: 27|🇰🇷KR-52.78.213.224-1654
+  network: ws
+  port: 80
+  server: 52.78.213.224
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  uuid: 6f442823-6b73-4b31-f1f5-aa1e907b051e
+  ws-opts:
+    path: /
+- alterId: 0
+  cipher: auto
   http-opts:
     method: GET
     path:
     - /
-  name: 27|🇰🇷KR-150.230.249.15-2381
+  name: 27|🇰🇷KR-150.230.249.15-2302
   network: http
   port: 46842
   server: 150.230.249.15
@@ -1072,7 +962,7 @@ proxies:
   uuid: 4530b5ee-ced4-4e64-9285-1867fc5df7f8
 - alterId: 0
   cipher: auto
-  name: 27|🇰🇷KR-152.70.252.218-2426
+  name: 27|🇰🇷KR-152.70.252.218-2347
   network: ws
   port: 10020
   server: 152.70.252.218
@@ -1082,41 +972,35 @@ proxies:
   uuid: fb91e1d7-440e-4470-b0a0-a791e5c32dc8
   ws-opts:
     path: /
-- alterId: 0
-  cipher: auto
-  name: 27|🇰🇷KR-152.67.218.38-2449
-  network: ws
-  port: 443
-  server: 152.67.218.38
-  skip-cert-verify: false
-  tls: false
-  type: vmess
-  uuid: b5e9480a-b7aa-40a4-f9a7-5299b5e363b4
-  ws-opts:
-    path: /
-- name: 27|🇰🇷KR-138.2.113.84-2794
-  password: b291d129-ee55-4801-a9b8-b5316e5c37b7
-  port: 443
-  server: 138.2.113.84
-  skip-cert-verify: false
-  type: trojan
-- name: 27|🇰🇷KR-138.2.115.240-2796
+- name: 27|🇰🇷KR-138.2.115.240-2717
   password: 3a2c0c6c-9ee5-c05f-c951-fcd73831983e
   port: 443
   server: 138.2.115.240
   skip-cert-verify: false
   type: trojan
+- name: 27|🇰🇷KR-210.217.46.52-2893
+  password: 96983eb4-c8f1-316e-ab00-500014ed3d8b
+  port: 8443
+  server: official.seoulcityhall.com.ua
+  skip-cert-verify: false
+  type: trojan
 - cipher: aes-256-cfb
-  name: 27|🇰🇷KR-43.201.59.8-2826
+  name: 27|🇰🇷KR-43.201.57.66-3883
   password: amazonskr05
   port: 443
-  server: 43.201.59.8
+  server: 43.201.57.66
+  type: ss
+- cipher: aes-256-cfb
+  name: 27|🇰🇷KR-43.201.86.30-3962
+  password: amazonskr05
+  port: 443
+  server: 43.201.86.30
   type: ss
 - alterId: 0
   cipher: auto
-  name: 27|🇰🇷KR-13.125.24.112-4049
+  name: 27|🇰🇷KR-13.125.24.112-3965
   network: ws
-  port: 42517
+  port: 49517
   server: 13.125.24.112
   skip-cert-verify: false
   tls: false
@@ -1125,44 +1009,40 @@ proxies:
   ws-opts:
     path: /
 - cipher: aes-256-cfb
-  name: 27|🇰🇷KR-13.125.124.161-4103
+  name: 27|🇰🇷KR-13.125.124.161-4024
   password: amazonskr05
   port: 443
   server: 13.125.124.161
   type: ss
-- name: 27|🇰🇷KR-43.203.195.137-5003
-  password: CF68213490
+- name: 27|🇰🇷KR-150.230.249.20-4511
+  password: b5fc9fa9-796d-4185-a316-395ecac04a85
   port: 443
-  server: communal-sunbird.rooster465.autos
+  server: 150.230.249.20
   skip-cert-verify: false
-  type: trojan
-- name: 27|🇰🇷KR-3.35.140.206-5004
-  password: NQ26071394
-  port: 443
-  server: devoted-heron.rooster465.autos
-  skip-cert-verify: false
-  type: trojan
-- name: 27|🇰🇷KR-43.203.172.207-5060
-  password: IL37892054
-  port: 443
-  server: upright-rhino.rooster465.autos
-  skip-cert-verify: false
-  type: trojan
-- name: 27|🇰🇷KR-3.36.76.91-5069
-  password: CF68213490
-  port: 443
-  server: moved-bluegill.rooster465.autos
-  skip-cert-verify: false
-  type: trojan
-- name: 27|🇰🇷KR-43.203.121.129-5076
-  password: CF68213490
-  port: 443
-  server: next-turkey.rooster465.autos
-  skip-cert-verify: false
+  sni: www.gomacau.gq
   type: trojan
 - alterId: 0
   cipher: auto
-  name: 27|🇰🇷KR-211.177.40.235-6841
+  name: 27|🇰🇷KR-54.180.114.77-5407
+  network: ws
+  port: 42517
+  server: 54.180.114.77
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  uuid: b5b5209f-bcbd-4bac-b044-0d179698c62d
+  ws-opts:
+    path: /
+- name: 27|🇰🇷KR-121.78.213.3-6761
+  password: KLF0qOU0ZZGw5Tnu
+  port: 443
+  server: 121.78.213.3
+  skip-cert-verify: false
+  sni: swift.protocolbuffer.com
+  type: trojan
+- alterId: 0
+  cipher: auto
+  name: 27|🇰🇷KR-211.177.40.235-6779
   network: ws
   port: 30001
   server: 211.177.40.235
@@ -1175,7 +1055,7 @@ proxies:
     path: /vmess
 - alterId: 0
   cipher: auto
-  name: 27|🇰🇷KR-1.238.102.214-6842
+  name: 27|🇰🇷KR-1.238.102.214-6780
   network: ws
   port: 30001
   server: 1.238.102.214
@@ -1186,7 +1066,7 @@ proxies:
   uuid: ffffffff-ffff-ffff-ffff-ffffffffffff
   ws-opts:
     path: /vmess
-- name: 27|🇰🇷KR-121.78.213.3-6844
+- name: 27|🇰🇷KR-121.78.213.3-6782
   password: ZDAAFTxBNu5j9pl3Re834a3xSXwOZYeIlE30Dp86qc7yYgKaDCaROCSSnz2FCy
   port: 443
   server: 121.78.213.3
@@ -1194,14 +1074,26 @@ proxies:
   sni: csharp.protocolbuffer.com
   type: trojan
 - cipher: aes-256-cfb
-  name: 27|🇰🇷KR-43.202.49.222-7268
+  name: 27|🇰🇷KR-43.202.49.222-7206
   password: doub.io
   port: 2333
   server: 43.202.49.222
   type: ss
+- cipher: aes-256-cfb
+  name: 27|🇰🇷KR-43.201.108.109-7207
+  password: amazonskr05
+  port: 443
+  server: 43.201.108.109
+  type: ss
+- cipher: aes-256-cfb
+  name: 27|🇰🇷KR-125.141.26.5-7805
+  password: qwerREWQ@@
+  port: 2003
+  server: 125.141.26.5
+  type: ss
 - alpn:
   - http/1.1
-  name: 28|[OpenRay] 🇰🇷KR-117
+  name: 28|[OpenRay] 🇰🇷KR-150
   network: ws
   password: humanity
   port: 443
@@ -1213,24 +1105,29 @@ proxies:
     headers:
       Host: www.volumerOot.coM.
     path: /assignment
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: 28|[OpenRay] 🇰🇷KR-3
+  network: tcp
+  port: 443
+  reality-opts:
+    public-key: DHOrfoin7TeRpnIoU3d6qT5Yrq3QPVFp49kApATA4iE
+    short-id: e04a526b0b09c765
+  server: 43.201.45.33
+  servername: api-cadi.dadilabs.com
+  tls: false
+  type: vless
+  uuid: 7e68e32f-8015-4f37-9082-70e8b0b58043
 - alterId: 0
   cipher: auto
-  name: 28|[OpenRay] 🇰🇷KR-81
+  name: 28|[OpenRay] 🇰🇷KR-99
   network: tcp
   port: 123
   server: 43.108.103.167
+  servername: ''
   tls: false
   type: vmess
   uuid: 35aa0fda-175a-4aec-c468-0231dee1a121
-- alterId: 0
-  cipher: auto
-  name: 28|[OpenRay] 🇰🇷KR-51
-  network: raw
-  port: 443
-  server: 140.238.2.250
-  tls: false
-  type: vmess
-  uuid: 41a7089a-040b-4538-8b8d-010902405bde
 - name: 29|🇰🇷|KR|@wxgqlfx|24
   password: dfb54e674104158210fdfcac45e5679d
   port: 50160
@@ -1274,15 +1171,14 @@ proxies:
   server: definite-malamute.rooster465.autos
   skip-cert-verify: true
   type: trojan
-- auth: 7e68e32f-8015-4f37-9082-70e8b0b58043
-  name: '30|🇰🇷 韩国 | KOR #1 #2'
-  password: 7e68e32f-8015-4f37-9082-70e8b0b58043
-  port: 443
-  server: 54.180.251.134
+- name: 30,33|🇭🇰HK_1|3.8MB/s
+  password: 87c6ad7b-e450-44a8-8088-bc2234d43de1
+  port: 24318
+  server: svip.skycon808.com
   skip-cert-verify: true
-  sni: www.bing.com
-  tls: false
-  type: hysteria2
+  sni: hk08.jdddyy01.cc
+  type: anytls
+  udp: true
 - client-fingerprint: chrome
   name: '34|🇰🇷KR韩国丨yoyapai.com #1'
   network: ws

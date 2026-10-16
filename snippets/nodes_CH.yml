@@ -1,24 +1,24 @@
 proxies:
 - cipher: aes-128-cfb
-  name: 10,21,27|🇨🇭CH-156.146.62.160-4324
+  name: 10,27|🇨🇭CH-156.146.62.160-4245
   password: shadowsocks
   port: 443
   server: 156.146.62.160
   type: ss
 - cipher: aes-128-gcm
-  name: '10,21| By EbraSha 🛜 #12'
+  name: '10,21| By EbraSha 🚨 #9'
   password: shadowsocks
   port: 443
   server: 156.146.62.162
   type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha 💎 #22'
+  name: '10,21| By EbraSha 🔥 #16'
   password: '!!str 4415934295'
   port: 50004
   server: 37.120.213.230
   type: ss
 - cipher: aes-256-cfb
-  name: '10,21| By EbraSha 🐺 #11'
+  name: '10,21| By EbraSha 🔌 #13'
   password: f8f7aCzcPKbsF8p3
   port: 989
   server: 212.237.210.158
@@ -26,7 +26,7 @@ proxies:
 - alpn:
   - h2
   - http/1.1
-  name: '10|🇨🇭 [ Configs by DukeMehdi ] TJ... #9'
+  name: '10|🇨🇭 [ Configs by DukeMehdi ] TJ... #7'
   network: tcp
   password: 80L0GT8FBWLLP39qdXJCtYRRqD1yG_ut
   port: 7443
@@ -34,15 +34,15 @@ proxies:
   skip-cert-verify: false
   sni: 'node18.overcdn.ru '
   type: trojan
-- name: '10|🇨🇭 [ Configs by DukeMehdi ] TJ... #10'
+- name: '10|🇨🇭 [ Configs by DukeMehdi ] TJ... #8'
   network: tcp
   password: Masir_Sefid
   port: 443
   server: 84.234.31.249
   sni: 'store.steampowered.com '
   type: trojan
-- name: 10,15,21,28|[OpenRay] 🇨🇭CH-8
-  network: raw
+- name: '10,15,21| By EbraSha 🚀 #57'
+  network: tcp
   password: ea4y8s7qdshp547j
   port: 4455
   server: 195.15.202.111
@@ -55,7 +55,7 @@ proxies:
   server: 185.18.250.245
   sni: 'www.calmlunch.com '
   type: trojan
-- name: 10,21,28|[OpenRay] 🇨🇭CH-2
+- name: 10,21,28|[OpenRay] 🇨🇭CH-4
   network: ws
   password: humanity
   port: 443
@@ -79,35 +79,14 @@ proxies:
     headers:
       Host: www.calmlunch.com
     path: '%2Fassignment'
-- name: '10,15,21| By EbraSha ♠️ #57'
-  network: tcp
-  password: l6R5znJSPJ
-  port: 16350
-  server: 179.237.75.190
-  skip-cert-verify: true
-  sni: rd.autos.yahoo.com:40069
-  type: trojan
-  ws-opts:
-    headers:
-      Host: rd.autos.yahoo.com:41636
-    path: /5747463414152474635353366347474334
-- name: '10,15,21| By EbraSha 🦇 #54'
-  network: tcp
-  password: uCzwXi06tusoiP5kAUKrsg
-  port: 80
-  server: 195.15.202.111
-  type: trojan
-  ws-opts:
-    headers:
-      Host: www.upwork.com
-- name: '10,15|🔥Join+Telegram:@Farah_VPN🟣 #7699'
+- name: '10,15|🔥Join+Telegram:@Farah_VPN🟣 #7114'
   network: tcp
   password: g44i2hzwivmm7r29
   port: 4455
   server: 195.15.202.111
   sni: play-apps-features.googleusercontent.com
   type: trojan
-- name: '10,15|🔥Join+Telegram:@Farah_VPN🟣 #7907'
+- name: '10,15|🔥Join+Telegram:@Farah_VPN🟣 #4799'
   network: tcp
   password: uRkZYGid1r
   port: 41464
@@ -118,19 +97,13 @@ proxies:
     headers:
       Host: rd.autos.yahoo.com:41636
     path: /5747463414152474635353366347474334?ed=2048?@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn
-- cipher: chacha20-ietf-poly1305
-  name: 19,20,27,30,34|未知 SS-506 | free-nodes
-  password: e8KgS8fD0yDqYFpgN4G5piCOt9aFyqA3
-  port: 8388
-  server: 132.243.175.144
-  type: ss
-- name: 27|🇨🇭CH-152.67.71.149-2753
+- name: 27|🇨🇭CH-152.67.71.149-2674
   password: 8a03bc28-2a33-42c4-be59-30464dbb9954
   port: 18818
   server: ch12.yukiss.eu.org
   skip-cert-verify: false
   type: trojan
-- name: 28|[OpenRay] 🇨🇭CH-13
+- name: 28|[OpenRay] 🇨🇭CH-16
   network: ws
   password: humanity
   port: 443
